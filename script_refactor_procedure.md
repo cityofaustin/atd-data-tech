@@ -12,7 +12,9 @@ __name__ == "__main__"
 
 1.2 Copy-paste them to the beginning of the code right under the module import section
 
-1.3 Move variables that extract values from other dictionary inside the main function
+1.3 Move variables that extract values from other dictionary inside the main() function
+
+1.4 delete the `import _setpath` at the importing section
 
 ### 2. Move logger creation
 
@@ -44,3 +46,4 @@ except:
 4.1 Change the `main(job)` to `main(job, **kwargs)`  
 
 4.2 inside the main function, redefine all needed variables using kwargs dictionary.
+

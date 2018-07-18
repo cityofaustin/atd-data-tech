@@ -74,4 +74,6 @@ anaconda upload {full name of the package with the extension}
 
 2. If the `conda skeleton` command yields MinGW gcc error on Windows platform after you installed the MinGW on your windows, please use a Linux or a MacOS system instead. Currently, I don’t have a viable solution for this issue. 
 
+3. Installing pymssql may run into a wheel problem. In this case, please visit this [page](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pymssql) to download the right wheel for your operating system. Thanks to the work of Laboratory For Fluorescence Dynamics at University of California, Irvine. 
+
    
