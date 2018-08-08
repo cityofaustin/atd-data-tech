@@ -1,5 +1,1 @@
-# atd-dev
-
-## About
-
-This repo serves as a central location for developers at transportation department to store and manage their developement documentation.
+This repository house public documents for the Austin Transportation Department's Data & Technology Services team.
