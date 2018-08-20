@@ -23,6 +23,10 @@ df["modified_current"] =pd.to_datetime(df["modified_current"], format = "%Y-%m-%
 df["MODIFIED_DATE"] = df["modified_current"] + timedelta(minutes = 20)
 
 df = df[["SIGNAL_ID", "FULCRUM_ID", "PM_COMPLETED_DATE", "MODIFIED_DATE", "PM_COMPLETED_BY"]]
-df.to_csv("signal_pm_fulcrum_ready.csv", index=False)
+
+datestring = datetime.strftime(datetime.now(), "%m%d%Y")
+filename ="fulcrum_upload/signal_pm_fulcrum_ready_{}.csv".format(datestring)
+
+df.to_csv(filename, index=False)
 
 print(df.head(5))
