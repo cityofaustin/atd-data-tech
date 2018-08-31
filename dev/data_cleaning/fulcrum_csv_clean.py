@@ -1,15 +1,18 @@
 """Summary
 This script cleans the csv downloaded from fulcrum website so it can be
 imported into knack signal_preventive_maintenance object.
+
 ***Instruction
 Select FULCRUM_ID in the "select a field to match" dropdown menu to avoid
 duplications.
 After the csv is imported in the signal_preventive_maintenance object, do
 another import for signal objects with same csv but only the SIGNAL_ID and
 the MODIFIED_DATE column to ensure kanck_data_pub can pick up new data.
+
 #TODO: compare with csv from last imports to do increamental data updating
 without using the matching function in knack
 integration with Knackpy package to allow auto uploading.
+
 Attributes:
     datestring (TYPE): Description
     df (TYPE): Description
@@ -21,7 +24,6 @@ Attributes:
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
-import pdb
 
 # read the csv downloaded from fulcrum
 fulcrum_raw = pd.read_csv("signal_pm.csv")
