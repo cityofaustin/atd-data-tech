@@ -1,8 +1,10 @@
-## About 
+## Script Enhancement Proposal
 
-Procedures for refactoring codes under `__name__ == "__main__"` in [transportation-data-publishing](https://github.com/cityofaustin/transportation-data-publishing/tree/master/transportation-data-publishing). This is a work in progress.
+### About
 
-### 1. Refactor static variables
+The DATS devision uses a script launcher to run most of its backend scripts. In order to be compatible with the script launcher, the a
+
+
 
 1.1 Find all “static” objects like dictionary and pre-defined variables under  
 
