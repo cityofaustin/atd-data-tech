@@ -29,4 +29,4 @@ filename ="fulcrum_upload/signal_pm_fulcrum_ready_{}.csv".format(datestring)
 
 df.to_csv(filename, index=False)
 
-print(df.head(5))
+print(type(df.head(5)))
