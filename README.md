@@ -1,6 +1,6 @@
 This repository house public documents for the Austin Transportation Department's [Data & Technology Services](http://transportation.austintexas.io/about/) team.
 
-The [Data & Technology Services](http://transportation.austintexas.io/about/ team acts as a central technology unit servicing the entire Transportation department.
+The [Data & Technology Services](http://transportation.austintexas.io/about/) team acts as a central technology unit servicing the entire Transportation department.
 
 ## Geospatial Services
 - Print and web maps
