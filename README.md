@@ -1,4 +1,4 @@
-The [Data & Technology Services](http://transportation.austintexas.io/about/) team acts as a central technology unit servicing the entire Transportation department. Our services include:
+The [Data & Technology Services](http://transportation.austintexas.io/about/) team acts as a central technology unit servicing the entire Transportation department. Services include:
 
 ## Geospatial Services
 - Print and web maps
@@ -23,7 +23,6 @@ The [Data & Technology Services](http://transportation.austintexas.io/about/) te
 - Acceptance testing
 - Reporting
  
-This repository houses public documents for the Austin Transportation Department's [Data & Technology Services](http://transportation.austintexas.io/about/) team. 
- 
+This repository houses the team's public documents. 
      
 _COA policy prohibits cloud storage of sensitive ([CJIS](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center) and [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html)) data._
