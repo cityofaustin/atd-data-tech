@@ -24,15 +24,15 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Requesting Division**
--[ ] Arterial Management
--[ ] Data & Technology Services
--[ ] Finance & Purchasing
--[ ] Human Resources
--[ ] Mobility Services
--[ ] Parking Enterprise
--[ ] Right-of-Way
--[ ] Signs & Markings
--[ ] Transportation Engineering
+- [ ] Arterial Management
+- [ ] Data & Technology Services
+- [ ] Finance & Purchasing
+- [ ] Human Resources
+- [ ] Mobility Services
+- [ ] Parking Enterprise
+- [ ] Right-of-Way
+- [ ] Signs & Markings
+- [ ] Transportation Engineering
 
 **Additional context**
 Add any other context about the problem here.
