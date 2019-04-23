@@ -1,0 +1,67 @@
+# Labels: define labels for Issues and Pull Requests
+labels:
+  - name: "Impact: None"
+    color: FFE2DF
+  - name: "Impact: Minor"
+    color: FFC3BB
+  - name: "Impact: Major"
+    color: FF9A8E
+  - name: "Impact: Severe"
+    color: FF7261
+  - name: "Team: Apps"
+    color: F2FC6D
+  - name: "Team: Dev"
+    color: F2FC6D
+  - name: "Team: Geo"
+    color: F2FC6D
+  - name: "Team: Pro"
+    color: F2FC6D
+  - name: "Type: Bug Report"
+    color: 0B3E79
+  - name: "Type: Data & Reports"
+    color: 0B3E79
+  - name: "Type: Enhancement"
+    color: 0B3E79
+  - name: "Type: Feature"
+    color: 0B3E79
+  - name: "Type: IT Support"
+    color: 0B3E79
+  - name: "Type: Map Request"
+    color: 0B3E79
+  - name: "Type: Meeting"
+    color: 0B3E79
+  - name: "Type: New Application"
+    color: 0B3E79
+  - name: "Type: Other"
+    color: 0B3E79
+  - name: "Type: Training"
+    color: 0B3E79
+  - name: "Workgroup: AMD"
+    color: 00BFA5
+  - name: "Workgroup: ATSD"
+    color: 00BFA5
+  - name: "Workgroup: DTS"
+    color: 00BFA5
+  - name: "Workgroup: Finance"
+    color: 00BFA5
+  - name: "Workgroup: HR"
+    color: 00BFA5
+  - name: "Workgroup: OOD"
+    color: 00BFA5
+  - name: "Workgroup: OSE"
+    color: 00BFA5
+  - name: "Workgroup: PE"
+    color: 00BFA5
+  - name: "Workgroup: PIO"
+    color: 00BFA5
+  - name: "Workgroup: ROW"
+    color: 00BFA5
+  - name: "Workgroup: SDD"
+    color: 00BFA5
+  - name: "Workgroup: SMB"
+    color: 00BFA5
+  - name: "Workgroup: TE"
+    color: 00BFA5
+
+    # include the old name to rename and existing label
+    # oldname: Help Wanted
