@@ -10,3 +10,5 @@ dev/data_cleaning/historical_banner_data_migration/source_data/LPB_RSVP_historic
 dev/data_cleaning/historical_banner_data_migration/source_data/~$LPB_RSVP_historical_234.xlsx
 dev/data_cleaning/historical_banner_data_migration/source_data/~$OTS_RSVP_historicial_535.xlsx
 
+dev/toolbox/config.py
+*.xlsx
