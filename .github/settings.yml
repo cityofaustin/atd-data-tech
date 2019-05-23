@@ -101,6 +101,7 @@ labels:
   - name: "Workgroup: CTM"
     color: 00BFA5
     description: Communications and Technology Management
+    oldname: "Workgroup: CTM"
   - name: "Workgroup: DTS"
     color: 00BFA5
     description: Data and Technology Services
