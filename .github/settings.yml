@@ -100,7 +100,7 @@ labels:
     description: Active Transportation and Street Design
   - name: "Workgroup: CTM"
     color: 00BFA5
-    description: Communications & Technology Management
+    description: Communications and Technology Management
   - name: "Workgroup: DTS"
     color: 00BFA5
     description: Data and Technology Services
