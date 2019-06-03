@@ -204,6 +204,8 @@ labels:
     color: 00BFA5
     description: "Vision Zero Program"
     name: "Workgroup: VZ"
+
+# Before copying these to any other `atd-` repo, delete the "Project" type lines below
   - 
     color: 86B1C6
     description: "Identifying an inventory management solution"
