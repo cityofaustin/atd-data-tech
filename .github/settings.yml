@@ -1,137 +1,210 @@
-labels:
-  - name: "Duplicate"
+# Before updating this file in any of our GH repos, 
+# try to run it through a YAML linter like http://www.yamllint.com/ first. 
+# This will help identify any syntax errors in YAML that would prevent labels 
+# from being updated automatically.
+--- 
+labels: 
+  - 
     color: 5F7D8C
     description: ""
-  - name: "Epic"
+    name: Duplicate
+  - 
+    color: 5F7D8C
+    description: ""
+    name: "Work In Progress"
+  - 
     color: 3E4B9E
     description: ""
-  - name: "Impact: 1-Severe"
+    name: Epic
+  - 
     color: FF7261
-    description: Severely impacts ATD service delivery
-  - name: "Impact: 2-Major"
+    description: "Severely impacts ATD service delivery"
+    name: "Impact: 1-Severe"
+  - 
     color: FF9A8E
-    description: Causes a major interruption of ATD service delivery
-  - name: "Impact: 3-Minor"
+    description: "Causes a major interruption of ATD service delivery"
+    name: "Impact: 2-Major"
+  - 
     color: FFCDCA
-    description: Deteriorates ATD service delivery
-  - name: "Impact: 4-None"
+    description: "Deteriorates ATD service delivery"
+    name: "Impact: 3-Minor"
+  - 
     color: FFEEED
-    description: Does not affect ATD service delivery
-  - name: "Need: 1-Must Have"
+    description: "Does not affect ATD service delivery"
+    name: "Impact: 4-None"
+  - 
     color: FF7261
-    description: No point in delivering a solution without this
-  - name: "Need: 2-Should Have"
+    description: "No point in delivering a solution without this"
+    name: "Need: 1-Must Have"
+  - 
     color: FF9A8E
-    description: May be painful to leave out, but the solution is still viable
-  - name: "Need: 3-Could Have"
+    description: "May be painful to leave out, but the solution is still viable"
+    name: "Need: 2-Should Have"
+  - 
     color: FFCDCA
-    description: Wanted, but affects fewer users or has less impact on business than other features
-  - name: "Need: 4-Won't Have"
+    description: "Wanted, but affects fewer users or has less impact on business than other features"
+    name: "Need: 3-Could Have"
+  - 
     color: FFE9E9
-    description: Will not be delivered at this time
-  - name: Project: Warehouse Inventory
-    color: 86B1C6
-    description: Identifying an inventory management solution
-  - name: "Team: Apps"
+    description: "Will not be delivered at this time"
+    name: "Need: 4-Won't Have"
+  - 
     color: F2FC6D
-    description: Application support
-  - name: "Team: Dev"
+    description: "Application support"
+    name: "Service: Apps"
+    oldname: "Team: Apps"
+  - 
     color: F2FC6D
-    description: Infrastructure and engineering
-  - name: "Team: Geo"
+    description: "Infrastructure and engineering"
+    name: "Service: Dev"
+    oldname: "Team: Dev"
+  - 
     color: F2FC6D
-    description: Geospatial services
-  - name: "Team: PM"
+    description: "Geospatial services"
+    name: "Service: Geo"
+    oldname: "Team: Geo"
+  - 
     color: F2FC6D
-    description: Product and project management
-    oldname: "Team: Pro"
-  - name: "Type: Bug Report"
+    description: "Product and project management"
+    name: "Service: PM"
+    oldname: "Team: PM"
+  - 
     color: 0B3E79
-    description: Something is not right
-  - name: "Type: Communication"
+    description: "Something is not right"
+    name: "Type: Bug Report"
+  - 
     color: 0B3E79
-    description: Presentations, blog posts, etc.
-  - name: "Type: Data"
+    description: "Presentations, blog posts, etc."
+    name: "Type: Communication"
+  - 
     color: 0B3E79
-    description: Generating and delivering datasets and reports
-  - name: "Type: Documentation"
+    description: "Generating and delivering datasets and reports"
+    name: "Type: Data"
+  - 
     color: 0B3E79
-    description: User guides, developer documentation, planning documents, etc.
-  - name: "Type: Enhancement"
+    description: "User guides, developer documentation, planning documents, etc."
+    name: "Type: Documentation"
+  - 
     color: 0B3E79
-    description: Request for an improvement to existing functionality in an application
-  - name: "Type: Feature"
+    description: "Request for an improvement to existing functionality in an application"
+    name: "Type: Enhancement"
+  - 
     color: 0B3E79
-    description: Request for new functionality in an existing application
-  - name: "Type: IT Support"
+    description: "Request for new functionality in an existing application"
+    name: "Type: Feature"
+  - 
     color: 0B3E79
-    description: Software licenses, user accounts and logins, hardware set up, etc.
-  - name: "Type: Map Request"
+    description: "Software licenses, user accounts and logins, hardware set up, etc."
+    name: "Type: IT Support"
+  - 
     color: 0B3E79
-    description: Request for a map
-  - name: "Type: Meeting"
+    description: "Request for a map"
+    name: "Type: Map Request"
+  - 
     color: 0B3E79
-    description: Scheduled discussion, work session, etc.
-  - name: "Type: New Application"
+    description: "Scheduled discussion, work session, etc."
+    name: "Type: Meeting"
+  - 
     color: 0B3E79
-    description: Request for a new application; user needs cannot be met by an existing application
-  - name: "Type: Other"
+    description: "Request for a new application; user needs cannot be met by an existing application"
+    name: "Type: New Application"
+  - 
     color: 0B3E79
-    description: Not covered by other issue types
-  - name: "Type: Reports"
+    description: "Not covered by other issue types"
+    name: "Type: Other"
+  - 
     color: 0B3E79
-    description: Request for reporting
-  - name: "Type: Research"
+    description: "Request for reporting"
+    name: "Type: Reports"
+  - 
     color: 0B3E79
-    description: Research or discovery work
-  - name: "Type: Training"
+    description: "Research or discovery work"
+    name: "Type: Research"
+  - 
     color: 0B3E79
-    description: Request for training
-  - name: "Workgroup: AMD"
+    description: "Usability, Quality Assurance, Security, Performance, Accessibility etc"
+    name: "Type: Testing"
+  - 
+    color: 0B3E79
+    description: "Request for training"
+    name: "Type: Training"
+  - 
     color: 00BFA5
-    description: Arterial Management Division
-  - name: "Workgroup: ATSD"
+    description: "Arterial Management Division"
+    name: "Workgroup: AMD"
+  - 
     color: 00BFA5
-    description: Active Transportation and Street Design
-  - name: "Workgroup: CTM"
+    description: "Active Transportation and Street Design"
+    name: "Workgroup: ATSD"
+  - 
     color: 00BFA5
-    description: Communications and Technology Management
-  - name: "Workgroup: DTS"
+    description: "Cooridor Program Office"
+    name: "Workgroup: CPO"
+  - 
     color: 00BFA5
-    description: Data and Technology Services
-  - name: "Workgroup: Finance"
+    description: "Communications and Technology Management"
+    name: "Workgroup: CTM"
+  - 
     color: 00BFA5
-    description: Finance and Administration
-  - name: "Workgroup: HR"
+    description: "Data and Technology Services"
+    name: "Workgroup: DTS"
+  - 
     color: 00BFA5
-    description: Human Resources
-  - name: "Workgroup: OOD"
+    description: "Finance and Administration"
+    name: "Workgroup: Finance"
+  - 
     color: 00BFA5
-    description: Office of the Director
-  - name: "Workgroup: OSE"
+    description: "Human Resources"
+    name: "Workgroup: HR"
+  - 
     color: 00BFA5
-    description: Office of Special Events
-  - name: "Workgroup: Other"
+    description: "Office of the Director"
+    name: "Workgroup: OOD"
+  - 
+    color: 00BFA5
+    description: "Office of Special Events"
+    name: "Workgroup: OSE"
+  - 
     color: 00BFA5
     description: ""
-  - name: "Workgroup: PE"
+    name: "Workgroup: Other"
+  - 
     color: 00BFA5
-    description: Parking Enterprise
-  - name: "Workgroup: PIO"
+    description: "Parking Enterprise"
+    name: "Workgroup: PE"
+  - 
     color: 00BFA5
-    description: Public Information Officers
-  - name: "Workgroup: PWD"
+    description: "Public Information Officers"
+    name: "Workgroup: PIO"
+  - 
     color: 00BFA5
-    description: Public Works Department
-  - name: "Workgroup: ROW"
+    description: "Public Works Department"
+    name: "Workgroup: PWD"
+  - 
     color: 00BFA5
-    description: Right of Way Management
-  - name: "Workgroup: SDD"
+    description: "Right of Way Management"
+    name: "Workgroup: ROW"
+  - 
     color: 00BFA5
-    description: Systems Development Division
-  - name: "Workgroup: SMB"
+    description: "Systems Development Division"
+    name: "Workgroup: SDD"
+  - 
     color: 00BFA5
-    description: Signs and Markings (and Banners)
-  - name: "Workgroup: TE"
+    description: "Signs and Markings (and Banners)"
+    name: "Workgroup: SMB"
+  - 
     color: 00BFA5
-    description: Transportation Engineering
+    description: "Smart Mobility"
+    name: "Workgroup: SM"
+  - 
+    color: 00BFA5
+    description: "Transportation Engineering"
+    name: "Workgroup: TE"
+  - 
+    color: 00BFA5
+    description: "Vision Zero Program"
+    name: "Workgroup: VZ"
+  - 
+    color: 86B1C6
+    description: "Identifying an inventory management solution"
+    name: "Project: Warehouse Inventory"
