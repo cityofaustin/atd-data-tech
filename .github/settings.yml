@@ -214,11 +214,8 @@ labels:
     name: "Workgroup: VZ"
 
 # When copying this file into any Austin Transportation repo besides atd-data-tech,
-# delete all the following "Project" labels.
-  - 
-    color: 86B1C6
-    description: "A comprehensive mobility project tracking platform for Austin, Texas"
-    name: "Project: Mobility Project Database"
+# you will probably want to delete all the following "Project" labels. Only leave ones
+# that might apply to issues in that repo. 
   - 
     color: 86B1C6
     description: "Identifying an inventory management solution for ATD"
