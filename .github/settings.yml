@@ -1,5 +1,5 @@
 
-# Before updating this file in any of our GH repos, 
+# Before updating this file in any of the Austin Transportation repos, 
 # try to run it through a YAML linter like http://www.yamllint.com/ first. 
 # This will help identify any syntax errors in YAML that would prevent labels 
 # from being updated automatically.
@@ -34,7 +34,7 @@ labels:
     name: "Impact: 4-None"
   - 
     color: 3E4B9E
-    description: ""
+    description: "Contains a project's overview and status in addition to relevant assets, data, and information"
     name: Index
   - 
     color: FF7261
@@ -213,7 +213,8 @@ labels:
     description: "Vision Zero Program"
     name: "Workgroup: VZ"
 
-# Before copying these to any other Austin Transportation repo, delete the "Project" type lines below
+# When copying this file into any Austin Transportation repo besides atd-data-tech,
+# delete all the following "Project" labels.
   - 
     color: 86B1C6
     description: "A comprehensive mobility project tracking platform for Austin, Texas"
