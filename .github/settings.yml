@@ -1,17 +1,17 @@
+
 # Before updating this file in any of our GH repos, 
 # try to run it through a YAML linter like http://www.yamllint.com/ first. 
 # This will help identify any syntax errors in YAML that would prevent labels 
 # from being updated automatically.
+
+# Note that adding this file to a repo will overwrite all its existing labels.
+
 --- 
 labels: 
   - 
     color: 5F7D8C
     description: ""
     name: Duplicate
-  - 
-    color: 5F7D8C
-    description: ""
-    name: "Work In Progress"
   - 
     color: 3E4B9E
     description: ""
@@ -32,6 +32,10 @@ labels:
     color: FFEEED
     description: "Does not affect ATD service delivery"
     name: "Impact: 4-None"
+  - 
+    color: 3E4B9E
+    description: ""
+    name: Index
   - 
     color: FF7261
     description: "No point in delivering a solution without this"
@@ -122,12 +126,16 @@ labels:
     name: "Type: Research"
   - 
     color: 0B3E79
-    description: "Usability, Quality Assurance, Security, Performance, Accessibility etc"
+    description: "Testing for usability, security, performance, accessibility, etc."
     name: "Type: Testing"
   - 
     color: 0B3E79
     description: "Request for training"
     name: "Type: Training"
+  - 
+    color: 5F7D8C
+    description: "Work in progress"
+    name: "WIP"
   - 
     color: 00BFA5
     description: "Arterial Management Division"
@@ -205,8 +213,12 @@ labels:
     description: "Vision Zero Program"
     name: "Workgroup: VZ"
 
-# Before copying these to any other `atd-` repo, delete the "Project" type lines below
+# Before copying these to any other Austin Transportation repo, delete the "Project" type lines below
   - 
     color: 86B1C6
-    description: "Identifying an inventory management solution"
+    description: "A comprehensive mobility project tracking platform for Austin, Texas"
+    name: "Project: Mobility Project Database"
+  - 
+    color: 86B1C6
+    description: "Identifying an inventory management solution for ATD"
     name: "Project: Warehouse Inventory"
