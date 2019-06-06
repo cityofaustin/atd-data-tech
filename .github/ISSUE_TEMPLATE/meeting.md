@@ -1,21 +1,21 @@
 ---
 name: Meeting
-about: Describe this issue template's purpose here.
+about: 'Discussion, work session, sprint review, '
 title: ''
 labels: 'Type: Meeting'
 assignees: ''
 
 ---
 
-**Objective** 
+### Objective 
 
+### Participants
 
-**Participants**
-<!--- Add assignees or discipline labels as necessary --->
-
-**Agenda**
+### Agenda
+<!--- Add agenda inline here or link to an online document. --->
 
 ------
 - [ ] Schedule meeting
 - [ ] Meet
+- [ ] Attach meeting notes to this issue
 - [ ] Create resulting issues
