@@ -212,3 +212,11 @@ labels:
     color: 00BFA5
     description: "Vision Zero Program"
     name: "Workgroup: VZ"
+    
+# When copying this file into any Austin Transportation repo besides atd-data-tech,	
+# you will probably want to delete all the following "Project" labels. Only leave ones	
+# that might apply to issues in that repo. 	
+  - 	
+    color: 86B1C6	
+    description: "Identifying an inventory management solution for ATD"	
+    name: "Project: Warehouse Inventory"
