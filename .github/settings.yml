@@ -220,3 +220,7 @@ labels:
     color: 86B1C6	
     description: "Identifying an inventory management solution for ATD"	
     name: "Project: Warehouse Inventory"
+  - 	
+    color: 86B1C6	
+    description: "Signs migration to Knack"	
+    name: "Project: Signs Migration"
