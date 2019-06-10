@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
-labels: ''
-assignees: johnclary
+labels: 'Type: Bug Report'
+assignees: ''
 
 ---
 
@@ -26,6 +26,14 @@ If applicable, add screenshots to help explain your problem.
 
 **Browser**
 <!---  Use https://www.whatismybrowser.com/ if unsure of browser --->
+
+**How would you rate the impact of this issue?**
+- [ ] Severe — cannot perform work, no workaround
+- [ ] Major — can only perform work using a workaround
+- [ ] Minor  — can perform work, but could be easier or faster
+- [ ] Does not affect work performance
+- [ ] Unsure
+
 
 **Additional context**
 Add any other context about the problem here.
