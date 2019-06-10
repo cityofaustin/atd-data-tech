@@ -8,33 +8,24 @@ assignees: johnclary
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+Include what happens and what you would expect to happen. 
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**URL**
+
+**What steps can we follow to reproduce the bug you are seeing?**
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Requesting Division**
-- [ ] Arterial Management
-- [ ] Data & Technology Services
-- [ ] Finance & Purchasing
-- [ ] Human Resources
-- [ ] Mobility Services
-- [ ] Parking Enterprise
-- [ ] Right-of-Way
-- [ ] Signs & Markings
-- [ ] Systems Development
-- [ ] Transportation Engineering
+**Device**
+<!--- Desktop/laptop, tablet, or phone? --->
 
+**Browser**
+<!---  Use https://www.whatismybrowser.com/ if unsure of browser --->
 
 **Additional context**
 Add any other context about the problem here.
