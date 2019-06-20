@@ -2,7 +2,7 @@
 name: New Application or Project
 about: 'Proposal for a new application or project. '
 title: New Application
-labels: 'Type: New Application, Index'
+labels: 'Index, Type: New Application'
 assignees: amenity, TracyLinder
 
 ---
