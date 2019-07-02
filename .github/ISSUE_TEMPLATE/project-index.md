@@ -1,7 +1,7 @@
 ---
 name: Project Index
 about: Central place to access all information for a project
-title: 'Project: [Project name]'
+title: 'Project: [Your Project Name in Title Case]'
 labels: Index
 assignees: ''
 
