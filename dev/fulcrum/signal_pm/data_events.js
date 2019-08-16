@@ -24,10 +24,9 @@ var ALL_SIGNALS_RETRIEVED = false;
 //  if no signal found within search distance, get all signals
 ON('load-record', getLocation);
 
-ON('click', 'clear_signal_new', function(event) {
+ON('click', 'clear_signal', function(event) {
     SETVALUE('signal', '');
-    getSignal({"longitude" : "-97.743", "latitude":"30.267"}); 
-    SETVALUE('clear_signal', '');
+    getSignal({"longitude" : "-97.743", "latitude":"30.267"});
 })
 
 function getLocation(){
