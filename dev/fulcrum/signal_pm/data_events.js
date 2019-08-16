@@ -10,19 +10,24 @@ var signals = {
     'search_distance' : 200,  //  meters
 };
 
+// number of times to try to request socrata data
+MAX_REQUESTS = 3
+
 //  use to limit looping socrata request attempts
-var request_attempts = 0;
+var REQUEST_ATTEMPTS = 0;
+
+// we only want to fetch all signals once
+var ATTEMPTED_TO_FIND_NEARBY_SIGNAL = false;
+var ALL_SIGNALS_RETRIEVED = false;
 
 //  get nearest signal
 //  if no signal found within search distance, get all signals
 ON('load-record', getLocation);
 
-ON('change', 'clear_signal', function(event) {
-    if (event.value == "yes") {
-        SETVALUE('signal', '');
-        getSignal({"longitude" : "-97.74306", "latitude":"-30.26715"}, get_all==true); 
-        SETVALUE('clear_signal', '');
-    }
+ON('click', 'clear_signal_new', function(event) {
+    SETVALUE('signal', '');
+    getSignal({"longitude" : "-97.743", "latitude":"30.267"}); 
+    SETVALUE('clear_signal', '');
 })
 
 function getLocation(){
@@ -34,7 +39,9 @@ function getLocation(){
 
         if (location) {
             CLEARINTERVAL(interval);
-            getSignal(location, get_all=true);
+
+            getSignal(location);
+
         }
 
     }, 1000);
@@ -46,12 +53,21 @@ function getLocation(){
 }
 
 
-function getSignal(location, get_all=false) {
+function getSignal(location) {
     //  get nearby signals from socrata and set selection choices
     var search_distance = signals.search_distance;
 
-    if (get_all) {
+    if (ALL_SIGNALS_RETRIEVED) {
+        return
+    }
+
+    if (ATTEMPTED_TO_FIND_NEARBY_SIGNAL) {
+        PROGRESS('Searching for all signals...');
         search_distance = 100000;
+        ALL_SIGNALS_RETRIEVED = true;
+    } else {
+        PROGRESS('Searching for nearby signals...');
+        ATTEMPTED_TO_FIND_NEARBY_SIGNAL = true;
     }
 
     var url = 'https://data.austintexas.gov/resource/' + signals.id + '.json';
@@ -60,11 +76,8 @@ function getSignal(location, get_all=false) {
         url,
         location['latitude'],
         location['longitude'],
-        search_distance=search_distance
+        search_distance = search_distance
     );
-    
-    //  show modal
-    PROGRESS('Searching for nearby signals...');
 
     REQUEST(options, function(error, response, body) {
         //  Exec this function after GET data from socrata endpoint
@@ -84,14 +97,14 @@ function getSignal(location, get_all=false) {
                 if (!$signal) {
                     //  if there is no signal selected
                     //  set field label and value to nearest feature (ie the first one)
-                    // SETVALUE('signal', choices[0][0]);
                     SETVALUE('signal', choices[0]);
+                    REQUEST_ATTEMPTS = 0;
                 };
 
             } else {
-                if (request_attempts < 1) {
-                    request_attempts++;
-                    getSignal(location, get_all=true);
+                if (REQUEST_ATTEMPTS < MAX_REQUESTS) {
+                    REQUEST_ATTEMPTS++;
+                    getSignal(location);
                 }
             }
         }
