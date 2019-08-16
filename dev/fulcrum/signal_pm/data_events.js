@@ -17,6 +17,14 @@ var request_attempts = 0;
 //  if no signal found within search distance, get all signals
 ON('load-record', getLocation);
 
+ON('change', 'clear_signal', function(event) {
+    if (event.value == "yes") {
+        SETVALUE('signal', '');
+        getSignal({"longitude" : "-97.74306", "latitude":"-30.26715"}, get_all==true); 
+        SETVALUE('clear_signal', '');
+    }
+})
+
 function getLocation(){
     //  attempt to get location when record loads
     //  stop when location is found, or after specified SETIMEOUT
@@ -26,7 +34,7 @@ function getLocation(){
 
         if (location) {
             CLEARINTERVAL(interval);
-            getSignal(location);
+            getSignal(location, get_all=true);
         }
 
     }, 1000);
