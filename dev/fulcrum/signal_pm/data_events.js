@@ -7,7 +7,7 @@ var signals = {
     'id' : 'xwqn-2f78',
     'label_field' : 'location_name',
     'value_field' : 'signal_id',
-    'search_distance' : 200,  //  meters
+    'search_distance' : 100000,  //  meters (100k meters = ~62 mi)
 };
 
 // number of times to try to request socrata data
@@ -16,58 +16,42 @@ MAX_REQUESTS = 3
 //  use to limit looping socrata request attempts
 var REQUEST_ATTEMPTS = 0;
 
-// we only want to fetch all signals once
-var ATTEMPTED_TO_FIND_NEARBY_SIGNAL = false;
-var ALL_SIGNALS_RETRIEVED = false;
-
-//  get nearest signal
-//  if no signal found within search distance, get all signals
 ON('load-record', getLocation);
 
-ON('click', 'clear_signal', function(event) {
-    SETVALUE('signal', '');
-    getSignal({"longitude" : "-97.743", "latitude":"30.267"});
-})
-
-function getLocation(){
+function getLocation(event){
     //  attempt to get location when record loads
     //  stop when location is found, or after specified SETIMEOUT
+    var max_attempts = 10;
+    var attempts = 0;
+
     var interval = SETINTERVAL(function() {
 
-        var location = CURRENTLOCATION();
+        attempts += 1;
 
-        if (location) {
+        PROGRESS("Acquiring location...")
+
+        if (CURRENTLOCATION()) {
+            // ideally, we get th user's location, and return the list of signals
+            // sorted by the nearest signals
+            PROGRESS();
             CLEARINTERVAL(interval);
+            getSignal(CURRENTLOCATION());
 
-            getSignal(location);
-
+        } else if (attempts == max_attempts) {
+            // if unable to get location fetch all signals sorted by nearest to city center
+            CLEARINTERVAL(interval);
+            ALERT("Unable to find your location.");
+            getSignal({"longitude" : "-97.743", "latitude":"30.267"});
         }
 
-    }, 1000);
-
-    SETTIMEOUT(function() {
-        CLEARINTERVAL(interval);
-    }, 10000);
-
+    }, 500); // milliseconds
+    PROGRESS();
 }
 
 
 function getSignal(location) {
-    //  get nearby signals from socrata and set selection choices
+
     var search_distance = signals.search_distance;
-
-    if (ALL_SIGNALS_RETRIEVED) {
-        return
-    }
-
-    if (ATTEMPTED_TO_FIND_NEARBY_SIGNAL) {
-        PROGRESS('Searching for all signals...');
-        search_distance = 100000;
-        ALL_SIGNALS_RETRIEVED = true;
-    } else {
-        PROGRESS('Searching for nearby signals...');
-        ATTEMPTED_TO_FIND_NEARBY_SIGNAL = true;
-    }
 
     var url = 'https://data.austintexas.gov/resource/' + signals.id + '.json';
 
@@ -78,17 +62,21 @@ function getSignal(location) {
         search_distance = search_distance
     );
 
+    PROGRESS("Fetching signal list...");
+
     REQUEST(options, function(error, response, body) {
         //  Exec this function after GET data from socrata endpoint
-
-        //  hide progress modal
-        PROGRESS();
-
         if (error) {
             ALERT('Error with request: ' + options.url);
         } else {
+
+
             var data = JSON.parse(body);
-            if (data.length) {
+            
+            if (data.length > 0) {
+                
+                PROGRESS();
+
                 //  populate field selection choices with features
                 var choices = getChoices(signals.label_field, signals.value_field, data);
                 SETCHOICES('signal', choices);
@@ -97,13 +85,15 @@ function getSignal(location) {
                     //  if there is no signal selected
                     //  set field label and value to nearest feature (ie the first one)
                     SETVALUE('signal', choices[0]);
-                    REQUEST_ATTEMPTS = 0;
                 };
 
             } else {
                 if (REQUEST_ATTEMPTS < MAX_REQUESTS) {
                     REQUEST_ATTEMPTS++;
                     getSignal(location);
+                } else {
+                    PROGRESS();
+                    ALERT("Unable to fetch signals. Check your internet connection.");
                 }
             }
         }
@@ -117,7 +107,7 @@ function buildRequestParams(url, lat, lon, search_distance=2000) {
     //  Format request parameters accoring to Socrata query API
     //  Defined here: https://dev.socrata.com/docs/queries/
 
-    // select distance from point to each signal and sort by closest
+    // select distance from point to each signal and sort by nearest
     var select = '?$query=SELECT signal_id, location_name, DISTANCE_IN_METERS(location, \'POINT(' + lon + ' ' + lat + ')\') AS distance';
     return url + select + ' WHERE control=\'PRIMARY\' and WITHIN_CIRCLE(location, ' + lat + ', ' + lon + ', ' + search_distance + ') ORDER BY distance ASC';    
 }
