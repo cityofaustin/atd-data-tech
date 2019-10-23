@@ -1,6 +1,6 @@
 ---
-name: Feature or Enhancement
-about: Request a feature or enhancement for an existing product
+name: Feature
+about: Request new functionality for a product
 title: 'Feature request: [Feature name]'
 labels: 'Type: Feature'
 assignees: ''
@@ -43,4 +43,3 @@ assignees: ''
 
 - [ ] [Criteria]
 - [ ] [Criteria]
-
