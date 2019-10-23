@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### As a [user type] I want [capability] so that [benefit].
+# As a [user type] I want [capability] so that [benefit].
 
 **Is your feature request related to a problem? Please describe.**
 <!-- E.g. "I'm always frustrated when ___," --> 
@@ -37,3 +37,7 @@ assignees: ''
 - [ ] Unsure
 
 **If it is critical that this feature is delivered by a certain date, when and why?**
+
+## Acceptance criteria
+<!-- Each feature should have at least one acceptance criteria. Acceptance criteria must have a clear Pass / Fail outcome and specify the result (what) rather than approach (how). For further info see https://agileforgrowth.com/blog/acceptance-criteria-checklist/ -->
+- [ ]
