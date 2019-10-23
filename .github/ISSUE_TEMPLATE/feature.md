@@ -40,4 +40,7 @@ assignees: ''
 
 ## Acceptance criteria
 <!-- Each feature should have at least one acceptance criteria. Acceptance criteria must have a clear Pass / Fail outcome and specify the result (what) rather than approach (how). For further info see https://agileforgrowth.com/blog/acceptance-criteria-checklist/ -->
-- [ ]
+
+- [ ] [Criteria]
+- [ ] [Criteria]
+
