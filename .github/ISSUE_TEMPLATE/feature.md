@@ -39,7 +39,7 @@ assignees: ''
 **If it is critical that this feature is delivered by a certain date, when and why?**
 
 ## Acceptance criteria
-<!-- Each feature should have at least one acceptance criteria. Acceptance criteria must have a clear Pass / Fail outcome and specify the result (what) rather than approach (how). For further info see https://agileforgrowth.com/blog/acceptance-criteria-checklist/ -->
+<!-- Each feature should have at least one acceptance criteria. Acceptance criteria must have a clear Pass / Fail outcome and specify the result (what) rather than approach (how). Here is an example: https://github.com/cityofaustin/atd-data-tech/issues/801 For further info see https://agileforgrowth.com/blog/acceptance-criteria-checklist/. -->
 
 - [ ] [Criteria]
 - [ ] [Criteria]
