@@ -1,4 +1,3 @@
-
 # Before updating this file in any of the Austin Transportation repos, 
 # try to run it through a YAML linter like http://www.yamllint.com/ first. 
 # This will help identify any syntax errors in YAML that would prevent labels 
@@ -10,11 +9,11 @@
 labels: 
   - 
     color: 5F7D8C
-    description: ""
+    description: ~
     name: Duplicate
   - 
     color: 3E4B9E
-    description: ""
+    description: ~
     name: Epic
   - 
     color: FF7261
@@ -53,25 +52,225 @@ labels:
     description: "Will not be delivered at this time"
     name: "Need: 4-Won't Have"
   - 
+    color: 86B1C6
+    description: "A comprehensive mobility project tracking platform for Austin, Texas."
+    name: "Product: Mobility Project Database"
+  - 
+    color: 86B1C6
+    description: "An online platform to visualize and explore Austin's mobility projects."
+    name: "Product: Mobility Project Explorer"
+  - 
+    color: 86B1C6
+    description: "Clean-up of all ATD owned content on ArcGIS Online"
+    name: "Project: AGOL Audit"
+  - 
+    color: 86B1C6
+    description: "Engagement with Unisys to develop all of ATD's backlog items."
+    name: "Project: ATD AMANDA Backlog"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: AULCC Utility Mapping"
+  - 
+    color: 86B1C6
+    description: "Migration to ATD-owned AWS Org"
+    name: "Project: AWS Migration"
+  - 
+    color: 86B1C6
+    description: "Locate new B-Cycle stations with the help of GIS"
+    name: "Project: B-Cycle Station Planning"
+  - 
+    color: 86B1C6
+    description: "Associate school zone beacons and other beacons to work orders"
+    name: "Project: Beacon Data Tracking"
+  - 
+    color: 86B1C6
+    description: "Identify ATD's Business Intelligence needs and evaluate potential solutions"
+    name: "Project: BI Discovery"
+  - 
+    color: 86B1C6
+    description: "Support PE in collecting and maintaing bike rack data for servicing."
+    name: "Project: Bike Rack Data Inventory"
+  - 
+    color: 86B1C6
+    description: "Create a set of mission, values, standards, and identity assets"
+    name: "Project: Branding and Identity"
+  - 
+    color: 86B1C6
+    description: "GIS dataset encompassing all information about all modes of transportation."
+    name: "Project: CTN"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: DAPCZ Agenda Tool"
+  - 
+    color: 86B1C6
+    description: "ATD data lake development with UT CTR"
+    name: "Project: Data Lake"
+  - 
+    color: 86B1C6
+    description: "Project serving Transportation Engineering"
+    name: "Project: Development Review Workflow"
+  - 
+    color: 86B1C6
+    description: "Design and document processes the DTS team can use to intake, manage, and deliver services."
+    name: "Project: DTS Service Delivery"
+  - 
+    color: 86B1C6
+    description: "A multi-phase project to help ROW inspectors prioritize their work."
+    name: "Project: Inspector Prioritization Automation"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: Job Calendar Work Schedule"
+  - 
+    color: 86B1C6
+    description: "Tracks the work needed to implement micromobility per-trip fees"
+    name: "Project: MDS Upgrades"
+  - 
+    color: 86B1C6
+    description: "Enhancements to our public facing dashboard of dockless mobility data"
+    name: "Project: Micromobility Dashboard Updates"
+  - 
+    color: 86B1C6
+    description: "Mobile-first app for Signal Techs using React and Knack API"
+    name: "Project: Mobile Signal Work Order"
+  - 
+    color: 86B1C6
+    description: "Establish principles and practices to support the safe and secure management of micromobility data."
+    name: "Project: Mobility Data Privacy & Security"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: OSM Bicycle Data Update"
+  - 
+    color: 86B1C6
+    description: "Effort to reduce/eliminate the use of paper during the ATD hiring process"
+    name: "Project: Paperless Hiring"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: Parking Enterprise Work Order System"
+  - 
+    color: 86B1C6
+    description: "Parking data migration from AGOL to SDE"
+    name: "Project: Parking Inventory"
+  - 
+    color: 86B1C6
+    description: "City of Austin's print version of the bike map."
+    name: "Project: Print Bike Map"
+  - 
+    color: 86B1C6
+    description: "Online platform for residential parking permit applications, purchases, and renewals"
+    name: "Project: Residential Parking Permits"
+  - 
+    color: 86B1C6
+    description: "Publicly available web map that displays ATD's activities in the right of way."
+    name: "Project: ROW Activity Dashboard"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: ROW Attendance Tracker"
+  - 
+    color: 86B1C6
+    description: "For tracking ROW wishlist items from Nov 2019"
+    name: "Project: ROW Wishlist"
+  - 
+    color: 86B1C6
+    description: "Phase 2 of the ROWMAN project."
+    name: "Project: ROWMAN Ph 2"
+  - 
+    color: 86B1C6
+    description: "Phase 3 of the ROWMAN project."
+    name: "Project: ROWMAN Ph 3"
+  - 
+    color: 86B1C6
+    description: "Phase 4 of the ROWMAN project."
+    name: "Project: ROWMAN Ph 4"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: ROWMAN Ph 5"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: ROWMAN Ph 6"
+  - 
+    color: 86B1C6
+    description: "Acquire comprehensive street sign data across the city"
+    name: "Project: Sign Data Collection"
+  - 
+    color: 86B1C6
+    description: "Signs migration to Knack"
+    name: "Project: Signs Migration"
+  - 
+    color: 86B1C6
+    description: "Mobile-first app for Street Signs Techs using React and Knack API"
+    name: "Project: Signs Mobile Work Orders"
+  - 
+    color: 86B1C6
+    description: "311 CSR integration in Signs and Markings Data Tracker"
+    name: "Project: SMB 311 Module"
+  - 
+    color: 86B1C6
+    description: ~
+    name: "Project: TDSD Phase 2"
+  - 
+    color: 86B1C6
+    description: "This project created a new module in the Data Tracker to help streamline the traffic count and data"
+    name: "Project: Traffic Counts"
+  - 
+    color: 86B1C6
+    description: "This is an effort to digitize all of our street regulations in a geospatial database"
+    name: "Project: Traffic Registry Digitization"
+  - 
+    color: 86B1C6
+    description: "Establish data sharing between the City of Austin and TxDOT"
+    name: "Project: TxDOT Center-to-Center"
+  - 
+    color: 86B1C6
+    description: "Project to track issuance of uniforms and protective equipment for various divisions"
+    name: "Project: Uniform & PPE Tracking"
+  - 
+    color: 86B1C6
+    description: "Centralize the management of ATD's Vision Zero data"
+    name: "Project: Vision Zero Crash Data System"
+  - 
+    color: 86B1C6
+    description: "Public-facing interactive dashboard which displays metrics related to Vision Zero Program."
+    name: "Project: Vision Zero Viewer"
+  - 
+    color: 86B1C6
+    description: "App for APD to log Vision Zero in Action enforcement activities"
+    name: "Project: VZA App"
+  - 
+    color: 86B1C6
+    description: "Identifying an inventory management solution for ATD"
+    name: "Project: Warehouse Inventory"
+  - 
+    color: 86B1C6
+    description: "Create Work Orders workflows for MMC, Communications, and Signals Engineers"
+    name: "Project: Work Order Extension"
+  - 
     color: F2FC6D
-    description: "Application support"
+    description: "Knack application support"
     name: "Service: Apps"
-    oldname: "Team: Apps"
   - 
     color: F2FC6D
     description: "Infrastructure and engineering"
     name: "Service: Dev"
-    oldname: "Team: Dev"
   - 
     color: F2FC6D
     description: "Geospatial services"
     name: "Service: Geo"
-    oldname: "Team: Geo"
   - 
     color: F2FC6D
     description: "Product and project management"
     name: "Service: PM"
-    oldname: "Team: PM"
+  - 
+    color: 71E08F
+    description: "Projects under active development by the DTS team"
+    name: "Status: Active"
   - 
     color: 0B3E79
     description: "Something is not right"
@@ -86,6 +285,10 @@ labels:
     name: "Type: Data"
   - 
     color: 0B3E79
+    description: "Continuous integration pipeline operations and infrastructure"
+    name: "Type: DevOps"
+  - 
+    color: 0B3E79
     description: "User guides, developer documentation, planning documents, etc."
     name: "Type: Documentation"
   - 
@@ -94,7 +297,7 @@ labels:
     name: "Type: Enhancement"
   - 
     color: 0B3E79
-    description: "Request for new functionality in an existing application"
+    description: "Request for enhancements or new functionality in an existing application"
     name: "Type: Feature"
   - 
     color: 0B3E79
@@ -112,6 +315,10 @@ labels:
     color: 0B3E79
     description: "Request for a new application; user needs cannot be met by an existing application"
     name: "Type: New Application"
+  - 
+    color: 0B3E79
+    description: "Internal DTS planning and administration"
+    name: "Type: Operations"
   - 
     color: 0B3E79
     description: "Not covered by other issue types"
@@ -135,7 +342,7 @@ labels:
   - 
     color: 5F7D8C
     description: "Work in progress"
-    name: "WIP"
+    name: WIP
   - 
     color: 00BFA5
     description: "Arterial Management Division"
@@ -152,6 +359,10 @@ labels:
     color: 00BFA5
     description: "Communications and Technology Management"
     name: "Workgroup: CTM"
+  - 
+    color: 00BFA5
+    description: "Development Review"
+    name: "Workgroup: DR"
   - 
     color: 00BFA5
     description: "Data and Technology Services"
@@ -174,7 +385,7 @@ labels:
     name: "Workgroup: OSE"
   - 
     color: 00BFA5
-    description: ""
+    description: ~
     name: "Workgroup: Other"
   - 
     color: 00BFA5
@@ -198,12 +409,16 @@ labels:
     name: "Workgroup: SDD"
   - 
     color: 00BFA5
-    description: "Signs and Markings (and Banners)"
+    description: "Smart Mobility"
+    name: "Workgroup: SM"
+  - 
+    color: 00BFA5
+    description: "Signs, Markings and Banners"
     name: "Workgroup: SMB"
   - 
     color: 00BFA5
-    description: "Smart Mobility"
-    name: "Workgroup: SM"
+    description: "Transportation Development Services Division"
+    name: "Workgroup: TDSD"
   - 
     color: 00BFA5
     description: "Transportation Engineering"
@@ -212,15 +427,79 @@ labels:
     color: 00BFA5
     description: "Vision Zero Program"
     name: "Workgroup: VZ"
-    
-# When copying this file into any Austin Transportation repo besides atd-data-tech,	
-# you will probably want to delete all the following "Project" labels. Only leave ones	
-# that might apply to issues in that repo. 	
-  - 	
-    color: 86B1C6	
-    description: "Identifying an inventory management solution for ATD"	
-    name: "Project: Warehouse Inventory"
-  - 	
-    color: 86B1C6	
-    description: "Signs migration to Knack"	
-    name: "Project: Signs Migration"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: AMANDA"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: AMD Data Tracker"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: Signs & Markings"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: Banners"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: VZA"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: VZE"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: VZV"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: Data & Performance Hub"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: DTS Portal"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: AMD Fulcrum"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: Finance & Inventory"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: RPP"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: Micromobility"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: Mobility Services"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: ATD Forms"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: MPD"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: MPV"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: GIS"
+  - 
+    Description: ""
+    color: 3D3D3D
+    name: "Product: ROW Portal"
