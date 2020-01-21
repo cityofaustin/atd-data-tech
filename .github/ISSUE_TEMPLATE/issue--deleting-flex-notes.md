@@ -2,7 +2,7 @@
 name: 'Issue: Deleting Flex Notes'
 about: Template to delete flex notes
 title: 'Delete "csr_flex_notes" from Signs & Markings - Month YEAR '
-labels: 'Type: Data, Service: Apps'
+labels: 'Service: Apps, Type: Data'
 assignees: ''
 
 ---
