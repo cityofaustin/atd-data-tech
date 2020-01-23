@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the Data & Technology Services wiki! Look at the right sidebar for a table on contents of our documentation ➡️
+Welcome to the Data & Technology Services wiki! 
 
 🚥 🚥 🚥 🚥 🚥 🚥 🚥
 
