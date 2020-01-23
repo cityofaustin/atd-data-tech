@@ -28,3 +28,7 @@
 * [Server-Operation](server-operation.md)
 * [Using-Google-as-a-City-employee](using-google-as-a-city-employee.md)
 
+## TEST: New Group Category
+
+* [Test Page](test-new-group-category/test-page.md)
+
