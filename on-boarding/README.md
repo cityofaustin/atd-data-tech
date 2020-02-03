@@ -1,4 +1,4 @@
-# On-Boarding:-Intro
+# On-Boarding
 
 #### ​Welcome to the Austin Transportation Data & Technology Services team! 👋
 

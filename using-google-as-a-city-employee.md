@@ -1,4 +1,4 @@
-# Using-Google-as-a-City-employee
+# Using Google as a City Employee
 
 We love Google Drive, Docs, Sheets, and Slides for collaborative document editing and management. Since CTM does not have an enterprise Google subscription, it is important that we follow the procedures below for account creation and file storage. Using Google within these parameters ensures that we can fulfill PIRs, follow records-retention policies, and maintain access to employees' work when they leave the City.
 

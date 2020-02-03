@@ -1,4 +1,4 @@
-# PostgREST:-Jobs-API
+# Jobs-API
 
 The Jobs API is a tool for logging the outcome of ETL scripting jobs. It is designed to support the task of "incremental" data loads—i.e., loading only new or updated records from a source database to a destination database.
 

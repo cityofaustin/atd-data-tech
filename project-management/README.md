@@ -1,4 +1,4 @@
-# Project-Management:-Github-and-ZenHub-Basics
+# Project Management
 
 The Data and Technology Services team is using [Github](https://github.com/) and [ZenHub](https://www.zenhub.com/) for agile project management.
 

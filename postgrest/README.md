@@ -1,4 +1,4 @@
-# PostgREST:-About
+# PostgREST
 
 We use [PostgREST](https://github.com/PostgREST/postgrest) to generate APIs for our PostgreSQL databases.
 

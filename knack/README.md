@@ -1,4 +1,4 @@
-# Knack:-Application-Overview
+# Knack
 
 [Knack](http://knack.com) is an online platform that lets you build custom business applications without writing code. We manage a growing suite of business applications built with Knack.
 
