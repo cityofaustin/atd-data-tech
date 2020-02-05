@@ -2,7 +2,7 @@
 name: "[RPP Back Office - Feature] "
 about: Feature requests for RPP Back Office app
 title: ''
-labels: 'Workgroup: PE, Type: Feature, Service: Apps, Product: RPP Back Office'
+labels: 'Product: RPP Back Office, Service: Apps, Type: Feature, Workgroup: PE'
 assignees: dianamartin
 
 ---
@@ -14,6 +14,12 @@ assignees: dianamartin
 
 **What else should we know?**
 <!-- Is there context or background information we should be aware of? Are there examples of successful solutions we can look at? -->
+
+<!-- Add a `Need` label to designate the importance of this feature:
+- Must have — The application is illegal, unsafe, or not functional without it.
+- Should have — This is important but not vital functionality or there is a temporary workaround. 
+- Could have — We want this but there are more important requests. 
+- Unsure -->
 
 ---
 ## Acceptance criteria
