@@ -15,15 +15,11 @@ assignees: dianamartin
 **What else should we know?**
 <!-- Is there context or background information we should be aware of? Are there examples of successful solutions we can look at? -->
 
-<!-- Add a `Need` label to designate the importance of this feature:
-- Must have — The application is illegal, unsafe, or not functional without it.
-- Should have — This is important but not vital functionality or there is a temporary workaround. 
-- Could have — We want this but there are more important requests. 
-- Unsure -->
-
 ---
 ## Acceptance criteria
-<!-- Each feature should have at least one acceptance criteria. Acceptance criteria must have a clear Pass / Fail outcome and specify the result (what) rather than approach (how). Here is an example: https://github.com/cityofaustin/atd-data-tech/issues/801 For further info see https://agileforgrowth.com/blog/acceptance-criteria-checklist/. -->
+<!-- Each feature should have at least one acceptance criteria. Acceptance criteria should have a clear Pass/Fail outcome and specify the result (what) rather than approach (how). Here is an example: https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=dianamartin&labels=Product%3A+RPP+Back+Office%2C+Service%3A+Apps%2C+Type%3A+Feature%2C+Workgroup%3A+PE&template=-rpp-back-office---feature--.md&title= 
+
+For further info see https://agileforgrowth.com/blog/acceptance-criteria-checklist/. -->
 
 - [ ] [Criteria]
 - [ ] [Criteria]
