@@ -20,8 +20,6 @@
 * [PostgREST](postgrest/README.md)
   * [Pypgrest \(Python Client\)](postgrest/pypgrest.md)
   * [Jobs-API](postgrest/jobs-api.md)
-* [Project Management](project-management/README.md)
-  * [Project-Management:-Creating-a-Repository](project-management/project-management-creating-a-repository.md)
 * [Python](python.md)
 * [Release-Management-Process](release-management-process.md)
 * [Server-Operation](server-operation.md)
