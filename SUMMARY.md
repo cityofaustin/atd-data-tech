@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [About](README.md)
 * [On-Boarding](on-boarding/README.md)
   * [New Employee Checklist](on-boarding/new-employee-checklist.md)
 * [Using Google as a City Employee](using-google-as-a-city-employee.md)

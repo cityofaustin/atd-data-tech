@@ -1,4 +1,4 @@
-# Home
+# About
 
 Welcome to the Data & Technology Services wiki! 
 
