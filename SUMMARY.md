@@ -20,7 +20,12 @@
   * [Pypgrest \(Python Client\)](postgrest/pypgrest.md)
   * [Jobs-API](postgrest/jobs-api.md)
 * [Python](python.md)
-* [Release-Management-Process](release-management-process.md)
 * [Server-Operation](server-operation.md)
 * [Application-Go-Live](application-go-live.md)
+
+## Product Ops
+
+* [Github and Zenhub Basics](product-ops/untitled.md)
+* [Project Intake and Delivery Workflow](product-ops/project-intake-and-delivery-workflow.md)
+* [Release-Management-Process](product-ops/release-management-process.md)
 
