@@ -26,7 +26,9 @@ You can see a full list of our repos [here](https://github.com/orgs/cityofaustin
 
 ## Issues
 
-Tracking our work in issues not only helps us stay organized, it gives us data on where we're spending our time. To create an issue, click the green "New issue" button in the upper right on the _Issues_ page or our [Zenhub board](https://github.com/cityofaustin/atd-data-tech/blob/master/.github/settings.yml#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board). [![Screenshot of the Issues page with the &quot;New issue&quot; button circled. ](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-new-issue.png?raw=true)](https://github.com/cityofaustin/atd-data-tech/blob/master/images/Create-new-issue.png?raw=true)
+Tracking our work in issues not only helps us stay organized, it gives us data on where we're spending our time. To create an issue, click the green "New issue" button in the upper right on the _Issues_ page or our [Zenhub board](https://github.com/cityofaustin/atd-data-tech/blob/master/.github/settings.yml#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board).
+
+![Screenshot of the Issues page with the &quot;New issue&quot; button circled. ](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-new-issue.png?raw=true)
 
 ## Pipelines
 
@@ -56,7 +58,7 @@ Estimates are how we track the level of effort of issues. This is useful for
 
 [This is a good article](https://help.zenhub.com/support/solutions/articles/43000010347-estimate-work-using-story-points) about the hows and whys of estimates with ZenHub.
 
-![Estimates \(1-5\) align with shirt sizes \(xs-xxl\). Complexity, uncertainty, and time increase as numbers/sizes increase](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Relative-estimates.png)
+![Estimates \(1-5\) align with shirt sizes \(XS-XXL\). Complexity, uncertainty, and time increase as numbers/sizes increase](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Relative-estimates.png)
 
 ## Epics
 
