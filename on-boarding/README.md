@@ -4,18 +4,18 @@
 
 Here's a bevy of links to get you started.​
 
-### Data & Technology Services
+## Data & Technology Services
 
 * [Data and Performance Hub](http://transportation.austintexas.io/) — Public-facing content, applications, and data
 * [DTS Portal](http://atd.knack.com/dts) — Service Requests, Data Inventory, Technician Equipment Tracker
-* [Data & Technology Services ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board?repos=138333607) — Project management tool; see our guide at [How-to Zenhub](https://github.com/cityofaustin/atd-data-tech/wiki/How-to-ZenHub)
+* [Data & Technology Services ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board?repos=138333607) — Project management tool; see [Github and Zenhub Basics guide](https://www.psychologytoday.com/us/therapists/chrissie-hartley-austin-tx/114219) 
 
-#### Intranet & Wikis
+### Intranet & Wikis
 
 * [Division intranet](https://cityofaustin.sharepoint.com/sites/ATD/DTS/default.aspx)
-* [Private Wiki page](https://github.com/orgs/cityofaustin/teams/transportation/discussions/4) - This page is for onboarding info that shouldn't be open to the public web.
+* [Private Wiki page](https://github.com/orgs/cityofaustin/teams/transportation/discussions/4) - This page is for onboarding info that shouldn't be open to the public web
 
-#### Document storage and collaboration guidelines 📝 📚
+### Document storage and collaboration guidelines 📝 📚
 
 ​To prevent the proliferation of different versions of multi-editor documents, all collaborative documents are stored on the cloud:
 
@@ -31,21 +31,17 @@ Any private documents such as personnel-related files should be stored on the H 
 
 Nothing should be stored on your local drive — the Windows C drive or Mac HD. 🙅‍♀️ ⚠️
 
-**How to connect to network G Drive from Mac**
+#### **How to connect to network G Drive from Mac**
 
 _You will need to be either hard-connected to the City network or_ [_connected via VPN_](https://github.com/cityofaustin/atd-data-tech/wiki/On-Boarding%3A-Intro#vpn--remote-access)_._ From Finder on Mac: _Go &gt; Connect to Server_ then type "smb://coacd.org/dfs/ATD" in the _Server Address_ field
 
-#### Use of personal devices
-
-If you use your personal computer for work at the any CoA office be advised that you should never directly connect to the CoA Ethernet network. You can connect to the CoA internal network via VPN when necessary. CTM runs occasional security scans for devices that shouldn't be on the network and if they discover your personal computer, they reserve the right to take your computer, run scans, and review files.
-
-### Austin Transportation
+## Austin Transportation
 
 * [Public website](http://www.austintexas.gov/department/transportation)
 * [ATD Github teams](https://github.com/orgs/cityofaustin/teams/transportation)
 * [Department intranet](https://cityofaustin.sharepoint.com/sites/ATD/default.aspx)
 
-### City of Austin
+## City of Austin
 
 * [CTM service request form](https://cityofaustin.seamlessdocs.com/f/service_desk) — or dial 4-HELP from a City phone
 * [Github organization](https://github.com/cityofaustin)
@@ -55,7 +51,7 @@ If you use your personal computer for work at the any CoA office be advised that
 * [Strategic Direction 2023](https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final)
 * [Digital Services Style Guide](https://cityofaustin.github.io/digital-services-style-guide/introduction/) - City's style guide for writing for residents
 
-### Human Resources
+## Human Resources
 
 * [Official City of Austin holiday schedule](http://www.austintexas.gov/department/official-city-holidays)
 * [HR Portal](https://hrdcfprod.coacd.org/) — pay stubs, benefits, PE registration
@@ -71,24 +67,28 @@ If you use your personal computer for work at the any CoA office be advised that
   * [Telework Request Form](on-boarding:files/Telework_Request_Form_fillable.pdf)
     * In the "Justification" field, you can use this text snippet: "Telecommuting has important benefits to our team. It allows team members to focus on key tasks, it saves energy, and promotes a healthier work/life balance."
 
-#### Training
+### Training
 
 * [E-Timesheet Training \(On-Network\)](http://coaspweb1/sites/PWD/PWU/SitePages/ATDLearn.aspx)
 * [Workplace Harassment Training](http://coaspweb1/sites/PWD/PWU/SitePages/ATDLearn.aspx)
 * [Free Lynda Video Training Access via Houston Public Library](https://austininnovation.slack.com/archives/C04KZA1TX/p1562946735079000)
 
-### Network
+## Network
 
-#### Wifi
+### Wifi
 
 Cameron Road: `coa-atd-secure-wifi` — password in 1password
 
-#### VPN & Remote Access
+### VPN & Remote Access
 
 * CiscoAnyConnectVPN is the client we use to VPN onto the City network. Here is a [Mac installer](https://drive.google.com/open?id=18mmPsxuxaDBhIPlRCMVoMoiHRYyXMjSC) and [instructions for installing and configuring to work in OSX Catalina](https://docs.google.com/document/d/1_RoFPflbpzvWOuSq7g2WbNidgPkbWdTmIoa4Fftf94Q/edit#). 
 * CTM Help Desk [Remote Access Request Form](https://apps.austintexas.gov/helpdesk/remote/)
 
-### Tools
+### Use of personal devices
+
+If you use your personal computer for work at the any CoA office be advised that you should never directly connect to the CoA Ethernet network. You can connect to the CoA internal network via VPN when necessary. CTM runs occasional security scans for devices that shouldn't be on the network and if they discover your personal computer, they reserve the right to take your computer, run scans, and review files.
+
+## Tools
 
 * [1 Password](http://1password.com/)
 * [City of Austin Slack](https://austininnovation.slack.com/signup), in particular check out 
@@ -101,7 +101,7 @@ Cameron Road: `coa-atd-secure-wifi` — password in 1password
   * [Welcome to MS Teams Video](https://support.office.com/en-us/article/video-welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12)
   * [MS Teams FAQ](https://teams.microsoft.com/_#/help)
 
-### Hardware
+## Hardware
 
 * Dell Universal Docking Station Drivers: [Windows](https://www.dell.com/support/home/us/en/04/product-support/product/dell-universal-dock-d6000/drivers) \| [Mac](https://www.displaylink.com/downloads/macos) \(see [this](https://support.displaylink.com/knowledgebase/articles/1188004-macos-10-13-or-10-14-video-functionality-not-enab) or [this](https://support.displaylink.com/knowledgebase/articles/1916602-macos-catalina-10-15-screen-recording-permission) if you're having issues on a Mac\)
 
