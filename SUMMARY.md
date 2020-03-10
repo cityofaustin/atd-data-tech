@@ -1,10 +1,9 @@
 # Table of contents
 
-* [About](README.md)
+* [About Data & Technology Services](README.md)
 * [On-Boarding](on-boarding/README.md)
   * [New Employee Checklist](on-boarding/new-employee-checklist.md)
 * [Using Google as a City Employee](using-google-as-a-city-employee.md)
-* [Docker](docker.md)
 * [Dockless-Mobility](dockless-mobility.md)
 * [Knack](knack/README.md)
   * [Knack:-Using-Big-Buttons](knack/knack-using-big-buttons.md)
@@ -16,11 +15,15 @@
   * [Knack:-Github-Workflow](knack/knack-github-workflow.md)
   * [Knack:-Functionality-Guide](knack/knack-functionality-guide.md)
   * [Knack:-Document-an-Environment-for-an-Application](knack/knack-document-an-environment-for-an-application.md)
-* [PostgREST](postgrest/README.md)
-  * [Pypgrest \(Python Client\)](postgrest/pypgrest.md)
-  * [Jobs-API](postgrest/jobs-api.md)
-* [Python](python.md)
-* [Server-Operation](server-operation.md)
+
+## Developer
+
+* [Server-Operation](developer/server-operation.md)
+* [Python](developer/python.md)
+* [PostgREST](developer/postgrest/README.md)
+  * [Pypgrest \(Python Client\)](developer/postgrest/pypgrest.md)
+  * [Jobs-API](developer/postgrest/jobs-api.md)
+* [Docker](developer/docker.md)
 
 ## Product Ops
 
