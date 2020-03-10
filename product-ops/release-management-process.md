@@ -1,4 +1,4 @@
-# Release-Management-Process
+# Release Management Process
 
 Below are the steps needed to successfully release new code to production:
 

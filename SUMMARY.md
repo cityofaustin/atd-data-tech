@@ -21,11 +21,10 @@
   * [Jobs-API](postgrest/jobs-api.md)
 * [Python](python.md)
 * [Server-Operation](server-operation.md)
-* [Application-Go-Live](application-go-live.md)
 
 ## Product Ops
 
 * [Github and Zenhub Basics](product-ops/untitled.md)
 * [DTS Service Delivery Workflow](product-ops/service-delivery-workflow.md)
-* [Release-Management-Process](product-ops/release-management-process.md)
+* [Release Management Process](product-ops/release-management-process.md)
 
