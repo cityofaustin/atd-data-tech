@@ -21,13 +21,17 @@
 
 ### Scoping
 
-* Assigned PM schedules Intake Meeting,
-* Prepare Intake Meeting agenda
-* [Example](https://docs.google.com/document/d/17PoXSCPYvtZYwmQtHgPejIB5r1GduMqGbA43U3CpysQ/edit#) 
+* Assigned PM schedules Intake Meeting; Ideally this will include actual users as well as the workgroup manager
+* Prepare [Intake Meeting Agenda](https://docs.google.com/document/d/1AcjxHv6XCEutSAIzNebnxNR9EL8CORiHrVfNlQuChII/edit#heading=h.f4j2i9aovme)
+* Meet and take notes; photos may also be helpful
 
 ### Builder Huddle
 
-* [Example](https://docs.google.com/presentation/d/1brqKe0IfavZ4K8Dp2jv1QBW_Kfa7umDROOiQ2lHc67I/edit)
+* Schedule meeting with lead from each builder team and other PMs; could be very helpful to include any other builders likely to be working on the project
+* Prepare summary of request; [example](https://docs.google.com/presentation/d/1brqKe0IfavZ4K8Dp2jv1QBW_Kfa7umDROOiQ2lHc67I/edit#slide=id.p)
+* Meet and discuss
+  * Recommended approach
+  * Level of effort
 
 ### Product 
 

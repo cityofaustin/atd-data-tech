@@ -26,6 +26,6 @@
 ## Product Ops
 
 * [Github and Zenhub Basics](product-ops/untitled.md)
-* [DTS Service Delivery Workflow](product-ops/project-intake-and-delivery-workflow.md)
+* [DTS Service Delivery Workflow](product-ops/service-delivery-workflow.md)
 * [Release-Management-Process](product-ops/release-management-process.md)
 
