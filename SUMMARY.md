@@ -3,7 +3,6 @@
 * [About Data & Technology Services](README.md)
 * [On-Boarding](on-boarding/README.md)
   * [New Employee Checklist](on-boarding/new-employee-checklist.md)
-* [Using Google as a City Employee](using-google-as-a-city-employee.md)
 
 ## Developer
 
@@ -23,11 +22,16 @@
   * [Pypgrest \(Python Client\)](developer/postgrest/pypgrest.md)
   * [Jobs-API](developer/postgrest/jobs-api.md)
 * [Python](developer/python.md)
-* [Server-Operation](developer/server-operation.md)
+* [Server Operation](developer/server-operation.md)
 
 ## Product Ops
 
 * [Github and Zenhub Basics](product-ops/untitled.md)
 * [DTS Service Delivery Workflow](product-ops/service-delivery-workflow.md)
 * [Release Management Process](product-ops/release-management-process.md)
+
+## Resources for ATD Staff
+
+* [Using Google as a City Employee](resources-for-atd-staff/using-google-as-a-city-employee.md)
+* [Working Remotely](resources-for-atd-staff/working-remotely.md)
 
