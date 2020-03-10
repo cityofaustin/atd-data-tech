@@ -8,7 +8,7 @@ The Data and Technology Services team is using [Github](https://github.com/) and
 2. Have someone on the DTS team add you to the [City of Austin](https://github.com/cityofaustin) organization and the [Transportation](https://github.com/orgs/cityofaustin/teams/transportation) team as a Maintainer.
 3. Add the [ZenHub extension](https://www.zenhub.com/extension) to your browser.
 
-## Repos
+## Repos \[needs to be updated\]
 
 We organize our work into repositories. In a given repository:
 
@@ -30,27 +30,30 @@ Tracking our work in issues not only helps us stay organized, it gives us data o
 
 ![Screenshot of the Issues page with the &quot;New issue&quot; button circled. ](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-new-issue.png?raw=true)
 
-## Pipelines
+## Labels
 
-The Zenhub board uses a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-like format where issues are represented as cards and move across the board as they enter various stages of completion. Our workspace pipelines are:
+You can apply labels when you're looking at an individual issue by clicking the "Labels" link on the righthand side. You can also add labels in bulk from the __[_Issues_ page](https://github.com/cityofaustin/atd-data-tech/issues) or [our ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board). 
 
-* _**New Issues**_ - Awaiting triage by a product manager.\*
-* _**Icebox**_ - Recorded and understood, but not committed to. Lack evidence of overall value or applicability. We don't want to delete these and create a cycle of raising duplicate issues, so we keep them in our icebox with just enough information attached that we can pick it up some time in the future — if and when we choose to do so.
-* _**Needs Scoping**_ - Potential projects that require clarification or exploration. Gathering the information we will need to prioritize and assign these projects moving forward might entail a phone call, an email, or a discovery meeting.
-* _**Backlog**_ - Defined issues that are ready to be tackled by the team when the time comes. This pipeline is prioritized: the higher an issue is on this list, the higher the priority. Higher-priority items will typically have more in-depth information attached.
-* _**On Deck**_ - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into _On Deck_.
-* _**In Progress**_ - This one is self-explanatory. ;\) Each Issue in this pipeline should have an assigned owner who is responsible for its completion.
-* _**Blocked** -_ Issues that we intend to complete in the current sprint but have unmet dependencies — often awaiting CTM support or user feedback.
-* _**Recurring**_ - 
-* _**Review/QA**_ - Proposed as complete but awaiting approval before closure. Approval takes various forms depending on issue type. For issues connected to code requests, this might be a code review. For feature implementations, this may be acceptance testing.
-* _**Ready to Deploy**_ - Code or configuration that is ready to be deployed to production. 
-* _**Closed**_ - Done! 🙌
+Labels are critical for filtering on the Zenhub board, so **it's important to make sure every new issue has**:
 
-_\*When you create new issues that do not need need PM eyes, make sure to promptly move them into the appropriate pipeline._
+* **Workgroup** — the customer we're serving; `Workgroup: DTS` for internal work
+* **Service** — The service team the work will be handled by
+* **Project**  and/or **Product** — "Projects" refer to a substantial scope of related work that will reach a state of relative completion, such as [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253). "Products" are solutions that we continue to support over time, including all in-house applications. Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. 
 
-## Assignees
+Optional labels include:
 
-An issue should be assigned to the person/people who will tackle it. This is important as it allows everyone to easily filter down to issues they are responsible for.
+* _**Impact**_ or _**Need**_ — to designate priority; _Need_ referring to features or enhancements while _Impact_ applies more to bugs
+* _**Type**_ — The type of request or task
+
+⚠️ Labels are removed when issues are transferred between repos. So make sure to move an issue to the correct repo _before_ labeling up.
+
+#### _Project_ labels
+
+Issues belonging to a particular project should be grouped with a _Project_ label so they can be easily filtered out for planning and reporting. When creating a new _Project_ label, use title case, add a brief description, and use the hex code `#86B1C6`.
+
+[![Screenshot of UI on the repo labels page where a new Project label is being added with the hex code \#007089](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-project-Github-label.png?raw=true?raw=true)](https://github.com/cityofaustin/atd-data-tech/blob/master/images/Create-project-Github-label.png?raw=true?raw=true)
+
+If a project spans multiple repos — for example a Knack application with a React frontend — create the labels in each repo and make sure they are exactly the same. Adding a label to an issue from the Zenhub board will create that label in that repo if it does not exist there already.
 
 ## Estimates
 
@@ -74,30 +77,27 @@ Epics do not need estimates assigned to them manually. Instead, the effort is re
 
 In the end, epics can be used to group whatever makes sense for you and your collaborators. Some people prefer [issues with task lists inside them](https://github.com/cityofaustin/techstack/issues/616). That's fine as long as the issue doesn't end up needing more effort than we can represent in our [estimate scale](https://github.com/cityofaustin/atd-data-tech/wiki/Project-Management:-Github-and-ZenHub-Basics#estimates) for a single issue.
 
-## Labels
+## Pipelines
 
-You can apply labels when you're looking at an individual issue by clicking the "Labels" link on the righthand side. You can also add labels in bulk from the _Issues_ page or [our ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board). We have a [standard list of labels](https://github.com/cityofaustin/atd-data-tech/wiki/Project-Management:-Standard-Github-Labels) that we add to each repo when it's [created](https://github.com/cityofaustin/atd-data-tech/wiki/Project-Management:-Creating-a-Repository).
+The Zenhub board uses a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-like format where issues are represented as cards and move across the board as they enter various stages of completion. Our workspace pipelines are:
 
-Labels are critical for filtering on the Zenhub board, **so it's important to make sure every new issue has**:
+* _**New Issues**_ - Awaiting triage by a product manager.\*
+* _**Icebox**_ - Recorded and understood, but not committed to. Lack evidence of overall value or applicability. We don't want to delete these and create a cycle of raising duplicate issues, so we keep them in our icebox with just enough information attached that we can pick it up some time in the future — if and when we choose to do so.
+* _**Needs Scoping**_ - Potential projects that require clarification or exploration. Gathering the information we will need to prioritize and assign these projects moving forward might entail a phone call, an email, or a discovery meeting.
+* _**Backlog**_ - Defined issues that are ready to be tackled by the team when the time comes. This pipeline is prioritized: the higher an issue is on this list, the higher the priority. Higher-priority items will typically have more in-depth information attached.
+* _**On Deck**_ - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into _On Deck_.
+* _**In Progress**_ - This one is self-explanatory. ;\) Each Issue in this pipeline should have an assigned owner who is responsible for its completion.
+* _**Blocked** -_ Issues that we intend to complete in the current sprint but have unmet dependencies — often awaiting CTM support or user feedback.
+* _**Recurring**_ - 
+* _**Review/QA**_ - Proposed as complete but awaiting approval before closure. Approval takes various forms depending on issue type. For issues connected to code requests, this might be a code review. For feature implementations, this may be acceptance testing.
+* _**Ready to Deploy**_ - Code or configuration that is ready to be deployed to production. 
+* _**Closed**_ - Done! 🙌
 
-* _**Workgroup**_ — the customer we're serving; `Workgroup: DTS` for internal work
-* _**Service**_ — The service team the work will be handled by
-* _**Project \(if applicable\)**_ — The project this issue belongs to; not all issues will have a project, e.g. a bug report for an application not in active development or a hardware purchase\_
+_\*When you create new issues that do not need need PM eyes, make sure to promptly move them into the appropriate pipeline._
 
-Optional labels include:
+## Assignees
 
-* _**Impact**_ or _**Need**_ — to designate priority; _Need_ referring to features or enhancements while _Impact_ applies more to bugs
-* _**Type**_ — The type of request or task
-
-⚠️ Labels are removed when issues are transferred between repos. So make sure to move an issue to the correct repo _before_ labeling up.
-
-#### _Project_ labels
-
-Issues belonging to a particular project should be grouped with a _Project_ label so they can be easily filtered out for planning and reporting. When creating a new _Project_ label, use title case, add a brief description, and use the hex code `#86B1C6`.
-
-[![Screenshot of UI on the repo labels page where a new Project label is being added with the hex code \#007089](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-project-Github-label.png?raw=true?raw=true)](https://github.com/cityofaustin/atd-data-tech/blob/master/images/Create-project-Github-label.png?raw=true?raw=true)
-
-If a project spans multiple repos — for example a Knack application with a React frontend — create the labels in each repo and make sure they are exactly the same. Adding a label to an issue from the Zenhub board will create that label in that repo if it does not exist there already.
+An issue should be assigned to the person/people who will tackle it. This is important as it allows everyone to easily filter down to issues they are responsible for.
 
 ### Bulk editing issues
 
