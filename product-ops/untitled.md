@@ -40,9 +40,13 @@ The Zenhub board uses a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-lik
 * _**Backlog**_ - Defined issues that are ready to be tackled by the team when the time comes. This pipeline is prioritized: the higher an issue is on this list, the higher the priority. Higher-priority items will typically have more in-depth information attached.
 * _**On Deck**_ - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into _On Deck_.
 * _**In Progress**_ - This one is self-explanatory. ;\) Each Issue in this pipeline should have an assigned owner who is responsible for its completion.
-* _**Review/QA**_ — Proposed as complete but awaiting approval before closure. Approval takes various forms depending on issue type. For issues connected to code requests, this might be a code review. For feature implementations, this may be acceptance testing.
+* _**Blocked** -_ Issues that we intend to complete in the current sprint but have unmet dependencies — often awaiting CTM support or user feedback.
+* _**Recurring**_ - 
+* _**Review/QA**_ - Proposed as complete but awaiting approval before closure. Approval takes various forms depending on issue type. For issues connected to code requests, this might be a code review. For feature implementations, this may be acceptance testing.
+* _**Ready to Deploy**_ - Code or configuration that is ready to be deployed to production. 
+* _**Closed**_ - Done! 🙌
 
-\*_When you create new issues that do \_not_ need need PM eyes, make sure to promptly move them into the appropriate pipeline.\_
+_\*When you create new issues that do not need need PM eyes, make sure to promptly move them into the appropriate pipeline._
 
 ## Assignees
 
