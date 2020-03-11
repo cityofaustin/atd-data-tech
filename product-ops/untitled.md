@@ -36,24 +36,20 @@ You can apply labels when you're looking at an individual issue by clicking the 
 
 Labels are critical for filtering on the Zenhub board, so **it's important to make sure every new issue has**:
 
-* **Workgroup** — the customer we're serving; `Workgroup: DTS` for internal work
-* **Service** — The service team the work will be handled by
-* **Project**  and/or **Product** — "Projects" refer to a substantial scope of related work that will reach a state of relative completion, such as [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253). "Products" are solutions that we continue to support over time, including all in-house applications. Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. 
+* _**Workgroup**_ — the customer we're serving; _**Workgroup: DTS**_ for internal work and _**Workgroup: ATD**_ for department-wide work
+* _**Service**_ — The service team the work will be handled by
+* _**Project**_ **** and/or _**Product**_ labels
+  * _**Projects**_ refer to a substantial scope of related work that will reach a state of relative completion, such as the [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253) 
+  * _**Products**_ are solutions that we continue to support over time, including all in-house applications, such as the Vision Zero Crash Data System
+  * Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to the Finance and Inventory App, so needed both ****_**Product**_ ****and ****_**Project**_ ****labels 
+  * Some issues, such as [this](https://github.com/cityofaustin/atd-data-tech/issues/1010), don't need either a _**Product**_ or _**Project**_ label. But most do! 
+* _**Type**_ — The type of request or task 
 
-Optional labels include:
+Optionally, these are very useful:
 
 * _**Impact**_ or _**Need**_ — to designate priority; _Need_ referring to features or enhancements while _Impact_ applies more to bugs
-* _**Type**_ — The type of request or task
 
-⚠️ Labels are removed when issues are transferred between repos. So make sure to move an issue to the correct repo _before_ labeling up.
-
-#### _Project_ labels
-
-Issues belonging to a particular project should be grouped with a _Project_ label so they can be easily filtered out for planning and reporting. When creating a new _Project_ label, use title case, add a brief description, and use the hex code `#86B1C6`.
-
-[![Screenshot of UI on the repo labels page where a new Project label is being added with the hex code \#007089](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-project-Github-label.png?raw=true?raw=true)](https://github.com/cityofaustin/atd-data-tech/blob/master/images/Create-project-Github-label.png?raw=true?raw=true)
-
-If a project spans multiple repos — for example a Knack application with a React frontend — create the labels in each repo and make sure they are exactly the same. Adding a label to an issue from the Zenhub board will create that label in that repo if it does not exist there already.
+If you find yourself making issues with the same labels over and over while you work on a project, you can create an issue template to use. \(need to explain\)
 
 ## Estimates
 
