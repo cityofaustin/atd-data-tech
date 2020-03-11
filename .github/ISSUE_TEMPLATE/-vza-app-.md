@@ -2,7 +2,7 @@
 name: "[VZA App]"
 about: Vision Zero in Action Knack App
 title: ''
-labels: 'Product: VZA App, Service: Apps, Workgroup: AMD, Workgroup: VZ'
+labels: 'Workgroup: AMD, Service: Apps, Workgroup: VZ, Product: Vision Zero in Action'
 assignees: ''
 
 ---
