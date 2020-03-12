@@ -1,11 +1,6 @@
 # Table of contents
 
 * [About Data & Technology Services](README.md)
-
-## Resources for ATD Staff
-
-* [Using Google as a City Employee](resources-for-atd-staff/using-google-as-a-city-employee.md)
-* [Working Remotely](resources-for-atd-staff/working-remotely.md)
 * [On-Boarding](on-boarding/README.md)
   * [New Employee Checklist](on-boarding/new-employee-checklist.md)
 
