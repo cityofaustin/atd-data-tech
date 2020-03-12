@@ -81,7 +81,9 @@ Cameron Road: `coa-atd-secure-wifi` — password in 1password
 
 ### VPN & Remote Access
 
-* CiscoAnyConnectVPN is the client we use to VPN onto the City network. Here is a [Mac installer](https://drive.google.com/open?id=18mmPsxuxaDBhIPlRCMVoMoiHRYyXMjSC) and [instructions for installing and configuring to work in OSX Catalina](https://docs.google.com/document/d/1_RoFPflbpzvWOuSq7g2WbNidgPkbWdTmIoa4Fftf94Q/edit#). 
+You need to be on the City of Austin internal network to access various resources such as shared network drives, the HR Portal, the original CitySpace, and many City of Austin Sharepoint sites.
+
+* CiscoAnyConnect VPN is the client we use to remotely connect to the City network from a Mac. Here is the installer, and  [Mac installer](https://drive.google.com/file/d/1YJFvFCGJIbXhgnl_omWwTGQR2dpmMyAo/view?usp=sharing) and [instructions for installing and configuring to work in OSX Catalina](https://docs.google.com/document/d/1_RoFPflbpzvWOuSq7g2WbNidgPkbWdTmIoa4Fftf94Q/edit#). 
 * CTM Help Desk [Remote Access Request Form](https://apps.austintexas.gov/helpdesk/remote/)
 
 ### Use of personal devices
