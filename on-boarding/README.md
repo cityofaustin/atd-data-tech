@@ -1,6 +1,6 @@
 # On-Boarding
 
-#### ​Welcome to the Austin Transportation Data & Technology Services team! 👋
+​Welcome to the Austin Transportation Data & Technology Services team! 👋
 
 Here's a bevy of links to get you started.​
 
@@ -31,9 +31,9 @@ Any private documents such as personnel-related files should be stored on the H 
 
 Nothing should be stored on your local drive — the Windows C drive or Mac HD. 🙅‍♀️ ⚠️
 
-#### **How to connect to network G Drive from Mac**
+#### **How to connect to network G Drive from Mac** <a id="g-drive-from-mac"></a>
 
-_You will need to be either hard-connected to the City network or_ [_connected via VPN_](https://github.com/cityofaustin/atd-data-tech/wiki/On-Boarding%3A-Intro#vpn--remote-access)_._ From Finder on Mac: _Go &gt; Connect to Server_ then type "smb://coacd.org/dfs/ATD" in the _Server Address_ field
+_You will need to be either hard-connected to the City network or_ [_connected via VPN_](https://atd-dts.gitbook.io/wiki/on-boarding#vpn-and-remote-access)_._ From Finder on Mac: _Go &gt; Connect to Server_ then type "smb://coacd.org/dfs/ATD" in the _Server Address_ field
 
 ## Austin Transportation
 
