@@ -2,7 +2,7 @@
 name: IT Support
 about: IT Support issues
 title: ''
-labels: 'Type: IT Support'
+labels: 'Type: IT Support, Service: Apps'
 assignees: ''
 
 ---
