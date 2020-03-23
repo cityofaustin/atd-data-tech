@@ -2,7 +2,7 @@
 name: "[All-Purpose] Feature"
 about: Request new functionality for a product
 title: 'Feature request: [Feature name]'
-labels: 'Type: Feature, Service: PM'
+labels: 'Service: PM, Type: Feature'
 assignees: ''
 
 ---
