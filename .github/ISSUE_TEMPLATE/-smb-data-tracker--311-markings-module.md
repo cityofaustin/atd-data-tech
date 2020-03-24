@@ -1,5 +1,5 @@
 ---
-name: "[SMB Data Tracker] 311 Markings module"
+name: "[SMB Data Tracker] 311 Markings Module"
 about: Suggest an idea for this project
 title: 'Feature: '
 labels: 'Need: 1-Must Have, Project: SMB 311 Module, Service: Apps, Type: Feature,
