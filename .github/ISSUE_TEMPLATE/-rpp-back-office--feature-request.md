@@ -1,5 +1,5 @@
 ---
-name: "[RPP Back Office] - Feature Request"
+name: "[RPP Back Office] Feature Request"
 about: Feature requests for RPP Back Office app
 title: ''
 labels: 'Product: RPP Back Office, Service: Apps, Type: Feature, Workgroup: PE'
