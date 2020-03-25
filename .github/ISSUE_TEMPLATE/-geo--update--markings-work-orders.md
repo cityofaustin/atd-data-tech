@@ -1,5 +1,5 @@
 ---
-name: 'Update: Markings work orders'
+name: '[Geo] Update: Markings work orders'
 about: General purpose markings work orders issue
 title: 'Update: Markings work orders mm/dd/yyyy'
 labels: 'Impact: 3-Minor, Service: Geo, Type: Data, Workgroup: SMB'
