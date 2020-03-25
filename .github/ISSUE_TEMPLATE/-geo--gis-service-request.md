@@ -1,5 +1,5 @@
 ---
-name: [Geo] GIS Service Request
+name: '[Geo] GIS Service Request'
 about: Template for GIS Service Requests
 title: GIS Service Request
 labels: 'Service: Geo'
