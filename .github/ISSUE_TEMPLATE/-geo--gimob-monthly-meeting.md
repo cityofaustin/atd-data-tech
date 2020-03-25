@@ -1,5 +1,5 @@
 ---
-name: GIMOB Monthly Meeting
+name: [Geo] GIMOB Monthly Meeting
 about: GIMOB is a monthly meeting that the GIS SPOC attends
 title: GIMOB Meeting - month year
 labels: 'Impact: 4-None, Service: Geo, Type: Meeting, Workgroup: DTS'
