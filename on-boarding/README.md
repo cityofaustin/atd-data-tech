@@ -8,7 +8,7 @@ Here's a bevy of links to get you started.​
 
 * [Data and Performance Hub](http://transportation.austintexas.io/) — Public-facing content, applications, and data
 * [DTS Portal](http://atd.knack.com/dts) — Service Requests, Data Inventory, Technician Equipment Tracker
-* [Data & Technology Services ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board?repos=138333607) — Project management tool; see [Github and Zenhub Basics guide](https://www.psychologytoday.com/us/therapists/chrissie-hartley-austin-tx/114219) 
+* [Data & Technology Services ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board?repos=138333607) — Project management tool; see [Github and Zenhub Basics guide](../product-ops/untitled.md) 
 
 ### Intranet & Wikis
 
