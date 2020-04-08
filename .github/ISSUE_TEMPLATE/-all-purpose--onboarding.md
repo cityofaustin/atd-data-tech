@@ -2,7 +2,7 @@
 name: "[All-Purpose] Onboarding"
 about: Onboard new DTS team member
 title: Onboard [job title]
-labels: 'Workgroup: DTS, Type: Operations'
+labels: 'Type: Operations, Workgroup: DTS'
 assignees: ''
 
 ---
@@ -36,6 +36,10 @@ assignees: ''
 - [ ] Introduction to DTS
 - [ ] Service Delivery Training
 
+### Calendar Invites
+- [ ] Upcoming Sprints
+- [ ] Recurring Sprint Retro and Sprint Planning meetings
+
 ### Communications
-- [ ] newsletter announcemen
-- [ ] email to Cameron Rd employees
+- [ ] Newsletter announcement
+- [ ] Email to Cameron Rd employees
