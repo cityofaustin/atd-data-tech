@@ -23,10 +23,13 @@
 | Keyboard | Hardware | DTS Systems Admin |
 | Mouse | Hardware | DTS Systems Admin |
 | Calendar - Monthly Team Meeting | Misc | DTS Admin |
+| Calendar - Sprints | Misc | DTS Supervisor |
+| Calendar - Sprint Retros and Reviews | Misc | DTS Supervisor |
 | Calendar - Supervisor 1:1 | Misc | DTS Supervisor |
 | Telecommute Approval | Misc | [Telework Checklist](https://github.com/cityofaustin/atd-data-tech/wiki/files/telework_checklist.pdf) & [Telework Request Form](https://github.com/cityofaustin/atd-data-tech/wiki/files/Telework_Request_Form_fillable.pdf) |
 | Website Bio | Misc | DTS Web Admin |
 | Tour | First Day |  |
 | Introductions | First Day |  |
-| Team Orientation Presentation | First Day |  |
+| Meeting - DTS Team Orientation  | First Day |  |
+| Meeting - DTS Zenhub Workflow  | First Week | Product Manager |
 
