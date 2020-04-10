@@ -13,7 +13,7 @@ Here's a bevy of links to get you started.​
 ### Intranet & Wikis
 
 * [Division intranet](https://cityofaustin.sharepoint.com/sites/ATD/DTS/default.aspx)
-* [Private GitBook page](https://atd-dts.gitbook.io/dts-service-desk-knowledge-base/-M4LYs5_gE0Lz-bPplhF/onboarding/general) - This page is for onboarding info that shouldn't be open to the public web
+* [Private GitBook page](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/general) - This page is for onboarding info that shouldn't be open to the public web
 
 ### Document storage and collaboration guidelines 📝 📚
 
