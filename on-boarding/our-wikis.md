@@ -7,6 +7,7 @@
 * [ATD Knack Operations](https://atd-dts.gitbook.io/atd-knack-operations/)
 * [ATD Geospatial](https://atd-dts.gitbook.io/atd-geospatial/)
 * [Open Data](https://atd-dts.gitbook.io/open-data/)
+* [ATD DTS Service Desk Knowledge Base \(internal\)](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/)
 
 ## External Wikis
 
