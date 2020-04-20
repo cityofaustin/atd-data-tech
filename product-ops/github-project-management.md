@@ -1,6 +1,10 @@
-# Github and Zenhub Basics
+---
+description: >-
+  The Data and Technology Services team is using Github and ZenHub for agile
+  project management. This is an overview of our process.
+---
 
-The Data and Technology Services team is using [Github](https://github.com/) and [ZenHub](https://www.zenhub.com/) for agile project management.
+# Github Project Management
 
 ## Set up
 
@@ -8,27 +12,30 @@ The Data and Technology Services team is using [Github](https://github.com/) and
 2. Have someone on the DTS team add you to the [City of Austin](https://github.com/cityofaustin) organization and the [Transportation](https://github.com/orgs/cityofaustin/teams/transportation) team as a Maintainer.
 3. Add the [ZenHub extension](https://www.zenhub.com/extension) to your browser.
 
-## Repos \[needs to be updated\]
+## Pipelines
 
-We organize our work into repositories. In a given repository:
+The Zenhub board uses a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-like format where issues are represented as cards and move across the board as they enter various stages of completion. Our workspace pipelines are:
 
-* The root directory stores version-controlled application code and assets
-* The wiki contains documentation for end users and/or developers
-* Issues are used to manage feature requests, bug reports, and all the work the project involves — stakeholder meetings, user research, testing,
-
-Most applications have their own repo, but there are three repos that we use to manage multiple projects and tasks:
-
-* [**atd-data-tech**](https://github.com/cityofaustin/atd-data-tech) — General DTS operations
-* [**atd-amanda**](https://github.com/cityofaustin/atd-amanda) — Projects built on the [Amanda](https://github.com/cityofaustin/atd-amanda/wiki) platform
-* [**atd-geospatial**](https://github.com/cityofaustin/atd-geospatial) — GIS and geodata projects
-
-You can see a full list of our repos [here](https://github.com/orgs/cityofaustin/teams/transportation/repositories) and instructions for setting up new repositories here.
+* **New Issues** - Awaiting triage by Level I Support or Product. 
+* **Icebox** - Recorded and understood, but not committed to. Lack evidence of overall value or applicability. We don't want to delete these and create a cycle of raising duplicate issues, so we keep them in our icebox with just enough information attached that we can pick it up some time in the future — if and when we choose to do so.
+* **Needs Scoping** - Potential projects or features that require clarification or exploration before presenting to builders for estimation and prioritizing.
+* **Backlog** - Issues that are ready to be tackled by the team when the time comes. This pipeline is prioritized: the higher an issue is on this list, the higher the priority. 
+* **On Deck** - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into On Deck.
+* **Blocked** - ****Issues that cannot be completed — often waiting on CTM or user feedback.
+* **In Progress** - This one is self-explanatory. Each Issue in this pipeline should have an assigned owner who is responsible for its completion.
+* **Blocked** - Issues that we intend to complete in the current sprint but have unmet dependencies — often awaiting CTM support or user feedback.
+* **Recurring** - 
+* **Review/QA** - Proposed as complete but awaiting approval  — code review and/or acceptance testing — before closure. 
+* **Ready to Deploy** - Code or configuration that is ready to be deployed to production. 
+* **Closed** - Done! 🙌
 
 ## Issues
 
 Tracking our work in issues not only helps us stay organized, it gives us data on where we're spending our time. To create an issue, click the green "New issue" button in the upper right on the _Issues_ page or our [Zenhub board](https://github.com/cityofaustin/atd-data-tech/blob/master/.github/settings.yml#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board).
 
 ![Screenshot of the Issues page with the &quot;New issue&quot; button circled. ](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-new-issue.png?raw=true)
+
+You will see a list of our custom issue templates. These are handy for creating bug reports, meetings, etc. with boilerplate information and structure. 
 
 ## Labels
 
@@ -45,11 +52,11 @@ Labels are critical for filtering on the Zenhub board, so **it's important to ma
   * Some issues, such as [this](https://github.com/cityofaustin/atd-data-tech/issues/1010), don't need either a _**Product**_ or _**Project**_ label. But most do! 
 * _**Type**_ — The type of request or task 
 
-Optionally, these are very useful:
+Optionally, these are very useful for bug reports and features:
 
 * _**Impact**_ or _**Need**_ — to designate priority; _Need_ referring to features or enhancements while _Impact_ applies more to bugs
 
-If you find yourself making issues with the same labels over and over while you work on a project, you can create an issue template to use. \(need to explain\)
+If you find yourself making issues with the same labels over and over while you work on a project, you consider creating an issue template to use.
 
 ## Estimates
 
@@ -73,29 +80,18 @@ Epics do not need estimates assigned to them manually. Instead, the effort is re
 
 In the end, epics can be used to group whatever makes sense for you and your collaborators. Some people prefer [issues with task lists inside them](https://github.com/cityofaustin/techstack/issues/616). That's fine as long as the issue doesn't end up needing more effort than we can represent in our [estimate scale](https://github.com/cityofaustin/atd-data-tech/wiki/Project-Management:-Github-and-ZenHub-Basics#estimates) for a single issue.
 
-## Pipelines
-
-The Zenhub board uses a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-like format where issues are represented as cards and move across the board as they enter various stages of completion. Our workspace pipelines are:
-
-* _**New Issues**_ - Awaiting triage by a product manager.\*
-* _**Icebox**_ - Recorded and understood, but not committed to. Lack evidence of overall value or applicability. We don't want to delete these and create a cycle of raising duplicate issues, so we keep them in our icebox with just enough information attached that we can pick it up some time in the future — if and when we choose to do so.
-* _**Needs Scoping**_ - Potential projects that require clarification or exploration. Gathering the information we will need to prioritize and assign these projects moving forward might entail a phone call, an email, or a discovery meeting.
-* _**Backlog**_ - Defined issues that are ready to be tackled by the team when the time comes. This pipeline is prioritized: the higher an issue is on this list, the higher the priority. Higher-priority items will typically have more in-depth information attached.
-* _**On Deck**_ - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into _On Deck_.
-* _**In Progress**_ - This one is self-explanatory. ;\) Each Issue in this pipeline should have an assigned owner who is responsible for its completion.
-* _**Blocked** -_ Issues that we intend to complete in the current sprint but have unmet dependencies — often awaiting CTM support or user feedback.
-* _**Recurring**_ - 
-* _**Review/QA**_ - Proposed as complete but awaiting approval before closure. Approval takes various forms depending on issue type. For issues connected to code requests, this might be a code review. For feature implementations, this may be acceptance testing.
-* _**Ready to Deploy**_ - Code or configuration that is ready to be deployed to production. 
-* _**Closed**_ - Done! 🙌
-
-_\*When you create new issues that do not need need PM eyes, make sure to promptly move them into the appropriate pipeline._
-
 ## Assignees
 
 An issue should be assigned to the person/people who will tackle it. This is important as it allows everyone to easily filter down to issues they are responsible for.
 
-### Bulk editing issues
+## Learning More
 
-_TO DO: Explain how to do stuff from the Issues page or_ [_our ZenHub board_](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board)_._
+Here are some additional guides for some of our most relied-upon Zenhub functionality:
+
+* [Filtering the Board](https://help.zenhub.com/support/solutions/articles/43000498508--filtering-the-board)
+* "Use multi-action to make bulk Issue updates" on [this page](https://help.zenhub.com/support/solutions/articles/43000031098-get-to-know-board-features-and-functionality)
+
+The Zenhub docs are solid, so we encourage you to peruse at your leisure. Keep in mind that some functionality they document, such as renaming and reordering pipelines, will affect the entire workspace and warrant a team discussion. That said, we're always looking for ways to improve our process, so if you come across an approach or functionality you think is promising, let us know!
+
+### 
 
