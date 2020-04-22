@@ -43,18 +43,18 @@ You can apply labels when you're looking at an individual issue by clicking the 
 
 Labels are critical for filtering on the Zenhub board, so **it's important to make sure every new issue has**:
 
-* _**Workgroup**_ — the customer we're serving; _**Workgroup: DTS**_ for internal work and _**Workgroup: ATD**_ for department-wide work
-* _**Service**_ — The service team the work will be handled by
-* _**Project**_ **** and/or _**Product**_ labels
-  * _**Projects**_ refer to a substantial scope of related work that will reach a state of relative completion, such as the [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253) 
-  * _**Products**_ are solutions that we continue to support over time, including all in-house applications, such as the Vision Zero Crash Data System
-  * Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to the Finance and Inventory App, so needed both ****_**Product**_ ****and ****_**Project**_ ****labels 
-  * Some issues, such as [this](https://github.com/cityofaustin/atd-data-tech/issues/1010), don't need either a _**Product**_ or _**Project**_ label. But most do! 
-* _**Type**_ — The type of request or task 
+* **Workgroup** — the customer we're serving; **Workgroup: DTS** for internal work and **Workgroup: ATD** for department-wide work
+* **Service** — The service team the work will be handled by
+* **Project**  and/or **Product** labels
+  * **Projects** refer to a substantial scope of related work that will reach a state of relative completion, such as the [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253) 
+  * **Products** are solutions that we continue to support over time, including all in-house applications, such as the Vision Zero Crash Data System
+  * Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to AMD Data Tracker and the Finance and Inventory App, so needed both **Product** and **Project** labels 
+  * Some issues, such as [this](https://github.com/cityofaustin/atd-data-tech/issues/1010), don't need either a **Product** or **Project** label. But most do! 
+* **Type** — The type of request or task 
 
 Optionally, these are very useful for bug reports and features:
 
-* _**Impact**_ or _**Need**_ — to designate priority; _Need_ referring to features or enhancements while _Impact_ applies more to bugs
+* **Impact** or **Need** — to designate priority; Need referring to features or enhancements while Impact applies more to bugs
 
 If you find yourself making issues with the same labels over and over while you work on a project, you consider creating an issue template to use.
 
