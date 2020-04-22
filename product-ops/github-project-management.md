@@ -91,7 +91,7 @@ Here are some additional guides for some of our most relied-upon Zenhub function
 * [Filtering the Board](https://help.zenhub.com/support/solutions/articles/43000498508--filtering-the-board)
 * "Use multi-action to make bulk Issue updates" on [this page](https://help.zenhub.com/support/solutions/articles/43000031098-get-to-know-board-features-and-functionality)
 
-The Zenhub docs are solid, so we encourage you to peruse at your leisure. Keep in mind that some functionality they document, such as renaming and reordering pipelines, will affect the entire workspace and warrant a team discussion. That said, we're always looking for ways to improve our process, so if you come across an approach or functionality you think is promising, let us know!
+The [Zenhub docs](https://help.zenhub.com/support/home) are super-solid and we encourage you to peruse at your leisure. Keep in mind that some functionality—renaming and reordering pipelines, for example—will affect the workspace for the whole team. That said, we're always looking for ways to improve our process, so if you come across an approach or functionality you think is promising, let us know!
 
 ### 
 
