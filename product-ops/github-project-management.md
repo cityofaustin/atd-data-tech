@@ -22,7 +22,7 @@ The Zenhub board uses a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-lik
 * **Needs Scoping** - Potential projects or features that require clarification or exploration before presenting to builders for estimation and prioritizing.
 * **Backlog** - Issues that are ready to be tackled by the team when the time comes. This pipeline is prioritized: the higher an issue is on this list, the higher the priority. 
 * **On Deck** - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into On Deck.
-* **Blocked** - ****Issues that cannot be completed — often waiting on CTM or user feedback.
+* **Blocked** - _\*\*_Issues that cannot be completed — often waiting on CTM or user feedback.
 * **In Progress** - This one is self-explanatory. Each Issue in this pipeline should have an assigned owner who is responsible for its completion.
 * **Blocked** - Issues that we intend to complete in the current sprint but have unmet dependencies — often awaiting CTM support or user feedback.
 * **Recurring** - 
@@ -36,11 +36,11 @@ Tracking our work in issues not only helps us stay organized, it gives us data o
 
 ![Screenshot of the Issues page with the &quot;New issue&quot; button circled. ](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-new-issue.png?raw=true)
 
-You will see a list of our custom issue templates. These are handy for creating bug reports, meetings, etc. with boilerplate information and structure. 
+You will see a list of our custom issue templates. These are handy for creating bug reports, meetings, etc. with boilerplate information and structure.
 
 ## Labels
 
-You can apply labels when you're looking at an individual issue by clicking the "Labels" link on the righthand side. You can also add labels in bulk from the __[_Issues_ page](https://github.com/cityofaustin/atd-data-tech/issues) or [our ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board). 
+You can apply labels when you're looking at an individual issue by clicking the "Labels" link on the righthand side. You can also add labels in bulk from the _\_\[\_Issues_ page\]\([https://github.com/cityofaustin/atd-data-tech/issues](https://github.com/cityofaustin/atd-data-tech/issues)\) or [our ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board).
 
 Labels are critical for filtering on the Zenhub board, so **it's important to make sure every new issue has**:
 
@@ -93,6 +93,4 @@ Here are some additional guides for some of our most relied-upon Zenhub function
 * "Use multi-action to make bulk Issue updates" on [this page](https://help.zenhub.com/support/solutions/articles/43000031098-get-to-know-board-features-and-functionality)
 
 The [Zenhub docs](https://help.zenhub.com/support/home) are super-solid and we encourage you to peruse at your leisure. Keep in mind that some functionality—renaming and reordering pipelines, for example—will affect the workspace for the whole team. That said, we're always looking for ways to improve our process, so if you come across an approach or functionality you think is promising, let us know!
-
-### 
 

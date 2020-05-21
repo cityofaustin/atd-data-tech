@@ -15,5 +15,3 @@
 * [Signs & Markings Tracker](https://atd-dts.gitbook.io/signs-and-markings-tracker-help-guides/)
 * [SXSW Command Center](https://atd-dts.gitbook.io/command-center-resources/)
 
-
-

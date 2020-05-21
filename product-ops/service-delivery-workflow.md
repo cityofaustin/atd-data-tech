@@ -1,10 +1,8 @@
 # DTS Service Delivery Workflow
 
-
-
 ## New Project Request
 
- Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts#new-service-request/), written on behalf of a customer, or documenting an idea from the DTS team, new requests go to the “New Issues” pipeline.
+Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts#new-service-request/), written on behalf of a customer, or documenting an idea from the DTS team, new requests go to the “New Issues” pipeline.
 
 ### Triage
 
@@ -33,7 +31,7 @@
   * Recommended approach
   * Level of effort
 
-### Product 
+### Product
 
 * Discuss value and effort and record in [DTS Prioritization Matrix](https://docs.google.com/spreadsheets/d/1o0Q_xIx0c1njAg6opnAJwyCIhAkU7W-hK_7P8jgMCug/edit#gid=0)
 * Circle back with customer

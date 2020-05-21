@@ -1,6 +1,12 @@
 # Table of contents
 
-* [About Data & Technology Services](README.md)
+* [Welcome to the Team](README.md)
+* [Your First Day](your-first-day.md)
+* [Setting Up Your Workspace](setting-up-your-workspace.md)
+* [Document storage and collaboration 📝 📚](document-storage-and-collaboration.md)
+* [Slack](slack.md)
+* [Timesheets](timesheets.md)
+* [HR Benefits & Resources](hr-benefits-and-resources.md)
 * [On-Boarding](on-boarding/README.md)
   * [New Employee Checklist](on-boarding/new-employee-checklist.md)
   * [Our Wikis](on-boarding/our-wikis.md)
@@ -20,5 +26,5 @@
 * [Github Project Management](product-ops/github-project-management.md)
 * [DTS Service Delivery Workflow](product-ops/service-delivery-workflow.md)
 * [Release Management Process](product-ops/release-management-process.md)
-* [Resetting your CoA password remotely with a macOS machine & Citrix AnyConnect](resetting-your-coa-password-remotely-with-a-macos-machine-and-citrix-anyconnect.md)
+* [Resetting your CoA password remotely with a macOS machine & Citrix AnyConnect](product-ops/resetting-your-coa-password-remotely-with-a-macos-machine-and-citrix-anyconnect.md)
 

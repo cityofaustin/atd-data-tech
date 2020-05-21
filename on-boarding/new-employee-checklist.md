@@ -1,7 +1,5 @@
 # New Employee Checklist
 
-
-
 | Todo | Category | How |
 | :--- | :--- | :--- |
 | Network account request | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) |
@@ -30,6 +28,6 @@
 | Website Bio | Misc | DTS Web Admin |
 | Tour | First Day |  |
 | Introductions | First Day |  |
-| Meeting - DTS Team Orientation  | First Day |  |
-| Meeting - DTS Zenhub Workflow  | First Week | Product Manager |
+| Meeting - DTS Team Orientation | First Day |  |
+| Meeting - DTS Zenhub Workflow | First Week | Product Manager |
 
