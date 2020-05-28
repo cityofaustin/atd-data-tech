@@ -15,7 +15,7 @@ High-level overview of the challenge, strategy, and outcome. 1-3 sentences. This
 [Information from New Application request ticket]
 
 ### Resources
-- Link to folder in Drive where project docs are stored
+- Link to folder in Drive (in [here](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5_SX8nqBThx)!) where project/product docs are stored 
 - Link to Project Brief - [template here](https://docs.google.com/document/d/1omjuT_T9ZRO87yFJ_EQ3IFxWL8jAdoLCOTSknU7PGyE/edit#heading=h.h5hsw4rbm6wg)
 
 <!-- Don't forget to add a new "Project:" or "Product:" label here: https://github.com/cityofaustin/atd-data-tech/labels. Use the hex code #86B1C6. -->

@@ -2,8 +2,8 @@
 name: "[RPP Back Office] Feature Request"
 about: Feature requests for RPP Back Office app
 title: ''
-labels: 'Workgroup: PE, Type: Feature, Service: Apps, Product: Residential Parking
-  Permit Digitization'
+labels: 'Product: Residential Parking Permit Digitization, Service: Apps, Type: Feature,
+  Workgroup: PE'
 assignees: dianamartin
 
 ---
