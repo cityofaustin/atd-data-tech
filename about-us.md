@@ -1,10 +1,20 @@
+---
+description: Testing testing testing out Gitbook for this content
+---
+
 # About Us
 
 ## Our Team
 
+### John 
+
 ![John Clary, Supervisor](https://data.mobility.austin.gov/components/images/headshots/john_clary.jpeg)
 
-![Scott Reedy, Network Systems Administrator](https://data.mobility.austin.gov/components/images/headshots/scott_reedy.jpeg)
+### Scott
+
+![Headshots don&apos;t look wonderful on desktop. &#x1F615;](https://data.mobility.austin.gov/components/images/headshots/scott_reedy.jpeg)
+
+Maybe they would look better with little Bios? Isamu Noguchi was a Japanese American artist and landscape architect whose artistic career spanned six decades, from the 1920s onward.
 
 ## Our Work
 
@@ -15,6 +25,8 @@ This project seeks to centralize and streamline the management of ATD's Vision Z
 ### [Traffic Registry Digitization](https://github.com/cityofaustin/atd-data-tech/issues/129)
 
 This is an effort to digitize all of our street regulations in a geospatial database, as well as set up sustainable processes to keep the Traffic Registry accurately maintained. The registry includes more than 50k regulations, and is currently managed in Access DB, without any spatial data features.
+
+![Full width banner-y images could liven things up?](.gitbook/assets/image%20%2818%29.png)
 
 ## Articles
 
