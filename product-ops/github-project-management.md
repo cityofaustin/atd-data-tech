@@ -22,17 +22,16 @@ The Zenhub board uses a [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-lik
 * **Needs Scoping** - Potential projects or features that require clarification or exploration before presenting to builders for estimation and prioritizing.
 * **Backlog** - Issues that are ready to be tackled by the team when the time comes. This pipeline is prioritized: the higher an issue is on this list, the higher the priority. 
 * **On Deck** - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into On Deck.
-* **Blocked** - _\*\*_Issues that cannot be completed — often waiting on CTM or user feedback.
+* **Blocked** - Issues that cannot be completed — often waiting on CTM or user feedback.
 * **In Progress** - This one is self-explanatory. Each Issue in this pipeline should have an assigned owner who is responsible for its completion.
-* **Blocked** - Issues that we intend to complete in the current sprint but have unmet dependencies — often awaiting CTM support or user feedback.
-* **Recurring** - 
+* **Ongoing** - Continually supported products and activities.
 * **Review/QA** - Proposed as complete but awaiting approval  — code review and/or acceptance testing — before closure. 
 * **Ready to Deploy** - Code or configuration that is ready to be deployed to production. 
 * **Closed** - Done! 🙌
 
 ## Issues
 
-Tracking our work in issues not only helps us stay organized, it gives us data on where we're spending our time. To create an issue, click the green "New issue" button in the upper right on the _Issues_ page or our [Zenhub board](https://github.com/cityofaustin/atd-data-tech/blob/master/.github/settings.yml#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board).
+Tracking our work in issues not only helps us stay organized, it gives us data on where we're spending our time. To create an issue, click the green "New issue" button in the upper right corner of the ["Issues" page](https://github.com/cityofaustin/atd-data-tech/issues) or our [Zenhub board](https://github.com/cityofaustin/atd-data-tech#zenhub).
 
 ![Screenshot of the Issues page with the &quot;New issue&quot; button circled. ](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-new-issue.png?raw=true)
 
@@ -40,24 +39,23 @@ You will see a list of our custom issue templates. These are handy for creating 
 
 ## Labels
 
-You can apply labels when you're looking at an individual issue by clicking the "Labels" link on the righthand side. You can also add labels in bulk from the _\_\[\_Issues_ page\]\([https://github.com/cityofaustin/atd-data-tech/issues](https://github.com/cityofaustin/atd-data-tech/issues)\) or [our ZenHub board](https://github.com/cityofaustin/atd-data-tech#workspaces/data--tech-services-5caf7dc6ecad11531cc418ef/board).
+You can apply labels when you're looking at an individual issue by clicking the "Labels" heading in the righthand sidebar. You can also [apply labels in bulk from on our ZenHub board](https://www.zenhub.com/blog/task-board-bulk-actions/).
 
-Labels are critical for filtering on the Zenhub board, so **it's important to make sure every new issue has**:
+Labels make it possible for us to view related issues across the Zenhub pipelines. For example, during Apps Team Sprint Planning we filter down to  `Service: Apps` and during our periodic meetings with AMD we use the `Workgroup: AMD` label to look at all the work — across teams, of all sizes — that we're doing for them. 
 
-* **Workgroup** — the customer we're serving; **Workgroup: DTS** for internal work and **Workgroup: ATD** for department-wide work
-* **Service** — The service team the work will be handled by
+All to say: It's important to make sure issues are properly labeled. 
+
+* **Workgroup** — the customer we're serving; `Workgroup: DTS` for internal work and `Workgroup: ATD` for department-wide work
+* **Service** — The DTS service team the work will be handled by
 * **Project**  and/or **Product** labels
   * **Projects** refer to a substantial scope of related work that will reach a state of relative completion, such as the [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253) 
   * **Products** are solutions that we continue to support over time, including all in-house applications, such as the Vision Zero Crash Data System
   * Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to AMD Data Tracker and the Finance and Inventory App, so needed both **Product** and **Project** labels 
-  * Some issues, such as [this](https://github.com/cityofaustin/atd-data-tech/issues/1010), don't need either a **Product** or **Project** label. But most do! 
 * **Type** — The type of request or task 
 
 Optionally, these are very useful for bug reports and features:
 
-* **Impact** or **Need** — to designate priority; Need referring to features or enhancements while Impact applies more to bugs
-
-If you find yourself making issues with the same labels over and over while you work on a project, you consider creating an issue template to use.
+* **Impact** or **Need** — to designate priority; **Need** referring to features or enhancements while **Impact** applies more to bug
 
 ## Estimates
 
