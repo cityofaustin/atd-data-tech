@@ -6,15 +6,12 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 
 ### Triage
 
-* * Confirm requestor authority and get clarification from customer if needed
-  * Create issue for Intake Meeting
-    * Specify due date
-    * Assign to PM
-    * Apply appropriate milestone and move to _**Backlog**_ or _**On Deck**_ pipeline
-  * Add an _Index_ label
-  * Update issue to match [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=&labels=Index&template=project-index.md)
-  * Add _Product_ or _Project_ label [here](https://github.com/cityofaustin/atd-data-tech/labels). Use the hex code \#86B1C6.
-  * Create new Drive folder in [_ATD DTS &gt; Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5_SX8nqBThx) and copy over docs from [_Project Template_](https://drive.google.com/drive/folders/1SopoHWvd3IUgxaqq_KLMccXFEGBm7vtZ)
+* Confirm requestor authority and get clarification from customer if needed
+* Create issue for Intake Meeting
+  * Specify due date
+  * Assign to PM
+  * Apply appropriate milestone and move to _**Backlog**_ or _**On Deck**_ pipeline
+* Add an _Index_ label
 * Move to _**Needs Scoping**_ pipeline
 
 {% hint style="info" %}
@@ -47,11 +44,13 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 
 ### Activation
 
-* Assigned PM schedules Intake Meeting,
-* Prepare
+* Update Github issue to match [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=&labels=Index&template=project-index.md)
+* Add _Product_ or _Project_ label [here](https://github.com/cityofaustin/atd-data-tech/labels). Use the hex code \#86B1C6.
 * Add _Active_ label so it appears at [https://data.mobility.austin.gov/](https://data.mobility.austin.gov/)
+* Create new Drive folder in [_ATD DTS &gt; Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5_SX8nqBThx) and copy over docs from [_Project Template_](https://drive.google.com/drive/folders/1SopoHWvd3IUgxaqq_KLMccXFEGBm7vtZ)
+* Assigned PM schedules Kickoff Meeting
 
-## Feature or Enhancement
+## **Feature or Enhancement**
 
 ### Triage
 
