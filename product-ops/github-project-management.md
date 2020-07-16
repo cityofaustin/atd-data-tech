@@ -39,15 +39,11 @@ You will see a list of our custom issue templates. These are handy for creating 
 
 ### Issue Titles
 
-Issue titles requiring that all issue titles be a verb phrase means that Product Indexes
+Issue titles should begin with a verb and summarize what we will accomplish by completing the issue. This standardization is helpful when viewing many issues at a time, like during Sprint Planning. Project/product indexes are an exception and should begin with `Product:` or `Project:`. 
 
-* there is more standardization of issue title formatting
-* there is a higher bar for summarizing the body of an issue in its title
-* there is more likelihood that an issue has a clear "success criterion" defining when it can be closed
-
-### Product and Project Indexes
-
-We maintain all the information about our Projects or Products Project Product IndexCentral place to access all information for a project
+{% hint style="info" %}
+We maintain all the information about a particular projects or products a **Product** or **Project Index** issue. You can peruse them all [here](https://github.com/cityofaustin/atd-data-tech/issues?q=label%3AIndex+). 
+{% endhint %}
 
 ## Labels
 
