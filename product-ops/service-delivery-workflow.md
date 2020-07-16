@@ -1,6 +1,6 @@
 # DTS Service Delivery Workflow
 
-## New Project Request
+## New Project or Product Request
 
 Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts#new-service-request/), written on behalf of a customer, or documenting an idea from the DTS team, new requests go to the “New Issues” pipeline.
 
@@ -16,6 +16,10 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
   * Add _Product_ or _Project_ label [here](https://github.com/cityofaustin/atd-data-tech/labels). Use the hex code \#86B1C6.
   * Create new Drive folder in [_ATD DTS &gt; Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5_SX8nqBThx) and copy over docs from [_Project Template_](https://drive.google.com/drive/folders/1SopoHWvd3IUgxaqq_KLMccXFEGBm7vtZ)
 * Move to _**Needs Scoping**_ pipeline
+
+{% hint style="info" %}
+**Products** are the solutions we build for our customers, whether Knack apps, AMANDA apps, or custom software and data systems. We improve and extend our products over time so that they they are easy to use and continuously create value for ATD as business needs change. A **project** is a temporary endeavor — anything from identifying a vendor solution to building a major feature for an existing Product, to overhauling a dataset.
+{% endhint %}
 
 ### Scoping
 

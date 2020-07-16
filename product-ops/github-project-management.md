@@ -37,6 +37,18 @@ Tracking our work in issues not only helps us stay organized, it gives us data o
 
 You will see a list of our custom issue templates. These are handy for creating bug reports, meetings, etc. with boilerplate information and structure.
 
+### Issue Titles
+
+Issue titles requiring that all issue titles be a verb phrase means that Product Indexes
+
+* there is more standardization of issue title formatting
+* there is a higher bar for summarizing the body of an issue in its title
+* there is more likelihood that an issue has a clear "success criterion" defining when it can be closed
+
+### Product and Project Indexes
+
+We maintain all the information about our Projects or Products Project Product IndexCentral place to access all information for a project
+
 ## Labels
 
 You can apply labels when you're looking at an individual issue by clicking the "Labels" heading in the righthand sidebar. You can also [apply labels in bulk from on our ZenHub board](https://www.zenhub.com/blog/task-board-bulk-actions/).
