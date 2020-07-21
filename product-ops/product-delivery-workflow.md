@@ -26,7 +26,7 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 * Prepare [Intake Meeting Agenda](https://docs.google.com/document/d/1AcjxHv6XCEutSAIzNebnxNR9EL8CORiHrVfNlQuChII/edit#heading=h.f4j2i9aovme)
 * Meet and take notes; photos/recording may also be helpful
 * Add notes/photos/recording to Github issue
-* Update issue description to ensure it fully summarizes request
+* If necessary, update issue description to ensure it clearly summarizes request
 
 ### Builder Huddle
 
