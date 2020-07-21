@@ -25,16 +25,18 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 * Assigned PM schedules Intake Meeting; Ideally this will include actual users as well as the workgroup manager
 * Prepare [Intake Meeting Agenda](https://docs.google.com/document/d/1AcjxHv6XCEutSAIzNebnxNR9EL8CORiHrVfNlQuChII/edit#heading=h.f4j2i9aovme)
 * Meet and take notes; photos may also be helpful
+* Add 👆to Github issue
+* Update issue description to ensure it fully summarizes request
 
 ### Builder Huddle
 
-* Schedule meeting with lead from each builder team and other PMs; could be very helpful to include any other builders likely to be working on the project
+* Schedule meeting with lead from each builder team and other PMs; could be  helpful to include any other builders likely to be working on the project
 * Prepare summary of request; [example](https://docs.google.com/presentation/d/1brqKe0IfavZ4K8Dp2jv1QBW_Kfa7umDROOiQ2lHc67I/edit#slide=id.p)
 * Meet and discuss
   * Recommended approach
   * Level of effort
 
-### Product
+### Product Work Session
 
 * Discuss value and effort and record in [DTS Prioritization Matrix](https://docs.google.com/spreadsheets/d/1o0Q_xIx0c1njAg6opnAJwyCIhAkU7W-hK_7P8jgMCug/edit#gid=0)
 * Circle back with customer
