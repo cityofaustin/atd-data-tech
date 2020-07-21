@@ -24,7 +24,7 @@
 ## Product Ops
 
 * [Github Project Management](product-ops/github-project-management.md)
-* [DTS Service Delivery Workflow](product-ops/service-delivery-workflow.md)
+* [Product Delivery Workflow](product-ops/product-delivery-workflow.md)
 * [Release Management Process](product-ops/release-management-process.md)
 * [Resetting your CoA password remotely with a macOS machine & Citrix AnyConnect](product-ops/resetting-your-coa-password-remotely-with-a-macos-machine-and-citrix-anyconnect.md)
 
