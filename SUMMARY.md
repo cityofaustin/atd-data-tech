@@ -1,15 +1,19 @@
 # Table of contents
 
-* [Welcome to the Team](README.md)
-* [Your First Day](your-first-day.md)
-* [Setting Up Your Workspace](setting-up-your-workspace.md)
-* [Document storage and collaboration 📝 📚](document-storage-and-collaboration.md)
+* [About Us](README.md)
+* [Our Wikis 📚](our-wikis.md)
+* [Document Storage 🗄️](document-storage.md)
 * [Slack](slack.md)
-* [Timesheets](timesheets.md)
+* [Network Access](network-access.md)
 * [HR Benefits & Resources](hr-benefits-and-resources.md)
-* [On-Boarding](on-boarding/README.md)
-  * [New Employee Checklist](on-boarding/new-employee-checklist.md)
-  * [Our Wikis](on-boarding/our-wikis.md)
+* [Timesheets](timesheets.md)
+
+## Onboarding
+
+* [Your First Day](onboarding/your-first-day.md)
+* [New Employee Checklist](onboarding/new-employee-checklist.md)
+* [Setting Up Your Workspace](onboarding/setting-up-your-workspace.md)
+* [Onboarding Links](onboarding/on-boarding-links.md)
 
 ## Developer
 
@@ -26,9 +30,4 @@
 * [Github Project Management](product-ops/github-project-management.md)
 * [Product Delivery Workflow](product-ops/product-delivery-workflow.md)
 * [Release Management Process](product-ops/release-management-process.md)
-* [Resetting your CoA password remotely with a macOS machine & Citrix AnyConnect](product-ops/resetting-your-coa-password-remotely-with-a-macos-machine-and-citrix-anyconnect.md)
-
----
-
-* [About Us](about-us.md)
 
