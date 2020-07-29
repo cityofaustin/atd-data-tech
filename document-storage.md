@@ -14,16 +14,17 @@ GIS files, Visio documents, and other files that can only be used on a Windows o
 
 ## Sensitive Information
 
-Sensitive information should be stored on the H Drive. This includes:
+Sensitive information should be stored on the H Drive. Private employee information such as personnel-related files 
 
-* Private employee information such as personnel-related files 
-* [CJIS](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center) and [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) data.
+
 
 ## Everything Else
 
 Other documents can be stored either in the cloud or on the [ATD departmental network G drive](https://coacd.org/dfs/ATD), whichever is most practical for the team and customer.
 
-Nothing should be stored on your local drive — the Windows C drive or Mac HD. 🙅‍♀️ ⚠️
+{% hint style="info" %}
+Be aware that anything stored on your local drive — the Windows C drive or Mac HD — is not backed up or accessible via other devices.  
+{% endhint %}
 
 ## **How to Connect to Network Drives on a Mac**
 
