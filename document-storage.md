@@ -14,9 +14,8 @@ GIS files, Visio documents, and other files that can only be used on a Windows o
 
 ## Sensitive Information
 
-Sensitive information should be stored on the H Drive. Private employee information such as personnel-related files 
-
-
+* Private employee information such as personnel-related files should be stored on the H Drive. 
+* [CJIS](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center) and [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) data should be stored on the G Drive or 
 
 ## Everything Else
 
