@@ -47,8 +47,8 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 ### Activation
 
 * Update Github issue to match [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=&labels=Index&template=project-index.md)
-* Add _Product_ or _Project_ label [here](https://github.com/cityofaustin/atd-data-tech/labels). Use the hex code \#86B1C6.
-* Add _Active_ label so it appears at [https://data.mobility.austin.gov/](https://data.mobility.austin.gov/)
+* Add _Product_ or _Project_ label [here](https://github.com/cityofaustin/atd-data-tech/labels) with the hex code \#3D3D3D
+* Add _Active_ label so it appears at [https://data.mobility.austin.gov/about](https://data.mobility.austin.gov/about/)
 * Create new Drive folder in [_ATD DTS &gt; Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5_SX8nqBThx) and copy over docs from [_Project Template_](https://drive.google.com/drive/folders/1SopoHWvd3IUgxaqq_KLMccXFEGBm7vtZ)
 * Assigned PM schedules Kickoff Meeting
 
