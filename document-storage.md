@@ -28,10 +28,10 @@ Be aware that anything stored on your local drive — the Windows C drive or Mac
 
 ## **How to Connect to Network Drives on a Mac**
 
-_You will need to be either hard-connected to the City network or_ [_connected via VPN_](https://atd-dts.gitbook.io/wiki/on-boarding#vpn-and-remote-access)_._ From Finder on Mac: _Go &gt; Connect to Server_ then type the address in the _Server Address_ field:
+_You will need to be either hard-connected to the City network or_ [_connected via VPN_](https://atd-dts.gitbook.io/wiki/on-boarding#vpn-and-remote-access)_._ From Finder on Mac: _Go &gt; Connect to Server_ then type the address in the _Server Address_ field
 
-* G Drive: `smb://coacd.org/dfs/ATD`
 * H Drive: 
+* G Drive: `smb://coacd.org/dfs/ATD`
 
 ![](.gitbook/assets/screen-shot-2020-07-29-at-12.38.07-pm.png)
 
