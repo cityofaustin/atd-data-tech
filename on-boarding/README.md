@@ -1,8 +1,8 @@
+---
+description: "​Welcome to the Austin Transportation Data & Technology Services team! \U0001F44BHere's a bevy of links to get you started.​"
+---
+
 # On-Boarding
-
-​Welcome to the Austin Transportation Data & Technology Services team! 👋
-
-Here's a bevy of links to get you started.​
 
 ## Data & Technology Services
 
@@ -14,26 +14,6 @@ Here's a bevy of links to get you started.​
 
 * [Division intranet](https://cityofaustin.sharepoint.com/sites/ATD/DTS/default.aspx)
 * [Private GitBook page](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/general) - This page is for onboarding info that shouldn't be open to the public web
-
-### Document storage and collaboration guidelines 📝 📚
-
-​To prevent the proliferation of different versions of multi-editor documents, all collaborative documents are stored on the cloud:
-
-* [Document templates](https://drive.google.com/open?id=1Txqc8xGkwa3h9lrRoXGzGjLlVo0S8DA6)
-* ​[DTS Google Drive](https://drive.google.com/drive/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7)​ - [​account setup](https://github.com/cityofaustin/atd-data-tech/wiki/Using-Google-as-a-City-employee)​​
-* [DTS Sharepoint/Teams drive](https://teams.microsoft.com/_#/tab::7dc26d1f-21aa-43dd-9dd9-ab25188b15a7/General?threadId=19:6125816a2bd34142a9b23fc916a968b8%40thread.skype&ctx=channel)
-
-Other documents can be stored either in the cloud or on the [ATD departmental network G drive](https://coacd.org/dfs/ATD), whichever is most practical for the project team and customer.
-
-GIS files are stored on the [ATD departmental network G drive](https://coacd.org/dfs/ATD).
-
-Any private documents such as personnel-related files should be stored on the H drive.
-
-Nothing should be stored on your local drive — the Windows C drive or Mac HD. 🙅‍♀️ ⚠️
-
-#### **How to connect to network G Drive from Mac** <a id="g-drive-from-mac"></a>
-
-_You will need to be either hard-connected to the City network or_ [_connected via VPN_](https://atd-dts.gitbook.io/wiki/on-boarding#vpn-and-remote-access)_._ From Finder on Mac: _Go &gt; Connect to Server_ then type "smb://coacd.org/dfs/ATD" in the _Server Address_ field
 
 ## Austin Transportation
 
