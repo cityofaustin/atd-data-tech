@@ -15,7 +15,7 @@ GIS files, Visio documents, and other files that can only be used on a Windows o
 ## Sensitive Information
 
 * Private employee information such as personnel-related files should be stored on the H Drive. 
-* [CJIS](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center) and [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) data should be stored on the G Drive or 
+* If you are handling [CJIS](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center) or [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) data, you must take an annual training and follow a specific protocol. 
 
 ## Everything Else
 
@@ -29,7 +29,7 @@ Be aware that anything stored on your local drive — the Windows C drive or Mac
 
 _You will need to be either hard-connected to the City network or_ [_connected via VPN_](https://atd-dts.gitbook.io/wiki/on-boarding#vpn-and-remote-access)_._ From Finder on Mac: _Go &gt; Connect to Server_ then type the address in the _Server Address_ field
 
-* H Drive: 
+* H Drive: `smb://coacd.org/home/PWDhome/[your username]`
 * G Drive: `smb://coacd.org/dfs/ATD`
 
 ![](.gitbook/assets/screen-shot-2020-07-29-at-12.38.07-pm.png)
