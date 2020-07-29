@@ -12,14 +12,9 @@ To prevent the proliferation of different versions of multi-editor documents, al
 
 GIS files, Visio documents, and other files that can only be used on a Windows operating system are stored on the [ATD departmental network G drive](https://coacd.org/dfs/ATD).
 
-## Sensitive Information
-
-* Private employee information such as personnel-related files should be stored on the H Drive. 
-* If you are handling [CJIS](https://www.fbi.gov/services/cjis/cjis-security-policy-resource-center) or [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) data, you must take an annual training and follow a specific protocol. 
-
 ## Everything Else
 
-Other documents can be stored either in the cloud or on the [ATD departmental network G drive](https://coacd.org/dfs/ATD), whichever is most practical for the team and customer.
+Other documents can be stored either in the cloud or on G drive, whichever is most practical for the team and customer.
 
 {% hint style="info" %}
 Be aware that anything stored on your local drive — the Windows C drive or Mac HD — is not backed up or accessible via other devices.  
@@ -29,8 +24,8 @@ Be aware that anything stored on your local drive — the Windows C drive or Mac
 
 _You will need to be either hard-connected to the City network or_ [_connected via VPN_](https://atd-dts.gitbook.io/wiki/on-boarding#vpn-and-remote-access)_._ From Finder on Mac: _Go &gt; Connect to Server_ then type the address in the _Server Address_ field
 
-* H Drive: `smb://coacd.org/home/PWDhome/[your username]`
-* G Drive: `smb://coacd.org/dfs/ATD`
+* H drive: `smb://coacd.org/home/PWDhome/[your username]`
+* G drive: `smb://coacd.org/dfs/ATD`
 
 ![](.gitbook/assets/screen-shot-2020-07-29-at-12.38.07-pm.png)
 
