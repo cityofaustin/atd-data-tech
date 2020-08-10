@@ -11,7 +11,10 @@ assignees: ''
 As a ____, I want to _____ so that I can _____.
 
 
-**In-scope**
+**In-scope:**
 
 
-**Out-of-scope**
+**Out-of-scope:**
+
+
+**Additional notes:**
