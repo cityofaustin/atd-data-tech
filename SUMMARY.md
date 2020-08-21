@@ -29,9 +29,6 @@
 
 * [Github Project Management](product-ops/github-project-management.md)
 * [Product Delivery Workflow](product-ops/product-delivery-workflow.md)
+* [Product Manager Assignments](product-ops/product-manager-assignments.md)
 * [Release Management Process](product-ops/release-management-process.md)
-
----
-
-* [Product Manager Assignments](product-manager-assignments.md)
 
