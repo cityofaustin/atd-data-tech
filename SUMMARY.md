@@ -31,3 +31,7 @@
 * [Product Delivery Workflow](product-ops/product-delivery-workflow.md)
 * [Release Management Process](product-ops/release-management-process.md)
 
+---
+
+* [Product Manager Assignments](product-manager-assignments.md)
+
