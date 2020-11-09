@@ -38,7 +38,7 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 
 ### Product Work Session
 
-* Discuss value and effort and record in [DTS Prioritization Matrix](https://docs.google.com/spreadsheets/d/1o0Q_xIx0c1njAg6opnAJwyCIhAkU7W-hK_7P8jgMCug/edit#gid=0)
+* Discuss value and effort and record in [DTS Prioritization Matrix](https://atd.knack.com/dts#project-evaluation/)
 * Circle back with customer
   * Prioritization outcome and explanation
   * List of customer's existing feature, enhancements, + new application requests
