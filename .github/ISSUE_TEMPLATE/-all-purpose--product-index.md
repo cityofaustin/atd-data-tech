@@ -13,11 +13,11 @@ Describe the who, what, and why of this project in one or two sentences.
 < img link > (No header)
 An image that makes this product look exciting, preferrably at least 1000px wide in a 4:3 aspect ratio.
 
-#### Login
+### Login
 
 The URL of the login page for this app. (If there are multiple, pick one?)
 
-#### Support
+### Support
 
 How to get help. Link to user documentation. (Maybe some standard language and a link to the DTS service request form?)
 
