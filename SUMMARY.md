@@ -28,6 +28,7 @@
 ## Product Ops
 
 * [Github Project Management](product-ops/github-project-management.md)
+* [Index Issue Specifications](product-ops/index-issue-specifications.md)
 * [Product Delivery Workflow](product-ops/product-delivery-workflow.md)
 * [Product Manager Assignments](product-ops/product-manager-assignments.md)
 * [Release Management Process](product-ops/release-management-process.md)

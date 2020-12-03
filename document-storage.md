@@ -27,7 +27,7 @@ _You will need to be either hard-connected to the City network or_ [_connected v
 * H drive: `smb://coacd.org/home/PWDhome/[your username]`
 * G drive: `smb://coacd.org/dfs/ATD`
 
-![](.gitbook/assets/screen-shot-2020-07-29-at-12.38.07-pm.png)
+![](.gitbook/assets/screen-shot-2020-07-29-at-12.38.07-pm%20%281%29.png)
 
 
 
