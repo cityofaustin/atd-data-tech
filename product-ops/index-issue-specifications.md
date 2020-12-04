@@ -33,7 +33,7 @@ The product manager.
 
 #### Issue description
 
-Follow the [**Project Index**](https://github.com/cityofaustin/atd-data-tech/issues/new/choose) issue template.
+Follow the [**Project Index**](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=&labels=Project+Index&template=-all-purpose--project-index.md&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D) issue template.
 
 ### Product Issue Specification
 
@@ -55,5 +55,5 @@ The product manager.
 
 #### Issue description
 
-Follow the [**Product Index**](https://github.com/cityofaustin/atd-data-tech/issues/new/choose) issue template.
+Follow the [**Product Index**](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=&labels=Product+Index&template=-all-purpose--product-index.md&title=Product%3A+%5BProduct+Name+in+Title+Case%5D) issue template.
 
