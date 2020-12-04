@@ -23,8 +23,8 @@ The issue title should be prefixed with `Project:` . For example, `Project: Ware
 #### Labels
 
 *  `Project Index`
-* `Project: xzy` ****— A project-specific label that you will create, following our [project label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=project).
-* `Workgroup: xyz`  — the project stakeholder workgroups.
+* `Project: xzy` ****— A project-specific label that you will create, following our [project label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=project)
+* `Workgroup: xyz`  — the project stakeholder workgroups
 * `Type: xyz` — the type of work to be done for this project
 
 #### Assignee
@@ -35,5 +35,25 @@ The product manager.
 
 Follow the [**Project Index**](https://github.com/cityofaustin/atd-data-tech/issues/new/choose) issue template.
 
+### Product Issue Specification
 
+All products require a product issue to be placed in the appropriate Zenhub pipeline. Once a product has been released, it should be placed in the **Ongoing** pipeline indefinitely until it is removed from service. The issue title, description, and labels should follow the below guidelines.
+
+#### Title
+
+The issue title should be prefixed with `Product:` . For example, `Product: Data Tracker`
+
+#### Labels
+
+* `Product Index`
+* `Product: xzy` ****— A product-specific label that you will create, following our [product label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=product)
+* `Workgroup: xyz`  — the workgroup\(s\) of the product's primary users
+
+#### Assignee
+
+The product manager.
+
+#### Issue description
+
+Follow the [**Product Index**](https://github.com/cityofaustin/atd-data-tech/issues/new/choose) issue template.
 
