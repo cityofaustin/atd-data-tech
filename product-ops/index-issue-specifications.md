@@ -1,7 +1,7 @@
 ---
 description: >-
-  The page defines our conventions for tracking project and products through via
-  Github issues.
+  The page defines our conventions for tracking project and products via Github
+  issues.
 ---
 
 # Index Issue Specifications
