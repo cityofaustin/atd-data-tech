@@ -6,7 +6,7 @@ description: >-
 
 # Index Issue Specifications
 
-Project and product index issues allow us to centralize all of the information about a project or product. These issues follow a standardized labeling scheme and content format that allows them to be pulled into the [DTS Website](https://product.austinmobility.io) and enable us to efficiently track all related work.
+Project and product index issues allow us to centralize all of the information about a project or product. These issues follow a standardized labeling scheme and content format that allows them to be pulled into the [DTS Website](https://product.austinmobility.io) and enables us to efficiently track all related work.
 
 {% hint style="info" %}
 Create a new Project or Product Index by selecting the [appropriate issue template](https://github.com/cityofaustin/atd-data-tech/issues/new/choose) from the `atd-data-tech` repo
@@ -33,7 +33,7 @@ The product manager.
 
 #### Issue description
 
-Follow the **Project Index** issue template.
+Follow the [**Project Index**](https://github.com/cityofaustin/atd-data-tech/issues/new/choose) issue template.
 
 
 
