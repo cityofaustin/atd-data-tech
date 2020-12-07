@@ -1,9 +1,9 @@
 ---
 name: "[All-Purpose] Product Index"
 about: Central place to access all information for a product
-title: "Product: [Product Name in Title Case]"
+title: 'Product: [Product Name in Title Case]'
 labels: Product Index
-assignees: ""
+assignees: ''
 
 ---
 
@@ -11,7 +11,7 @@ assignees: ""
 Describe the who, what, and why of this project in one or two sentences.
 
 < img link > (No header)
-An image that makes this product look exciting, preferrably at least 1000px wide in a 4:3 aspect ratio.
+An image that makes this product look exciting, preferably at least 1000px wide, with a 2:3 aspect ratio. This tool makes it easy to crop/resize as needed: https://photoshop.adobe.com 
 
 ### Login
 

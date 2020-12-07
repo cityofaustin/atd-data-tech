@@ -1,9 +1,9 @@
 ---
 name: "[All-Purpose] Project Index"
 about: Central place to access all information for a project
-title: "Project: [Your Project Name in Title Case]"
+title: 'Project: [Your Project Name in Title Case]'
 labels: Project Index
-assignees: ""
+assignees: ''
 
 ---
 
