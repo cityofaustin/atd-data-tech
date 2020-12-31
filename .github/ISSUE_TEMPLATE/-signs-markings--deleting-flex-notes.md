@@ -1,8 +1,8 @@
 ---
-name: "[AMD & SMB Data Tracker] Deleting Flex Notes"
+name: "[Signs & Markings] Deleting Flex Notes"
 about: Template to delete flex notes
 title: 'Delete "csr_flex_notes" from Signs & Markings - Month YEAR '
-labels: 'Service: Apps, Type: Data'
+labels: 'Service: Apps, Type: Data, Product: Signs & Markings'
 assignees: ''
 
 ---
@@ -13,8 +13,8 @@ Ran filter on: https://builder.knack.com/atd/signs-markings#data/object_172/reco
 
 Filter:
 `ISSUE_STATUS_CODE` contains `closed`
-`CREATED_DATE` is `before` 6/30/19 - NEEDS_CHANGING
+`CREATED_DATE` is `before` 01/01/21
 
-Total Records: `NEEDS_CHANGING`
-To Delete: `NEEDS_CHANGING` (number of records from running the query)
-New Total: `NEEDS_CHANGING`
+Total Records: {value}
+To Delete: {value}
+New Total: {value}
