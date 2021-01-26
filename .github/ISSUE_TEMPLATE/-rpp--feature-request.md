@@ -1,10 +1,10 @@
 ---
 name: "[RPP] Feature Request"
 about: Feature requests for RPP app
-title: '[RPP - Feature] New Feature'
+title: "[RPP - Feature] New Feature"
 labels: 'Product: Residential Parking Permit Digitization, Service: Apps, Type: Feature,
   Workgroup: PE'
-assignees: 
+assignees: ''
 
 ---
 
