@@ -15,6 +15,11 @@
 * [Setting Up Your Workspace](onboarding/setting-up-your-workspace.md)
 * [Onboarding Links](onboarding/on-boarding-links.md)
 
+## Off boarding <a id="offboarding"></a>
+
+* [Your Last Day](offboarding/your-last-day.md)
+* [Off boarding Checklist](offboarding/off-boarding-checklist.md)
+
 ## Developer
 
 * [Dockless-Mobility](developer/dockless-mobility.md)

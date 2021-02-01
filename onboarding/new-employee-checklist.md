@@ -1,6 +1,6 @@
 # New Employee Checklist
 
-| Todo | Category | How |
+| To Do | Category | How |
 | :--- | :--- | :--- |
 | Network account request | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) |
 | Phone request | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) |
