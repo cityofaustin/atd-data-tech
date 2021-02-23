@@ -1,6 +1,6 @@
 # Your First Day
 
-* Post your daily standup in Slack \(TO DO; link to Slack section\)
+* Post your daily standup in [Slack](../slack.md)
 * Receive paper time sheet \(pending access to electronic system\)
 * Review all resources links
 * Go through New Employee Checklist to gain access and set-up hardware
