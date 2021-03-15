@@ -14,6 +14,7 @@
 | Fill out employee separation form  | Account | [Separated Employee Request Form \(SERF\)](https://atx.service-now.com/sp?id=sc_cat_item_guide&sys_id=72fb6289db9f73405b03f482ba961956)  \(Supervisor must complete\) |
 | DTS email distribution list | Account | Removed after SERF is processed? |
 | About Us page | Content | DTS Staff must complete |
+| [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde_0_91) | Content | DTS Staff must complete |
 | DTS SharePoint team lists | Content | Apps Team member must complete |
 
 ## Recover organization assets
