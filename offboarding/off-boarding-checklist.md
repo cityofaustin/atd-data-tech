@@ -9,7 +9,7 @@
 | Miro | Account | DTS Staff must complete |
 | Vision Zero Editor | Account | Apps Team member must complete |
 | Knack Applications | Account | Apps Team member must complete |
-| GitHub \(remove from team & re-assign issues\) | Account | DTS Staff must complete |
+| GitHub \(remove from [team](https://github.com/orgs/cityofaustin/teams/transportation/members) & re-assign issues\) | Account | DTS Staff must complete |
 | Google Drive \(revoke access\) | Account | DTS Staff must complete |
 | Fill out employee separation form  | Account | [Separated Employee Request Form \(SERF\)](https://atx.service-now.com/sp?id=sc_cat_item_guide&sys_id=72fb6289db9f73405b03f482ba961956)  \(Supervisor must complete\) |
 | DTS email distribution list | Account | Removed after SERF is processed? |

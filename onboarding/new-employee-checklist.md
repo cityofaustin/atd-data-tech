@@ -8,7 +8,7 @@
 | 1Password | Accounts | DTS Admin |
 | Slack | Accounts | DTS Admin |
 | Google Drive | Accounts | DTS Admin |
-| Github Team | Accounts | DTS Admin |
+| [Github Transportation Team](https://github.com/orgs/cityofaustin/teams/transportation/members) | Accounts | DTS Admin |
 | Printer | Accounts | [Printer Setup](https://github.com/orgs/cityofaustin/teams/transportation/discussions/4) |
 | VPN Client | Software | [Fill out Remote Access Request Form](https://apps.austintexas.gov/helpdesk/remote/) |
 | Zenhub Extension | Software | [Install Browser Extension](https://www.zenhub.com/) |
