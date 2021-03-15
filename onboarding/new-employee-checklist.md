@@ -25,7 +25,8 @@
 | Calendar - Sprint Retros and Reviews | Misc | DTS Supervisor |
 | Calendar - Supervisor 1:1 | Misc | DTS Supervisor |
 | Telecommute Approval | Misc | [Telework Checklist](https://github.com/cityofaustin/atd-data-tech/wiki/files/telework_checklist.pdf) & [Telework Request Form](https://github.com/cityofaustin/atd-data-tech/wiki/files/Telework_Request_Form_fillable.pdf) |
-| Website Bio | Misc | DTS Web Admin |
+| Website Photo and Bio | Misc | DTS Web Admin |
+| DTS Team Slide | Misc | [DTS Presentation Template](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde_0_91) |
 | Tour | First Day |  |
 | Introductions | First Day |  |
 | Meeting - DTS Team Orientation | First Day |  |
