@@ -30,5 +30,5 @@ The residents of Austin are at the top of our org chart. We share everything we 
 
 ### Nurture, Include, and Grow Together
 
-Delivering great tech cannot not come at the cost of our personal wellbeing. We commit to building a safe and inclusive workplace by looking out for each other, listening to each other, and advocating for each other.
+Delivering great tech cannot come at the cost of our personal wellbeing. We commit to building a safe and inclusive workplace by looking out for each other, listening to each other, and advocating for each other.
 
