@@ -3,6 +3,7 @@
 | To Do | Category | How |
 | :--- | :--- | :--- |
 | Network account request | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) |
+| eAccess PIN/HR Portal | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) \(PIN will be used for HR Portal too\) |
 | Phone request | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) |
 | DTS Email Group | Accounts | CTM Helpdesk Ticket |
 | 1Password | Accounts | DTS Admin |
