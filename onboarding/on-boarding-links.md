@@ -23,13 +23,13 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 
 ## City of Austin
 
-* [CTM service request form](https://cityofaustin.seamlessdocs.com/f/service_desk) — or dial 4-HELP from a City phone
-* [Github organization](https://github.com/cityofaustin)
-* [Open data portal](https://data.austintexas.gov/)
+* [City of Austin org chart](https://www.austintexas.gov/sites/default/files/files/City_Manager/COAOrgChart11_2020-FNL3.pdf)
+* [Strategic Direction 2023](https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final)
+* [Open Data Portal](https://data.austintexas.gov/)
 * [Open Data Community site](https://opendata.bloomfire.com/)
 * [GIS Community site](https://austingis.bloomfire.com/)
-* [Strategic Direction 2023](https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final)
-* [Digital Services Style Guide](https://cityofaustin.github.io/digital-services-style-guide/introduction/) - City's style guide for writing for residents
+* [Github organization](https://github.com/cityofaustin)
+* [CTM service request form](https://cityofaustin.seamlessdocs.com/f/service_desk) — or dial 4-HELP from a City phone
 
 ## Human Resources
 
