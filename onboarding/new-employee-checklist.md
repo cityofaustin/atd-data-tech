@@ -5,7 +5,8 @@
 | Network account request | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) |
 | eAccess PIN/HR Portal | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) \(PIN will be used for HR Portal too\) |
 | Phone request | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) |
-| DTS Email Group | Accounts | CTM Helpdesk Ticket |
+| DTS Distribution Email Group | Accounts | CTM Help desk Ticket  |
+|  | ServiceNow Ticket Description --&gt; | Add "First Last Name" to email distribution list "ATD Data and Technology Service" \(ATDDataTechnologyServices@austintexas.gov\) and "ACE ATD DL" |
 | 1Password | Accounts | DTS Admin |
 | Slack | Accounts | DTS Admin |
 | Google Drive | Accounts | DTS Admin |
