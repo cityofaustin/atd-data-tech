@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-< In a nutshell > (No header)
+<!-- + In a nutshell (No Header) + -->
 Describe the who, what, and why of this project in one or two sentences.
 
 ## Background
@@ -30,7 +30,7 @@ How long should this take to build; optional section w/ caveats for more complex
 
 Helpful links; e.g. other solutions, screenshots of Slack convos, customer’s original request, anything too long for the one-pager that can exist as a separate doc. Folder in Drive where project assets are stored.
 
-< image > (no header)
+<!-- + Image  (No Header) (No Header) + -->
 An image/screenshot that makes this product look really exciting. The first image will be used as the project's thumbnail image on the website.
 
 ---
