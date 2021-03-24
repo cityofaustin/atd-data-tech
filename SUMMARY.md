@@ -39,3 +39,7 @@
 * [Release Management Process](product-ops/release-management-process.md)
 * [DTS Website](product-ops/dts-website.md)
 
+## APPLICATIONS
+
+* [Application Management](applications/application-management.md)
+
