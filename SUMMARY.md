@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About Us](README.md)
+* [DTS Wiki Read-Only](https://atd-dts.gitbook.io/wiki/)
 * [Our Wikis 📚](our-wikis.md)
 * [Document Storage 🗄️](document-storage.md)
 * [Slack](slack.md)
@@ -42,8 +43,4 @@
 ## APPLICATIONS
 
 * [Application Management](applications/application-management.md)
-
----
-
-* [DTS Wiki Read-Only](https://atd-dts.gitbook.io/wiki/)
 
