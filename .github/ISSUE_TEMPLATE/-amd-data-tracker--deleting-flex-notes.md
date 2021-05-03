@@ -9,7 +9,7 @@ assignees: ''
 
 Received automated reminder to delete flex notes in AMD Data Tracker PROD and reference the Flex Note Archiving wiki
 
-Ran filter on: https://builder.knack.com/atd/amd#data/object_95/records
+Ran filter on: https://builder.knack.com/atd/amd/records/objects/object_95
 
 Filter:
 `ISSUE_STATUS_CODE` contains `closed`
