@@ -36,4 +36,7 @@ An image/screenshot that makes this product look really exciting. The first imag
 ---
 This Github issue represents a project of Austin Transportation's [Data & Technology Services](https://austinmobility.io/) team. Project status is documented regularly in the comments below.
 
-<!-- Don't forget to add a new "Project:" label here: https://github.com/cityofaustin/atd-data-tech/labels. Use the hex code #3D3D3D. -->
+<!-- Don't forget to: 
+- Add a new "Project:" label here: https://github.com/cityofaustin/atd-data-tech/labels. Use the hex code #3D3D3D. 
+- Add a project evaluation here: https://atd.knack.com/dts#project-evaluation/
+-->
