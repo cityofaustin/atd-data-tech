@@ -1,8 +1,8 @@
 ---
-name: "[Mobility Project Database] Feature"
+name: "[Mobility Project Database (Moped)] Feature"
 about: Mobility Project Database features
 title: 'Feature:'
-labels: 'Type: Feature, Workgroup: ATD, Workgroup: PWD'
+labels: 'Type: Feature, Workgroup: ATD, Workgroup: PWD, Product: Moped'
 assignees: ''
 
 ---
