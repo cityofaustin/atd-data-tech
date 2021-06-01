@@ -29,7 +29,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * [Open Data Community site](https://opendata.bloomfire.com/)
 * [GIS Community site](https://austingis.bloomfire.com/)
 * [Github organization](https://github.com/cityofaustin)
-* [CTM service request form](https://cityofaustin.seamlessdocs.com/f/service_desk) — or dial 4-HELP from a City phone
+* [CTM service request form](https://cityofaustin.seamlessdocs.com/f/service_desk) — or 512-974-4357 \(4-HELP from a City phone\)
 
 ## Human Resources
 
