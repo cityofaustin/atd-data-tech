@@ -26,7 +26,7 @@
 | Calendar - Sprints | Misc | DTS Supervisor |
 | Calendar - Sprint Retros and Reviews | Misc | DTS Supervisor |
 | Calendar - Supervisor 1:1 | Misc | DTS Supervisor |
-| Telecommute Approval | Misc | [Telework Checklist](https://github.com/cityofaustin/atd-data-tech/wiki/files/telework_checklist.pdf) & [Telework Request Form](https://github.com/cityofaustin/atd-data-tech/wiki/files/Telework_Request_Form_fillable.pdf) |
+| Telecommute Approval | Misc | [Telwork request](https://atd.knack.com/hr#new-telework-request/) |
 | [DTS "About Us" webpage](https://austinmobility.io/about) | Misc | Upload a headshot [here](https://drive.google.com/drive/folders/1y_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G) and add your title and preferred pronouns [here](https://docs.google.com/document/d/1gRjTic8FD3s-t0sVZhErAidMIAktU-0Vn2GYPpPcUeg/edit) |
 | Email signature | Misc | [Template and instructions](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP_wK6tjkEE/edit) |
 | [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde_0_91) | Misc | DTS Staff  |
