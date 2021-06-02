@@ -11,6 +11,7 @@
 * [ ] Add to City of Austin Slack
 * [ ] Add to DTS Google Drive
 * [ ] Add to [Austin Transportation Github Team](https://github.com/orgs/cityofaustin/teams/transportation/members) 
+* [ ] Add to [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde_0_91)
 
 ## Hardware — DTS Systems Admin
 
@@ -22,25 +23,26 @@
 * [ ]  Mouse
 * [ ]  Docking station
 
-## Calendar invites
+## Calendar invites 
 
 * [ ] Monthly Team Meeting — John
 * [ ] Sprints — Amenity
 * [ ] Sprint Ceremonies — Apps/Dev: Amenity; Geo: John 
 * [ ] 1:1 — Supervisor
+* [ ] First day: DTS Team Orientation — John
+* [ ] First Week: DTS Product Ops — Amenity
 
 ## New Employee To-Dos
 
-* [ ] Install [Zenhub Browser Extension](https://www.zenhub.com/)
 * [ ] [Set yourself up for remote work](https://atd-dts.gitbook.io/atd-staff-resources/working-remotely/getting-started)
-* [ ] [Set up printer](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/printer-information)
+* [ ] [Set up printer](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/printer-information) 
+* [ ] [Set up your email signature](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP_wK6tjkEE/edit)
 * [ ] Set up docking station — [Windows](https://www.dell.com/support/home/us/en/04/product-support/product/dell-universal-dock-d6000/drivers) \| [Mac](https://www.displaylink.com/downloads/macos) \(see [here](https://support.displaylink.com/knowledgebase/articles/1188004-macos-10-13-or-10-14-video-functionality-not-enab) if you're having issues on Mac\)
 * [ ] Upload a headshot [here](https://drive.google.com/drive/folders/1y_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G) and add your title and preferred pronouns [here](https://docs.google.com/document/d/1gRjTic8FD3s-t0sVZhErAidMIAktU-0Vn2GYPpPcUeg/edit)
+* [ ] Install [Zenhub Browser Extension](https://www.zenhub.com/)
+* [ ]  [Create a Github issue](https://github.com/cityofaustin/atd-data-tech/issues/new) for adding yourself to the [DTS "About Us" webpage](https://austinmobility.io/about) \(labels: `Service: Dev`, `Type: Operations`, `Product: DTS Website`\) including the link to your photo and preferred pronouns
 
-  | [DTS "About Us" webpage](https://austinmobility.io/about) | Misc | Upload a headshot [here](https://drive.google.com/drive/folders/1y_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G) and add your title and preferred pronouns [here](https://docs.google.com/document/d/1gRjTic8FD3s-t0sVZhErAidMIAktU-0Vn2GYPpPcUeg/edit) |
-  | :--- | :--- | :--- |
-  | Email signature | Misc | [Template and instructions](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP_wK6tjkEE/edit) |
-  | [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde_0_91) | Misc | DTS Staff  |
+
 
 
 
