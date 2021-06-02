@@ -1,5 +1,24 @@
 # New Employee Checklist
 
+## Accounts - DTS Admin
+
+* [ ] Network account, eAccess PIN/HR Portal, [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm)
+* [ ] Add to DTS Distribution Email Group:
+
+  > Add "First Last Name" to email distribution list "ATD Data and Technology Service" \([ATDDataTechnologyServices@austintexas.gov](mailto:ATDDataTechnologyServices@austintexas.gov)\) and "ACE ATD DL"
+
+* [ ] 1Password \(if needed; we pay for seats\)
+* [ ] Slack
+* [ ] Google Drive
+* [ ] [Github Transportation Team](https://github.com/orgs/cityofaustin/teams/transportation/members) 
+
+## New Employee To-Dos
+
+* [ ] Install [Zenhub Browser Extension](https://www.zenhub.com/)
+*  \(PM\) Set up printer - [Printer Setup](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/printer-information)
+*  \(PM\) [Fill out Remote Access Request Form](https://apps.austintexas.gov/helpdesk/remote/)
+*  \(PM\) Submit [Telework Request](https://atd.knack.com/hr#new-telework-request/)
+
 | To Do | Category | How |
 | :--- | :--- | :--- |
 | Network account request | Accounts | [CTM New Employee Request Form](https://apps.austintexas.gov/helpdesk/newemployee/index.cfm) |
