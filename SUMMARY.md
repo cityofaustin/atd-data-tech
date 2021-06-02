@@ -3,6 +3,7 @@
 * [About Us](README.md)
 * [DTS Wiki Read-Only](https://atd-dts.gitbook.io/wiki/)
 * [Our Wikis 📚](our-wikis.md)
+* [DTS Resource Index](resource-index.md)
 * [Document Storage 🗄️](document-storage.md)
 * [Slack](slack.md)
 * [Network Access](network-access.md)
@@ -14,7 +15,6 @@
 * [Your First Day](onboarding/your-first-day.md)
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
 * [Setting Up Your Workspace](onboarding/setting-up-your-workspace.md)
-* [Onboarding Links](onboarding/on-boarding-links.md)
 
 ## Off boarding <a id="offboarding"></a>
 

@@ -2,7 +2,7 @@
 description: "​Welcome to the Austin Transportation Data & Technology Services team! \U0001F44BHere's a bevy of links to get you started.​"
 ---
 
-# Onboarding Links
+# DTS Resource Index
 
 ## Data & Technology Services
 
@@ -13,7 +13,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * [Email Signature Template](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP_wK6tjkEE/edit#)
 * [Division intranet](https://cityofaustin.sharepoint.com/sites/ATD/DTS/default.aspx)
 * [Private GitBook page](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/general) - This page is for onboarding info that shouldn't be open to the public web
-* [Our Wikis](../our-wikis.md)
+* [Our Wikis](our-wikis.md)
 
 ## Austin Transportation
 
