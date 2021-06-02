@@ -19,13 +19,13 @@
 * [ ]  [Create a Github issue](https://github.com/cityofaustin/atd-data-tech/issues/new) for adding yourself to the [DTS "About Us" webpage](https://austinmobility.io/about) \(labels: `Service: Dev`, `Type: Operations`, `Product: DTS Website`\) including the link to your photo and preferred pronouns
 * [ ] Familiarize yourself with the [DTS Resource Index](../resource-index.md)
 
-Be a sponge and absorb it all! Ask questions! 
+Ask questions! Be a sponge and absorb it all! 🧽💦🌈
 
-Bonus: Update this wiki if you find broken links or missing information! 😉
-
-
+Bonus: [Update this wiki](https://app.gitbook.com/@atd-dts/s/wiki/) if you find broken links or missing information! 😉
 
 
+
+## Previous
 
 * Post your daily standup in [Slack](../slack.md)
 * Receive paper time sheet \(pending access to electronic system\)
