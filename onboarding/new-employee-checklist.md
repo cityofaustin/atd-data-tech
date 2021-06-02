@@ -31,7 +31,7 @@
 | Google Drive | Accounts | DTS Admin |
 | [Github Transportation Team](https://github.com/orgs/cityofaustin/teams/transportation/members) | Accounts | DTS Admin |
 | Printer | Accounts | [Printer Setup](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/printer-information) |
-| VPN Client | Software | [Fill out Remote Access Request Form](https://apps.austintexas.gov/helpdesk/remote/) |
+| VPN Client | Software | [Fill out Remote Access Request Form](https://apps.austintexas.gov/helpdesk/remote/) \(UPDATE THIS.. [ref steps](https://atx.service-now.com/sp?id=kb_article&sys_id=01cd8fc21b4ddc50a7951f861a4bcb8e)\) |
 | Zenhub Extension | Software | [Install Browser Extension](https://www.zenhub.com/) |
 | Docking station driver | Software | [Windows](https://www.dell.com/support/home/us/en/04/product-support/product/dell-universal-dock-d6000/drivers), [Mac](https://www.displaylink.com/downloads/macos), see [here](https://support.displaylink.com/knowledgebase/articles/1188004-macos-10-13-or-10-14-video-functionality-not-enab) if you're having issues on Mac. |
 | Computer | Hardware | DTS Systems Admin |
