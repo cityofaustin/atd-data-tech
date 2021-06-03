@@ -44,7 +44,8 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * [Time sheet codes](https://cityofaustin.sharepoint.com/sites/ATD/Administration/SitePages/Earn%20Codes.aspx)
 * [Mileage reimbursement templates](https://cityofaustin.sharepoint.com/:b:/r/sites/ATD/DTS/Shared%20Documents/Admin/MileageReport_TEMPLATE_FY19_fillable.pdf?csf=1)
 * Telework documents
-  * [Telework Request Form](https://atd.knack.com/hr#new-telework-request/) - in Human Resources Manager application
+  * [Telework Request Form](https://atd.knack.com/hr#new-telework-request/) - in Human Resources Manager application \(account must be entered into the system by an HR Administrator\)
+  * [Take-Home Equipment Tracker](https://atd.knack.com/dts#my-equipment/) \(account must be added by DTS team member\)
 
 ### Training
 
