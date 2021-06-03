@@ -29,7 +29,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * [Open Data Community site](https://opendata.bloomfire.com/)
 * [GIS Community site](https://austingis.bloomfire.com/)
 * [Github organization](https://github.com/cityofaustin)
-* [CTM service request form](https://cityofaustin.seamlessdocs.com/f/service_desk) — or 512-974-4357 \(4-HELP from a City phone\)
+* [CTM service request form](https://atx.service-now.com/sp?id=sc_cat_item&sys_id=02e490c6db7f1300a314e1c2ca9619e6) — or 512-974-4357 \(4-HELP from a City phone\)
 * [City Intranet site](https://cityspace.austintexas.gov/Home)
 
 ## Human Resources
@@ -58,7 +58,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * [Workplace Harassment Training](http://coaspweb1/sites/PWD/PWU/SitePages/ATDLearn.aspx)
 * [Free Lynda Video Training Access via Houston Public Library](https://austininnovation.slack.com/archives/C04KZA1TX/p1562946735079000)
 * [Security Awareness Resources](https://cityspace.austintexas.gov/Technology-Resources/Security-Policies/Security-Awareness?BestBetMatch=cyber%20security|32d8929b-2bc1-4a27-b394-409c3b0f2dcb|cce81894-b080-4e68-91be-5a25cdc7a7ed|en-US)
-*  [KnowBe4 Cybersecurity Awareness Training](https://atx.service-now.com/sp?id=kb_article&sys_id=1c3661b11b08b450a7951f861a4bcb25)
+* [KnowBe4 Cybersecurity Awareness Training](https://atx.service-now.com/sp?id=kb_article&sys_id=1c3661b11b08b450a7951f861a4bcb25)
 
 ## Hardware
 
