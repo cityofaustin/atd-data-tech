@@ -35,7 +35,6 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
   * [Policies and Procedures](https://cityspace.austintexas.gov/Policies-Procedures)
   * [Career Development & Training](https://cityspace.austintexas.gov/Career-Development-Training)
   * [Technology Resources](https://cityspace.austintexas.gov/Technology-Resources)
-  * 
 
 ## Human Resources
 
