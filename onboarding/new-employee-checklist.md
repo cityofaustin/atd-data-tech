@@ -7,18 +7,20 @@
 
   > Add "First Last Name" to email distribution list "ATD Data and Technology Service" \([ATDDataTechnologyServices@austintexas.gov](mailto:ATDDataTechnologyServices@austintexas.gov)\) and "ACE ATD DL"
 
-* [ ] Add to 1Password \(if needed; we pay for seats\)
-* [ ] Add to City of Austin Slack
+* [ ] Add to City of Austin Slack - `austininnovation.slack.com`
 * [ ] Add to DTS Google Drive
 * [ ] Add to [Gitbook](https://app.gitbook.com/@atd-dts/spaces)
 * [ ] Add to [Austin Transportation Github Team](https://github.com/orgs/cityofaustin/teams/transportation/members) 
 * [ ] Add to [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde_0_91)
+* [ ] Add to 1Password \(if needed; we pay for seats\)
 
 ## Hardware — DTS Systems Admin
 
+Coordinate with DTS System Admin \(Scott\), make sure there is enough lead time for equipment to be acquired.
+
 * [ ]  Laptop
 * [ ]  Monitors
-* [ ]  Chair
+* [ ]  Chair - check availability, _ask John to ask Peggy how we're handling this_?
 * [ ]  Power supply
 * [ ]  Keyboard
 * [ ]  Mouse
