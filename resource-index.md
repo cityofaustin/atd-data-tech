@@ -31,16 +31,22 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * [Github organization](https://github.com/cityofaustin)
 * [CTM service request form](https://atx.service-now.com/sp?id=sc_cat_item&sys_id=02e490c6db7f1300a314e1c2ca9619e6) — or 512-974-4357 \(4-HELP from a City phone\)
 * [City Intranet site](https://cityspace.austintexas.gov/Home) - CitySpace
+  * [Benefits ](https://cityspace.austintexas.gov/Benefits)
+  * [Policies and Procedures](https://cityspace.austintexas.gov/Policies-Procedures)
+  * [Career Development & Training](https://cityspace.austintexas.gov/Career-Development-Training)
+  * [Technology Resources](https://cityspace.austintexas.gov/Technology-Resources)
+  * 
 
 ## Human Resources
 
 * [Official City of Austin holiday schedule](http://www.austintexas.gov/department/official-city-holidays)
 * [HR Portal](https://hrdcfprod.coacd.org/) — pay stubs, benefits, PE registration
-* [Employee benefits](http://www.austintexas.gov/department/active-employee-benefits/)
+* [Employee benefits](http://www.austintexas.gov/department/active-employee-benefits/) \(external site\)
+* [Benefits ](https://cityspace.austintexas.gov/Benefits)\(CitySpace - internal\)
 * [Online Earnings Statement](https://www.ci.austin.tx.us/eaccess/default.cfm)
 * [Healthy Connections](http://cityspace.ci.austin.tx.us/services/healthyconnections)
 * [eTimesheets](https://pwdweb.austintexas.gov/timesheet/pwd.cfm)
-  * During your first two weeks you'll have to fill out a paper time sheet. Make sure to request a blank paper timesheet from your supervisor by Day 3.
+  * During your first two weeks you'll have to fill out a paper time sheet. Make sure to request a blank paper time sheet from your supervisor by Day 3.
 * [Time sheet codes](https://cityofaustin.sharepoint.com/sites/ATD/Administration/SitePages/Earn%20Codes.aspx)
 * [Mileage reimbursement templates](https://cityofaustin.sharepoint.com/:b:/r/sites/ATD/DTS/Shared%20Documents/Admin/MileageReport_TEMPLATE_FY19_fillable.pdf?csf=1)
 * Telework documents
