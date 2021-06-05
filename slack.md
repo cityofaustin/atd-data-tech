@@ -11,3 +11,13 @@ Please join Austin Transportation channels,  prepended with `atd.` These include
 * **atd-product​**
 * **atd-standup** - everyone on the DTS team posts a daily standup here
 
+## Daily Stand Up
+
+We keep eachother up to date on our progress and blockers by posting in [\#atd-standup](https://app.slack.com/client/T04KZA1MB/CHXHA8YAU) every day:
+
+* What did you do yesterday?
+* What are you doing today?
+* Any blockers?
+
+It's helpful to cite specific Github issues you're working on. 
+
