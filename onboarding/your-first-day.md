@@ -8,7 +8,7 @@
 ## To-dos 
 
 * [ ] Set up Cameron Road wifi: `coa-atd-secure-wifi` — password in 1password
-* [ ] Post your daily standup in [Slack](../slack.md)
+* [ ] Post your [daily standup in Slack](https://atd-dts.gitbook.io/wiki/slack#daily-stand-up)
 * [ ] [Set yourself up for remote work](https://atd-dts.gitbook.io/atd-staff-resources/working-remotely/getting-started)
 * [ ] [Set up printer](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/printer-information) 
 * [ ] [Set up your email signature](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP_wK6tjkEE/edit)
