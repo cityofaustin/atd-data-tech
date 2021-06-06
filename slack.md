@@ -13,11 +13,15 @@ Please join Austin Transportation channels,  prepended with `atd.` These include
 
 ## Daily Stand Up
 
-We keep eachother up to date on our progress and blockers by posting in [\#atd-standup](https://app.slack.com/client/T04KZA1MB/CHXHA8YAU) every day:
+We keep each other up to date on our progress and blockers by posting in [\#atd-standup](https://app.slack.com/client/T04KZA1MB/CHXHA8YAU) every day:
 
 * What did you do yesterday?
 * What are you doing today?
 * Any blockers?
 
 It's helpful to cite specific Github issues you're working on. 
+
+![](.gitbook/assets/standup.png)
+
+
 
