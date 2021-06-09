@@ -7,8 +7,8 @@
 * [Document Storage 🗄️](document-storage.md)
 * [Slack](slack.md)
 * [Network Access](network-access.md)
-* [HR Benefits & Resources](hr-benefits-and-resources.md)
 * [Work Schedule, timesheets, and leave](timesheets.md)
+* [Work hours](work-hours.md)
 
 ## Onboarding
 
