@@ -51,6 +51,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * Telework documents
   * [Telework Request Form](https://atd.knack.com/hr#new-telework-request/) - in Human Resources Manager application \(account must be entered into the system by an HR Administrator\)
   * [Take-Home Equipment Tracker](https://atd.knack.com/dts#my-equipment/) \(account must be added by DTS team member\)
+* [Municipal Civil Service rules](https://www.austintexas.gov/department/municipal-civil-service-rules) - City of Austin rules which govern the process for employee hiring, promotions, lateral transfers, reduction-in-force, disciplinary actions, and appeals
 
 ### Training
 
