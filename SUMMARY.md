@@ -7,7 +7,7 @@
 * [Document Storage 🗄️](document-storage.md)
 * [Slack](slack.md)
 * [Network Access](network-access.md)
-* [Work Schedule and timesheets](timesheets.md)
+* [Work Schedule, timesheets and leave](timesheets.md)
 
 ## Onboarding
 
