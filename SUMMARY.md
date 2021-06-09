@@ -8,7 +8,7 @@
 * [Slack](slack.md)
 * [Network Access](network-access.md)
 * [HR Benefits & Resources](hr-benefits-and-resources.md)
-* [Timesheets](timesheets.md)
+* [Work Schedule, timesheets, and leave](timesheets.md)
 
 ## Onboarding
 
