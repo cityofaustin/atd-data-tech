@@ -12,7 +12,7 @@
 
 ## Onboarding
 
-* [Your First Day](onboarding/your-first-day.md)
+* [Your First Week](onboarding/your-first-day.md)
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
 
 ## Off boarding <a id="offboarding"></a>

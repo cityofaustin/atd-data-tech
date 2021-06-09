@@ -1,9 +1,10 @@
-# Your First Day
+# Your First Week
 
-## Agenda
+## First Day Agenda
 
 * Office tour and introductions
 * DTS Team Orientation
+* DTS Product Ops
 
 ## To-dos 
 
@@ -20,7 +21,7 @@
 * [ ] Upload a headshot [here](https://drive.google.com/drive/folders/1y_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G) and add your title and preferred pronouns [here](https://docs.google.com/document/d/1gRjTic8FD3s-t0sVZhErAidMIAktU-0Vn2GYPpPcUeg/edit) \(Google Drive access must be set up first\)
 * [ ]  [Create a Github issue](https://github.com/cityofaustin/atd-data-tech/issues/new) for adding yourself to the [DTS "About Us" webpage](https://austinmobility.io/about) \(labels: `Service: Dev`, `Type: Operations`, `Product: DTS Website`\) including the link to your photo and preferred pronouns
 * [ ] Familiarize yourself with the [DTS Resource Index](../resource-index.md)
-* [ ] Get paper timesheet 
+* [ ] Email David M. to request a paper timesheet 
 
 Ask questions! Be a sponge and absorb it all! 🧽💦🌈
 
