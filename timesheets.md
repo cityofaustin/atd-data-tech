@@ -22,7 +22,7 @@ You can flex your hours on occasion to accommodate doctor appointments, errands,
 
 If you can’t or don’t want to flex, you can use sick time for doctor appointments and personal time \(vacation, personal holiday hours, comp time, etc.\) for anything else.  You may also use leave without pay \(LWP\), but LWP require pre-approval and should be discussed with your supervisor at least two-weeks in advance.
 
-Non-exempt employees are eligible for overtime and comp time, both of which require advance approval from your supervisor.
+Non-exempt employees are eligible to earn overtime and comp time, both of which require advance approval from your supervisor.
 
 If you are a new permanent employee, you unfortunately can’t use vacation or personal holiday leave during your six-month probation period. If you need to take time off during probation period, you have three options: flex hours, use sick time, or take leave without pay.
 
