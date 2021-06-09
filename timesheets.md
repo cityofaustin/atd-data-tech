@@ -1,4 +1,4 @@
-# Work Schedule, timesheets, and leave
+# Work Schedule and timesheets
 
 ### Municipal Civl Service
 
