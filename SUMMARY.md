@@ -13,6 +13,7 @@
 
 * [Your First Week](onboarding/your-first-day.md)
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
+* [Where to Eat](onboarding/where-to-eat.md)
 
 ## Off boarding <a id="offboarding"></a>
 
