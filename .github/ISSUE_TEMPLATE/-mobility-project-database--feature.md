@@ -2,7 +2,7 @@
 name: "[Mobility Project Database (Moped)] Feature"
 about: Mobility Project Database features
 title: 'Feature:'
-labels: 'Type: Feature, Workgroup: ATD, Workgroup: PWD, Product: Moped'
+labels: 'Product: Moped, Type: Feature, Workgroup: ATD, Workgroup: PWD'
 assignees: ''
 
 ---
