@@ -24,7 +24,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 ## City of Austin
 
 * [City of Austin organization chart](https://www.austintexas.gov/sites/default/files/files/City_Manager/COAOrgChart11_2020-FNL3.pdf)
-* [Strategic Direction 2023](https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final)
+* [Strategic Direction 2023](https://www.austintexas.gov/edims/document.cfm?id=341820)
 * [Open Data Portal](https://data.austintexas.gov/)
 * [Open Data Community site](https://opendata.bloomfire.com/)
 * [GIS Community site](https://austingis.bloomfire.com/)
