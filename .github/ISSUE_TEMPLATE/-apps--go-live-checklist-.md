@@ -2,7 +2,7 @@
 name: "[Apps] Go-Live Checklist "
 about: To-Do checklist for application/module Go Live
 title: 'Go-Live Tasks for: [INSERT APP NAME HERE]'
-labels: 'Workgroup: DTS, Service: Apps, Need: 1-Must Have, Type: Testing'
+labels: 'Need: 1-Must Have, Service: Apps, Type: Testing, Workgroup: DTS'
 assignees: ''
 
 ---
