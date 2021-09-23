@@ -1,7 +1,6 @@
 # Table of contents
 
 * [About Us](README.md)
-* [DTS Wiki Read-Only](https://atd-dts.gitbook.io/wiki/)
 * [Our Wikis 📚](our-wikis.md)
 * [DTS Resource Index](resource-index.md)
 * [Document Storage 🗄️](document-storage.md)
