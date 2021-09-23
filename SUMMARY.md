@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About Us](README.md)
+* [About](README.md)
 * [Our Wikis 📚](our-wikis.md)
 * [DTS Resource Index](resource-index.md)
 * [Document Storage 🗄️](document-storage.md)
