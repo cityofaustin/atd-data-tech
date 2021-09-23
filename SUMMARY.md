@@ -37,9 +37,13 @@
 * [Product Delivery Workflow](product-ops/product-delivery-workflow.md)
 * [Product Manager Assignments](product-ops/product-manager-assignments.md)
 * [Release Management Process](product-ops/release-management-process.md)
-* [DTS Website](product-ops/dts-website.md)
+* [DTS Website Management](product-ops/dts-website.md)
 
 ## APPLICATIONS
 
 * [Application Management](applications/application-management.md)
+
+---
+
+* [Product Manager Assignments](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355)
 
