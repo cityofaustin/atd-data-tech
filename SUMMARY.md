@@ -10,7 +10,7 @@
 
 ## Onboarding
 
-* [Your First Week](onboarding/your-first-day.md)
+* [Your First Week](onboarding/your-first-week.md)
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
 * [Where to Eat](onboarding/where-to-eat.md)
 
