@@ -46,7 +46,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * [Healthy Connections](http://cityspace.ci.austin.tx.us/services/healthyconnections)
 * [eTimesheets](https://pwdweb.austintexas.gov/timesheet/pwd.cfm)
   * During your first two weeks you'll have to fill out a paper time sheet. Make sure to request a blank paper time sheet from your supervisor by Day 3.
-* [Time sheet codes](https://cityofaustin.sharepoint.com/sites/ATD/Administration/SitePages/Earn%20Codes.aspx)
+* [Time sheet codes](https://cityofaustin.sharepoint.com/sites/ATDHub/SitePages/Time-sheet-Earn-Codes.aspx)
 * [Mileage reimbursement templates](https://cityofaustin.sharepoint.com/:b:/r/sites/ATD/DTS/Shared%20Documents/Admin/MileageReport_TEMPLATE_FY19_fillable.pdf?csf=1)
 * Telework documents
   * [Telework Request Form](https://atd.knack.com/hr#new-telework-request/) - in Human Resources Manager application \(account must be entered into the system by an HR Administrator\)
