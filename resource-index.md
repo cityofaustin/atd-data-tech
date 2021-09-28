@@ -19,7 +19,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 
 * [Public website](http://www.austintexas.gov/department/transportation)
 * [ATD GitHub teams](https://github.com/orgs/cityofaustin/teams/transportation)
-* [Department intranet](https://cityofaustin.sharepoint.com/sites/ATD/default.aspx) - SharePoint site
+* [Department intranet](https://cityofaustin.sharepoint.com/sites/ATDHub) - SharePoint site
 
 ## City of Austin
 
