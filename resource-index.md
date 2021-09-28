@@ -11,7 +11,7 @@ description: "​Welcome to the Austin Transportation Data & Technology Services
 * [Google Drive](https://drive.google.com/drive/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7)
 * [Document templates](https://drive.google.com/open?id=1Txqc8xGkwa3h9lrRoXGzGjLlVo0S8DA6)
 * [Email Signature Template](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP_wK6tjkEE/edit#)
-* [Division intranet](https://cityofaustin.sharepoint.com/sites/ATD/DTS/default.aspx) - SharePoint site
+* [Division intranet](https://cityofaustin.sharepoint.com/sites/ATDDTS) - SharePoint site
 * [Private GitBook page](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/general) - This page is for on boarding info that shouldn't be open to the public web
 * [Our Wikis](our-wikis.md)
 
