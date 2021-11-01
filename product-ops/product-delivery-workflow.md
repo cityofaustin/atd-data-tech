@@ -15,9 +15,9 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 * Move to _**Needs Scoping**_ pipeline
 
 {% hint style="info" %}
-**Products** are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Austin Transportation as business needs evolve. 
+**Products **are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Austin Transportation as business needs evolve.&#x20;
 
-**Projects** are temporary endeavors — whether [identifying a vendor solution](https://github.com/cityofaustin/atd-data-tech/issues/65), [building a major feature for an existing Product](https://github.com/cityofaustin/atd-data-tech/issues/533), [overhauling a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254), or [delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911). They accomplish a singular goal and have a defined completion date. 
+**Projects** are temporary endeavors — whether [identifying a vendor solution](https://github.com/cityofaustin/atd-data-tech/issues/65), [building a major feature for an existing Product](https://github.com/cityofaustin/atd-data-tech/issues/533), [overhauling a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254), or [delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911). They accomplish a singular goal and have a defined completion date.&#x20;
 {% endhint %}
 
 ### Scoping
@@ -31,7 +31,7 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 ### Builder Huddle
 
 * Schedule meeting with lead from each builder team and other PMs; could be  helpful to include any other builders likely to be working on the project
-* Prepare summary of request; [example](https://docs.google.com/presentation/d/1brqKe0IfavZ4K8Dp2jv1QBW_Kfa7umDROOiQ2lHc67I/edit#slide=id.p)
+* Prepare summary of request; [example](https://docs.google.com/presentation/d/1brqKe0IfavZ4K8Dp2jv1QBW\_Kfa7umDROOiQ2lHc67I/edit#slide=id.p)
 * Meet and discuss
   * Recommended approach
   * Level of effort
@@ -46,10 +46,10 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 
 ### Activation
 
-* Update Github issue to match [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=&labels=Index&template=project-index.md)
-* Add _Product_ or _Project_ label [here](https://github.com/cityofaustin/atd-data-tech/labels) with the hex code \#3D3D3D
+* Update Github issue to match [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Product+Index\&template=-all-purpose--product-index.md\&title=Product%3A+%5BProduct+Name+in+Title+Case%5D)
+* Add _Product_ or _Project_ label [here](https://github.com/cityofaustin/atd-data-tech/labels) with the hex code #3D3D3D
 * Add _Active_ label so it appears at [https://data.mobility.austin.gov/about](https://data.mobility.austin.gov/about/)
-* Create new Drive folder in [_ATD DTS &gt; Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5_SX8nqBThx) and copy over docs from [_Project Template_](https://drive.google.com/drive/folders/1SopoHWvd3IUgxaqq_KLMccXFEGBm7vtZ)
+* Create new Drive folder in [_ATD DTS > Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5\_SX8nqBThx) and copy over docs from [_Project Template_](https://drive.google.com/drive/folders/1SopoHWvd3IUgxaqq\_KLMccXFEGBm7vtZ)
 * Assigned PM schedules Kickoff Meeting
 
 ## **Feature or Enhancement**
@@ -57,9 +57,8 @@ Whether submitted via the [DTS Service Request Portal](https://atd.knack.com/dts
 ### Triage
 
 * Confirm requestor authority and get clarification from customer if needed
-* Ask Builder to assess level of effort and add an estimate; if substantial effort/resources are required consider evaluating as a New Project 
+* Ask Builder to assess level of effort and add an estimate; if substantial effort/resources are required consider evaluating as a New Project&#x20;
 * Circle back with customer including
   * Level of effort
   * List of customer's existing feature, enhancements, + new application requests
   * Discuss where the project should fit into the backlog
-
