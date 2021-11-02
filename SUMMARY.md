@@ -14,7 +14,7 @@
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
 * [Where to Eat](onboarding/where-to-eat.md)
 
-## Off boarding <a id="offboarding"></a>
+## Off boarding <a href="offboarding" id="offboarding"></a>
 
 * [Your Last Day](offboarding/your-last-day.md)
 * [Off boarding Checklist](offboarding/off-boarding-checklist.md)
@@ -24,7 +24,7 @@
 * [Dockless-Mobility](developer/dockless-mobility.md)
 * [Docker](developer/docker.md)
 * [PostgREST](developer/postgrest/README.md)
-  * [Pypgrest \(Python Client\)](developer/postgrest/pypgrest.md)
+  * [Pypgrest (Python Client)](developer/postgrest/pypgrest.md)
   * [Jobs-API](developer/postgrest/jobs-api.md)
 * [Python](developer/python.md)
 * [Server Operation](developer/server-operation.md)
@@ -32,7 +32,7 @@
 ## Product Ops
 
 * [Github Project Management](product-ops/github-project-management.md)
-* [Product Delivery Workflow](product-ops/product-delivery-workflow.md)
+* [Project Delivery Workflow](product-ops/product-delivery-workflow.md)
 * [Index Issue Specifications](product-ops/index-issue-specifications.md)
 * [DTS Website Management](product-ops/dts-website.md)
 * [Release Management Process](product-ops/release-management-process.md)
@@ -41,4 +41,3 @@
 ## APPLICATIONS
 
 * [Application Management](applications/application-management.md)
-
