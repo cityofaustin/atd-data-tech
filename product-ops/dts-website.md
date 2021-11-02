@@ -14,17 +14,21 @@ An issue will appear on the [projects](https://austinmobility.io/projects) or [p
 * Has a `Product: xyz` or `Project: xyz` label
 * Has as `Product Index` or `Project Index` label
 
-Using the [Project Index](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D) and [Product Index](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Product+Index\&template=-all-purpose--product-index.md\&title=Product%3A+%5BProduct+Name+in+Title+Case%5D) Github templates for specifications on structure and formatting.&#x20;
+If you follow the the [Project Index](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D) and [Product Index](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Product+Index\&template=-all-purpose--product-index.md\&title=Product%3A+%5BProduct+Name+in+Title+Case%5D) Github template, your **Description **will be visible on the tile view in the listings. &#x20;
 
 ## Images
 
-Use an image that makes this product look exciting.
+Use an image that makes this product look exciting. It will appear on the project/product page itself, and also in the project tile.&#x20;
 
 * [Screenshot of a key part of the UI](https://austinmobility.io/projects/4611)
 * [Map](https://austinmobility.io/projects/638) or other visualization of the data generated in the app
 * A picture of our [users at work](https://austinmobility.io/products/251) or the related [hardware](https://austinmobility.io/projects/1540)/[service](https://austinmobility.io/products/1192) - [ATD Flickr](https://www.flickr.com/photos/austinmobility/albums) is a good source for these
 
 The image should be at least 1000px wide, with a 2:3 aspect ratio. [This tool](https://photoshop.adobe.com) makes it easy to crop/resize as needed.&#x20;
+
+![Images and descriptions appear on the tiles for each project/product. ](<../.gitbook/assets/Screen Shot 2021-11-01 at 11.20.27 PM.png>)
+
+
 
 ## Issues and Activity
 
