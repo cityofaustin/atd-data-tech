@@ -54,9 +54,4 @@ No worries, we had a good opportunity to learn more about our customers' work. M
   * List of customer's existing feature, enhancements, + new application requests
   * Discuss where the project should fit into the backlog
 
-### Activation
-
-* Add _Active_ label so it appears at [https://data.mobility.austin.gov/about](https://data.mobility.austin.gov/about/)
-* Assigned PM schedules Kickoff Meeting
-
 ****
