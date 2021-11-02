@@ -31,7 +31,8 @@ How long should this take to build; optional section w/ caveats for more complex
 Helpful links; e.g. other solutions, screenshots of Slack convos, customer’s original request, anything too long for the one-pager that can exist as a separate doc. Folder in Drive where project assets are stored.
 
 <!-- + Image  (No Header) (No Header) + -->
-An image/screenshot that makes this product look really exciting. The first image will be used as the project's thumbnail image on the website.
+https://atd-dts.gitbook.io/wiki/product-ops/dts-website#images
+The first image will be used as the project's thumbnail image on the website.
 
 ---
 This Github issue represents a project of Austin Transportation's [Data & Technology Services](https://austinmobility.io/) team. Project status is documented regularly in the comments below.
