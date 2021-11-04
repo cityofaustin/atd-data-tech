@@ -20,11 +20,12 @@ If you follow the the [Project Index](https://github.com/cityofaustin/atd-data-t
 
 Use an image that makes this product look exciting. It will appear on the project/product page itself, and also in the project tile.&#x20;
 
-* [Screenshot of a key part of the UI](https://austinmobility.io/projects/4611)
+* [Screenshot of a key part of the UI](https://austinmobility.io/projects/4611) |
+* View of the&#x20;
 * [Map](https://austinmobility.io/projects/638) or other visualization of the data generated in the app
 * A picture of our [users at work](https://austinmobility.io/products/251) or the related [hardware](https://austinmobility.io/projects/1540)/[service](https://austinmobility.io/products/1192) - [ATD Flickr](https://www.flickr.com/photos/austinmobility/albums) is a good source for these
 
-The image should be at least 1000px wide, with a 2:3 aspect ratio. [This tool](https://photoshop.adobe.com) makes it easy to crop/resize as needed.&#x20;
+The image should be at least 1000px wide, with a 3:3 aspect ratio. [This tool](https://photoshop.adobe.com) makes it easy to crop/resize as needed.&#x20;
 
 ![Images and descriptions appear on the tiles for each project/product. ](<../.gitbook/assets/Screen Shot 2021-11-01 at 11.20.27 PM.png>)
 
