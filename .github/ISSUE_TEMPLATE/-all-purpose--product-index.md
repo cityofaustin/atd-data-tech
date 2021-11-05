@@ -6,9 +6,7 @@ labels: Product Index
 assignees: ''
 
 ---
-
-< In a nutshell > (No header)
-Describe the who, what, and why of this project in one or two sentences.
+Describe the who, what, and why of this project in one or two sentences (No header).
 
 < img link > (No header)
 See https://atd-dts.gitbook.io/wiki/product-ops/dts-website#images. 
