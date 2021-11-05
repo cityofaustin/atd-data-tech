@@ -6,9 +6,7 @@ labels: Project Index
 assignees: ''
 
 ---
-
-<!-- + In a nutshell (No Header) + -->
-Describe the who, what, and why of this project in one or two sentences.
+Describe the who, what, and why of this project in one or two sentences (No header).
 
 ## Background
 
