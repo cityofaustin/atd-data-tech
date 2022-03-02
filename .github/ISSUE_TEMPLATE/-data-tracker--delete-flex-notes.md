@@ -1,7 +1,7 @@
 ---
-name: "[AMD Data Tracker] Deleting Flex Notes"
-about: Template to delete flex notes
-title: 'Delete "csr_flex_notes" from AMD Data Tracker - Month YEAR '
+name: "[Data Tracker] Delete Flex Notes"
+about: Template to delete flex notes from Data Tracker
+title: '[DT] Delete CSR Flex Notes - Month YEAR '
 labels: 'Product: AMD Data Tracker, Service: Apps, Type: Data'
 assignees: ''
 
@@ -13,7 +13,7 @@ Ran filter on: https://builder.knack.com/atd/amd/records/objects/object_95
 
 Filter:
 `ISSUE_STATUS_CODE` contains `closed`
-`CREATED_DATE` is `before` 01/01/21
+`CREATED_DATE` is `before` 01/01/21 (2 months prior)
 
 Total Records: {value}
 To Delete: {value}
