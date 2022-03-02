@@ -2,7 +2,7 @@
 name: "[DTS] Update DTS Portal with HR New Hires"
 about: Template to update DTS Portal with HR new hires for previous month
 title: 'Update DTS Portal with HR New Hires - Month YEAR '
-labels: 'Product: Data and Technology Services Portal, Workgroup: Human Resources, Service: Apps, Type: IT Support'
+labels: 'Product: Data and Technology Services Portal, Workgroup: HR, Service: Apps, Type: IT Support'
 assignees: ''
 
 ---
