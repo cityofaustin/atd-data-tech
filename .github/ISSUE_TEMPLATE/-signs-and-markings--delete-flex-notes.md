@@ -1,7 +1,7 @@
 ---
-name: "[Signs & Markings] Deleting Flex Notes"
-about: Template to delete flex notes
-title: 'Delete "csr_flex_notes" from Signs & Markings - Month YEAR '
+name: "[Signs & Markings] Delete Flex Notes"
+about: Template to delete flex notes from Signs & Markings
+title: '[Signs & Markings] Delete Flex Notes - Month YEAR '
 labels: 'Product: Signs & Markings, Service: Apps, Type: Data'
 assignees: ''
 
@@ -13,7 +13,7 @@ Ran filter on: https://builder.knack.com/atd/signs-markings/records/objects/obje
 
 Filter:
 `ISSUE_STATUS_CODE` contains `closed`
-`CREATED_DATE` is `before` 01/01/21
+`CREATED_DATE` is `before` 01/01/21 (2 months prior)
 
 Total Records: {value}
 To Delete: {value}
