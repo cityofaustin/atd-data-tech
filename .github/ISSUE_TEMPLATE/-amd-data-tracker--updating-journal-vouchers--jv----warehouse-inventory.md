@@ -8,10 +8,10 @@ assignees: ''
 
 ---
 
-- [ ] Spreadsheet emailed from Van month of: FILL MONTH OUT, DATE RANGE
+- [ ] Spreadsheet emailed from Finance staff month of: FILL MONTH OUT, DATE RANGE
 - [ ] Number of records being updated: ENTER NUMBER HERE
 - [ ] Format spreadsheet [(Review instructions)](https://atd-dts.gitbook.io/atd-knack-operations/warehouse-inventory-updating-journal-vouchers-jv-information)
 - [ ] Spot check Transaction IDs, no JV information before import
 - [ ] Import records
 - [ ] Spot check Transaction IDs, no JV information after import
-- [ ] Email Van that update task complete
+- [ ] Email Finance staff that update task complete

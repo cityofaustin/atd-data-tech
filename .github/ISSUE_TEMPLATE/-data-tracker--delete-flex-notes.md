@@ -1,7 +1,7 @@
 ---
 name: "[Data Tracker] Delete Flex Notes"
 about: Template to delete flex notes from Data Tracker
-title: '[DT] Delete CSR Flex Notes - Month YEAR '
+title: "[DT] Delete CSR Flex Notes - Month YEAR "
 labels: 'Product: AMD Data Tracker, Service: Apps, Type: Data'
 assignees: ''
 
