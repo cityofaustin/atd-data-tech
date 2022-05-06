@@ -19,4 +19,5 @@ assignees: ChrispinP
 - [ ] Save all 6 spreadsheets as csv
 - [ ] Import (Update) records, match on `Fee Number` & import `Journal Voucher ID`. Set `Import Date` to today
 - [ ] Make sure the number of records being updated matches for all spreadsheets
+- [ ] Filter records by `Import Date` and make sure the total number of records updated matches
 - [ ] Email Finance (and others cc'd) that the update task is complete
