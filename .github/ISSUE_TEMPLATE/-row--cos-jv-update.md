@@ -17,6 +17,6 @@ assignees: ChrispinP
 - [ ] Total Number of records being updated:
 - [ ] Remove non-JV tabs from spreadsheets and remove rows without `Journal Voucher ID`
 - [ ] Save all 6 spreadsheets as csv
-- [ ] Import (Update) records, match on `Journal Voucher ID` & import `Fee Number`. Set `Import Date` to today
+- [ ] Import (Update) records, match on `Fee Number` & import `Journal Voucher ID`. Set `Import Date` to today
 - [ ] Make sure the number of records being updated matches for all spreadsheets
 - [ ] Email Finance (and others cc'd) that the update task is complete
