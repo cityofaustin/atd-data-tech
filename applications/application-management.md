@@ -9,11 +9,11 @@ Some of the main functions our team does is:
   * Socrata Open Data Portal
 * **Solution Architecture and Configuration**
   * Knack, AMANDA, Fulcrum
-* **Hardware Support **
+* **Hardware Support**&#x20;
   * AirWatch - Tablet Management
 * **Data Management**
   * Database design, creation, maintenance
-* **Business Intelligence (BI) **
+* **Business Intelligence (BI)**&#x20;
   * Power BI
   * CliqSense
   * Tableau

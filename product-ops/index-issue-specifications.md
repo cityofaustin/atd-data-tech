@@ -18,12 +18,12 @@ All projects which have been scoped require a project issue to be placed in the 
 
 #### Title
 
-The issue title should be prefixed with `Project: `. For example, `Project: Warehouse Inventory Management`
+The issue title should be prefixed with `Project:` . For example, `Project: Warehouse Inventory Management`
 
 #### Labels
 
 * &#x20;`Project Index`
-* `Project: xzy`** **— A project-specific label that you will create, following our [project label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=project)
+* `Project: xzy` **** — A project-specific label that you will create, following our [project label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=project)
 * `Workgroup: xyz`  — the project stakeholder workgroups
 * `Type: xyz` — the type of work to be done for this project
 
@@ -41,12 +41,12 @@ All products require a product issue to be placed in the appropriate Zenhub pipe
 
 #### Title
 
-The issue title should be prefixed with `Product: `. For example, `Product: Data Tracker`
+The issue title should be prefixed with `Product:` . For example, `Product: Data Tracker`
 
 #### Labels
 
 * `Product Index`
-* `Product: xzy`** **— A product-specific label that you will create, following our [product label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=product)
+* `Product: xzy` **** — A product-specific label that you will create, following our [product label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=product)
 * `Workgroup: xyz`  — the workgroup(s) of the product's primary users
 
 #### Assignee

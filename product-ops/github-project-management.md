@@ -42,7 +42,7 @@ You will see a list of our custom issue templates. These are handy for creating 
 Issue titles should begin with a verb and summarize what we will accomplish by completing the issue. This standardization is helpful when viewing many issues at a time, like during Sprint Planning.&#x20;
 
 {% hint style="info" %}
-We maintain all the information about a particular projects or products with a **Product Index** or **Project Index** issue. See our [**Index Issue Specifications**](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications)** **for more details.
+We maintain all the information about a particular projects or products with a **Product Index** or **Project Index** issue. See our [**Index Issue Specifications**](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications) **** for more details.
 {% endhint %}
 
 ## Labels
