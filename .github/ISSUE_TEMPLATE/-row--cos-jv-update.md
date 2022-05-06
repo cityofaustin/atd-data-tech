@@ -7,7 +7,7 @@ assignees: ChrispinP
 
 ---
 
-- [ ] Spreadsheet emailed from Finance
+- [ ] Spreadsheets emailed from Finance
 - [ ] AE Number of records to update:
 - [ ] AW Number of records to update:
 - [ ] ATD Number of records to update:
