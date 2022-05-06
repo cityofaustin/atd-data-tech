@@ -8,14 +8,14 @@ assignees: ChrispinP
 ---
 
 - [ ] Spreadsheets emailed from Finance
-- [ ] AE Number of records to update:
-- [ ] AW Number of records to update:
-- [ ] ATD Number of records to update:
-- [ ] CPO Number of records to update:
-- [ ] PWD Number of records to update:
-- [ ] WS Number of records to update:
-- [ ] Total Number of records being updated:
-- [ ] Remove non-JV tabs from spreadsheets and remove rows without `Journal Voucher ID`
+- [ ] AE Number of records to update: 
+- [ ] AW Number of records to update: 
+- [ ] ATD Number of records to update: 
+- [ ] CPO Number of records to update: 
+- [ ] PWD Number of records to update: 
+- [ ] WS Number of records to update: 
+- [ ] Total Number of records being updated: 
+- [ ] Remove non-JV filtered tabs from spreadsheets and remove any rows without `Journal Voucher ID` if necessary
 - [ ] Save all 6 spreadsheets as csv
 - [ ] Import (Update) records, match on `Fee Number` & import `Journal Voucher ID`. Set `Import Date` to today
 - [ ] Make sure the number of records being updated matches for all spreadsheets
