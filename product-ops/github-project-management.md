@@ -11,7 +11,7 @@ description: >-
 1. [Create a Github account](https://github.com/join) if you don't have one already.
 2. Have someone on the DTS team add you to the [City of Austin](https://github.com/cityofaustin) organization and the [Transportation](https://github.com/orgs/cityofaustin/teams/transportation) team as a Maintainer.
 3. Add the [ZenHub extension](https://www.zenhub.com/extension) to your browser.
-4. Log into the [ZenHub web app](http://app.zenhub.com) using your normal GitHub credentials to activate your account.&#x20;
+4. Log into the [ZenHub web app](http://app.zenhub.com/) using your normal GitHub credentials to activate your account.&#x20;
 
 ## Pipelines
 

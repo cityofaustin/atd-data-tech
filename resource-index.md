@@ -8,12 +8,12 @@ description: >-
 
 ## Data & Technology Services
 
-* [https://austinmobility.io/](https://austinmobility.io) — Data & Technology Services and our work
-* [Data and Performance Hub](http://transportation.austintexas.io) — Austin Transportation dashboards we build and maintain
+* [https://austinmobility.io/](https://austinmobility.io/) — Data & Technology Services and our work
+* [Data and Performance Hub](http://transportation.austintexas.io/) — Austin Transportation dashboards we build and maintain
 * [DTS Portal](http://atd.knack.com/dts) — Service Requests, Data Inventory, Technician Equipment Tracker
 * [Google Drive](https://drive.google.com/drive/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7)
 * [Document templates](https://drive.google.com/open?id=1Txqc8xGkwa3h9lrRoXGzGjLlVo0S8DA6)
-* [Email Signature Template](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP\_wK6tjkEE/edit#)
+* [Email Signature Template](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP\_wK6tjkEE/edit)
 * [Division intranet](https://cityofaustin.sharepoint.com/sites/ATDDTS) - SharePoint site
 * [Private GitBook page](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/general) - This page is for onboarding info that shouldn't be open to the public web
 * [Our Wikis](our-wikis.md)
@@ -28,9 +28,9 @@ description: >-
 
 * [City of Austin organization chart](https://www.austintexas.gov/sites/default/files/files/City\_Manager/COAOrgChart11\_2020-FNL3.pdf)
 * [Strategic Direction 2023](https://www.austintexas.gov/edims/document.cfm?id=341820)
-* [Open Data Portal](https://data.austintexas.gov)
-* [Open Data Community site](https://opendata.bloomfire.com)
-* [GIS Community site](https://austingis.bloomfire.com)
+* [Open Data Portal](https://data.austintexas.gov/)
+* [Open Data Community site](https://opendata.bloomfire.com/)
+* [GIS Community site](https://austingis.bloomfire.com/)
 * [Github organization](https://github.com/cityofaustin)
 * [CTM service request form](https://atx.service-now.com/sp?id=sc\_cat\_item\&sys\_id=02e490c6db7f1300a314e1c2ca9619e6) — or 512-974-4357 (4-HELP from a City phone)
 * [City Intranet site](https://cityspace.austintexas.gov/Home) - CitySpace
@@ -42,7 +42,7 @@ description: >-
 ## Human Resources
 
 * [Official City of Austin holiday schedule](http://www.austintexas.gov/department/official-city-holidays)
-* [HR Portal](https://hrdcfprod.coacd.org) — pay stubs, benefits, PE registration
+* [HR Portal](https://hrdcfprod.coacd.org/) — pay stubs, benefits, PE registration
 * [Employee benefits](http://www.austintexas.gov/department/active-employee-benefits/) (external site)
 * [Benefits ](https://cityspace.austintexas.gov/Benefits)(CitySpace - internal)
 * [Online Earnings Statement](https://www.ci.austin.tx.us/eaccess/default.cfm)

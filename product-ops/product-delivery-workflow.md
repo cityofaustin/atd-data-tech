@@ -29,13 +29,11 @@ We consider the first release of a new solution, e.g. Moped 1.0, a **project**. 
 
 ## Builder Huddle
 
-* Schedule meeting with the lead from a builder team; both Apps and Dev might be included if we aren't sure which route we'll go or the solution will require both&#x20;
+* PM sets up meeting with potential builders, e.g. Dev for a Vision Zero Viewer project, Apps for a ROW Portal project. Include both  Dev might be included if we aren't sure which route we'll go or the solution will require both&#x20;
 * Prepare a summary of request — [example](https://docs.google.com/presentation/d/1brqKe0IfavZ4K8Dp2jv1QBW\_Kfa7umDROOiQ2lHc67I/edit#slide=id.p) and [template](https://docs.google.com/presentation/d/1i9rcEEsEIWtHLJd\_e0foQpNX9bQkffj4zHkzRsguW60/edit?usp=sharing)
 * Meet and discuss
   * Recommended approach
   * Level of effort
-
-## Product Housekeeping
 
 First we ask: Is this truly "project-sized" — taking multiple sprints for a builder and PM to deliver?  &#x20;
 
@@ -59,5 +57,15 @@ Delivery
 * Move to "In Prog
 * sprint reviews every sprint
 * Updates&#x20;
+
+### Completion&#x20;
+
+A project is considered complete when the MVP (captured in the "Scope and Deliverables" section of the issue's [**Project Index**](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D)) is delivered to users.&#x20;
+
+For complex projects, you might consider making an "Onboarding and Stabilization" issue in your roadmap and wait until that is complete before closing out the project.
+
+![](<../.gitbook/assets/Screen Shot 2022-05-24 at 10.39.48 AM.png>)
+
+
 
 ****
