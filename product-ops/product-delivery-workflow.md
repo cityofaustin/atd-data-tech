@@ -41,22 +41,25 @@ First we ask: Is this truly "project-sized" — taking multiple sprints for a bu
 
 No worries, we had a good opportunity to learn more about our customers' work. Might make sense to organize this work as an [epic](github-project-management.md#epics), once the time comes.&#x20;
 
-### Yup, a genuine project&#x20;
+### Indeed, a project
+
+Create high-level documentation to ensure the project is clearly represented and prioritized in our backlog.&#x20;
 
 * Update Github issue to match [Project Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D)
 * Add _Project_ label [here](https://github.com/cityofaustin/atd-data-tech/labels) with the hex code #3D3D3D
 * Add to [Weekly Product Meeting](https://docs.google.com/document/d/1hWzg-qluRBrTetEGjg\_eHrR9qT4IqenaUgk6FR6APbU/edit#heading=h.uiqzfz1q9mha) agenda to discuss with other PMs on a Wednesday
 * Discuss value and effort and record in [DTS Prioritization Matrix](https://atd.knack.com/dts#project-evaluation/)
-* Circle back with customer
-  * Prioritization outcome and explanation
-  * List of customer's existing feature, enhancements, + new application requests
-  * Discuss where the project should fit into the backlog
 
 Delivery
 
 * Move to "In Prog
 * sprint reviews every sprint
 * Updates&#x20;
+
+Partnering w/ dev team
+
+* Create issue, focusing on desired outcome&#x20;
+* @mention Mateo in Github and DM him in Slack
 
 ### Completion&#x20;
 
