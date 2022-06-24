@@ -18,11 +18,13 @@ If you follow the the [Project Index](https://github.com/cityofaustin/atd-data-t
 
 ## Images
 
-Use an image that makes this product look exciting. It will appear on the project/product page itself, and also in the project tile.&#x20;
+Include images whenever possible! The first image will be used as the project's thumbnail image on the website.
 
-* [Screenshot of a key part of the UI](https://austinmobility.io/projects/4611)&#x20;
+Consider adding...&#x20;
+
+* A [screenshot of a key part of the UI](https://austinmobility.io/projects/4611)&#x20;
 * [Device screenshots](https://austinmobility.io/products/145) for mobile-focused apps - [template](https://docs.google.com/presentation/d/11W8P7kb8mt3FNehyG-\_UiNlv4gBn-uWT\_WZTKyJc\_kY/edit#slide=id.gf792707f70\_0\_0)&#x20;
-* [Map](https://austinmobility.io/projects/638) or other visualization of the data generated in the app
+* A [map](https://austinmobility.io/projects/638) or other visualization of the data generated in the app
 * A picture of our [users at work](https://austinmobility.io/products/251) or the related [hardware](https://austinmobility.io/projects/1540)/[service](https://austinmobility.io/products/1192) - [ATD Flickr](https://www.flickr.com/photos/austinmobility/albums) is a good source for these
 
 The image should be at least 1000px wide, with a 3:2 aspect ratio. [This tool](https://croppola.com/) makes it easy to crop/resize as needed.&#x20;
