@@ -2,7 +2,7 @@
 
 ## Accounts - Team Lead
 
-* [ ] Submit a [CTM New Employee Request Form](https://atx.service-now.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972\&sysparm\_category=ea848d3adbce37405b03f482ba96193c) for a COA network account, eAccess PIN/HR Portal, and phone&#x20;
+* [ ] Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone&#x20;
 *   [ ] Submit a [CTM service request](https://atx.service-now.com/sp) to add to DTS Distribution Email Group:
 
     > Add "First Last Name" to email distribution list "ATD Data and Technology Service" ([ATDDataTechnologyServices@austintexas.gov](mailto:ATDDataTechnologyServices@austintexas.gov)) and "ACE ATD DL"
