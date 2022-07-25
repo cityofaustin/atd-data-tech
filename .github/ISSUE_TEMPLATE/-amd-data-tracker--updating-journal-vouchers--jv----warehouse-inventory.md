@@ -2,7 +2,7 @@
 name: "[AMD Data Tracker] Updating Journal Vouchers (JV) - Warehouse Inventory"
 about: Template to update JV information on inventory transactions
 title: Update "Journal Voucher" info in AMD Data Tracker - Warehouse Inventory- MONTH
-  2021
+  2022
 labels: 'Product: AMD Data Tracker, Service: Apps, Type: Data, Workgroup: Finance'
 assignees: ''
 
