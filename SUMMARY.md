@@ -14,7 +14,7 @@
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
 * [Where to Eat](onboarding/where-to-eat.md)
 
-## Off boarding <a href="offboarding" id="offboarding"></a>
+## Off boarding <a href="#offboarding" id="offboarding"></a>
 
 * [Your Last Day](offboarding/your-last-day.md)
 * [Off boarding Checklist](offboarding/off-boarding-checklist.md)
@@ -32,6 +32,7 @@
 ## Product Ops
 
 * [Github Project Management](product-ops/github-project-management.md)
+* [PM Service Request Intake](product-ops/pm-service-request-intake.md)
 * [Project Delivery Workflow](product-ops/product-delivery-workflow.md)
 * [Index Issue Specifications](product-ops/index-issue-specifications.md)
 * [DTS Website Management](product-ops/dts-website.md)
