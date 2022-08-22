@@ -11,13 +11,17 @@ The PM takes it from there:
   * Apply appropriate milestone and move to "Backlog" or "On Deck" pipeline
 * Create new Drive folder in [_ATD DTS > Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5\_SX8nqBThx)&#x20;
 
-{% hint style="info" %}
+### The "DTS project" and "DTS product" distinction
+
 **Products** are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Austin Transportation as business needs evolve.&#x20;
 
-**Projects** are time-boxed endeavors. Examples include [recommending an off-the-shelf externally-supported solution](https://github.com/cityofaustin/atd-data-tech/issues/65), [building a major feature for an existing DTS project](https://github.com/cityofaustin/atd-data-tech/issues/533), [refactoring a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254), or [delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911). They accomplish a singular goal and have a defined completion date.&#x20;
+**Projects** are time-boxed endeavors. They accomplish a singular goal and have a defined completion date. Examples include:
 
-We consider the first release of a new solution, e.g. Moped 1.0, a **project**. Once the new product is launched to users, that project can be closed and the product is added to our portfolio.&#x20;
-{% endhint %}
+* [Recommending an off-the-shelf externally-supported solution](https://github.com/cityofaustin/atd-data-tech/issues/65)
+* Delivering the first iteration (MVP) of a new DTS product
+* [Building a major feature for an existing DTS project](https://github.com/cityofaustin/atd-data-tech/issues/533)
+* [Refactoring a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254)
+* [Delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911).
 
 ## Scoping
 
