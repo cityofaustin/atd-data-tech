@@ -31,9 +31,9 @@ Coordinate with DTS System Admin (Scott), make sure there is enough lead time fo
 
 Schedule or coordinate with event owner
 
-* [ ] First day: DTS Team Orientation — Amenity/Mateo
-* [ ] First Week: DTS Product Ops — Amenity
-* [ ] Monthly Team Meeting — Peggy
-* [ ] Sprints — Amenity
+* [ ] First day: DTS Team Orientation — invite all leads, Peggy optional
+* [ ] First Week: DTS Product Ops — Coordinate w/ Amenity
+* [ ] Monthly Team Meeting
+* [ ] Sprints
 * [ ] Sprint Ceremonies — Planning, Grooming, Sync, Show & Tell
 * [ ] Biweekly 1x1
