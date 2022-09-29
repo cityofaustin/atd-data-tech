@@ -13,7 +13,7 @@
 * [ ] Upload headshot to ["Headshots" Drive folder](https://drive.google.com/drive/u/0/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G)
 * [ ] Add to group slide and team slides [DTS Presentation Template Team section](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo\_LTU86IzQxo1gJoeA/edit#slide=id.gfd2da31025\_0\_6)&#x20;
 * [ ] Update DTS group and team slides in the DTS Orientation presentation to reflect ☝️
-* [ ] Add to 1Password (if needed; we pay for seats) - Diana or Amenity
+* [ ] Check w/ Diana/Amenity—if needed; we pay for seats
 
 ## Hardware — DTS Systems Admin
 
