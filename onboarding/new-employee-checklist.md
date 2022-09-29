@@ -6,12 +6,14 @@
 *   [ ] Submit a [CTM service request](https://atx.service-now.com/sp) to add to DTS Distribution Email Group:
 
     > Add "First Last Name" to email distribution list "ATD Data and Technology Service" ([ATDDataTechnologyServices@austintexas.gov](mailto:ATDDataTechnologyServices@austintexas.gov)) and "ACE ATD DL"
-* [ ] Add to City of Austin Slack - `austininnovation.slack.com`
+* [ ] Add to City of Austin Slack - `austininnovation.slack.com`&#x20;
 * [ ] Add to DTS Google Drive
 * [ ] Add to [Gitbook](https://app.gitbook.com/@atd-dts/spaces)
 * [ ] Add to [Austin Transportation Github Team](https://github.com/orgs/cityofaustin/teams/transportation/members)&#x20;
-* [ ] Add to [DTS Presentation Template Team section](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo\_LTU86IzQxo1gJoeA/edit#slide=id.gfd2da31025\_0\_6) - two places
-* [ ] Diana or Amenity add to DTS 1Password (if needed; we pay for seats)
+* [ ] Upload headshot to ["Headshots" Drive folder](https://drive.google.com/drive/u/0/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G)
+* [ ] Add to group slide and team slides [DTS Presentation Template Team section](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo\_LTU86IzQxo1gJoeA/edit#slide=id.gfd2da31025\_0\_6)&#x20;
+* [ ] Update DTS group and team slides in the DTS Orientation presentation to reflect ☝️
+* [ ] Add to 1Password (if needed; we pay for seats) - Diana or Amenity
 
 ## Hardware — DTS Systems Admin
 
@@ -33,5 +35,5 @@ Schedule or coordinate with event owner
 * [ ] First Week: DTS Product Ops — Amenity
 * [ ] Monthly Team Meeting — Peggy
 * [ ] Sprints — Amenity
-* [ ] Sprint Ceremonies — Planning, Grooming, Sync
+* [ ] Sprint Ceremonies — Planning, Grooming, Sync, Show & Tell
 * [ ] Biweekly 1x1
