@@ -9,12 +9,14 @@ assignees: ChrispinP
 ---
 
 - [ ] Spreadsheets emailed from Finance
-- [ ] AE Number of records to update:  
-- [ ] ATD Number of records to update: 
-- [ ] AW Number of records to update:
-- [ ] CPO Number of records to update: 
-- [ ] PWD Number of records to update: 
-- [ ] WS Number of records to update: 
+- [ ] AE (Austin Energy) Number of records to update: 
+- [ ] ACC (Austin Convention Center) Number of records to update: 
+- [ ] ATD (Austin Transportation Department) Number of records to update: 
+- [ ] AW (Austin Water) Number of records to update: 
+- [ ] CPO (Corridor Program Office) Number of records to update: 
+- [ ] PARD (Parks and Recreation Department) Number of records to update: 
+- [ ] PWD (Public Works Department) Number of records to update: 
+- [ ] WPD (Watershed Protection & Development) Number of records to update:  
 - [ ] Total Number of records being updated: 
 - [ ] Remove non-JV filtered tabs from spreadsheets and remove any rows without `Journal Voucher ID` if necessary
 - [ ] Save all 6 spreadsheets as csv. It also helps to save an All Data Excel file if you have to check for data inaccuracies after importing.
