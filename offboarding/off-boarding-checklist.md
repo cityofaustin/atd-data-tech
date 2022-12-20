@@ -6,7 +6,7 @@
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
 | 1Password                                                                                                                                            |                                |
 | Slack                                                                                                                                                |                                |
-| Miro                                                                                                                                                 |                                |
+| [Miro](https://miro.com/app/settings/company/3074457355174023970/users/)                                                                             | Amenity or Diana must complete |
 | Vision Zero Editor                                                                                                                                   |                                |
 | Moped                                                                                                                                                |                                |
 | Knack Applications                                                                                                                                   | Apps Team member must complete |
