@@ -12,7 +12,7 @@
 | Knack Applications                                                                                                                                   | Apps Team member must complete |
 | GitHub (remove from [team](https://github.com/orgs/cityofaustin/teams/transportation/members) & re-assign issues)                                    |                                |
 | Reassign open Github issues                                                                                                                          |                                |
-| Remove from Zenhub team                                                                                                                              |                                |
+| Remove from [Zenhub team](https://app.zenhub.com/settings/o/cityofaustin/users)                                                                      |                                |
 | Google Drive (revoke access)                                                                                                                         |                                |
 | Fill out [Separated Employee Request Form (SERF)](https://atx.service-now.com/sp?id=sc\_cat\_item\_guide\&sys\_id=72fb6289db9f73405b03f482ba961956)  | Supervisor must complete       |
 | DTS email distribution list                                                                                                                          | Remove after SERF is processed |
