@@ -2,24 +2,24 @@
 
 ## IT Permissions and Access
 
-| To Do                                                                                                                                                | Notes                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 1Password                                                                                                                                            |                                |
-| Slack                                                                                                                                                |                                |
-| [Miro](https://miro.com/app/settings/company/3074457355174023970/users/)                                                                             | Amenity or Diana must complete |
-| Vision Zero Editor                                                                                                                                   |                                |
-| Moped                                                                                                                                                |                                |
-| Knack Applications                                                                                                                                   | Apps Team member must complete |
-| GitHub (remove from [team](https://github.com/orgs/cityofaustin/teams/transportation/members) & re-assign issues)                                    |                                |
-| Reassign open Github issues                                                                                                                          |                                |
-| Remove from [Zenhub team](https://app.zenhub.com/settings/o/cityofaustin/users)                                                                      |                                |
-| Google Drive (revoke access)                                                                                                                         |                                |
-| Fill out [Separated Employee Request Form (SERF)](https://atx.service-now.com/sp?id=sc\_cat\_item\_guide\&sys\_id=72fb6289db9f73405b03f482ba961956)  | Supervisor must complete       |
-| DTS email distribution list                                                                                                                          | Remove after SERF is processed |
-| [About Us page](https://github.com/cityofaustin/atd-product/blob/main/pages/about/index.js)                                                          |                                |
-| [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo\_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde\_0\_91)              |                                |
-| [DTS Orientation Slides](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_382)   |                                |
-| [DTS Knowledge Base triage information](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/)                                      |                                |
+| To Do                                                                                                                                                | Notes                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| [1Password](https://my.1password.com/people)                                                                                                         | Amenity, Chia, Diana, or Frank must complete |
+| [Slack](https://austininnovation.slack.com/admin/settings)                                                                                           |                                              |
+| [Miro](https://miro.com/app/settings/company/3074457355174023970/users/)                                                                             | Amenity or Diana must complete               |
+| Vision Zero Editor                                                                                                                                   |                                              |
+| Moped                                                                                                                                                |                                              |
+| Knack Applications                                                                                                                                   | Apps Team member must complete               |
+| [Transportation GitHub organization](https://github.com/orgs/cityofaustin/teams/transportation/members)                                              |                                              |
+| Reassign [open Github issues](https://github.com/cityofaustin/atd-data-tech/issues)                                                                  |                                              |
+| [Zenhub](https://app.zenhub.com/settings/o/cityofaustin/users)                                                                                       |                                              |
+| Google Drive                                                                                                                                         |                                              |
+| Fill out [Separated Employee Request Form (SERF)](https://atx.service-now.com/sp?id=sc\_cat\_item\_guide\&sys\_id=72fb6289db9f73405b03f482ba961956)  | Supervisor must complete                     |
+| DTS email distribution list                                                                                                                          | Remove after SERF is processed               |
+| [About Us page](https://github.com/cityofaustin/atd-product/blob/main/pages/about/index.js)                                                          |                                              |
+| [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo\_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde\_0\_91)              |                                              |
+| [DTS Orientation Slides](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_382)   |                                              |
+| [DTS Knowledge Base triage information](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/)                                      |                                              |
 
 ## Recover organization assets
 
