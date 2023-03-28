@@ -6,6 +6,8 @@
 *   [ ] Submit a [CTM service request](https://atx.service-now.com/sp) to add to DTS Distribution Email Group:
 
     > Add "First Last Name" to email distribution list "ATD Data and Technology Service" ([ATDDataTechnologyServices@austintexas.gov](mailto:ATDDataTechnologyServices@austintexas.gov)) and "ACE ATD DL"
+
+    * [ ] This process is changing, CTM ticket is in to update our DL owner to Scott R., change might be to ping Scott to update rather than CTM Ticket. Read [Knowledge Base article](https://atx.servicenowservices.com/sp?id=kb\_article\&sys\_id=aa2fb0761be169d0e8dfc844604bcb89) in ServiceNow to see steps to add/remove members of the list
 * [ ] Add to City of Austin Slack - `austininnovation.slack.com`&#x20;
 * [ ] Add to DTS Google Drive
 * [ ] Add to [Gitbook](https://app.gitbook.com/@atd-dts/spaces)
