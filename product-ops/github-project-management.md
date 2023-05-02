@@ -18,7 +18,7 @@ description: >-
 The Zenhub board uses a [Kanban](https://en.wikipedia.org/wiki/Kanban\_board)-like format where issues are represented as cards and move across the board as they enter various stages of completion. Our workspace pipelines are:
 
 * **New Issues** - Awaiting triage by Level I Support or Product.&#x20;
-* **Icebox** - Recorded and understood, but not committed to. Lack evidence of overall value or applicability. We don't want to delete these and create a cycle of raising duplicate issues, so we keep them in our icebox with just enough information attached that we can pick it up some time in the future — if and when we choose to do so.
+* **Icebox** - Recorded and understood, but not committed to. Lack of evidence of overall value or applicability. We don't want to delete these and create a cycle of raising duplicate issues, so we keep them in our icebox with just enough information attached that we can pick it up sometime in the future — if and when we choose to do so.
 * **Needs Scoping** - Potential projects or features that require clarification or exploration before presenting to builders for estimation and prioritizing.
 * **Backlog** - Issues that are ready to be tackled by the team when the time comes. This pipeline is prioritized: the higher an issue is on this list, the higher the priority.&#x20;
 * **On Deck** - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into On Deck.
@@ -39,14 +39,20 @@ You will see a list of our custom issue templates. These are handy for creating 
 
 ### Issue Titles
 
-Issue titles should begin with a verb and summarize what we will accomplish by completing the issue. This standardization is helpful when viewing many issues at a time, like during Sprint Planning.&#x20;
+In most cases, issue titles should **begin with a verb** and **summarize** the work to be completed. This convention improves readability and helps keep our tasks action-oriented and unambiguous.&#x20;
 
-Some examples:
+We pull directly from Github to our website and newsletters, so where practical, avoid acronyms and complex terminology in the title.&#x20;
 
-*
+Here are some examples:
+
+| Use this                                                        | Not this                                                  |
+| --------------------------------------------------------------- | --------------------------------------------------------- |
+| Replace the council district dataset used in Vision Zero Viewer | Outdated/inaccurate council district AGOL resource in VZV |
+|                                                                 |                                                           |
+|                                                                 |                                                           |
 
 {% hint style="info" %}
-We maintain all the information about particular projects or products with a **Product Index** or **Project Index** issue. See our [**Index Issue Specifications**](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications) **** for more details.
+We maintain all the information about particular projects or products with a **Product Index** or **Project Index** issue. See our [**Index Issue Specifications**](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications) for more details.
 {% endhint %}
 
 ## Labels
