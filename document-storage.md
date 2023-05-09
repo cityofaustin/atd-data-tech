@@ -6,7 +6,6 @@ To prevent the proliferation of different versions of multi-editor documents, al
 
 * [Document templates](https://drive.google.com/open?id=1Txqc8xGkwa3h9lrRoXGzGjLlVo0S8DA6)
 * ​[DTS Google Drive](https://drive.google.com/drive/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7)​ - [​account setup](https://github.com/cityofaustin/atd-data-tech/wiki/Using-Google-as-a-City-employee)​​
-* [DTS Sharepoint/Teams drive](https://teams.microsoft.com/\_#/tab::7dc26d1f-21aa-43dd-9dd9-ab25188b15a7/General?threadId=19:6125816a2bd34142a9b23fc916a968b8%40thread.skype\&ctx=channel)
 
 ## Windows-only File Types
 
@@ -14,7 +13,7 @@ GIS files, Visio documents, and other files that can only be used on a Windows o
 
 ## Everything Else
 
-Other documents can be stored either in the cloud or on G drive, whichever is most practical for the team and customer.
+Other documents can be stored in Google Drive or our G drive, whichever is most practical for the team and customer.
 
 {% hint style="info" %}
 Be aware that anything stored on your local drive — the Windows C drive or Mac HD — is not backed up or accessible via other devices. &#x20;
