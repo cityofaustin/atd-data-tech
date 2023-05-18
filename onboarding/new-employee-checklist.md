@@ -2,17 +2,29 @@
 
 ## Accounts - Team Lead
 
-* [ ] Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone&#x20;
-*   [ ] Submit a [CTM service request](https://atx.service-now.com/sp) to add to DTS Distribution Email Group:
+* Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone&#x20;
+  * On the form:&#x20;
+    * **List network access required for the users position (e.g., Security Groups, Distribution Groups, Resource Accounts, Shared Mailboxes, etc.)**
+      * Enter: "_transportation.data@austintexas.gov_" (Shared Mailbox)&#x20;
+    * **Provide the name of the similar user to the pattern the network access/distribution list(s)**
+      * Select an employee that has similar access that you want the new employee to have (Do not user a supervisor/manager unless new employee is supervisor/manager level)
+    * **Additional account information**
+* Request users to be added to distribution lists
+  * Email Scott Reedy (DTS) - owner
+    * "ATD Data and Technology Service DL" ([ATDDataTechnologyServices@austintexas.gov](mailto:ATDDataTechnologyServices@austintexas.gov))
+  * Email Jacob Coronado (Parking Services - Meters) - owner
+    * "ACE ATD DL" (aceatd@austintexas.gov)
 
-    > Add "First Last Name" to email distribution list "ATD Data and Technology Service" ([ATDDataTechnologyServices@austintexas.gov](mailto:ATDDataTechnologyServices@austintexas.gov)) and "ACE ATD DL"
+{% hint style="info" %}
+Read [Knowledge Base article](https://atx.servicenowservices.com/sp?id=kb\_article\&sys\_id=aa2fb0761be169d0e8dfc844604bcb89) in ServiceNow to see steps to add/remove members of the list
+{% endhint %}
 
-    * [ ] This process is changing, CTM ticket is in to update our DL owner to Scott R., change might be to ping Scott to update rather than CTM Ticket. Read [Knowledge Base article](https://atx.servicenowservices.com/sp?id=kb\_article\&sys\_id=aa2fb0761be169d0e8dfc844604bcb89) in ServiceNow to see steps to add/remove members of the list
-* [ ] Add to City of Austin Slack - `austininnovation.slack.com`&#x20;
-* [ ] Add to DTS Google Drive
+* [ ] Add to [City of Austin Slack](https://austininnovation.slack.com/admin) - `austininnovation.slack.com`
+  * [ ] ask Amenity or Diana (Slack workspace admins)
+* [ ] Add to [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7)
 * [ ] Add to [Gitbook](https://app.gitbook.com/@atd-dts/spaces)
 * [ ] Add to [Austin Transportation Github Team](https://github.com/orgs/cityofaustin/teams/transportation/members)&#x20;
-* [ ] Upload headshot to ["Headshots" Drive folder](https://drive.google.com/drive/u/0/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G)
+* [ ] Upload head shot photo in (.png format) to ["Headshots" Drive folder](https://drive.google.com/drive/u/0/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G)
 * [ ] Add to group slide and team slides [DTS Presentation Template Team section](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo\_LTU86IzQxo1gJoeA/edit#slide=id.gfd2da31025\_0\_6)&#x20;
 * [ ] Update DTS group and team slides in the DTS Orientation presentation to reflect ☝️
 * [ ] Check w/ Diana/Amenity—if needed; we pay for seats

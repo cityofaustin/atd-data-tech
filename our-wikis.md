@@ -12,7 +12,7 @@
 ## User Docs
 
 * [ATD Staff Resources](https://atd-dts.gitbook.io/atd-staff-resources/)
-* [Moped Documentation](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-MIQvl\_rKnZ\_-wHRdp4J/)
+* [Moped Documentation](http://localhost:5000/o/-LzDQOVGhTudbKRDGpUA/s/-MIQvl\_rKnZ\_-wHRdp4J/)
 * [Signs & Markings Tracker](https://atd-dts.gitbook.io/signs-and-markings-tracker-help-guides/)
 * [SXSW Command Center](https://atd-dts.gitbook.io/command-center-resources/)
-* [TDS Operations](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-Mdw\_HGhQRPU5N26oPGn/)
+* [TDS Operations](http://localhost:5000/o/-LzDQOVGhTudbKRDGpUA/s/-Mdw\_HGhQRPU5N26oPGn/)

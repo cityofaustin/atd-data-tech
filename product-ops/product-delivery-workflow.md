@@ -13,9 +13,9 @@ The PM takes it from there:
 
 ### The "DTS project" and "DTS product" distinction
 
-****[**Products**](https://austinmobility.io/products) **** are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Austin Transportation as business needs evolve.&#x20;
+[**Products**](https://austinmobility.io/products) are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Austin Transportation as business needs evolve.&#x20;
 
-****[**Projects**](https://austinmobility.io/projects) are time-boxed endeavors. They accomplish a singular goal and have a defined completion date. Examples include:
+[**Projects**](https://austinmobility.io/projects) are time-boxed endeavors. They accomplish a singular goal and have a defined completion date. Examples include:
 
 * [Recommending an off-the-shelf externally-supported solution](https://github.com/cityofaustin/atd-data-tech/issues/65)
 * Delivering the first iteration (MVP) of a new DTS product
@@ -75,4 +75,3 @@ For complex projects, you might consider making an "Onboarding and Stabilization
 
 
 
-****

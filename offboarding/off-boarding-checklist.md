@@ -19,7 +19,7 @@
 | [About Us page](https://github.com/cityofaustin/atd-product/blob/main/pages/about/index.js)                                                          |                                              |
 | [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo\_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde\_0\_91)              |                                              |
 | [DTS Orientation Slides](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_382)   |                                              |
-| [DTS Knowledge Base triage information](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/)                                      |                                              |
+| [DTS Knowledge Base triage information](http://localhost:5000/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/)                                        |                                              |
 
 ## Recover organization assets
 

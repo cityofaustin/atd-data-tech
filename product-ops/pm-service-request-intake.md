@@ -1,6 +1,6 @@
 # PM Service Request Intake
 
-Requests are typically submitted via the [DTS Service Request Portal](https://atd.knack.com/dts#new-service-request/) and assigned to the [appropriate product manager](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355) during triage. For details, see [Triaging DTS Service Request GitHub Issues](https://app.gitbook.com/s/-M4LYhVrPWLmbRD1Xv0p/dts-service-desk/triaging-dts-service-request-github-issues) in the _DTS Service Desk Knowledge Base_.&#x20;
+Requests are typically submitted via the [DTS Service Request Portal](https://atd.knack.com/dts#new-service-request/) and assigned to the [appropriate product manager](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355) during triage. For details, see [Triaging DTS Service Request GitHub Issues](http://localhost:5000/s/-M4LYhVrPWLmbRD1Xv0p/dts-service-desk/triaging-dts-service-request-github-issues) in the _DTS Service Desk Knowledge Base_.&#x20;
 
 ## Initial issue clean-up
 

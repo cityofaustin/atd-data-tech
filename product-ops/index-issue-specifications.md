@@ -23,7 +23,7 @@ The issue title should be prefixed with `Project:` . For example, `Project: Ware
 #### Labels
 
 * &#x20;`Project Index`
-* `Project: xzy` **** — A project-specific label that you will create, following our [project label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=project)
+* `Project: xzy` — A project-specific label that you will create, following our [project label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=project)
 * `Workgroup: xyz`  — the project stakeholder workgroups
 * `Type: xyz` — the type of work to be done for this project
 
@@ -46,7 +46,7 @@ The issue title should be prefixed with `Product:` . For example, `Product: Data
 #### Labels
 
 * `Product Index`
-* `Product: xzy` **** — A product-specific label that you will create, following our [product label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=product)
+* `Product: xzy` — A product-specific label that you will create, following our [product label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=product)
 * `Workgroup: xyz`  — the workgroup(s) of the product's primary users
 
 #### Assignee
