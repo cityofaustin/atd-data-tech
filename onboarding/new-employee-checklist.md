@@ -35,11 +35,11 @@ Coordinate with DTS System Admin (Scott), make sure there is enough lead time fo
 
 * [ ] &#x20;Laptop
 * [ ] &#x20;Monitors
-* [ ] &#x20;Chair - check availability, _ask Peggy/Amenity/Diana_
 * [ ] &#x20;Power supply
 * [ ] &#x20;Keyboard
 * [ ] &#x20;Mouse
 * [ ] &#x20;Docking station
+* [ ] Chair - check availability, _ask Peggy/Amenity/Diana_
 
 ## Calendar invites - Team Lead&#x20;
 
