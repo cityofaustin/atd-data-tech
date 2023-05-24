@@ -10,7 +10,7 @@
 
 ## Onboarding
 
-* [Welcome to DTS](onboarding/your-first-week.md)
+* [Welcome to DTS](onboarding/welcome-to-dts.md)
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
 * [Work Schedule, Leave, and Timesheets](onboarding/timesheets.md)
 

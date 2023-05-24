@@ -1,7 +1,7 @@
 # New Employee Checklist
 
 {% hint style="info" %}
-It's best practice to track onboarding in Github. The simplest option is to combine the lists below with the [new team member's to-dos](your-first-week.md#to-dos) into a single "Onboard \[Name]" issue. Update and assign/`@`mention others where needed, including the employee themself once they're in Github.&#x20;
+It's best practice to track onboarding in Github. The simplest option is to combine the lists below with the [new team member's to-dos](welcome-to-dts.md#to-dos) into a single "Onboard \[Name]" issue. Update and assign/`@`mention others where needed, including the employee themself once they're in Github.&#x20;
 {% endhint %}
 
 ## Supervisor
