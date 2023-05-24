@@ -7,7 +7,7 @@ It's best practice to track onboarding in Github. The simplest option is to comb
 ## Supervisor
 
 * Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write `Shared Mailbox: transportation.data@austintexas.gov`.&#x20;
-* &#x20;Coordinate hardware needs with Scott as soon as possible to ensure there is enough lead time to acquire equipment.
+* Coordinate hardware needs with Scott as soon as possible to ensure there is enough lead time to acquire equipment.
 
 After the network account is created:
 
@@ -16,41 +16,42 @@ After the network account is created:
 * Schedule time to give them their computer and show them around the office.
 * Add "Welcome (name)" to the [agenda for the next team meeting](https://docs.google.com/document/d/1s8rl928FM0fKPEvsgkVSmkUghPgUmEgMEhZr4bmsJWc/edit).&#x20;
 * Schedule a one-hour DTS Team Orientation. It should include Peggy and all team leads.
-* &#x20;Ask Amenity to schedule DTS Product Ops training.
-* &#x20;Schedule Biweekly 1x1s.
-* &#x20;Ask Peggy to add the new team member to DTS Team Meetings
-* &#x20;Forward biweekly Sprint calendar events
-* &#x20;Invite new team member to relevant agile ceremonies — Planning, Grooming, Retro
-* &#x20;Invite new team member to other regular meetings — Syncs, Show & Tell
+* Ask Amenity to schedule DTS Product Ops training.
+* Schedule Biweekly 1x1s.
+* Ask Peggy to add the new team member to DTS Team Meetings
+* Forward biweekly Sprint calendar events
+* Invite new team member to relevant agile ceremonies — Planning, Grooming, Retro
+* Invite new team member to other regular meetings — Syncs, Show & Tell
 
 After they've created their Google and Github accounts:&#x20;
 
-* &#x20;Share the [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7) with the new team member and notify Amenity or Diana so they can update permissions on restricted content.&#x20;
-* &#x20;Add the new team member to the City of Austin [Transportation Github team](https://github.com/orgs/cityofaustin/teams/transportation/members). This should automatically add them to the [City of Austin organization](https://github.com/orgs/cityofaustin/people).
-* &#x20;Add the new team member to [Gitbook](https://app.gitbook.com/@atd-dts/spaces).
+* Share the [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7) with the new team member and notify Amenity or Diana so they can update permissions on restricted content.&#x20;
+* Add the new team member to the City of Austin [Transportation Github team](https://github.com/orgs/cityofaustin/teams/transportation/members). This should automatically add them to the [City of Austin organization](https://github.com/orgs/cityofaustin/people).
+* Add the new team member to [Gitbook](https://app.gitbook.com/@atd-dts/spaces).
+* Ask Amenity or Diana to [add the new team member to 1Password](https://my.1password.com/people).
 
 Once they've uploaded their [headshot](https://drive.google.com/drive/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G):&#x20;
 
-* &#x20;Add them to the [DTS Orientation presentation team slide](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_173) and the slide for the team they are joining.
+* Add them to the [DTS Orientation presentation team slide](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_173) and the slide for the team they are joining.
 
 ## Hardware
 
 _Coordinate with Scott._
 
-* &#x20;Laptop
-* &#x20;Power supply
-* &#x20;Monitors
-* &#x20;Keyboard
-* &#x20;Mouse
-* &#x20;Docking station
-* &#x20;Phone, if necessary
+* Laptop
+* Power supply
+* Monitors
+* Keyboard
+* Mouse
+* Docking station
+* Phone, if necessary
 
 ## Office
 
 _Coordinate with Diana._&#x20;
 
-* &#x20;Chair
-* &#x20;Desk - designating the desk across from Chia in the Dev/Apps room
+* Chair
+* Desk
 
 <details>
 

@@ -10,8 +10,8 @@
 
 ## Onboarding
 
-* [New Employee Checklist](onboarding/new-employee-checklist.md)
 * [Welcome to DTS](onboarding/your-first-week.md)
+* [New Employee Checklist](onboarding/new-employee-checklist.md)
 * [Work Schedule, Leave, and Timesheets](onboarding/timesheets.md)
 
 ## Off boarding <a href="#offboarding" id="offboarding"></a>
