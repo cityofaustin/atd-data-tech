@@ -1,53 +1,63 @@
 # New Employee Checklist
 
-## Accounts - Team Lead
-
-* Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone&#x20;
-  * On the form:&#x20;
-    * **List network access required for the users position (e.g., Security Groups, Distribution Groups, Resource Accounts, Shared Mailboxes, etc.)**
-      * Enter: "_transportation.data@austintexas.gov_" (Shared Mailbox)&#x20;
-    * **Provide the name of the similar user to the pattern the network access/distribution list(s)**
-      * Select an employee that has similar access that you want the new employee to have (Do not user a supervisor/manager unless new employee is supervisor/manager level)
-    * **Additional account information**
-* Request users to be added to distribution lists
-  * Email Scott Reedy (DTS) - owner
-    * "ATD Data and Technology Service DL" ([ATDDataTechnologyServices@austintexas.gov](mailto:ATDDataTechnologyServices@austintexas.gov))
-  * Email Jacob Coronado (Parking Services - Meters) - owner
-    * "ACE ATD DL" (aceatd@austintexas.gov)
-
 {% hint style="info" %}
-Read [Knowledge Base article](https://atx.servicenowservices.com/sp?id=kb\_article\&sys\_id=aa2fb0761be169d0e8dfc844604bcb89) in ServiceNow to see steps to add/remove members of the list
+It's best practice to track onboarding in Github. The simplest option is to combine the lists below with the [new team member's to-dos](your-first-week.md#to-dos) into a single "Onboard \[Name]" issue. Update and assign/`@`mention others where needed, including the employee themself once they're in Github.&#x20;
 {% endhint %}
 
-* [ ] Add to [City of Austin Slack](https://austininnovation.slack.com/admin) - `austininnovation.slack.com`
-  * [ ] ask Amenity or Diana (Slack workspace admins)
-* [ ] Add to [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7)
-* [ ] Add to [Gitbook](https://app.gitbook.com/@atd-dts/spaces)
-* [ ] Add to [Austin Transportation Github Team](https://github.com/orgs/cityofaustin/teams/transportation/members)&#x20;
-* [ ] Upload head shot photo in (.png format) to ["Headshots" Drive folder](https://drive.google.com/drive/u/0/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G)
-* [ ] Add to group slide and team slides [DTS Presentation Template Team section](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo\_LTU86IzQxo1gJoeA/edit#slide=id.gfd2da31025\_0\_6)&#x20;
-* [ ] Update DTS group and team slides in the DTS Orientation presentation to reflect ☝️
-* [ ] Check w/ Diana/Amenity—if needed; we pay for seats
+## Supervisor
 
-## Hardware — DTS Systems Admin
+* Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write `Shared Mailbox: transportation.data@austintexas.gov`.&#x20;
+* &#x20;Coordinate hardware needs with Scott as soon as possible to ensure there is enough lead time to acquire equipment.
 
-Coordinate with DTS System Admin (Scott), make sure there is enough lead time for equipment to be acquired.
+After the network account is created:
 
-* [ ] &#x20;Laptop
-* [ ] &#x20;Monitors
-* [ ] &#x20;Power supply
-* [ ] &#x20;Keyboard
-* [ ] &#x20;Mouse
-* [ ] &#x20;Docking station
-* [ ] Chair - check availability, _ask Peggy/Amenity/Diana_
+* &#x20;Ask Scott to add the employee to the distribution lists `ATDDataTechnologyServices@austintexas.gov` and `TPWEmployees@austintexas.gov`.
+* &#x20;Ask Amenity or Diana to add the new team member to [City of Austin Slack](https://austininnovation.slack.com/admin) and add them to all relevant channels.&#x20;
+* Schedule time to give them their computer and show them around the office.
+* Add "Welcome (name)" to the [agenda for the next team meeting](https://docs.google.com/document/d/1s8rl928FM0fKPEvsgkVSmkUghPgUmEgMEhZr4bmsJWc/edit).&#x20;
+* Schedule a one-hour DTS Team Orientation. It should include Peggy and all team leads.
+* &#x20;Ask Amenity to schedule DTS Product Ops training.
+* &#x20;Schedule Biweekly 1x1s.
+* &#x20;Ask Peggy to add the new team member to DTS Team Meetings
+* &#x20;Forward biweekly Sprint calendar events
+* &#x20;Invite new team member to relevant agile ceremonies — Planning, Grooming, Retro
+* &#x20;Invite new team member to other regular meetings — Syncs, Show & Tell
 
-## Calendar invites - Team Lead&#x20;
+After they've created their Google and Github accounts:&#x20;
 
-Schedule or coordinate with event owner
+* &#x20;Share the [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7) with the new team member and notify Amenity or Diana so they can update permissions on restricted content.&#x20;
+* &#x20;Add the new team member to the City of Austin [Transportation Github team](https://github.com/orgs/cityofaustin/teams/transportation/members). This should automatically add them to the [City of Austin organization](https://github.com/orgs/cityofaustin/people).
+* &#x20;Add the new team member to [Gitbook](https://app.gitbook.com/@atd-dts/spaces).
 
-* [ ] First day: DTS Team Orientation — invite all leads, Peggy optional
-* [ ] First Week: DTS Product Ops — Coordinate w/ Amenity
-* [ ] Monthly Team Meeting
-* [ ] Sprints
-* [ ] Sprint Ceremonies — Planning, Grooming, Sync, Show & Tell
-* [ ] Biweekly 1x1
+Once they've uploaded their [headshot](https://drive.google.com/drive/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G):&#x20;
+
+* &#x20;Add them to the [DTS Orientation presentation team slide](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_173) and the slide for the team they are joining.
+
+## Hardware
+
+_Coordinate with Scott._
+
+* &#x20;Laptop
+* &#x20;Power supply
+* &#x20;Monitors
+* &#x20;Keyboard
+* &#x20;Mouse
+* &#x20;Docking station
+* &#x20;Phone, if necessary
+
+## Office
+
+_Coordinate with Diana._&#x20;
+
+* &#x20;Chair
+* &#x20;Desk - designating the desk across from Chia in the Dev/Apps room
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+\

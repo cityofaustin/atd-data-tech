@@ -6,18 +6,18 @@
 * [Document Storage 🗄️](document-storage.md)
 * [Slack](slack.md)
 * [Network Access](network-access.md)
-* [Work Schedule, timesheets and leave](timesheets.md)
+* [Where to Eat](where-to-eat.md)
 
 ## Onboarding
 
-* [Your First Week](onboarding/your-first-week.md)
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
-* [Where to Eat](onboarding/where-to-eat.md)
+* [Welcome to DTS](onboarding/your-first-week.md)
+* [Work Schedule, Leave, and Timesheets](onboarding/timesheets.md)
 
 ## Off boarding <a href="#offboarding" id="offboarding"></a>
 
 * [Your Last Day](offboarding/your-last-day.md)
-* [Off boarding Checklist](offboarding/off-boarding-checklist.md)
+* [Offboarding Checklist](offboarding/off-boarding-checklist.md)
 
 ## Developer
 
