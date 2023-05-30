@@ -34,6 +34,14 @@ Once they've uploaded their [headshot](https://drive.google.com/drive/folders/1y
 
 * Add them to the [DTS Orientation presentation team slide](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_173) and the slide for the team they are joining.
 
+Once they've received notice from CTM that their Miro account was created:
+
+* Add them to [the Austin Transportation Miro Team](https://miro.com/app/settings/team/3074457347846964301/users/).&#x20;
+
+Once HR has added them to the UKG timekeeping system:
+
+* Set up their schedule plan.&#x20;
+
 ## Hardware
 
 _Coordinate with Scott._
