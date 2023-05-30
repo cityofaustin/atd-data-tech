@@ -6,12 +6,11 @@ It's best practice to track onboarding in Github. The simplest option is to comb
 
 ## Supervisor
 
-* Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write `Shared Mailbox: transportation.data@austintexas.gov`.&#x20;
+* Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write `Shared mailbox: transportation.data@austintexas.gov; Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`&#x20;
 * Coordinate hardware needs with Scott as soon as possible to ensure there is enough lead time to acquire equipment.
 
 After the network account is created:
 
-* &#x20;Ask Scott to add the employee to the distribution lists `ATDDataTechnologyServices@austintexas.gov` and `TPWEmployees@austintexas.gov`.
 * &#x20;Ask Amenity or Diana to add the new team member to [City of Austin Slack](https://austininnovation.slack.com/admin) and add them to all relevant channels.&#x20;
 * Schedule time to give them their computer and show them around the office.
 * Add "Welcome (name)" to the [agenda for the next team meeting](https://docs.google.com/document/d/1s8rl928FM0fKPEvsgkVSmkUghPgUmEgMEhZr4bmsJWc/edit).&#x20;
