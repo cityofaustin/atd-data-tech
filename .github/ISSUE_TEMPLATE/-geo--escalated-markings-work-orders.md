@@ -3,8 +3,8 @@ name: "[Geo] Escalated Markings Work Orders"
 about: Use this issue to collect issues that need further review
 title: Escalated Markings Work Orders mm/dd/yyy
 labels: 'Impact: 3-Minor, Need: 1-Must Have, Service: Geo, Type: Bug Report, Type:
-  Documentation, Workgroup: DTS, Workgroup: SM'
-assignees: alan-deanda
+  Documentation, Workgroup: DTS'
+assignees: ''
 
 ---
 

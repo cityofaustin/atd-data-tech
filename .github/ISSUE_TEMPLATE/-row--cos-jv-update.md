@@ -5,10 +5,9 @@ title: "[ROW] Data: Cost-of-Service (COS) JV Update for Month YYYY"
 labels: 'Product: ROW Portal, Service: Apps, Type: Data, Workgroup: Finance, Workgroup:
   ROW'
 assignees: ChrispinP
-estimate: 1
-epics: "[ROW] COS JV Updates"
 
 ---
+
 **Save Data:**
 - [ ] Spreadsheets emailed from Finance
 - [ ] Save an All Data Excel file for reference

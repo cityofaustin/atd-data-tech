@@ -1,6 +1,7 @@
 ---
 name: "[All-Purpose] Enhancement"
-about: Request for additional or improved functionality for a product to make something more simpler, powerful, or accessible
+about: Request for additional or improved functionality for a product to make something
+  more simpler, powerful, or accessible
 title: 'Enhancement: [Enhancement Name]'
 labels: 'Type: Enhancement'
 assignees: ''
