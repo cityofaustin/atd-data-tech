@@ -15,6 +15,7 @@ description: >-
 * [ ] Install [Zenhub Browser Extension](https://www.zenhub.com/)
 * [ ] [Create a Google account for your austintexas.gov email address](https://atd-dts.gitbook.io/atd-staff-resources/general/using-google-as-a-city-employee)
 * [ ] Install Slack desktop client: [Windows](https://slack.com/downloads/windows) | [Mac](https://slack.com/downloads/mac)
+* [ ] [Update your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile) with a photo and your title
 * [ ] Post your [daily standup in Slack](https://atd-dts.gitbook.io/wiki/slack#daily-stand-up)
 * [ ] Install [1Password browser extension](https://1password.com/downloads/browser-extension/)
 * [ ] [Set yourself up for remote work](https://atd-dts.gitbook.io/atd-staff-resources/working-remotely/getting-started)
