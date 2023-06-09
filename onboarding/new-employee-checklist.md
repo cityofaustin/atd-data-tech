@@ -11,7 +11,8 @@ It's best practice to track onboarding in Github. The simplest option is to comb
 
 After the network account is created:
 
-* &#x20;Ask Amenity or Diana to add the new team member to [City of Austin Slack](https://austininnovation.slack.com/admin) and add them to all relevant channels.&#x20;
+* &#x20;Ask Amenity or Diana to add the new team member to [City of Austin Slack](https://austininnovation.slack.com/admin)
+* Add them to all relevant Slack channels and introduce the new team member to everyone in the main DTS channel
 * Schedule time to give them their computer and show them around the office.
 * Add "Welcome (name)" to the [agenda for the next team meeting](https://docs.google.com/document/d/1s8rl928FM0fKPEvsgkVSmkUghPgUmEgMEhZr4bmsJWc/edit).&#x20;
 * Schedule a one-hour DTS Team Orientation. It should include Peggy and all team leads.
