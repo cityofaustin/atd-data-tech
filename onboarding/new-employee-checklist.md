@@ -1,13 +1,13 @@
 # New Employee Checklist
 
 {% hint style="info" %}
-It's best practice to track onboarding in Github. The simplest option is to combine the lists below with the [new team member's to-dos](welcome-to-dts.md#to-dos) into a single "Onboard \[Name]" issue. Update and assign/`@`mention others where needed, including the employee themself once they're in Github.&#x20;
+It's best practice to track onboarding in Github. The simplest option is to combine the lists below with the [New Employee Checklist](welcome-to-dts.md#to-dos) into a single "Onboard \[Name]" issue. Update and assign/`@`mention others where needed, including the employee once they're in Github.&#x20;
 {% endhint %}
 
 ## Supervisor
 
 * Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write `Shared mailbox: transportation.data@austintexas.gov; Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`&#x20;
-* Coordinate hardware needs with Scott as soon as possible to ensure there is enough lead time to acquire equipment.
+* Coordinate hardware needs with Scott as soon as possible to ensure enough lead time to acquire equipment.
 
 After the network account is created:
 
@@ -27,7 +27,7 @@ After they've created their Google and Github accounts:&#x20;
 
 * Share the [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7) with the new team member and notify Amenity or Diana so they can update permissions on restricted content.&#x20;
 * Add the new team member to the City of Austin [Transportation Github team](https://github.com/orgs/cityofaustin/teams/transportation/members). This should automatically add them to the [City of Austin Github organization](https://github.com/orgs/cityofaustin/people).
-* Invite the new team member to [City of Austin Zenhub organization](https://app.zenhub.com/settings/o/cityofaustin/users).&#x20;
+* Invite the new team member to the [City of Austin Zenhub organization](https://app.zenhub.com/settings/o/cityofaustin/users).&#x20;
 * Add the new team member to [Gitbook](https://app.gitbook.com/@atd-dts/spaces).
 * Ask Amenity or Diana to [add the new team member to 1Password](https://my.1password.com/people).
 

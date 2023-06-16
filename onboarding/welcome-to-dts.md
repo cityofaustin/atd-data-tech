@@ -6,6 +6,10 @@ description: >-
 
 # Welcome to DTS
 
+{% hint style="info" %}
+Your supervisor will create a G
+{% endhint %}
+
 ## To do:
 
 * [ ] [Log in to your City of Austin email](https://outlook.office365.com/)
@@ -26,6 +30,7 @@ description: >-
 * [ ] Email Adan S. to request a paper timesheet
 * [ ] [Open a service request ](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=02e490c6db7f1300a314e1c2ca9619e6)with Communications and Technology Management (CTM, the City's internal enterprise IT department) to request a Miro account
 * [ ] Familiarize yourself with the [DTS Resource Index](https://github.com/wiki/resource-index) and our [document storage policies](../basics/document-storage.md)
+* [ ] If you are a regular employee and plan to telework, fill out the [Telework Request Form](https://atd.knack.com/hr#new-telework-request/) and [Take-Home Equipment Tracker](https://atd.knack.com/dts#my-equipment/) during your third week. (Accounts in these apps are pulled from the City's enterprise HR system, which can take up to two weeks to update.)
 
 Ask questions! Be a sponge and absorb it all! 🧽💦🌈
 
