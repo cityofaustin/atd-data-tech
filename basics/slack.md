@@ -21,5 +21,5 @@ We keep each other up to date on our progress and blockers by posting in [#atd-s
 
 It's helpful to cite specific Github issues you're working on.&#x20;
 
-![](.gitbook/assets/standup.png)
+![](../.gitbook/assets/standup.png)
 

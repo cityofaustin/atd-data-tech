@@ -1,18 +1,21 @@
 # Table of contents
 
 * [About](README.md)
-* [DTS Resource Index](resource-index.md)
-* [Document Storage 🗄️](document-storage.md)
-* [Our Wikis 📚](our-wikis.md)
-* [Slack](slack.md)
-* [Where to Eat](where-to-eat.md)
+
+## Basics
+
+* [Our Wikis 📚](basics/our-wikis.md)
+* [DTS Resource Index](basics/resource-index.md)
+* [Document Storage 🗄️](basics/document-storage.md)
+* [Network Access](basics/network-access.md)
+* [Work Schedule, Leave, and Timesheets](basics/timesheets.md)
+* [Slack](basics/slack.md)
+* [Where to Eat Near 8700](basics/where-to-eat.md)
 
 ## Onboarding
 
 * [Welcome to DTS](onboarding/welcome-to-dts.md)
 * [New Employee Checklist](onboarding/new-employee-checklist.md)
-* [Network Access](onboarding/network-access.md)
-* [Work Schedule, Leave, and Timesheets](onboarding/timesheets.md)
 
 ## Off boarding <a href="#offboarding" id="offboarding"></a>
 
