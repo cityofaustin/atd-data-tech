@@ -25,7 +25,7 @@ description: >-
 * [ ] [Create a Github issue](https://github.com/cityofaustin/atd-data-tech/issues/new) for adding yourself to the [DTS "About Us" webpage](https://austinmobility.io/about) (labels: `Service: Dev`, `Type: Communications`, `Product: DTS Website`) including the link to your photo in Google Drive and preferred pronouns
 * [ ] Email Adan S. to request a paper timesheet
 * [ ] [Open a service request ](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=02e490c6db7f1300a314e1c2ca9619e6)with Communications and Technology Management (CTM, the City's internal enterprise IT department) to request a Miro account
-* [ ] Familiarize yourself with the [DTS Resource Index](https://github.com/wiki/resource-index) --caveat: this page is overdue for an update!!
+* [ ] Familiarize yourself with the [DTS Resource Index](https://github.com/wiki/resource-index)
 
 Ask questions! Be a sponge and absorb it all! 🧽💦🌈
 
