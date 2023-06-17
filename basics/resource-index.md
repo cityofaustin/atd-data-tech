@@ -8,7 +8,7 @@ description: >-
 
 ## Data & Technology Services
 
-* [https://austinmobility.io/](https://austinmobility.io/) — Data & Technology Services and our work
+* [Austinmobility.io](https://austinmobility.io/) — Data & Technology Services and our work
 * [Data and Performance Hub](http://transportation.austintexas.io/) — Austin Transportation dashboards we build and maintain
 * [DTS Portal](http://atd.knack.com/dts) — Service Requests, Data Inventory, Technician Equipment Tracker
 * [Google Drive](https://drive.google.com/drive/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7)
@@ -17,15 +17,25 @@ description: >-
   * [Docs template](https://docs.google.com/document/d/1DoT8kbC2eSrhkNXhGwAY2DhQHBjdfXrsHgQgx7wqjPs/edit?usp=drive\_link)
   * [Email signature template](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP\_wK6tjkEE/edit)
 * [Division intranet](https://cityofaustin.sharepoint.com/sites/ATDDTS) - SharePoint site
-* [Private GitBook page](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/general) - This page is for onboarding info that shouldn't be open to the public web
-* [Our Wikis](our-wikis.md)
+* [Private GitBook page](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/general) - a handful of info that is too sensitive to include in this public wiki
+
+### Our Wikis
+
+* [DTS Dev](https://atd-dts.gitbook.io/atd-dev/)&#x20;
+* [DTS Knack Operations](https://atd-dts.gitbook.io/atd-knack-operations/)
+* [DTS Geospatial](https://atd-dts.gitbook.io/atd-geospatial/)
+* [DTS Open Data](https://atd-dts.gitbook.io/open-data/)
+* [DTS Service Desk Knowledge Base (private)](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/)
+
+We also have end-user documentation for [Moped](http://localhost:5000/o/-LzDQOVGhTudbKRDGpUA/s/-MIQvl\_rKnZ\_-wHRdp4J/), [Signs & Markings Tracker](https://atd-dts.gitbook.io/signs-and-markings-tracker-help-guides/), the [SXSW Command Center](https://atd-dts.gitbook.io/command-center-resources/), and [TDS Operations](http://localhost:5000/o/-LzDQOVGhTudbKRDGpUA/s/-Mdw\_HGhQRPU5N26oPGn/)
 
 ## Transportation Public Works
 
-* Videos - These were produced before the Transportation and Public Works departments were merged into TPW department merger)&#x20;
-  * [Inside Austin Transportation](https://www.youtube.com/watch?v=ERinYUmx9V0) - 15-minute video overview of (pre-TPW) Austin Transportation divisions
-  * [Public Works Vimeo](https://vimeo.com/austinpublicworks)
-  * [Walk Bike Roll](https://vimeo.com/586077566)
+Videos - produced before the Transportation and Public Works departmental merger&#x20;
+
+* [Inside Austin Transportation](https://www.youtube.com/watch?v=ERinYUmx9V0)&#x20;
+* [Public Works Vimeo](https://vimeo.com/austinpublicworks)
+* [Walk Bike Roll](https://vimeo.com/586077566)
 * [Public website](http://www.austintexas.gov/department/transportation)
 * [Austin Strategic Mobility Plan website](https://www.austintexas.gov/department/austin-strategic-mobility-plan)
 * [Department intranet](https://cityofaustin.sharepoint.com/sites/ATDHub) - SharePoint site
