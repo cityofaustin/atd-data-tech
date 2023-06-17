@@ -4,7 +4,7 @@ description: >-
   👋Here's a bevy of links to get you started.​
 ---
 
-# DTS Resource Index
+# Essential Resources & Wikis
 
 ## Data & Technology Services
 
@@ -31,21 +31,26 @@ We also have end-user documentation for [Moped](http://localhost:5000/o/-LzDQOVG
 
 ## Transportation Public Works
 
-Videos - produced before the Transportation and Public Works departmental merger&#x20;
+### Videos
+
+These were all produced before the Transportation and Public Works departmental merger&#x20;
 
 * [Inside Austin Transportation](https://www.youtube.com/watch?v=ERinYUmx9V0)&#x20;
 * [Public Works Vimeo](https://vimeo.com/austinpublicworks)
 * [Walk Bike Roll](https://vimeo.com/586077566)
-* [Public website](http://www.austintexas.gov/department/transportation)
-* [Austin Strategic Mobility Plan website](https://www.austintexas.gov/department/austin-strategic-mobility-plan)
+
+### Websites
+
+* [Austin Transportation and Public Works](http://www.austintexas.gov/department/transportation) - public-facing department site
+* [Austin Strategic Mobility Plan](https://www.austintexas.gov/department/austin-strategic-mobility-plan) - Transportation and Public Works' infrastructure roadmap
 * [Department intranet](https://cityofaustin.sharepoint.com/sites/ATDHub) - SharePoint site
 
 ## City of Austin
 
-* [Organization chart](https://www.austintexas.gov/service/city-organizational-and-department-chart)
+* [Org chart](https://www.austintexas.gov/service/city-organizational-and-department-chart)
 * [Open Data Portal](https://data.austintexas.gov/)
-* [Open Data Community site](https://opendata.bloomfire.com/)
-* [GIS Community site](https://austingis.bloomfire.com/)
+* [Open Data Community](https://opendata.bloomfire.com/) - Bloomfire
+* [GIS Community ](https://austingis.bloomfire.com/)- Bloomfire
 
 ## Employee Resources
 
@@ -54,7 +59,6 @@ Videos - produced before the Transportation and Public Works departmental merger
 * [City Intranet](https://cityspace.austintexas.gov/Home)
   * [Benefits ](https://cityspace.austintexas.gov/Benefits)
   * [Policies and Procedures](https://cityspace.austintexas.gov/Policies-Procedures)
-  * [Career Development & Training](https://cityspace.austintexas.gov/Career-Development-Training)
   * [Technology Resources](https://cityspace.austintexas.gov/Technology-Resources)
   * [Healthy Connections](http://cityspace.ci.austin.tx.us/services/healthyconnections) - includes PE classes
 * [HR Portal](https://hrdcfprod.coacd.org/) — pay stubs, benefits, PE registration
@@ -64,7 +68,5 @@ Videos - produced before the Transportation and Public Works departmental merger
 
 ### Training
 
-* [City of Austin LinkedIn Learning](https://www.linkedin.com/learning/?accountId=55898036\&u=55898036\&success=true\&authUUID=fzCyYwylTz6M1VC59AmApQ%3D%3D) - available through single-sign-on.&#x20;
-* [Workplace Harassment Training](http://coaspweb1/sites/PWD/PWU/SitePages/ATDLearn.aspx)
-* [Security Awareness Resources](https://cityspace.austintexas.gov/Technology-Resources/Security-Policies/Security-Awareness?BestBetMatch=cyber%20security%7C32d8929b-2bc1-4a27-b394-409c3b0f2dcb%7Ccce81894-b080-4e68-91be-5a25cdc7a7ed%7Cen-US)
-* [KnowBe4 Cybersecurity Awareness Training](https://atx.service-now.com/sp?id=kb\_article\&sys\_id=1c3661b11b08b450a7951f861a4bcb25)
+* [City of Austin LinkedIn Learning](https://www.linkedin.com/learning/?accountId=55898036\&u=55898036\&success=true\&authUUID=fzCyYwylTz6M1VC59AmApQ%3D%3D) - available through single-sign-on
+* [CoA HR's Career Development & Training Resources](https://cityspace.austintexas.gov/Career-Development-Training)

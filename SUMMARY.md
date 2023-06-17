@@ -4,11 +4,11 @@
 
 ## Basics
 
-* [Our Wikis 📚](basics/our-wikis.md)
-* [DTS Resource Index](basics/resource-index.md)
-* [Document Storage 🗄️](basics/document-storage.md)
-* [Network Access](basics/network-access.md)
+* [Essential Resources & Wikis](basics/resource-index.md)
 * [Work Schedule, Leave, and Timesheets](basics/timesheets.md)
+* [Network Access](basics/network-access.md)
+* [Document Storage](basics/document-storage/README.md)
+  * [Using Google as a City Employee](basics/document-storage/using-google-as-a-city-employee.md)
 * [Slack](basics/slack.md)
 * [Where to Eat Near 8700](basics/where-to-eat.md)
 
