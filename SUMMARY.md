@@ -5,8 +5,8 @@
 
 ## Basics
 
-* [Work Schedule, Leave, and Timesheets](basics/timesheets.md)
 * [DTS Office](basics/where-to-eat.md)
+* [Work Schedule, Leave, and Timesheets](basics/timesheets.md)
 * [Network Access](basics/network-access.md)
 * [Document Storage](basics/document-storage/README.md)
   * [Using Google as a City Employee](basics/document-storage/using-google-as-a-city-employee.md)
