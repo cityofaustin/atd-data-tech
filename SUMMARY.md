@@ -6,11 +6,14 @@
 
 * [Essential Resources & Wikis](basics/resource-index.md)
 * [Work Schedule, Leave, and Timesheets](basics/timesheets.md)
+* [DTS Office](basics/where-to-eat.md)
 * [Network Access](basics/network-access.md)
 * [Document Storage](basics/document-storage/README.md)
   * [Using Google as a City Employee](basics/document-storage/using-google-as-a-city-employee.md)
+* [Working Remotely from a Mac](basics/working-remotely-from-a-mac/README.md)
+  * [Troubleshooting AnyConnect for macOS Catalina](basics/working-remotely-from-a-mac/troubleshooting-anyconnect-for-macos-catalina.md)
+* [Resetting Your Network Password from a Mac](basics/resetting-your-network-password-from-a-mac.md)
 * [Slack](basics/slack.md)
-* [Where to Eat Near 8700](basics/where-to-eat.md)
 
 ## Onboarding
 
