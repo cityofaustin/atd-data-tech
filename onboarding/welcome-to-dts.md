@@ -6,10 +6,6 @@ description: >-
 
 # Welcome to DTS
 
-{% hint style="info" %}
-Your supervisor will create a G
-{% endhint %}
-
 ## To do:
 
 * [ ] [Log in to your City of Austin email](https://outlook.office365.com/)
