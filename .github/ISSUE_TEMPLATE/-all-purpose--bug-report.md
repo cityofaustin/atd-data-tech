@@ -2,8 +2,8 @@
 name: "[All-Purpose] Bug report"
 about: Create a report to help us improve
 title: "[BUG]"
-labels: 'Service: Apps, Type: Bug Report, Workgroup: DTS'
-assignees: ChrispinP, dianamartin
+labels: 'Type: Bug Report'
+assignees: ''
 
 ---
 
