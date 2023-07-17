@@ -34,6 +34,7 @@ After they've created their Google and Github accounts:&#x20;
 Once they've uploaded their [headshot](https://drive.google.com/drive/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G):&#x20;
 
 * Add them to the [DTS Orientation presentation team slide](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_173) and the slide for the team they are joining.
+* Open an issue to add the team member to the team website. The issue should include link to the headshot, new employee's title for the site and pronouns. Assign the issue to Chia.
 
 Once they've received notice from CTM that their Miro account was created:
 
