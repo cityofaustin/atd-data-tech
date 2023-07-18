@@ -13,7 +13,7 @@ description: >-
 * [ ] If you don't have one already, [create a Github account](https://github.com/join) and then ask your supervisor to add you to the City of Austin [Transportation Github Team](https://github.com/orgs/cityofaustin/teams/transportation/members).
 * [ ] Enable [two-factor authentication for your Github account](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa)
 * [ ] Install [Zenhub Browser Extension](https://www.zenhub.com/)
-* [ ] [Create a Google account for your austintexas.gov email address](https://atd-dts.gitbook.io/atd-staff-resources/general/using-google-as-a-city-employee)
+* [ ] [Create a Google account for your austintexas.gov email address](https://atd-dts.gitbook.io/wiki/basics/document-storage/using-google-as-a-city-employee) &#x20;
 * [ ] Install Slack desktop client: [Windows](https://slack.com/downloads/windows) | [Mac](https://slack.com/downloads/mac)
 * [ ] [Update your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile) with a photo and your title
 * [ ] Post your [daily standup in Slack](https://atd-dts.gitbook.io/wiki/slack#daily-stand-up)
