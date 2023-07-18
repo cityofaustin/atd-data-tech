@@ -1,6 +1,6 @@
 # Work Schedule, Leave, and Timesheets
 
-### Municipal Civl Service
+### Municipal Civil Service
 
 The [Municipal Civil Service (MCS) ](https://www.austintexas.gov/department/municipal-civil-service-rules)rules govern the process for employee hiring, promotions, lateral transfers, reduction-in-force, disciplinary actions, and appeals. If any supplemental information included here conflicts with the official MCS rules, those rules take precedence.
 
