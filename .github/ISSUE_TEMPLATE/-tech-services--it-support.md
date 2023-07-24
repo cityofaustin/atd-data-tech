@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Device & User Information (no last names)
+## Device & User Information (first name and last initial, no last names)
 
 ## What's the problem?
 
