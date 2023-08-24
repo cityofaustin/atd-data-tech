@@ -39,41 +39,49 @@ You will see a list of our custom issue templates. These are handy for creating 
 
 ### Issue Titles
 
-In most cases, issue titles should **begin with a verb** and **summarize** the work to be completed. This convention improves readability and helps keep our tasks action-oriented and unambiguous.&#x20;
-
-We pull directly from Github to our website and newsletters, so where practical, avoid acronyms and complex terminology in the title.&#x20;
+It is best practice for issue titles to **begin with a verb** and **summarize** the work to be completed. This convention improves readability and helps keep our tasks action-oriented and unambiguous.&#x20;
 
 Here are some examples:
 
 | Use this                                                        | Not this                                                  |
 | --------------------------------------------------------------- | --------------------------------------------------------- |
 | Replace the council district dataset used in Vision Zero Viewer | Outdated/inaccurate council district AGOL resource in VZV |
-|                                                                 |                                                           |
-|                                                                 |                                                           |
-
-{% hint style="info" %}
-We maintain all the information about particular projects or products with a **Product Index** or **Project Index** issue. See our [**Index Issue Specifications**](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications) for more details.
-{% endhint %}
+| Implement new work activity fields in the Moped editor UI       | AMD not tracking funding information                      |
+| Publish new CCTV camera thumbnails                              | CCTV map issues                                           |
 
 ## Labels
 
-You can apply labels when you're looking at an individual issue by clicking the "Labels" heading in the righthand sidebar. You can also [apply labels in bulk from on our ZenHub board](https://www.zenhub.com/blog/task-board-bulk-actions/).
+You can apply labels when looking at an individual issue by clicking the "Labels" heading in the right-hand sidebar. You can also [apply labels in bulk from on our ZenHub board](https://www.zenhub.com/blog/task-board-bulk-actions/).
 
-Labels make it possible for us to view related issues across the Zenhub pipelines. For example, during Apps Team Sprint Planning we filter down to  `Service: Apps` and during our periodic meetings with AMD we use the `Workgroup: AMD` label to look at all the work — across teams, of all sizes — that we're doing for them.&#x20;
+Labels allow us to view related issues across the Zenhub pipelines. For example, during Apps Team Sprint Planning, we filter down to  `Service: Apps` and during our periodic meetings with AMD we use the `Workgroup: AMD` label to look at all the work — across teams, of all sizes — that we're doing for them.&#x20;
 
-All to say: It's important to make sure issues are properly labeled.&#x20;
+All to say: It's important to ensure issues are properly labeled.&#x20;
 
-* **Workgroup** — the customer we're serving; `Workgroup: DTS` for internal work and `Workgroup: ATD` for department-wide work
-* **Service** — The DTS service team the work will be handled by
-* **Project**  and/or **Product** labels
-  * **Projects** refer to a substantial scope of related work that will reach a state of relative completion, such as the [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253)&#x20;
-  * **Products** are solutions that we continue to support over time, including all in-house applications, such as the Vision Zero Crash Data System
-  * Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to AMD Data Tracker and the Finance and Inventory App, so needed both **Product** and **Project** labels&#x20;
-* **Type** — The type of request or task&#x20;
+### Required labels
 
-Optionally, these are very useful for bug reports and features:
+* [**Workgroup**](https://github.com/cityofaustin/atd-data-tech/labels?q=Workgroup%3A+) — the customer we're serving; `Workgroup: DTS` for internal work and `Workgroup: ATD` for department-wide work
+* [**Service**](https://github.com/cityofaustin/atd-data-tech/labels?q=Service%3A+) — The DTS service team the work will be handled by
+* **Project** and/or **Product** labels
+  * [**Projects**](https://github.com/cityofaustin/atd-data-tech/labels?q=Project%3A) refer to a substantial scope of related work that will reach a state of relative completion, such as the [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253)&#x20;
+  * [**Products**](https://github.com/cityofaustin/atd-data-tech/labels?q=Product%3A+) are solutions that we continue to support over time, including all in-house applications, such as the Vision Zero Crash Data System
+  * Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to AMD Data Tracker and the Finance and Inventory App, so it needed both **Product** and **Project** labels&#x20;
 
-* **Impact** or **Need** — to designate priority; **Need** referring to features or enhancements while **Impact** applies more to bug
+### Optional labels
+
+A DTS team or individual product manager may find these additional label categories helpful&#x20;
+
+* [**Type**](https://github.com/cityofaustin/atd-data-tech/labels?q=Type%3A) — The type of request or task
+* [**Impact**](https://github.com/cityofaustin/atd-data-tech/labels?q=Impact%3A+) — The effect of a bug, infrastructure failure, etc.
+  * `Impact: 1-Severe` — Severely impacts TPW service delivery&#x20;
+  * `Impact: 2-Major` — Causes a major interruption of TPW service delivery
+  * `Impact: 3-Minor` — Deteriorates TPW service delivery
+  * `Impact: 4-None` — Does not affect TPW service delivery&#x20;
+* [**Need**](https://github.com/cityofaustin/atd-data-tech/labels?q=Need%3A) —  To designate priority of a potential feature or enhancement
+  * `Impact: 1-Severe` — Severely impacts TPW service delivery
+  * `Impact: 2-Major` — Causes a major interruption of TPW service delivery
+  * `Impact: 3-Minor` — Deteriorates TPW service delivery
+  * `Impact: 4-None` — Does not affect TPW service delivery
+* [**Provider**](https://github.com/cityofaustin/atd-data-tech/labels?q=Provider%3A) — The external team or vendor executing the issue&#x20;
 
 ## Estimates
 
@@ -89,17 +97,17 @@ Estimates are how we track the level of effort of issues. This is useful for
 
 ## Epics
 
-Epics are a powerful feature that ZenHub adds to Github. They allow you to group related tasks together and easily track them from one place. [Here is a solid guide to how they work](https://www.zenhub.com/blog/working-with-epics-in-github/). And [here is an example](https://github.com/cityofaustin/techstack/issues/1215) from another City of Austin project.
+Epics are a powerful feature that ZenHub adds to Github. They allow you to group related tasks and easily track them from one place. [Here is a solid guide to how they work](https://www.zenhub.com/blog/working-with-epics-in-github/). Here[ is an example](https://github.com/cityofaustin/techstack/issues/1215) from another City of Austin project.
 
-For tasks that are ongoing such as a recurring meeting, it may help to create an epic and put the individual instances of the tasks inside it. [Here is an example](https://github.com/cityofaustin/atd-geospatial/issues/4) of that type of usage for a task performed for a customer on a regular basis.
+For ongoing tasks such as a recurring meeting, it may help to create an epic and put the individual instances of the tasks inside it. [Here is an example](https://github.com/cityofaustin/atd-geospatial/issues/4) of that type of usage for a task performed for a customer regularly.
 
-Epics do not need estimates assigned to them manually. Instead, the effort is represented by the total of all the story points in the issues the epic contains.
+Epics do not need estimates assigned to them manually. Instead, the effort is represented by the total of all the story points in the epic's issues.
 
-In the end, epics can be used to group whatever makes sense for you and your collaborators. Some people prefer [issues with task lists inside them](https://github.com/cityofaustin/techstack/issues/616). That's fine as long as the issue doesn't end up needing more effort than we can represent in our [estimate scale](https://github.com/cityofaustin/atd-data-tech/wiki/Project-Management:-Github-and-ZenHub-Basics#estimates) for a single issue.
+Ultimately, epics can group whatever makes sense for you and your collaborators. Some people prefer [issues with task lists inside them](https://github.com/cityofaustin/techstack/issues/616). That's fine as long as the issue doesn't require more effort than we can represent in our [estimate scale](https://github.com/cityofaustin/atd-data-tech/wiki/Project-Management:-Github-and-ZenHub-Basics#estimates) for a single issue.
 
 ## Assignees
 
-An issue should be assigned to the person/people who will tackle it. This is important as it allows everyone to easily filter down to issues they are responsible for.
+An issue should be assigned to the person/people who will tackle it. This enables team members to filter down to issues they are responsible for easily.
 
 ## Learning More
 
@@ -108,4 +116,4 @@ Here are some additional guides for some of our most relied-upon Zenhub function
 * [Filtering the Board](https://help.zenhub.com/support/solutions/articles/43000498508--filtering-the-board)
 * "Use multi-action to make bulk Issue updates" on [this page](https://help.zenhub.com/support/solutions/articles/43000031098-get-to-know-board-features-and-functionality)
 
-The [Zenhub docs](https://help.zenhub.com/support/home) are super-solid and we encourage you to peruse at your leisure. Keep in mind that some functionality—renaming and reordering pipelines, for example—will affect the workspace for the whole team. That said, we're always looking for ways to improve our process, so if you come across an approach or functionality you think is promising, let us know!
+The [Zenhub docs](https://help.zenhub.com/support/home) are super-solid, and we encourage you to peruse them at your leisure. Remember that some functionality—renaming and reordering pipelines, for example—will affect the workspace for the whole team.  We're always looking for ways to improve our process, so if you come across an approach or functionality you think is promising, talk about it with a Product Manager or share it in the `#atd-product` Slack channel!
