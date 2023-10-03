@@ -1,16 +1,5 @@
 # Project Delivery Workflow
 
-Requests are typically submitted via the [DTS Service Request Portal](https://atd.knack.com/dts#new-service-request/) and assigned to the [appropriate product manager](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355) during triage.
-
-The PM takes it from there:
-
-* Move to "Needs Scoping" pipeline
-* Confirm requestor authority and get clarification from customer if needed
-* Create an issue for an Intake Meeting
-  * Assign an upcoming sprint&#x20;
-  * Apply appropriate milestone and move to "Backlog" or "On Deck" pipeline
-* Create new Drive folder in [_ATD DTS > Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5\_SX8nqBThx)&#x20;
-
 ### The "DTS project" and "DTS product" distinction
 
 [**Products**](https://austinmobility.io/products) are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Austin Transportation as business needs evolve.&#x20;
@@ -23,9 +12,48 @@ The PM takes it from there:
 * [Refactoring a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254)
 * [Delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911).
 
+Requests are typically submitted via the [DTS Service Request Portal](https://atd.knack.com/dts#new-service-request/) and assigned to the [appropriate product manager](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355) during triage.
+
+The PM takes it from there:
+
+* Move to "Needs Scoping" pipeline
+* Confirm requestor authority and get clarification from customer if needed
+* Create an issue for an Intake Meeting
+  * Assign an upcoming sprint&#x20;
+  * Apply appropriate milestone and move to "Backlog" or "On Deck" pipeline
+* Create new Drive folder in [_ATD DTS > Projects_](https://drive.google.com/drive/folders/1ZGTzTNd8SKWzg7qDCqtib5\_SX8nqBThx)&#x20;
+
+{% hint style="info" %}
+
+
+### The "Product" and "Project" distinction
+
+[**Products**](https://austinmobility.io/products) are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time to deliver continuous value to Austin Transportation as business needs evolve.&#x20;
+
+[**Projects**](https://austinmobility.io/projects) are time-boxed endeavors. They accomplish a singular goal and have a defined completion date. Examples include:
+
+* [Recommending an off-the-shelf externally-supported solution](https://github.com/cityofaustin/atd-data-tech/issues/65)
+* Delivering the first iteration (MVP) of a new DTS product
+* [Building a major feature for an existing DTS project](https://github.com/cityofaustin/atd-data-tech/issues/533)
+* [Refactoring a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254)
+* [Delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911).
+{% endhint %}
+
+## Initiation
+
+Refine the project request in Github
+
+*
+
+Verify that DTS project prerequisites are met
+
+* Dedicated product owner to support requirements gathering, user research, and user onboarding
+* Division Manager Sponsor to champion the project at the executive level&#x20;
+* Team commitment to collaborate in DTS's iterative, user-centered development process
+
 ## Scoping
 
-* Assigned PM schedules Intake Meeting; Ideally this will include actual users as well as the workgroup manager
+* Assigned PM schedules Intake Meeting. Ideally, this will include actual users as well as the workgroup manager.&#x20;
 * Prepare [Intake Meeting Agenda](https://docs.google.com/document/d/1AcjxHv6XCEutSAIzNebnxNR9EL8CORiHrVfNlQuChII/edit#heading=h.f4j2i9aovme)
 * Meet and take notes; photos/recording may also be helpful
 * Add notes/photos/recording to Github issue

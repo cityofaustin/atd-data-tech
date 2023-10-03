@@ -27,7 +27,7 @@ description: >-
 * [DTS Open Data](https://atd-dts.gitbook.io/open-data/)
 * [DTS Service Desk Knowledge Base (private)](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/)
 
-We also have end-user documentation for [Moped](http://localhost:5000/o/-LzDQOVGhTudbKRDGpUA/s/-MIQvl\_rKnZ\_-wHRdp4J/), [Signs & Markings Tracker](https://atd-dts.gitbook.io/signs-and-markings-tracker-help-guides/), the [SXSW Command Center](https://atd-dts.gitbook.io/command-center-resources/), and [TDS Operations](http://localhost:5000/o/-LzDQOVGhTudbKRDGpUA/s/-Mdw\_HGhQRPU5N26oPGn/)
+We also have end-user documentation for [Moped](http://127.0.0.1:5000/o/-LzDQOVGhTudbKRDGpUA/s/-MIQvl\_rKnZ\_-wHRdp4J/), [Signs & Markings Tracker](https://atd-dts.gitbook.io/signs-and-markings-tracker-help-guides/), the [SXSW Command Center](https://atd-dts.gitbook.io/command-center-resources/), and [TDS Operations](http://127.0.0.1:5000/o/-LzDQOVGhTudbKRDGpUA/s/-Mdw\_HGhQRPU5N26oPGn/)
 
 ## Transportation Public Works
 
