@@ -11,8 +11,7 @@ assignees: ChrispinP
 **Save Data:**
 - [ ] Spreadsheets emailed from Finance
 - [ ] Save an All Data Excel file for reference
-- [ ] Remove non-JV filtered tabs from spreadsheets and remove any rows without `Journal Voucher ID` if necessary
-- [ ] Save all 6-8 spreadsheets as csv and update record counts below
+- [ ] Save all 6-8 spreadsheets as CSV files and update record counts below
 
 **Prepare Data:**
 - [ ] AE (Austin Energy) Number of records to update: 
@@ -22,11 +21,11 @@ assignees: ChrispinP
 - [ ] CPO (Corridor Program Office) Number of records to update: 
 - [ ] PARD (Parks and Recreation Department) Number of records to update: 
 - [ ] PWD (Public Works Department) Number of records to update: 
-- [ ] WPD (Watershed Protection & Development) Number of records to update:  
+- [ ] WPD (Watershed Protection & Development) Number of records to update: 
 - [ ] Total Number of records being updated: 
 
 **Import Data:**
-- [ ] Import (Update) records, match on `Fee Number` & import `Journal Voucher ID`. Set `Import Date` to today [(Review Instructions)](https://atd-dts.gitbook.io/atd-knack-operations/row-portal/cos-jv-update)
+- [ ] Import (Update) records, match on `Combined ID` & import `Journal Voucher ID`. Set `Import Date` to today [(Review Instructions)](https://atd-dts.gitbook.io/atd-knack-operations/row-portal/cos-jv-update)
 - [ ] Make sure the number of records being updated matches for all spreadsheets
 - [ ] Filter records by `Import Date` and make sure the total number of records updated matches
 
