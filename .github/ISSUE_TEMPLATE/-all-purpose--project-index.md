@@ -19,7 +19,7 @@ Platforms:
 
 Describe this project's who, what, and why 1-2 sentences (No header).
 
-## Background
+## Background 
 
 Explain why the project matters, the organizational context, and customer insights, including direct quotes from users.
 
@@ -35,7 +35,7 @@ Impact this project can have, success metrics
 
 How long should this take to build; optional section w/ caveats for more complex projects.
 
-## Concepts and references
+## References
 
 Helpful links, e.g. other solutions, screenshots of Slack convos, customer’s original request, anything too long for the one-pager that can exist as a separate doc. Folder in Drive where project assets are stored.
 
@@ -51,8 +51,11 @@ The first image will be used as the project's thumbnail image on the website.
 ---
 This Github issue represents a project of Transportation Public Work's [Data & Technology Services](https://austinmobility.io/) team. Project status is documented regularly in the comments below.
 
-<!-- Don't forget to: 
+<!-- 
+Don't forget to: 
 - Add a new "Project:" label here: https://github.com/cityofaustin/atd-data-tech/labels. Use the hex code #3D3D3D. 
 - Add "Workgroup:" and "Type:" labels
-- Add a project evaluation here: https://atd.knack.com/dts#project-evaluation/
+
+Next steps:
+An automated script captures new "Project Index" issues and opens a project evaluation in the DTS Portal https://atd.knack.com/dts#project-evaluation
 -->
