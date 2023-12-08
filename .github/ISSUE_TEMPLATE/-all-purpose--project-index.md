@@ -9,12 +9,7 @@ assignees: ''
 <!-- Description:
 Write a concise, jargon + acronym-free 1-2 sentences. This text appears on the "Projects" page, so should be easy for any visitor, from a Council member to a prospective DTS intern, to understand. You may follow one of these loose formulas:
 
-This [platform] [product] [adds value] for [customer].
-This [platform] [what] [why] [who].
-Platforms:
-   - Knack
-   - Power BI
-   - Custom-built
+This [initiative/enhancement/new application] will [adds value] for [customer].
 -->
 
 Describe this project's who, what, and why 1-2 sentences (No header).
