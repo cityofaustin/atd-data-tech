@@ -6,12 +6,22 @@ labels: Project Index
 assignees: ''
 
 ---
+<!-- Description:
+Write a concise, jargon + acronym-free 1-2 sentences. This text appears on the "Projects" page, so should be easy for any visitor, from a Council member to a prospective DTS intern, to understand. You may follow one of these loose formulas:
 
-Describe the who, what, and why of this project in one or two sentences (No header).
+This [platform] [product] [adds value] for [customer].
+This [platform] [what] [why] [who].
+Platforms:
+   - Knack
+   - Power BI
+   - Custom-built
+-->
+
+Describe this project's who, what, and why 1-2 sentences (No header).
 
 ## Background
 
-Explain why the project matters, organizational context, customer insights including direct quotes from users.
+Explain why the project matters, the organizational context, and customer insights, including direct quotes from users.
 
 ## Scope & Deliverables
 
@@ -27,9 +37,10 @@ How long should this take to build; optional section w/ caveats for more complex
 
 ## Concepts and references
 
-Helpful links; e.g. other solutions, screenshots of Slack convos, customer’s original request, anything too long for the one-pager that can exist as a separate doc. Folder in Drive where project assets are stored.
+Helpful links, e.g. other solutions, screenshots of Slack convos, customer’s original request, anything too long for the one-pager that can exist as a separate doc. Folder in Drive where project assets are stored.
 
 ## Request details
+- Requested by:
 - Executive sponsor:
 - Date:
 
@@ -38,9 +49,10 @@ https://atd-dts.gitbook.io/wiki/product-ops/dts-website#images
 The first image will be used as the project's thumbnail image on the website.
 
 ---
-This Github issue represents a project of Austin Transportation's [Data & Technology Services](https://austinmobility.io/) team. Project status is documented regularly in the comments below.
+This Github issue represents a project of Transportation Public Work's [Data & Technology Services](https://austinmobility.io/) team. Project status is documented regularly in the comments below.
 
 <!-- Don't forget to: 
 - Add a new "Project:" label here: https://github.com/cityofaustin/atd-data-tech/labels. Use the hex code #3D3D3D. 
+- Add "Workgroup:" and "Type:" labels
 - Add a project evaluation here: https://atd.knack.com/dts#project-evaluation/
 -->
