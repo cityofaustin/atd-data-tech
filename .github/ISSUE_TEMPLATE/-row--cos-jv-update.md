@@ -4,7 +4,6 @@ about: Issue for updating COS records with JV imports
 title: "[ROW] Data: Cost-of-Service (COS) JV Update for Month YYYY"
 labels: 'Product: ROW Portal, Service: Apps, Type: Data, Workgroup: Finance, Workgroup:
   ROW'
-epic: '[ROW] COS JV Updates'
 assignees: ChrispinP
 
 ---
