@@ -2,8 +2,9 @@
 name: "[All-Purpose] Bug report"
 about: Create a report to help us improve
 title: "[BUG]"
-labels: 'Type: Bug Report'
-assignees: ''
+labels: 'Product: Traffic Register, Service: Apps, Type: Bug Report, Workgroup: OOD,
+  Workgroup: TED'
+assignees: ChristinaTremel
 
 ---
 
