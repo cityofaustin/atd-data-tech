@@ -65,12 +65,13 @@ Body:
      - Enter in a **Sequence** number (Note: look at the sequence for all other person IDs and enter a number that is not being used)
      - For Superintendents, check the box as **Group Default** to auto-populate this person ID as the Superintendent for this person group. For Supervisor, only check the **Supervisor** box.
 
-## Activating/Deactivating Maximo Account ##
+## To Activate Maximo Account ##
  - [ ] Click on **Administration** > **Resources** > **People**
  - [ ] Search the person by **User ID** or by name
  - [ ] Update the person's information
  - [ ] Add **SBO** as the Person's Site under Employee Information
  - [ ] Click on the Status icon and update the profile to ACTIVE 
 
-To **deactivate**, click on the **Status** icon and update the profile to **INACTIVE**
+## To Deactivate ## 
+- [ ] click on the **Status** icon and update the profile to **INACTIVE**
 - [ ] Remove the profile/user from the PWD Maximo User mailing list.
