@@ -12,6 +12,7 @@ assignees: adry-martinez, ReneVarg25
   - Go to **User** > **Person** > **Labor** application
   - Search by last name, then by first name
   - If account is found, notify the Requestor that the account exists and update as requested.
+  - Review the **Time Zone** and set to **US Central**
   - If account is ***not found***, proceed to the next steps.
 
 - [ ] Send an e-mail to:
@@ -34,6 +35,7 @@ Body:
   - Search for the new account by name
   - Click on the Name
   - Verify the **Default Insert Site** under **User Settings** is populated as **SBO - Public Works Street & Bridge Operations**
+  - Review the **Time Zone** and set to **US Central**
 
 - [ ]  Update the **Security Group** to include the following:
   - SBO_SITE
