@@ -2,13 +2,17 @@
 name: "[Tech Services] New Hire Onboarding Checklist - Tech Services Support"
 about: This template is to help the Tech Services team with onboarding new TPW employees
 title: "[Tech Services] New Hire Onboarding Checklist - [START DATE: FIRST NAME, LAST
-  INITIAL] "
-labels: 'Service: Tech Services, Type: Operations'
+  INITIAL, LOCATION] "
+labels: 'Service: Tech Services, Type: Operations, Workgroup: DTS'
 assignees: ''
 
 ---
 
 ## Steps
+Supervisor: First Name, Last Initial <!-- LASTNAME -->
+User: First Name, Last Initial <!-- LASTNAME -->
+Division: 
+
 Reference - [New Hire Checklist document](https://cityofaustin.sharepoint.com/:w:/r/sites/tpwDTS/_layouts/15/Doc.aspx?sourcedoc=%7B81512810-B700-448C-8200-38B343CB257D%7D&file=New%20Hire.docx&action=default&mobileredirect=true)
 - [ ] Check if NERF was submitted?
 - [ ] Set up password/Reset password (Ask Scott & Matt, if available, else ask CTM help desk (512-974-HELP)
