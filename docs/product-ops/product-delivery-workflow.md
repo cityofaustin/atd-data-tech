@@ -57,21 +57,41 @@ Move the index issue into the "Backlog" pipeline.&#x20;
 
 ## Activation
 
-Once the time comes to work on the project, move the issue to the "In Progress" pipeline. If you don't already have regular sprint reviews with the project's stakeholders, set up recurring meetings for the duration of the project so that you can demo work and get feedback.&#x20;
+Once the time comes to work on the project:
 
-As you create and assign issues, make sure they all have the `Project:` label so that they render on the projects' page on the website and are easy to surface on Zenhub. You may also wish to convert the project index into an epic so that all issues are visible from the index without having to look at the Zenhub board.&#x20;
+* Move the issue to the "In Progress" pipeline.&#x20;
+* If you don't already have regular Sprint Reviews with the project's stakeholders, set up recurring meetings for the duration of the project so that you can demo work and get feedback.&#x20;
+* [Create a `Project:` label in Github](https://github.com/cityofaustin/atd-data-tech/labels?q=project). Fill out the "Description" field and use the hex code `#3D3D3D` for "Color." Use this label for all issues moving forward so that they render on the projects' website page and are easy to surface on Zenhub/Github.&#x20;
+* Convert the project index issue into an epic and assign future issues to the epic moving forward. Zenhub allows you to nest epics or assign issues to multiple epics, so feel free to use that functionality if you find it helpful.  &#x20;
+* Optionally, hold a [kick-off meeting](https://docs.google.com/presentation/d/10VOVnzf8Di\_IGhh0fInLdMvBgH4n-ysVegiN8LvsFOc/edit#slide=id.g653199e8f7\_0\_7) with your stakeholders.&#x20;
 
-It's also critical that all issues have an estimate when they are assigned so that we can track our velocity and report on our work volume. If the issue is complex, bring it to backlog refinement before bringing to sprint planning so that the team can align on an approach and estimate. If the estimate changes while the issue is in progress, simply update it. We want the estimates on all of our closed issues to accurately reflect the effort they required.&#x20;
+## Delivery
+
+* Document bugs, feature requests, and enhancements as Github issues. You may want to encourage your users to contribute using the [DTS Service Request](https://atd.knack.com/dts#new-service-request/).&#x20;
+
+{% hint style="info" %}
+When you click the "New Issue" button in the upper righthand corner of most pages in Github, you'll find issue templates for bug reports, features, and enhancements. You have to scroll to the bottom of the page and click to the "Open a blank issue" link to get a plain issue. To skip all that, bookmark the [direct link to the blank issue form](https://github.com/cityofaustin/atd-data-tech/issues/new) and add it to your browser bar.&#x20;
+
+<img src="../.gitbook/assets/Screenshot 2024-03-13 at 12.25.42 PM.png" alt="" data-size="original">
+{% endhint %}
+
+* Work with the team lead—via Github comments or in a planning/refinement/sync meeting—to assign an [estimate](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#estimates) to each issue. Zenhub's [Planning Poker](https://www.zenhub.com/planning-poker) is also a fun way to estimate asynchronously. &#x20;
+* Bring complex issues to Backlog Refinement ([Apps](https://docs.google.com/document/d/1NENOLq5v9n77N\_sNbV\_iu2dzi9cU5dTfAex9ay7Q7N0/edit#heading=h.mlv4bpg8du2a) | [Dev](https://docs.google.com/document/d/1k6L33xi1zDWEtW3n3oh212DmDug2F8yHLaZ-XW20Dsg/edit#heading=h.7h18hmh8ypw)) to discuss with builders. Break them up into smaller issues as necessary, document the agreed-upon approach, and align on an [estimate](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#estimates).&#x20;
+* Prioritize work with stakeholders during Sprint Reviews.&#x20;
+* If practical, [release](release-management-process.md) versions of an application on a regular basis.&#x20;
 
 ## Completion&#x20;
 
-A project is considered complete when the minimum viable product (captured in the "Scope and Deliverables" section of the issue's [**Project Index**](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D)) is delivered to users.&#x20;
+A project is considered complete when the minimum viable product—captured in the "Scope and Deliverables" section of the issue's project index—is delivered to users.&#x20;
 
-Often, there are still issues in the backlog, but these are not actually must-haves. Simply remove the project label, remove them from the epic, and review them the next time you meet with stakeholders so they can prioritize those against any of their other ongoing requests.&#x20;
+{% hint style="info" %}
+For complex projects, you might consider making an "Onboarding and Stabilization" epic in the project to capture any critical bugs documentation needs that surface during roll out and keeping the project open until those issues are addressed.&#x20;
+{% endhint %}
 
-For complex projects, you might consider making an "Onboarding and Stabilization" epic in the project to capture any critical bugs or enhancements that surface during roll out. After closing all those issues, the project is complete.&#x20;
+* Often, there are still issues in the backlog that are not actually must-haves. Remove the project label, remove them from the epic, and review them the next time you meet with stakeholders so they can prioritize those against any of their other ongoing requests.&#x20;
+* Retire the project label by adding "\[Archive]" to the "Description" field and update the hex code to `#B8B8B7`.
 
-![](<../.gitbook/assets/Screen Shot 2022-05-24 at 10.39.48 AM.png>)
+<figure><img src="../.gitbook/assets/Screenshot 2024-03-13 at 2.26.13 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
+* Write a final update as a comment on the index issue, and close the issue.&#x20;
+* By default, completed projects show on ["Complete" tab on the “Projects" page](https://austinmobility.io/projects?status=completed) of the website. If you don't think the project should be highlighted there, add the `Archived Project` label and it won't be shown.&#x20;
