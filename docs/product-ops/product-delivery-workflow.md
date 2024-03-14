@@ -97,5 +97,5 @@ For complex projects, you might consider making an "Onboarding and Stabilization
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-03-13 at 2.26.13 PM (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* Write a final update as a comment on the index issue, and close the issue.&#x20;
-* By default, completed projects show on ["Complete" tab on the “Projects" page](https://austinmobility.io/projects?status=completed) of the website. If you don't think the project should be highlighted there, add the `Archived Project` label and it won't be shown.&#x20;
+* Write a final update as a comment on the index issue and close the issue.&#x20;
+* By default, completed projects show on ["Complete" tab on the “Projects" page](https://austinmobility.io/projects?status=completed) of the website, but you can apply the `Archived Project` label to prevent that. We like to curate this page to showcase our most compelling, impactful, and well-documented work.&#x20;
