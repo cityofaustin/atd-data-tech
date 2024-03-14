@@ -22,7 +22,11 @@ In either case, we begin by verifying that all our DTS project prerequisites are
 * Division Manager sponsor to champion the project at the executive level&#x20;
 * A commitment from the customer to collaborate in DTS's iterative, user-centered development process
 
-Then either [create a new project index issue](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&projects=\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D) or convert the existing issue to match the [project index template](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&projects=\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D). Either way, make sure that the 'Project Index' label is on the issue so that an evaluation record for the project is added to the DTS Portal.&#x20;
+Then either [create a new project index issue](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&projects=\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D) or convert the existing issue to match the [project index template](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&projects=\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D). Either way, make sure that the 'Project Index' label is on the issue so that an evaluation record for the project is added to the DTS Portal and it appears on the website.
+
+{% hint style="info" %}
+Don't worry about building out a robust project index before scoping the request. Just make sure the name and description (the first 1-2 sentences) are good and that it has all the right labels. You can comment out the rest of the template to fill out when you have more information.&#x20;
+{% endhint %}
 
 Move the issue to the "Needs Scoping" Zenhub pipeline.&#x20;
 
