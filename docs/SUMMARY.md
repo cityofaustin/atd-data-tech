@@ -18,7 +18,7 @@
 
 ## Onboarding
 
-* [Welcome to DTS](onboarding/welcome-to-dts.md)
+* [Welcome to DTS](../onboarding/welcome-to-dts.md)
 * [Team Lead Checklist for New Employees](onboarding/new-employee-checklist.md)
 
 ## Working at DTS

@@ -6,7 +6,7 @@ Team leads are responsible for tracking new team members' onboarding in Github:&
 Create an epic "Onboard \[Name]" with two issues:&#x20;
 
 * "Perform \[Name] onboarding tasks \[Team Lead]," assigned to yourself and the new team member's supervisor—i.e. the person who will sign their timesheets. Copy and paste the checklist from this page into the issue body.&#x20;
-* "Perform DTS onboarding tasks \[\[Name]]." You won't be able to assign this to the new team member until they have a Github username, but in the meantime you can direct them to the [Welcome to DTS](welcome-to-dts.md) Gitbook page.  Copy and paste the checklist from that page into the issue body.&#x20;
+* "Perform DTS onboarding tasks \[\[Name]]." You won't be able to assign this to the new team member until they have a Github username, but in the meantime you can direct them to the [Welcome to DTS](../../onboarding/welcome-to-dts.md) Gitbook page.  Copy and paste the checklist from that page into the issue body.&#x20;
 {% endhint %}
 
 ## **Hardware & Office**
