@@ -50,3 +50,7 @@
 ## APPLICATIONS
 
 * [Application Management](applications/application-management.md)
+
+***
+
+* [Product Manager Portfolios](product-manager-portfolios.md)
