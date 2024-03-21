@@ -67,10 +67,13 @@ Once the time comes to work on the project:
 * If you don't already have regular Sprint Reviews with the project's stakeholders, set up recurring meetings for the duration of the project so that you can demo work and get feedback.&#x20;
 * [Create a `Project:` label in Github](https://github.com/cityofaustin/atd-data-tech/labels?q=project). Fill out the "Description" field and use the hex code `#3D3D3D` for "Color." Use this label for all issues moving forward so that they render on the projects' website page and are easy to surface on Zenhub/Github.&#x20;
 * Convert the project index issue into an epic and assign future issues to the epic moving forward. Zenhub allows you to nest epics or assign issues to multiple epics, so feel free to use that functionality if you find it helpful.  &#x20;
+* Ensure that everyone who has stake in the project, from potentially impacted staff to interested executives, whose high-level outcomes and success measures are documented and there is alignment among all stakeholders
 * Optionally, hold a [kick-off meeting](https://docs.google.com/presentation/d/10VOVnzf8Di\_IGhh0fInLdMvBgH4n-ysVegiN8LvsFOc/edit#slide=id.g653199e8f7\_0\_7) with your stakeholders.&#x20;
 
 ## Delivery
 
+* Perform requirements gathering with users. User interviews
+  * user story template
 * Document bugs, feature requests, and enhancements as Github issues. You may want to encourage your users to contribute using the [DTS Service Request](https://atd.knack.com/dts#new-service-request/).&#x20;
 
 {% hint style="info" %}
@@ -83,6 +86,7 @@ When you click the "New Issue" button in the upper righthand corner of most page
 * Bring complex issues to Backlog Refinement ([Apps](https://docs.google.com/document/d/1NENOLq5v9n77N\_sNbV\_iu2dzi9cU5dTfAex9ay7Q7N0/edit#heading=h.mlv4bpg8du2a) | [Dev](https://docs.google.com/document/d/1k6L33xi1zDWEtW3n3oh212DmDug2F8yHLaZ-XW20Dsg/edit#heading=h.7h18hmh8ypw)) to discuss with builders. Break them up into smaller issues as necessary, document the agreed-upon approach, and align on an [estimate](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#estimates).&#x20;
 * Prioritize work with stakeholders during Sprint Reviews.&#x20;
 * If practical, [release](release-management-process.md) versions of an application on a regular basis.&#x20;
+* Perform usability testing to surface improvements to the user experience. Since we don't have dedicated user researchers at DTS, we typically use [think-aloud usability testing](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) &#x20;
 
 ## Completion&#x20;
 
