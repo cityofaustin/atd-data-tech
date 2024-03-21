@@ -65,7 +65,27 @@ Once the time comes to work on the project:
 
 * Move the issue to the "In Progress" pipeline.&#x20;
 * If you don't already have regular Sprint Reviews with the project's stakeholders, set up recurring meetings for the duration of the project so that you can demo work and get feedback.&#x20;
+* Create a folder in the Projects/Products DTS Drive.&#x20;
 * [Create a `Project:` label in Github](https://github.com/cityofaustin/atd-data-tech/labels?q=project). Fill out the "Description" field and use the hex code `#3D3D3D` for "Color." Use this label for all issues moving forward so that they render on the projects' website page and are easy to surface on Zenhub/Github.&#x20;
+* Fill out the rest of the project index including background, outcomes, timeline, etc. Add these headings to the issue:&#x20;
+
+```markup
+## Scope & Deliverables
+
+What are we delivering? What’s in scope, and what isn’t? Describe constraints you’re working with, e.g. “Can’t impact **\_**‘s workflow,” known roadblocks.
+
+## Desired Outcomes
+
+Impact this project can have, success metrics
+
+## Timebox
+
+How long should this take to build; optional section w/ caveats for more complex projects.
+
+## References
+- Google Drive link 
+```
+
 * Convert the project index issue into an epic and assign future issues to the epic moving forward. Zenhub allows you to nest epics or assign issues to multiple epics, so feel free to use that functionality if you find it helpful.  &#x20;
 * Ensure that everyone who has stake in the project, from potentially impacted staff to interested executives, is aware the project is moving forward. Invite stakeholders to come to sprint reviews and/or participate in user research. Ask them who else should be included.&#x20;
 * Optionally, hold a [kick-off meeting](https://docs.google.com/presentation/d/10VOVnzf8Di\_IGhh0fInLdMvBgH4n-ysVegiN8LvsFOc/edit#slide=id.g653199e8f7\_0\_7) with your stakeholders.&#x20;
