@@ -8,7 +8,7 @@
 * Delivering the first iteration (MVP) of a new DTS product
 * [Building a major feature for an existing DTS project](https://github.com/cityofaustin/atd-data-tech/issues/533)
 * [Refactoring a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254)
-* [Delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911).
+* [Delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911)
 
 ## Project Initiation
 
