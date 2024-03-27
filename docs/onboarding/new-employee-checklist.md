@@ -18,15 +18,15 @@ Create an epic "Onboard \[Name]" with two issues:&#x20;
 
 ### **Regular and Temporary Employees**
 
-* [ ] Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone. \
+* [ ] Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone. If the employee won't be using city issued equipment, use the Third-Party Remote Access Request Form instead. \
   \
   Under "Network Account Information," write `Shared mailbox: transportation.data@austintexas.gov; Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`.
 
-### **Contractors**
+### Third-Party Equipment
 
-* [ ] Submit a [Third-Party Remote Access Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=30f9aa09dba4a8106d0171f2399619a2) instead of a NERF. See [this guide ](https://cityofaustin.sharepoint.com/sites/ServiceNowFullfillerLearningResources/Final%20Quick%20Reference%20Guides/KB0011192.pdf)for more info. \
-  \
-  This will require the vendor to sign a third-party remote access acceptable use agreement. Find the latest version of the agreement form embedded in the service now request. This must be submitted with the ServiceNow request. &#x20;
+* [ ] Submit a [Third-Party Remote Access Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=30f9aa09dba4a8106d0171f2399619a2) instead of a NERF. See [this guide ](https://cityofaustin.sharepoint.com/sites/ServiceNowFullfillerLearningResources/Final%20Quick%20Reference%20Guides/KB0011192.pdf)for more info.&#x20;
+
+This will require the vendor to sign a third-party remote access acceptable use agreement. Find the latest version of the agreement form embedded in the service now request. This must be submitted with the ServiceNow request. &#x20;
 
 ## Next Steps
 
