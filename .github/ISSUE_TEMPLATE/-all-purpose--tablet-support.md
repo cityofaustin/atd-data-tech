@@ -34,3 +34,9 @@ assignees: ChrispinP, susannegov
 - Type: (i.e. Samsung Tablet)
 - OS Version: (i.e. Android 11.0)
 - User: FirstNameOnly (comment out last name)
+
+**Confirmations:**
+- [ ] User in AirWatch (not in CTM group)
+- [ ] Device in AirWatch
+- [ ] Device Labeled with COA Tag, SN, IMEI, & Phone #
+- [ ] Device in DTS Inventory
