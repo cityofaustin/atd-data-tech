@@ -41,7 +41,7 @@ Helpful links, e.g. other solutions, screenshots of Slack convos, customer’s o
 - Date:
 
 <!-- + Image  (No Header) (No Header) + -->
-https://atd-dts.gitbook.io/wiki/product-ops/dts-website#images
+https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images
 The first image will be used as the project's thumbnail image on the website.
 
 ---
