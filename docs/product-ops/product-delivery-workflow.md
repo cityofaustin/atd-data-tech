@@ -104,7 +104,7 @@ When you click the "New Issue" button in the upper righthand corner of most page
 * Work with the team lead—via Github comments or in a planning/refinement/sync meeting—to assign an [estimate](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#estimates) to each issue. Zenhub's [Planning Poker](https://www.zenhub.com/planning-poker) is also a fun way to estimate asynchronously. &#x20;
 * Bring complex issues to Backlog Refinement ([Apps](https://docs.google.com/document/d/1NENOLq5v9n77N\_sNbV\_iu2dzi9cU5dTfAex9ay7Q7N0/edit#heading=h.mlv4bpg8du2a) | [Dev](https://docs.google.com/document/d/1k6L33xi1zDWEtW3n3oh212DmDug2F8yHLaZ-XW20Dsg/edit#heading=h.7h18hmh8ypw)) to discuss with builders. Break them up into smaller issues as necessary, document the agreed-upon approach, and align on an [estimate](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#estimates).&#x20;
 * Prioritize work with stakeholders during Sprint Reviews.&#x20;
-* If practical, [release](release-management-process.md) versions of an application on a regular basis.&#x20;
+* If practical, [release](release-process.md) versions of an application on a regular basis.&#x20;
 * Perform usability testing to surface improvements to the user experience. Since we don't have dedicated user researchers at DTS, we love [think-aloud usability testing](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) for its simplicity and depth of insight. [Here are some think-aloud test plans](https://drive.google.com/drive/u/0/folders/1eQai0Hzsz7EVI9RUmPWdPq3rNX0FPc7T) we've done. It's handy to record sessions on Teams so that you can expand on your notes, embed screenshots/clips in issues, etc.&#x20;
 
 ## Completion&#x20;
