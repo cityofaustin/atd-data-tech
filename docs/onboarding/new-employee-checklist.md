@@ -51,7 +51,7 @@ After the network account is created and you have their @austintexas.gov email a
 After they've created their Google and Github accounts:&#x20;
 
 * [ ] Share the [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7) with the new team member.&#x20;
-* [ ] Add the new team member to the City of Austin [Transportation Github team](https://github.com/orgs/cityofaustin/teams/transportation/members). This should automatically add them to the [City of Austin Github organization](https://github.com/orgs/cityofaustin/people).
+* [ ] Ask Amenity or Frank to add the new team member to the City of Austin [Transportation Github team](https://github.com/orgs/cityofaustin/teams/transportation/members). This should automatically add them to the [City of Austin Github organization](https://github.com/orgs/cityofaustin/people).
 * [ ] Invite the new team member to the [City of Austin Zenhub organization](https://app.zenhub.com/settings/o/cityofaustin/users).&#x20;
 * [ ] Add the new team member to [Gitbook](https://app.gitbook.com/@atd-dts/spaces).
 

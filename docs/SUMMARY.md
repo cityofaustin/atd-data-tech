@@ -34,7 +34,7 @@
 * [Project Delivery Workflow](product-ops/product-delivery-workflow.md)
 * [Index Issue Specifications](product-ops/index-issue-specifications.md)
 * [DTS Website Management](product-ops/dts-website.md)
-* [Release Management Process](product-ops/release-management-process.md)
+* [Release Process](product-ops/release-management-process.md)
 * [Product Manager Assignments](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355)
 
 ## Developer
