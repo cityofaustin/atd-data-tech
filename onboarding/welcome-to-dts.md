@@ -46,7 +46,7 @@ Let your supervisor know if you are not able to finish any of these during your 
   &#x20;    \- Preferred pronouns
 * [ ] Email Adan S. to request a paper timesheet.
 * [ ] [Open a service request ](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=02e490c6db7f1300a314e1c2ca9619e6)with Communications and Technology Management (CTM, the City's internal enterprise IT department) to request a Miro account.
-* [ ] Familiarize yourself with the [DTS Resource Index](https://github.com/wiki/resource-index) and our [document storage policies](../docs/basics/document-storage/).
+* [ ] Familiarize yourself with the [DTS Resource Index](../docs/resource-index.md) and our [document storage policies](../docs/basics/document-storage/).
 
 ## Week 3 🐓
 
