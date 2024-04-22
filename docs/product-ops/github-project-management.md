@@ -1,17 +1,17 @@
 ---
 description: >-
-  The Data and Technology Services team is using Github and ZenHub for agile
+  The Data and Technology Services team is using GitHub and Zenhub for agile
   project management. This is an overview of our process.
 ---
 
-# Github Project Management
+# Agile Project Management with GitHub + Zenhub
 
 ## Set up
 
-1. [Create a Github account](https://github.com/join) if you don't have one already.
+1. [Create a GitHub account](https://github.com/join) if you don't have one already.
 2. Have someone on the DTS team add you to the [City of Austin](https://github.com/cityofaustin) organization and the [Transportation](https://github.com/orgs/cityofaustin/teams/transportation) team as a Maintainer.
-3. Add the [ZenHub extension](https://www.zenhub.com/extension) to your browser.
-4. Log into the [ZenHub web app](http://app.zenhub.com/) using your normal GitHub credentials to activate your account.&#x20;
+3. Add the [Zenhub extension](https://www.zenhub.com/extension) to your browser.
+4. Log into the [Zenhub web app](http://app.zenhub.com/) using your normal GitHub credentials to activate your account.&#x20;
 
 ## Pipelines
 
@@ -51,7 +51,7 @@ Here are some examples:
 
 ## Labels
 
-You can apply labels when looking at an individual issue by clicking the "Labels" heading in the right-hand sidebar. You can also [apply labels in bulk from on our ZenHub board](https://www.zenhub.com/blog/task-board-bulk-actions/).
+You can apply labels when looking at an individual issue by clicking the "Labels" heading in the right-hand sidebar. You can also [apply labels in bulk from on our Zenhub board](https://www.zenhub.com/blog/task-board-bulk-actions/).
 
 Labels allow us to view related issues across the Zenhub pipelines. For example, during Apps Team Sprint Planning, we filter down to  `Service: Apps` and during our periodic meetings with AMD we use the `Workgroup: AMD` label to look at all the work — across teams, of all sizes — that we're doing for them.&#x20;
 
@@ -97,7 +97,7 @@ Estimates are how we track the level of effort of issues. This is useful for
 
 ## Epics
 
-Epics are a powerful feature that ZenHub adds to Github. They allow you to group related tasks and easily track them from one place. [Here is a solid guide to how they work](https://www.zenhub.com/blog/working-with-epics-in-github/). Here[ is an example](https://github.com/cityofaustin/techstack/issues/1215) from another City of Austin project.
+Epics are a powerful feature that Zenhub adds to Github. They allow you to group related tasks and easily track them from one place. [Here is a solid guide to how they work](https://www.zenhub.com/blog/working-with-epics-in-github/). Here[ is an example](https://github.com/cityofaustin/techstack/issues/1215) from another City of Austin project.
 
 For ongoing tasks such as a recurring meeting, it may help to create an epic and put the individual instances of the tasks inside it. [Here is an example](https://github.com/cityofaustin/atd-geospatial/issues/4) of that type of usage for a task performed for a customer regularly.
 
@@ -116,4 +116,4 @@ Here are some additional guides for some of our most relied-upon Zenhub function
 * [Filtering the Board](https://help.zenhub.com/support/solutions/articles/43000498508--filtering-the-board)
 * "Use multi-action to make bulk Issue updates" on [this page](https://help.zenhub.com/support/solutions/articles/43000031098-get-to-know-board-features-and-functionality)
 
-The [Zenhub docs](https://help.zenhub.com/support/home) are super-solid, and we encourage you to peruse them at your leisure. Remember that some functionality—renaming and reordering pipelines, for example—will affect the workspace for the whole team.  We're always looking for ways to improve our process, so if you come across an approach or functionality you think is promising, talk about it with a Product Manager or share it in the `#atd-product` Slack channel!
+The [Zenhub docs](https://help.zenhub.com/support/home) are super-solid, and we encourage you to peruse them at your leisure. Remember that some functionality—renaming and reordering pipelines themselves, for example—will affect the workspace for the whole team. We're always looking for ways to improve our process, so if you come across an approach or functionality you think is promising, add it to the agenda for our weekly Product Sync or share it in the `#atd-product` Slack channel!
