@@ -2,7 +2,7 @@
 name: "[All purpose] Complete DTS Template"
 about: Shows everything all issues should include
 title: ''
-labels: ''
+labels: "[Workgroup] :rotating_light: MISSING"
 assignees: ''
 
 ---
