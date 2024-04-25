@@ -1,7 +1,7 @@
 ---
 name: "[All purpose] Complete DTS Template"
 about: Shows everything all issues should include
-title: ''
+title: "[Begin with a verb and summarize the work to be completed]"
 labels: "[Workgroup] :rotating_light: MISSING"
 assignees: ''
 
