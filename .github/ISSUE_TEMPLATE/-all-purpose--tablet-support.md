@@ -8,9 +8,9 @@ assignees: ChrispinP, susannegov
 ---
 
 **References:**
-[AirWatch Management](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/airwatch-management) / 
-[Android Configuration](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/tablet-configuration) / 
-[iOS Configuration](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/ios-tablet-configuration)
+☁[AirWatch Management](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/airwatch-management)
+🤖[Android Configuration](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/tablet-configuration)
+🍎[iOS Configuration](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/ios-tablet-configuration)
 
 **Select Issues:**
 - [ ] Purchasing Devices
@@ -36,10 +36,10 @@ assignees: ChrispinP, susannegov
 | --- | --- | --- | --- | --- | --- |
 | FirstNameOnly<!--Last--> | COA###### | ###### | ###### | ###-###-#### | Samsung Android 11.0 Tablet |
 | FirstNameOnly<!--Last--> | COA###### | ###### | ###### | ###-###-#### | Apple iPadOS 16 Tablet  |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |
+| ---<!--Last--> | --- | --- | --- | --- | --- |
+| ---<!--Last--> | --- | --- | --- | --- | --- |
+| ---<!--Last--> | --- | --- | --- | --- | --- |
+| ---<!--Last--> | --- | --- | --- | --- | --- |
 
 **Confirmations:**
 - [ ] User in AirWatch (in TPW group, not CTM)
