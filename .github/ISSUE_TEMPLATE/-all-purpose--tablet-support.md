@@ -2,11 +2,15 @@
 name: "[Tablet Support] New Issue"
 about: Issues for Tablets & Phones managed by TPW in AirWatch & DTS Portal
 title: "[Tablet Support] Department/Division: Issue Name"
-labels: 'Product: Data & Technology Services Portal, Service: Apps, Service: Tech
-  Services, Type: Tablet Support'
+labels: 'Product: Data & Technology Services Portal, Service: Apps, Service: Tech Services, Type: Tablet Support'
 assignees: ChrispinP, susannegov
 
 ---
+
+**References:**
+[AirWatch Management](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/airwatch-management) / 
+[Android Configuration](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/tablet-configuration) / 
+[iOS Configuration](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/tablet-management/ios-tablet-configuration)
 
 **Select Issues:**
 - [ ] Purchasing Devices
@@ -27,16 +31,18 @@ assignees: ChrispinP, susannegov
 - [ ] Retire a Device (outdated, bricked, no longer used)
 
 **Device Details:**
-- COA Tag:
-- SN:
-- IMEI:
-- Phone #:
-- Type: (i.e. Samsung Tablet)
-- OS Version: (i.e. Android 11.0)
-- User: FirstNameOnly (comment out last name)
+
+| User | COA Tag | SN | IMEI | Phone | Brand, OS Version, & Device Type |
+| --- | --- | --- | --- | --- | --- |
+| FirstNameOnly<!--Last--> | COA###### | ###### | ###### | ###-###-#### | Samsung Android 11.0 Tablet |
+| FirstNameOnly<!--Last--> | COA###### | ###### | ###### | ###-###-#### | Apple iPadOS 16 Tablet  |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 
 **Confirmations:**
-- [ ] User in AirWatch (not in CTM group)
+- [ ] User in AirWatch (in TPW group, not CTM)
 - [ ] Device in AirWatch
 - [ ] Device Labeled with COA Tag, SN, IMEI, & Phone #
 - [ ] Device in DTS Inventory
