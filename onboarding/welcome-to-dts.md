@@ -8,10 +8,10 @@ description: >-
 
 ## Day 1 🐣
 
-These are the high priority tasks. Let your supervisor know if you have any issues completing them on your first day.&#x20;
+These are the high-priority tasks. Let your supervisor know if you are unable to complete any of them on your first day.&#x20;
 
 * [ ] [Log in to your City of Austin email](https://outlook.office365.com/).
-* [ ] [Install the Microsoft Authenticator app](https://atx.servicenowservices.com/sp?id=kb\_article\&sys\_id=b46a964d1b5a35d0e8dfc844604bcb01) on your phone. Moving forward, you should only  log in to City of Austin Microsoft services via 2 factor authentication.&#x20;
+* [ ] [Install the Microsoft Authenticator app](https://atx.servicenowservices.com/sp?id=kb\_article\&sys\_id=b46a964d1b5a35d0e8dfc844604bcb01) on your phone. Moving forward, you should only  log in to City of Austin Microsoft services via 2-factor authentication.&#x20;
 * [ ] You should have a 1Password invitation in your email. If not, email/Slack Diana to request one and then accept the invitation. Diana or Amenity will then confirm your account. Then follow [this guide](https://support.1password.com/explore/get-started/) to set up 1Password for use on your City computer and any mobile devices you use for work.&#x20;
 
 {% hint style="danger" %}
@@ -28,7 +28,7 @@ All your passwords relating to work should be stored 1Password and _only_ in 1Pa
 
 ## Week 1 🐥
 
-Let your supervisor know if you are not able to finish any of these during your first week.&#x20;
+Let your supervisor know if you are unable to finish any of these during your first week.&#x20;
 
 * [ ] [Set yourself up for remote work](https://atd-dts.gitbook.io/atd-staff-resources/working-remotely/getting-started).
 * [ ] [Set up Cameron Road printer](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/printer-information).
@@ -44,7 +44,7 @@ Let your supervisor know if you are not able to finish any of these during your 
   &#x20;    \- Full preferred name\
   &#x20;    \- Title\
   &#x20;    \- Preferred pronouns
-* [ ] Email Adan S. to request a paper timesheet.
+* [ ] Unless you are a contractor, email Adan S. to request a paper timesheet.
 * [ ] [Open a service request ](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=02e490c6db7f1300a314e1c2ca9619e6)with Communications and Technology Management (CTM, the City's internal enterprise IT department) to request a Miro account.
 * [ ] Familiarize yourself with the [DTS Resource Index](../docs/resource-index.md) and our [document storage policies](../docs/basics/document-storage/).
 
