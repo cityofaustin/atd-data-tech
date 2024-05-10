@@ -6,7 +6,7 @@ Team leads are responsible for tracking new team members' onboarding in Github:&
 Create an epic "Onboard \[Name]" with two issues:&#x20;
 
 * "Perform \[Name] onboarding tasks \[Team Lead]," assigned to yourself and the new team member's supervisor—i.e. the person who will sign their timesheets. Copy and paste the checklist from this page into the issue body.&#x20;
-* "Perform DTS onboarding tasks \[\[Name]]." You won't be able to assign this to the new team member until they have a Github username, but in the meantime you can direct them to the [Welcome to DTS](../../onboarding/welcome-to-dts.md) Gitbook page. &#x20;
+* "Perform DTS onboarding tasks \[Name]." You won't be able to assign this to the new team member until they have a Github username, but in the meantime you can direct them to the [Welcome to DTS](../../onboarding/welcome-to-dts.md) Gitbook page. &#x20;
 * Add these checklists into the issue bodies. If you have issues with formatting, you can take these steps:&#x20;
   * &#x20;Copy text below
   * Convert it to Markdown using [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
@@ -26,7 +26,7 @@ Create an epic "Onboard \[Name]" with two issues:&#x20;
   \
   Under "Network Account Information," write `Shared mailbox: transportation.data@austintexas.gov; Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`.
 
-### Third-Party Equipment
+### Contractors
 
 * [ ] Submit a [Third-Party Remote Access Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=30f9aa09dba4a8106d0171f2399619a2) instead of a NERF. See [this guide ](https://cityofaustin.sharepoint.com/sites/ServiceNowFullfillerLearningResources/Final%20Quick%20Reference%20Guides/KB0011192.pdf)for more info.&#x20;
 
@@ -64,7 +64,7 @@ Once they've uploaded their [headshot](https://drive.google.com/drive/folders/1y
 
 * [ ] Add them to [the Austin Transportation Miro Team](https://miro.com/app/settings/team/3074457347846964301/users/).&#x20;
 
-Once HR has added them to the UKG timekeeping system, their supervisor—Peggy, Amenity, or Diana— must:
+Once HR has added regular/temp employees  to the UKG timekeeping system, their supervisor—Peggy, Amenity, or Diana— must:
 
 * [ ] Set up their schedule plan.&#x20;
 
