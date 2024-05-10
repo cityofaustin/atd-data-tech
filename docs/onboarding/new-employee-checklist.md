@@ -18,19 +18,21 @@ Create an epic "Onboard \[Name]" with two issues:&#x20;
 * [ ] Request necessary hardware from Scott. Do this as soon as possible to ensure he has enough lead time to acquire equipment. Make sure they get a **laptop**, **power** **supply**, **monitors**, **keyboard**, **mouse**, and **docking station**. Some team members also need a **CoA phone**.
 * [ ] Coordinate with Diana to assign their desk and obtain an ergonomic chair.&#x20;
 
-## **Network Account**&#x20;
+## **Network Account & Distribution Lists**
 
-### **Regular and Temporary Employees**
+If the employee is using city-issued equipment, submit a New Employee Request Form. Otherwise, use submit a Third-Party Remote Access Request Form.&#x20;
 
-* [ ] Submit a [CTM New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) for a COA network account, eAccess PIN/HR Portal, and phone. If the employee won't be using city issued equipment, use the Third-Party Remote Access Request Form instead. \
-  \
-  Under "Network Account Information," write `Shared mailbox: transportation.data@austintexas.gov; Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`.
+### New Employee Request Form&#x20;
 
-### Contractors
+* [ ] Submit a [New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) to create a CoA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write \
+  `Shared mailbox: transportation.data@austintexas.gov; Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`.
 
-* [ ] Submit a [Third-Party Remote Access Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=30f9aa09dba4a8106d0171f2399619a2) instead of a NERF. See [this guide ](https://cityofaustin.sharepoint.com/sites/ServiceNowFullfillerLearningResources/Final%20Quick%20Reference%20Guides/KB0011192.pdf)for more info.&#x20;
+### Third-Party Remote Access Request Form
 
-This will require the vendor to sign a third-party remote access acceptable use agreement. Find the latest version of the agreement form embedded in the service now request. This must be submitted with the ServiceNow request. &#x20;
+For a full (18 page) explanation of this process, refer to [CTM's Third-Party Remote Access Request Quick Reference Guide](https://cityofaustin.sharepoint.com/sites/ServiceNowFullfillerLearningResources/Final%20Quick%20Reference%20Guides/KB0011192.pdf). In short:
+
+* [ ] Have the employee sign the [City of Austin Third-Party Remote Access Connection Acceptable Use Agreement](https://cityofaustin.sharepoint.com/sites/ServiceNowKnowledge/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FServiceNowKnowledge%2FShared%20Documents%2FKB%2DPortal%20%2D%20How%20To%20Guides%2FCity%20of%20Austin%20Third%2DParty%20Remote%20Access%20Connection%20Acceptable%20Use%20Agreement%2Epdf\&parent=%2Fsites%2FServiceNowKnowledge%2FShared%20Documents%2FKB%2DPortal%20%2D%20How%20To%20Guides\&p=true\&ga=1).&#x20;
+* [ ] Submit a [Third-Party Remote Access Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=30f9aa09dba4a8106d0171f2399619a2) on Service Now, including the acceptable use agreement with&#x20;
 
 ## Next Steps
 
