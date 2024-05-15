@@ -33,7 +33,7 @@ Let your supervisor know if you are unable to finish any of these during your fi
 * [ ] [Set yourself up for remote work](https://atd-dts.gitbook.io/atd-staff-resources/working-remotely/getting-started).
 * [ ] [Set up Cameron Road printer](https://app.gitbook.com/@atd-dts/s/dts-service-desk-knowledge-base/onboarding/printer-information).
 * [ ] Set up docking station — [Windows](https://www.dell.com/support/home/us/en/04/product-support/product/dell-universal-dock-d6000/drivers) | [Mac](https://www.synaptics.com/products/displaylink-graphics/downloads/macos). (See [here](https://support.displaylink.com/knowledgebase/articles/1188004-macos-10-13-or-10-14-video-functionality-not-enab) if you're having issues on Mac. If you have an M1, grant screen recording permissions as detailed [here](https://m1displays.com/).)&#x20;
-* [ ] Upload a headshot [here](https://drive.google.com/drive/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G).
+* [ ] Upload a headshot [here](https://drive.google.com/drive/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G) and notify your supervisor so they can add you to the DTS orientation deck.&#x20;
 * [ ] Install [Zenhub Browser Extension](https://www.zenhub.com/).
 * [ ] [Create a Github issue](https://github.com/cityofaustin/atd-data-tech/issues/new) to add yourself to the [DTS "About Us" webpage](https://austinmobility.io/about):\
   \- Title: `Add [First name] [First initial of last name] to DTS website`\
@@ -45,7 +45,7 @@ Let your supervisor know if you are unable to finish any of these during your fi
   &#x20;    \- Title\
   &#x20;    \- Preferred pronouns
 * [ ] Unless you are a contractor, email Adan S. to request a paper timesheet.
-* [ ] [Open a service request ](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=02e490c6db7f1300a314e1c2ca9619e6)with Communications and Technology Management (CTM, the City's internal enterprise IT department) to request a Miro account.
+* [ ] [Open a service request ](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=02e490c6db7f1300a314e1c2ca9619e6)with Communications and Technology Management (CTM, the City's internal enterprise IT department) to request a Miro account. When you receive confirmation that your account has been created, notify your supervisor so that they can add you to Austin Transportation and Public Works team.&#x20;
 * [ ] Familiarize yourself with the [DTS Resource Index](../docs/resource-index.md) and our [document storage policies](../docs/basics/document-storage/).
 
 ## Week 3 🐓

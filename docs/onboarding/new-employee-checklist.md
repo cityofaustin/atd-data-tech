@@ -57,14 +57,13 @@ After they've created their Google and Github accounts:&#x20;
 * [ ] Invite the new team member to the [City of Austin Zenhub organization](https://app.zenhub.com/settings/o/cityofaustin/users).&#x20;
 * [ ] Add the new team member to [Gitbook](https://app.gitbook.com/@atd-dts/spaces).
 
-Once they've uploaded their [headshot](https://drive.google.com/drive/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G):&#x20;
+After they notify you that they've uploaded their [headshot](https://drive.google.com/drive/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G):&#x20;
 
 * [ ] Add them to the [DTS Orientation presentation team slide](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_173) and the slide for the team they are joining.
-* [ ] [Open an issue](https://github.com/cityofaustin/atd-data-tech/issues/new) to add the team member to the team website. The issue should include link to the headshot, new employee's title for the site and pronouns. Assign the issue to Chia.
 
-&#x20;Once they've received notice from CTM that their Miro account was created:
+&#x20;After they notify you that their Miro account was created:
 
-* [ ] Add them to [the Austin Transportation Miro Team](https://miro.com/app/settings/team/3074457347846964301/users/).&#x20;
+* [ ] Add them to [the Austin Transportation and Public Works Miro team](https://miro.com/app/settings/team/3074457347846964301/users/).&#x20;
 
 Once HR has added regular/temp employees  to the UKG timekeeping system, their supervisor—Peggy, Amenity, or Diana— must:
 
