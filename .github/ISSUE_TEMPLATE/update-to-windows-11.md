@@ -13,16 +13,15 @@ assignees: Matthew-M-TPW
 first name and last initial <!--Lastname-->
 
 ## What's the problem?
-- [ ]Check Inventory DTS and add Windows version [If the machine is not in inventory add it]
+[ ]Check Inventory DTS and add Windows version [If the machine is not in inventory add it]
 
-- [ ]Check Intune [If the user is not assigned to the computer, add the user]
+[ ]Check Intune [If the user is not assigned to the computer, add the user]
 
-- [ ]Check CTM Data Base (https://atx.servicenowservices.com/now/nav/ui/classic/params/target/%2Falm_asset_list.do%3Fsysparm_view%3D%26sysparm_first_row%3D1%26sysparm_query%3Dmodel_category%253D81feb9c137101000deeabfc8bcbe5dc4%26sysparm_clear_stack%3Dtrue) [correct and add the info if needed]
+[ ]Check CTM Data Base (https://atx.servicenowservices.com/now/nav/ui/classic/params/target/%2Falm_asset_list.do%3Fsysparm_view%3D%26sysparm_first_row%3D1%26sysparm_query%3Dmodel_category%253D81feb9c137101000deeabfc8bcbe5dc4%26sysparm_clear_stack%3Dtrue) [correct and add the info if needed]
 
-- [ ]Gather COA tag
+[ ]Gather COA tag
 
-
-- [ ]Update Computer to Windows 11
+[ ]Update Computer to Windows 11
 [ADD COMPUTER NAME HERE]
  
 ## What did you do to resolve the issue
