@@ -59,6 +59,19 @@ After the evaluation is complete, the Austinmobility.io script will pick them up
 
 Move the index issue into the "Backlog" pipeline.&#x20;
 
+## Prioritization
+
+### [Project Prioritization Process as of 5/24](https://docs.google.com/presentation/d/1znUcRuHDJfKOd4BWH\_FAr\_xU99BOY0YRa-pV8WI1EZ4/edit#slide=id.p)&#x20;
+
+Google presentation used for Product Ops onboarding and TPW Executive communications.
+
+<figure><img src="../.gitbook/assets/2024-05 _ Prioritization.png" alt=""><figcaption></figcaption></figure>
+
+### Working docs
+
+* [Project Prioritization workflow](https://miro.com/app/board/o9J\_l\_98Nc8=/?moveToWidget=3458764569449827838\&cot=14)
+* [DTS + OPM workflow](https://miro.com/app/board/o9J\_l\_98Nc8=/?moveToWidget=3458764589968626226\&cot=14)
+
 ## Activation
 
 Once the time comes to work on the project:
