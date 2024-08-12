@@ -24,9 +24,9 @@ assignees: ChrispinP
 - [ ] Total Number of records being updated: 
 
 **Import Data:**
-- [ ] Import (Update) records, match on `Combined ID` & import `Journal Voucher ID`, `Department Comment`, and `Payment Memo`. Set `Import Date` to today [(Review Instructions)](https://atd-dts.gitbook.io/atd-knack-operations/row-portal/cos-jv-update)
+- [ ] Import (Update) records, match on `Combined ID` & import `Journal Voucher ID`, `Department Comment`, and `Payment Memo`. Set default `Import Date` to today and set `JV Type` to the proper sheet acronym [(Review Instructions)](https://atd-dts.gitbook.io/atd-knack-operations/row-portal/cos-jv-update)
 - [ ] Make sure the number of records being updated matches for all spreadsheets
-- [ ] Filter records by `Import Date` and make sure the total number of records updated matches
+- [ ] Filter records by `Import Date` and `JV Type` to make sure the total number of records updated matches
 
 **Error Checking:**
 - [ ] If inaccurate, check backend filter to see if any of the unmatched records are archived records and marked as `Archived`. The AMANDA data may be inaccurate, the script may be running incorrectly, or the `Combined ID` may be incorrect if the record amount does not match the number of Archived records.

@@ -3,7 +3,7 @@ name: "[Maximo] Account Requests"
 about: Checklist for issues that require Maximo Account Updates/Creation/Deactivation
 title: "[Maximo]"
 labels: 'Product: Maximo, Service: Maximo, Type: IT Support'
-assignees: adry-martinez, ReneVarg25
+assignees: ReneVarg25
 
 ---
 

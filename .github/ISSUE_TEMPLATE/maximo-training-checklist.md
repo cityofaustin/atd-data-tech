@@ -3,7 +3,7 @@ name: Maximo Training Checklist
 about: Template for DTS Maximo to help with training resources and support
 title: "[TRAINING]"
 labels: 'Product: Maximo, Service: Maximo, Type: Training, Workgroup: DTS'
-assignees: adry-martinez
+assignees: ''
 
 ---
 
