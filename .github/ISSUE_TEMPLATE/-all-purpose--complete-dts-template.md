@@ -2,14 +2,10 @@
 name: "[All purpose] Complete DTS Template"
 about: Shows everything all issues should include
 title: "[Begin with a verb and summarize the work to be completed]"
-labels: "[Workgroup] :rotating_light: MISSING"
+labels: "[Product] :bulb: OPTIONAL, [Project] :bulb: OPTIONAL, [Service] :rotating_light:
+  MISSING, [Workgroup] :rotating_light: MISSING"
 assignees: ''
 
 ---
 
-### Required labels
-- [ ] Workgroup — the customer we're serving; Workgroup: DTS for internal work and Workgroup: ATD for department-wide work
-
-Service — The DTS service team the work will be handled by
-
-Project and/or Product labels
+Notes - delete after reading:
