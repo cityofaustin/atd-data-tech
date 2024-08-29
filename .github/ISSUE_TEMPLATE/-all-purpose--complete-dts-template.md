@@ -1,6 +1,6 @@
 ---
 name: "[All purpose] Complete DTS Template"
-about: Shows everything all DTS issues should include
+about: Everything a DTS issue should include
 title: "[Begin with a verb and summarize the work to be completed]"
 labels: "[Product] :bulb: OPTIONAL, [Project] :bulb: OPTIONAL, [Service] :rotating_light:
   MISSING, [Workgroup] :rotating_light: MISSING"
@@ -8,4 +8,4 @@ assignees: ''
 
 ---
 
-Notes - delete after reading:
+
