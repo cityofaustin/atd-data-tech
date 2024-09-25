@@ -25,7 +25,8 @@ If the employee is using city-issued equipment, submit a New Employee Request Fo
 ### New Employee Request Form&#x20;
 
 * [ ] Submit a [New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) to create a CoA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write \
-  `Shared mailbox: transportation.data@austintexas.gov; Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`.
+  `Shared mailbox: transportation.data@austintexas.gov (needs Send-As permission);` \
+  `Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`.
 
 ### Third-Party Remote Access Request Form
 
