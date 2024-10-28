@@ -1,48 +1,50 @@
 ---
 name: "[All-Purpose] Project Index"
-about: Central place to access all information for a project
+about: 'Essential information for all DTS projects. '
 title: 'Project: [Your Project Name in Title Case]'
-labels: Project Index
+labels: 'Project Index, [Service] :rotating_light: MISSING, [Type] :rotating_light:
+  MISSING, [Workgroup] :rotating_light: MISSING'
 assignees: ''
 
 ---
 
-<!-- Description:
-Write a concise, jargon + acronym-free 1-2 sentences. This text appears on the "Projects" page, so should be easy for any visitor, from a Council member to a prospective DTS intern, to understand. You may follow one of these loose formulas:
+<!-- 
+Instructions:
+- Replace text between [[  ]] brackets with your own content. 
+- Remove comments* like this, which only appear when you are editing the issue, once you no longer need them. 
+- You probably won't have all this information until you scope the project—that's okay! Hide those sections as comments* so you can add them as you learn more.
 
-This [initiative/enhancement/new application] will [adds value] for [customer].
+*https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#hiding-content-with-comments
 -->
 
-Describe this project's who, what, and why 1-2 sentences (No header).
+[[MISSING: Write a concise, jargon + acronym-free 1-2 sentence description of the project.]]
+<!-- (This text appears on the "Projects" page of the DTS website, so it should be easy for anyone—a TPW staff person, a Council member, or a prospective DTS intern—to understand. You may follow one of these loose formulas:
+- We're (building/implementing/evaluating) an (enhancement/application/initiative) for (users/workgroup/department) so that (value/outcome/impact).
+- We're (collaborating with/supporting) (users/workgroup/department) to (value/outcome/impact).  -->
 
 ## Background 
-
-Explain why the project matters, the organizational context, and customer insights, including direct quotes from users.
-
-## Scope & Deliverables
-
-What are we delivering? What’s in scope, and what isn’t? Describe constraints you’re working with, e.g. “Can’t impact **\_**‘s workflow,” known roadblocks.
+[[Clarify the organizational/operational context of this work. You may also want to add references to the final section below.]]
 
 ## Desired Outcomes
+[[Explain the impact this project can have: Beyond the deliverables themselves, what will be different when this work is complete? What metrics are we using to measure success?]]
 
-Impact this project can have, success metrics
+## Scope & Deliverables
+[[Clarify what we are delivering: What platform? What’s in scope, and (importantly!) what isn’t? Are there constraints or potential roadblocks/challenges?]]
 
-## Timebox
-
-How long should this take to build; optional section w/ caveats for more complex projects.
+## Timeframe
+[[When will this project start, and how long do we think it will take? Include caveats for more complex or unpredictable projects.]]
 
 ## References
-
-Helpful links, e.g. other solutions, screenshots of Slack convos, customer’s original request, anything too long for the one-pager that can exist as a separate doc. Folder in Drive where project assets are stored.
+[[Compile helpful documents and links here for easy reference. Include the Drive folder where project materials are stored.]]
 
 ## Request details
 - Requested by:
 - Executive sponsor:
 - Date:
 
-<!-- + Image  (No Header) (No Header) + -->
-https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images
-The first image will be used as the project's thumbnail image on the website.
+
+<!-- Add a thumbnail image for the DTS website following these guidelines: https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images.
+If there are multiple images, the first will be used as the thumbnail. -->
 
 ---
 This Github issue represents a project of Transportation Public Work's [Data & Technology Services](https://austinmobility.io/) team. Project status is documented regularly in the comments below.
@@ -51,7 +53,4 @@ This Github issue represents a project of Transportation Public Work's [Data & T
 Don't forget to: 
 - Add a new "Project:" label here: https://github.com/cityofaustin/atd-data-tech/labels. Use the hex code #3D3D3D. 
 - Add "Workgroup:" and "Type:" labels
-
-Next steps:
-An automated script captures new "Project Index" issues and opens a project evaluation in the DTS Portal https://atd.knack.com/dts#project-evaluation
 -->
