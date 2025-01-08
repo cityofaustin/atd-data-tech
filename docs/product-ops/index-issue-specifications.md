@@ -63,13 +63,13 @@ See [#index-issue-images](index-issue-specifications.md#index-issue-images "ment
 All projects and products should have at least one image so that missing thumbnails don't disrupt the website design. We prefer these thumbnails options:
 
 * A [**map**](https://austinmobility.io/projects/638) or other [**visualization**](https://austinmobility.io/projects/9876) of the data generated in the app
-* **Photos** of the project/product's [**end users at work**](https://austinmobility.io/products/251) or the related [**hardware**](https://austinmobility.io/projects/1540)**/**[**service**](https://austinmobility.io/products/1192); the [TPW Flickr feed](https://www.flickr.com/photos/atxmobility/) is a fantastic source for these
+* **Photos** of the project/product's [**end users at work**](https://austinmobility.io/products/251) or the related [**hardware**](https://austinmobility.io/projects/1540)**/**[**service**](https://austinmobility.io/products/1192); the [TPW Flickr feed](https://www.flickr.com/photos/atxmobility/) is a fantastic source for these. We also have a [stash of nice photos](https://drive.google.com/drive/u/0/folders/1po3dUHEQxyz2XzsEHizlkhG0E05a5Owq) you can add to or use.&#x20;
 * A [**close-up screenshot** of a unique part of the UI](https://austinmobility.io/projects/4611)
-* For mobile-focused apps, we have a [template](https://docs.google.com/presentation/d/11W8P7kb8mt3FNehyG-\_UiNlv4gBn-uWT\_WZTKyJc\_kY/edit#slide=id.gf792707f70\_0\_0) to show off [**the application on different devices**](https://austinmobility.io/products/145)​
+* For mobile-focused apps, we have a [template](https://docs.google.com/presentation/d/11W8P7kb8mt3FNehyG-_UiNlv4gBn-uWT_WZTKyJc_kY/edit#slide=id.gf792707f70_0_0) to show off [**the application on different devices**](https://austinmobility.io/products/145)​
 
 Please avoid using
 
-* **Full-screen screenshots** or **large diagrams** as the _**first**_** image** - these don't render well in tiles. [Include these later on in the issue](https://github.com/cityofaustin/atd-data-tech/issues/13684) if they are helpful way to communicate the work.
+* **Full-screen screenshots** or **large diagrams** as the _**first**_**&#x20;image** - these don't render well in tiles. [Include these later on in the issue](https://github.com/cityofaustin/atd-data-tech/issues/13684) if they are helpful way to communicate the work.
 * **Vendor** logos - these doesn't give any information about the platform or use case and promote a commercial companies
 
 The image should be at least 1000px wide, with a 3:2 aspect ratio. [This tool](https://croppola.com/) makes it easy to crop/resize as needed.
