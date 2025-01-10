@@ -24,7 +24,7 @@ If the employee is using city-issued equipment, submit a New Employee Request Fo
 
 ### New Employee Request Form&#x20;
 
-* [ ] Submit a [New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\_guide\&sys\_id=b714eb12db7a3f0021ccef92ca961972) to create a CoA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write \
+* [ ] Submit a [New Employee Request Form](https://atx.servicenowservices.com/sp?id=sc_cat_item_guide\&sys_id=b714eb12db7a3f0021ccef92ca961972) to create a CoA network account, eAccess PIN/HR Portal, and phone. Under "Network Account Information," write \
   `Shared mailbox: transportation.data@austintexas.gov (needs Send-As permission);` \
   `Distribution lists: ATDDataTechnologyServices@austintexas.gov and TPWEmployees@austintexas.gov`.
 
@@ -33,7 +33,7 @@ If the employee is using city-issued equipment, submit a New Employee Request Fo
 For a full (18 page) explanation of this process, refer to [CTM's Third-Party Remote Access Request Quick Reference Guide](https://cityofaustin.sharepoint.com/sites/ServiceNowFullfillerLearningResources/Final%20Quick%20Reference%20Guides/KB0011192.pdf). In short:
 
 * [ ] Have the employee sign the [City of Austin Third-Party Remote Access Connection Acceptable Use Agreement](https://cityofaustin.sharepoint.com/sites/ServiceNowKnowledge/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FServiceNowKnowledge%2FShared%20Documents%2FKB%2DPortal%20%2D%20How%20To%20Guides%2FCity%20of%20Austin%20Third%2DParty%20Remote%20Access%20Connection%20Acceptable%20Use%20Agreement%2Epdf\&parent=%2Fsites%2FServiceNowKnowledge%2FShared%20Documents%2FKB%2DPortal%20%2D%20How%20To%20Guides\&p=true\&ga=1).&#x20;
-* [ ] Submit a [Third-Party Remote Access Request Form](https://atx.servicenowservices.com/sp?id=sc\_cat\_item\&sys\_id=30f9aa09dba4a8106d0171f2399619a2) on Service Now, including the acceptable use agreement with&#x20;
+* [ ] Submit a [Third-Party Remote Access Request Form](https://atx.servicenowservices.com/sp?id=sc_cat_item\&sys_id=30f9aa09dba4a8106d0171f2399619a2) on Service Now, including the acceptable use agreement with&#x20;
 
 ## Next Steps
 
@@ -41,6 +41,7 @@ After the network account is created and you have their @austintexas.gov email a
 
 * [ ] Ask Amenity or Diana to [add the new team member to 1Password](https://my.1password.com/people).
 * [ ] Ask Amenity or Diana to add the new team member to [City of Austin Slack](https://austininnovation.slack.com/admin).
+* [ ] Ask Diana or Karo to add the new team member to [DTS SharePoint](https://cityofaustin.sharepoint.com/sites/tpwDTS).
 * [ ] Add them to all relevant Slack channels and introduce the new team member to everyone in the main DTS channel.
 * [ ] Schedule time to give them their computer and show them around the office.
 * [ ] Add "Welcome (name)" to the [agenda for the next team meeting](https://docs.google.com/document/d/1s8rl928FM0fKPEvsgkVSmkUghPgUmEgMEhZr4bmsJWc/edit).&#x20;
@@ -58,9 +59,9 @@ After they've created their Google and Github accounts:&#x20;
 * [ ] Invite the new team member to the [City of Austin Zenhub organization](https://app.zenhub.com/settings/o/cityofaustin/users).&#x20;
 * [ ] Add the new team member to [Gitbook](https://app.gitbook.com/@atd-dts/spaces).
 
-After they notify you that they've uploaded their [headshot](https://drive.google.com/drive/folders/1y\_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G):&#x20;
+After they notify you that they've uploaded their [headshot](https://drive.google.com/drive/folders/1y_yhkZQE5uSRhLZAHJn2kFuXPBixVJ2G):&#x20;
 
-* [ ] Add them to the [DTS Orientation presentation team slide](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5\_m1Y\_0j46FP\_kdYw/edit#slide=id.gfd25a7f266\_1\_173) and the slide for the team they are joining.
+* [ ] Add them to the [DTS Orientation presentation team slide](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5_m1Y_0j46FP_kdYw/edit#slide=id.gfd25a7f266_1_173) and the slide for the team they are joining.
 
 &#x20;After they notify you that their Miro account was created:
 
