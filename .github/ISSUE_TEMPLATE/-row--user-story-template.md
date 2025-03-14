@@ -21,13 +21,13 @@ As a [system/user] I want to [intent] so that [value].
 
 
 <br><ins>**FOLDERS:**</ins> 
-*What folders does this enhancement affect/apply to?*
+*List the Folders this enhancement affect/apply to?*
 1. 
 2. 
 
 
 <br><ins>**USER ROLES:**</ins> 
-*What user roles does this enhancement affect/apply to?*
+*List the user roles this enhancement affect/apply to?*
 1. 
 2. 
 
