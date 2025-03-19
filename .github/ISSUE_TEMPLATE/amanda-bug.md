@@ -1,5 +1,5 @@
 ---
-name: "[ROW] Bug"
+name: Amanda Bug
 about: Create a new bug for ROW
 title: 'Permit Type/Folder/Feature/Bug, [Ex: Valet Annual/RW/Permit Renewal/Permit
   does not expire on the expiration date.]'
@@ -7,10 +7,6 @@ labels: ''
 assignees: ''
 
 ---
-
-<ins>**TITLE:**</ins> 
-Permit Type/Folder/Feature/Bug
-*Ex: Valet Annual/RW/Permit Renewal/Permit does not expire on the expiration date.*
 
 <br><ins>**ACTUAL BEHAVIOR:**</ins>
 *Describe what is actually happening.*
@@ -22,7 +18,7 @@ Permit Type/Folder/Feature/Bug
 3. Scroll down to '....'
 4. See error
 
-<br><ins>**ECPECTED BEHAVIOR:**</ins>
+<br><ins>**EXPECTED BEHAVIOR:**</ins>
 *Describe what is expected to happen.*
 
 <br><ins>**FOLDERS:**</ins> 
@@ -38,14 +34,3 @@ Permit Type/Folder/Feature/Bug
 
 <br><ins>**SCRENSHOTS:**</ins> 
 *Add screenshots (if any) to help explain the bug.*
-
-<br><ins>**DESKTOP:**</ins>
- - OS = [e.g. iOS]
- - Browser = [e.g. chrome, safari]
- - Version = [e.g. 22]
-
-<br><ins>**SMARTPHONE:**</ins>
- - Device = [e.g. iPhone6]
- - OS = [e.g. iOS8.1]
- - Browser = [e.g. stock browser, safari]
- - Version = [e.g. 22]
