@@ -1,6 +1,6 @@
 ---
 name: Amanda Bug
-about: Create a new bug for ROW
+about: Create a new bug for Amanda
 title: 'Permit Type/Folder/Feature/Bug, [Ex: Valet Annual/RW/Permit Renewal/Permit
   does not expire on the expiration date.]'
 labels: ''
