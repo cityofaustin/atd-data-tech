@@ -18,7 +18,6 @@
 | Fill out [Separated Employee Request Form (SERF)](https://atx.servicenowservices.com/sp?id=sc_category\&sys_id=9ab907eedb596f80c56254f9489619df\&catalog_id=e0d08b13c3330100c8b837659bba8fb4) | Supervisor must complete                      |
 | DTS email distribution list                                                                                                                                                                   | Remove after SERF is processed                |
 | [About Us page](https://github.com/cityofaustin/atd-product/blob/main/pages/about/index.js)                                                                                                   | Create Github issue for                       |
-| [DTS Team Slide](https://docs.google.com/presentation/d/1tHKTfUgQ-uAXdRBkEdXqR7ryBo_LTU86IzQxo1gJoeA/edit#slide=id.gc64f254bde_0_91)                                                          |                                               |
 | [DTS Orientation Slides](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5_m1Y_0j46FP_kdYw/edit#slide=id.gfd25a7f266_1_382)                                                 |                                               |
 | [DTS Knowledge Base triage information](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/s/-M4LYhVrPWLmbRD1Xv0p/)                                                                               |                                               |
 
