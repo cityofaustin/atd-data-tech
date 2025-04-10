@@ -17,7 +17,7 @@ As a [system/user] I want to [intent] so that [value].
 - [ ] Configuration
 
 
-<br><ins>**FOLDERS:**</ins> 
+<br><ins>**FOLDERS/SUBTYPES:**</ins> 
 *List the Folders this enhancement affects/applies to?*
 1. 
 2. 

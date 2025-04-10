@@ -9,7 +9,7 @@ assignees: ''
 ---
 
 <br><ins>**ACTUAL BEHAVIOR:**</ins>
-*Describe what is actually happening and add supporting screenshots.*
+*Describe what is actually happening.*
 
 <br><ins>**REPRO STEPS:**</ins>
 *Steps to reproduce the bug.*
@@ -19,9 +19,9 @@ assignees: ''
 4. See error
 
 <br><ins>**EXPECTED BEHAVIOR:**</ins>
-*Describe what is expected to happen and add supporting screenshots.*
+*Describe what is expected to happen.*
 
-<br><ins>**FOLDERS/SUBTYPES:**</ins> 
+<br><ins>**FOLDERS:**</ins> 
 *List the Folders does this bug affect/apply to.*
 1. 
 2. 
@@ -30,4 +30,7 @@ assignees: ''
 <br><ins>**USER ROLES:**</ins> 
 *List the user roles this bug affect/apply to.*
 1. 
-2.
+2. 
+
+<br><ins>**SCRENSHOTS:**</ins> 
+*Add screenshots (if any) to help explain the bug.*
