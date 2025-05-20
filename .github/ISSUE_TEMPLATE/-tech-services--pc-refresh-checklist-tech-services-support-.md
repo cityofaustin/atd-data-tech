@@ -2,14 +2,15 @@
 name: "[Tech Services] PC Refresh Checklist Tech Services Support "
 about: This template is to help the Tech Services team with TPW PC refreshes
 title: "[Tech Services] TPW PC Refresh Checklist - [FIRST NAME, LAST INITIAL] -Device
-  Serial Number- "
-labels: 'Service: Tech Services, Type: Operations, Workgroup: DTS'
+  Serial Number- Replacement Date:"
+labels: 'Service: Tech Services, Type: Operations'
 assignees: ''
 
 ---
 
 --Serial number--
 --COA tag--
+User Name <!--Last name-->
 
 ## Steps
 - [ ] Talking to user about backing up their computers
