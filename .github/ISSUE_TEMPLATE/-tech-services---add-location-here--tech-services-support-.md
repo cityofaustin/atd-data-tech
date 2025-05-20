@@ -2,7 +2,8 @@
 name: "[Tech Services] (Add Location here) Tech Services Support "
 about: Describe this issue template's purpose here.
 title: 'IT Support: [Fill in the action]'
-labels: 'Service: Tech Services, Type: IT Support'
+labels: 'Service: Tech Services, Type: Hardware Support, Type: IT Support, Type: Mobile
+  Device Support (MDM), [Workgroup] :rotating_light: MISSING'
 assignees: ''
 
 ---
