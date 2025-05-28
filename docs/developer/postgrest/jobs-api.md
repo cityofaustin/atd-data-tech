@@ -10,25 +10,25 @@ The typical ETL workflow using the Job API is:
 
 ## Querying the API
 
-The test instance is available at [http://transportation-data-test.austintexas.io/jobs](http://transportation-data-test.austintexas.io/jobs), and it can be queried using any PostGREST route, as described in the [PostgREST documentation](http://postgrest.org/en/v5.0/api.html).
+The postgREST-provided jobs API is available at [https://atd-postgrest.austinmobility.io/legacy-scripts/jobs](https://atd-postgrest.austinmobility.io/legacy-scripts/jobs), and it can be queried using, as described in the [PostgREST documentation](http://postgrest.org/en/v5.0/api.html). VPN access is required.  You can also query the `api.jobs` table directly from our Postgres read replica.
 
 ## Field Definitions:
 
-| Fieldname | Field Type | Description |
-| :--- | :--- | :--- |
-| `id` | SERIAL PRIMARY KEY | System-generated incremental ID |
-| `name` | TEXT NOT NULL | Name descriptor of the job which uniquely identifies the ETL job |
-| `start_date` | TIMESTAMP WITH TIME ZONE NOT NULL | The job's start datetime |
-| `end_date` | TIMESTAMP WITH TIME ZONE | The job's end datetime |
-| `message` | TEXT | Optional message |
-| `status` | TEXT NOT NULL | The status of the ETL job. Use 'in\_progress', 'success', or 'error' |
-| `records_processed` | INTEGER | The number of records processed by the job. |
-| `source` | TEXT NOT NULL | The name source database of the ETL job. |
-| `destination` | TEXT NOT NULL | The name of the destination database of the ETL job |
+| Fieldname           | Field Type                        | Description                                                          |
+| ------------------- | --------------------------------- | -------------------------------------------------------------------- |
+| `id`                | SERIAL PRIMARY KEY                | System-generated incremental ID                                      |
+| `name`              | TEXT NOT NULL                     | Name descriptor of the job which uniquely identifies the ETL job     |
+| `start_date`        | TIMESTAMP WITH TIME ZONE NOT NULL | The job's start datetime                                             |
+| `end_date`          | TIMESTAMP WITH TIME ZONE          | The job's end datetime                                               |
+| `message`           | TEXT                              | Optional message                                                     |
+| `status`            | TEXT NOT NULL                     | The status of the ETL job. Use 'in\_progress', 'success', or 'error' |
+| `records_processed` | INTEGER                           | The number of records processed by the job.                          |
+| `source`            | TEXT NOT NULL                     | The name source database of the ETL job.                             |
+| `destination`       | TEXT NOT NULL                     | The name of the destination database of the ETL job                  |
 
 ## Python Example
 
-We've written a Python utility to interact with the jobs interface. It's included in our [transportation-data-utils \(tdutils\)](http://github.com/cityofaustin/transportation-data-utils) pacakge. `tdutils` requires Python 3 and can be installed with `$ pip install tdutils`.
+We've written a Python utility to interact with the jobs interface. It's included in our [transportation-data-utils (tdutils)](http://github.com/cityofaustin/transportation-data-utils) pacakge. `tdutils` requires Python 3 and can be installed with `$ pip install tdutils`.
 
 Begin by importing the `jobutil` library and creating a new job instance:
 
@@ -108,4 +108,3 @@ try:
 except psycopg2.DatabaseError as e:
     job.result('error', records_processed=0, message='A database error occured.')
 ```
-
