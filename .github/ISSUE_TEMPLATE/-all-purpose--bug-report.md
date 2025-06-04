@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: "[BUG]"
 labels: 'Product: Moped, Service: Tech Services, Type: Bug Report, Type: Operations,
   Workgroup: DTS, Workgroup: TPW'
-assignees: amenity
+assignees: amenity, Matthew-M-TPW
 
 ---
 
