@@ -1,5 +1,5 @@
 ---
-name: Update to Windows 11
+name: "[Tech Services] Update to Windows 11"
 about: Templete for Updating machines to Windows 11
 title: Update [Machine name] to Windows 11
 labels: 'Service: Tech Services, Workgroup: DTS'
