@@ -1,5 +1,5 @@
 ---
-name: Check TPW Seperated accounts
+name: "[Tech Services] Check TPW Seperated accounts"
 about: This templete is for Tech Services to check is Seperated employees accounts
   are disabled
 title: "[Tech Services]Check for SERF and disable Seperated account users account"
