@@ -6,6 +6,10 @@ description: >-
 
 # Working Remotely from a Mac
 
+{% hint style="danger" %}
+## This documentation has not been updated since CTM updated their Mac policies and procedures.&#x20;
+{% endhint %}
+
 ## Antivirus Software
 
 Per the [City of Austin Anti-Virus Policy](https://cityofaustin.sharepoint.com/sites/COATeleworkInstructions/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCOATeleworkInstructions%2FShared%20Documents%2FCOA%20Anti%20Virus%20Policy%2Epdf\&parent=%2Fsites%2FCOATeleworkInstructions%2FShared%20Documents\&p=true\&originalPath=aHR0cHM6Ly9jaXR5b2ZhdXN0aW4uc2hhcmVwb2ludC5jb20vOmI6L3MvQ09BVGVsZXdvcmtJbnN0cnVjdGlvbnMvRWMxelktZ2JZcDFFbWFVQzNXeWhSQWdCOWwzZ2R4M2ZGaHhFTVhlajlJWG1oUT9ydGltZT1McElKQXFUUjEwZw), all City-owned computers must have up-to-date virus protection installed and active.&#x20;
@@ -18,7 +22,7 @@ You need to be on the City of Austin's internal network to access resources such
 
 ### Installing AnyConnect
 
-1\. Download the installer [here](https://drive.google.com/drive/u/0/folders/114rRG9OvTCWTXYqVg-AHaZgnrv\_PCvEE).
+1\. Download the installer [here](https://drive.google.com/drive/u/0/folders/114rRG9OvTCWTXYqVg-AHaZgnrv_PCvEE).
 
 2\. Double-click the downloaded file to open the disk image, then double-click on **AnyConnect.pkg**.&#x20;
 
