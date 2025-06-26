@@ -47,3 +47,4 @@ Review Equipment Checkout form submitted
 2. Give stakeholders status report of all ongoing projects
 3. Gather list of outstanding tasks&#x20;
 4. Know where important files, documents, resources are located
+5. Inform Diana and Karo to update the Service Desk documentation and calendar.
