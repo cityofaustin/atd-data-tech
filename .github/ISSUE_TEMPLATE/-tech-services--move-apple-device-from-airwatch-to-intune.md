@@ -1,7 +1,7 @@
 ---
 name: "[Tech Services] Move Apple Device from AirWatch to Intune"
 about: This templete is for all the ipads that TPW needs to move to intune
-title: ''
+title: "[Tech Services] Move Apple Device from AirWatch to Intune <Device Name>"
 labels: 'Type: Operations, [Workgroup] :rotating_light: MISSING'
 assignees: Matthew-M-TPW
 
