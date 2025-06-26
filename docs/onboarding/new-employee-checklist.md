@@ -1,4 +1,4 @@
-# Team Lead Checklist for New Employees
+# Team Lead Checklist for New DTS Team Members
 
 {% hint style="info" %}
 Team leads are responsible for tracking new team members' onboarding in Github:&#x20;
@@ -51,6 +51,7 @@ After the network account is created and you have their @austintexas.gov email a
 * [ ] Forward biweekly Sprint calendar events.
 * [ ] Invite new team member to relevant agile ceremonies — Planning, Backlog Refinement, Retro.
 * [ ] Invite new team member to other regular meetings — DTS Team Meetings, Syncs, Show & Tell.
+* [ ] Ask Diana or Karo to schedule Service Desk training.
 
 After they've created their Google and Github accounts:&#x20;
 
