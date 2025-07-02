@@ -13,4 +13,4 @@ Unenroll the Device from airwatch you might need to send a ticket to CTM PCLM UE
 
 Username:
 Device Serial Number:
-Department
+Department:
