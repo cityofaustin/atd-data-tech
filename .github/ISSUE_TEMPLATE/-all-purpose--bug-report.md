@@ -2,7 +2,8 @@
 name: "[All-Purpose] Bug Report"
 about: Create a report to help us improve
 title: "[BUG]"
-labels: 'Type: Bug Report'
+labels: 'Product: Maximo, Service: Maximo, Type: Bug Report, Type: Training, Workgroup:
+  DTS'
 assignees: ''
 
 ---
