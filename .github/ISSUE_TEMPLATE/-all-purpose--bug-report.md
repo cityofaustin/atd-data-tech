@@ -5,7 +5,6 @@ title: "[BUG]"
 labels: 'Product: Maximo, Service: Maximo, Type: Bug Report, Type: Training, Workgroup:
   DTS'
 assignees: ''
-type: Bug
 
 ---
 
