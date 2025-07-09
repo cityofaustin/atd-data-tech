@@ -12,9 +12,11 @@ Username:
 Device Serial Number:
 Profile:
 
-Move the Device from Airwatch to Intune.
-Unenroll the Device from airwatch you might need to send a ticket to CTM PCLM UEM
-Log into Airwatch and look the device up (it might be under TPW, ATD, PWD, CIO)
-Under more actions tab select "Enterprise Wipe" ensure that the "Prevent reenrollment" is checked
-The city apps should disappear
-reset the device
+Steps to move the Device from Airwatch to Intune:
+1. Send a ticket to CTM to have Device created in Intune include Serial number and Profile
+2. unenroll the Device from airwatch . Log into Airwatch and look the device up (it might be under TPW, ATD, PWD, CIO)
+3. Under more actions tab select "Enterprise Wipe" ensure that the "Prevent reenrollment" is checked (The city apps should disappear)
+4.  reset the device
+ A,. Place one of the ipads used to mirror the client ipad next to the client ipad
+ B. Follow the prompts t if it asks you to log in again the device is still in Airwatch
+ C. One the device is set up have the user log into company portal. 
