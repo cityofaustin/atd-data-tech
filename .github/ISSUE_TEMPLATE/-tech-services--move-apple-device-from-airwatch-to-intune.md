@@ -11,6 +11,9 @@ assignees: Matthew-M-TPW
 Username:
 Device Serial Number:
 Profile:
+Location: <!-- KRAMER, CAMERON - 8700/8900, PDC, TOWNVIEW, RIO, OTC, TOOMEY, BOP, ST. ELMO, DALTON, BEN WHITE -->
+
+-------------------Before doing anything ensure that both the device and case are labeled----------------------
 
 Steps to move the Device from Airwatch to Intune:
 1. Send a ticket to CTM to have Device created in Intune include Serial number and Profile
