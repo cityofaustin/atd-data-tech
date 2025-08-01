@@ -13,7 +13,7 @@ assignees: ''
 --First Name, Last intial<!--LastName-->
 
 ## Steps
-- [ ] Talking to user about backing up their computers. Send message "your computer is on this years PC refresh. When would be a goo time to have it swapped out? Do you have any special software?"
+- [ ] Talking to user about backing up their computers. Send message "your computer is on this years PC refresh. When would be a good time to have it swapped out? Do you have any special software?"
 - [ ] Recommend user to export all bookmarks and store on OneDrive>Documents folder
 - [ ] Recommend user to screen shot their ex, Quick Access favorites folder, desktop files layouts, pinned applications on desktop 
 - [ ] Store other OneDrive>Documents folder
