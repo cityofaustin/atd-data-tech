@@ -10,6 +10,7 @@ assignees: ''
 
 --Serial number--
 --COA tag--
+--First Name, Last intial<!--LastName-->
 
 ## Steps
 - [ ] Talking to user about backing up their computers
