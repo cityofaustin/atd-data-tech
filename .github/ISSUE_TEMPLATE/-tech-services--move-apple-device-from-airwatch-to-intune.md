@@ -23,4 +23,4 @@ Steps to move the Device from Airwatch to Intune:
 4.  reset the device
  A,. Place one of the ipads used to mirror the client ipad next to the client ipad
  B. Follow the prompts t if it asks you to log in again the device is still in Airwatch
- C. One the device is set up have the user log into company portal. 
+ C. One the device is set up have the user log into company portal.
