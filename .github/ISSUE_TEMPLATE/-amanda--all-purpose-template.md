@@ -10,18 +10,15 @@ assignees: ''
 # User story/overview: We are updating the [XYZ], so users can [123] 
 
 ## Acceptance Criteria  
-
-ABC 
-
-DEFG 
+- ABC 
 
 ## Change Management 
-
+- On [mm/dd/yy] we [did something]
  
 
 ## Tasks 
 
-- [ ]  
+- [ ]  I am a task
 
  
 
