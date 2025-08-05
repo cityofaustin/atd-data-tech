@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-# User story/overview: We are updating the [XYZ], so users can [123] 
+## User story/overview: We are updating the [XYZ], so users can [123] 
 
 ## Acceptance Criteria  
-- ABC 
+- Should include details like folder type, preconditions, validations, post-events, codes and descriptions, error messages
 
 ## Change Management 
 - On [mm/dd/yy] we [did something]
@@ -21,7 +21,7 @@ assignees: ''
 - [ ]  I am a task
 
  
-
+---
 ### DTS SR Submittal 
 
 _Only use this if the issue was submitted via the DTS Service Request form._
