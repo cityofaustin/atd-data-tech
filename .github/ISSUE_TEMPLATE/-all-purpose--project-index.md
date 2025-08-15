@@ -35,7 +35,12 @@ Instructions:
 [[When will this project start, and how long do we think it will take? Include caveats for more complex or unpredictable projects.]]
 
 ## References
-[[Compile helpful documents and links here for easy reference. Include the Drive folder where project materials are stored.]]
+[[Compile helpful documents and links here for easy reference. 
+- Drive folder where project materials are stored.
+- Login page to related applications
+- Miro board 
+- Zenhub Filter or Board
+]]
 
 ## Request details
 - Requested by:
