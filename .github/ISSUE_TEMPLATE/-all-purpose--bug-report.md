@@ -3,9 +3,7 @@ name: "[All-Purpose] Bug Report"
 about: Create a report to help us improve
 title: "[BUG]"
 labels: 'Type: Bug Report'
-assignees: ''
 type: Bug
-
 ---
 
 **Describe the bug**
