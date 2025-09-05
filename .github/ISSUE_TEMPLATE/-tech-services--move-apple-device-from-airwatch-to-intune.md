@@ -1,7 +1,7 @@
 ---
 name: "[Tech Services] Move Apple Device from AirWatch to Intune"
 about: This templete is for all the ipads that TPW needs to move to intune
-title: "[Tech Services] Move Apple Device from AirWatch to Intune -Device Name- <Division> "
+title: "[Tech Services] Move Apple Device from AirWatch to Intune -Device Name- -Division- "
 labels: 'Service: Tech Services, Type: Mobile Device Support (MDM), Type: Operations,
   [Workgroup] :rotating_light: MISSING'
 assignees: Matthew-M-TPW
@@ -11,7 +11,7 @@ assignees: Matthew-M-TPW
 Username:
 Device Serial Number:
 Profile:
-Location: <!-- KRAMER, CAMERON - 8700/8900, PDC, TOWNVIEW, RIO, OTC, TOOMEY, BOP, ST. ELMO, DALTON, BEN WHITE -->
+Location: KRAMER, CAMERON - 8700/8900, PDC, TOWNVIEW, RIO, OTC, TOOMEY, BOP, ST. ELMO, DALTON, BEN WHITE
 
 -------------------Before doing anything ensure that both the device and case are labeled----------------------
 Send message
