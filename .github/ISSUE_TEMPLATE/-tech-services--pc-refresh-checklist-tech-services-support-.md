@@ -1,16 +1,16 @@
 ---
 name: "[Tech Services] PC Refresh Checklist Tech Services Support "
 about: This template is to help the Tech Services team with TPW PC refreshes
-title: "[Tech Services] TPW PC Refresh 2025 Checklist - [FIRST NAME, LAST INITIAL]
-  -Device Serial Number- "
+title: "[Tech Services] TPW PC Refresh 2025 Checklist - [FIRSTNAME, LASTINITIAL]
+  -DeviceSerialNumber- "
 labels: 'Service: Tech Services, Type: Operations, [Workgroup] :rotating_light: MISSING'
 assignees: ''
 
 ---
 
---Serial number--
---COA tag--
---First Name, Last intial<!--LastName-->
+--Serialnumber--
+--COAtag--
+--FirstName, Lastintial<!--LastName-->
 
 ## Steps
 - [ ] Talking to user about backing up their computers. Send message "your computer is on this years PC refresh. When would be a good time to have it swapped out? Do you have any special software?"
