@@ -16,13 +16,13 @@ Per the [City of Austin Anti-Virus Policy](https://cityofaustin.sharepoint.com/s
 
 The TrendMicro website has Mac installers and installation instructions [here](https://esupport.trendmicro.com/en-us/home/pages/technical-support/antivirus-for-mac/1060983.aspx). You will need the serial number in CTM's [_Anti-Virus for Non-COA Computers_](https://cityofaustin.sharepoint.com/sites/COATeleworkInstructions/Shared%20Documents/Anti-Virus%20for%20Non%20COA%20Computers.pdf) doc.
 
-## Network Access with AnyConnect
+## Network Access with Cisco Secure Client VPN (formerly Anyconnect)
 
-You need to be on the City of Austin's internal network to access resources such as shared network drives, the HR Portal, and enterprise web applications like eCombs and eCapris. You can use Cisco AnyConnect to connect to the City's Virtual Private Network (VPN) when working remotely. &#x20;
+You need to be on the City of Austin's internal network to access resources such as shared network drives, the HR Portal, and enterprise web applications like eCombs and eCapris. You can use Cisco Secure Client (formerly AnyConnect) to connect to the City's Virtual Private Network (VPN) when working remotely. &#x20;
 
 ### Installing AnyConnect
 
-1\. Download the installer [here](https://drive.google.com/drive/u/0/folders/114rRG9OvTCWTXYqVg-AHaZgnrv_PCvEE).
+1\. Download the installer by visiting [ https://coa-vpngw.austintexas.gov/connectsso](https://coa-vpngw.austintexas.gov/connectsso).
 
 2\. Double-click the downloaded file to open the disk image, then double-click on **AnyConnect.pkg**.&#x20;
 
@@ -34,13 +34,11 @@ You need to be on the City of Austin's internal network to access resources such
 
 5\. Once told the installation has been completed successfully, click "Move to Trash" to delete the installer.&#x20;
 
-6\. You should now see a **Cisco** folder in your **Applications** folder. Double-click on the **Cisco AnyConnect Secure Mobility Client** to open the application.&#x20;
+6\. You should now see a **Cisco** folder in your **Applications** folder. Double-click on the **Cisco Secure Client** to open the application.&#x20;
 
-{% hint style="info" %}
-If you are running OSX Catalina, you may need to [take another step](broken-reference) to complete the configuration.&#x20;
-{% endhint %}
 
-### Using AnyConnect
+
+### Using Secure Client
 
 1\. Open the application. In the empty field below "Ready to Connect," enter the IP address of the City's VPN server.&#x20;
 
@@ -50,25 +48,11 @@ The IP address is sensitive information. Get it directly from your supervisor or
 
 2\. Click the "Connect" button.&#x20;
 
-![](../../.gitbook/assets/2.png)
-
 2\. A warning will appear. Do _**not**_ check the "Always trust..." option and click "Connect Anyway."&#x20;
 
-![](../../.gitbook/assets/3.webp)
 
-3\. A window asking for your username and password will appear. Use your City of Austin email address and Network password to log in.&#x20;
 
-![](<../../.gitbook/assets/4 (1).png>)
-
-4\. The same window may reappear, just for fun. 🙃 Again, click "Connect Anyway" and leave the "Always trust..." option unchecked.&#x20;
-
-At this point, there may be a bit of a hang while the connection is made. Once the green checkbox appears, you are connected and ready to access network resources.&#x20;
-
-![](../../.gitbook/assets/AnyConnect-Connected.png)
-
-{% hint style="info" %}
-Streaming video or audio while connected to the City network will negatively impact the speed with which other employees can access shared drives, SharePoint, and the City’s intranet.&#x20;
-{% endhint %}
+3. A new browser window/tab will open and you will be prompted to login to the City of Austin SSO portal. Once complete, the browser window will close and your VP
 
 ### Uninstalling AnyConnect
 
