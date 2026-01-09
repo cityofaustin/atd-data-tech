@@ -1,0 +1,285 @@
+name: Project Index
+description: High-level project summary for prioritization and communications
+title: "[Project]: "
+labels: ["Project Index"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## PROJECT-AT-A-GLANCE
+        
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Brief overview of what this project will accomplish
+      placeholder: This project will address...
+    validations:
+      required: true
+      
+  - type: input
+    id: program-area
+    attributes:
+      label: Program Area
+      placeholder: e.g., Data & Technology Services
+    validations:
+      required: true
+      
+  - type: input
+    id: division
+    attributes:
+      label: Division
+      placeholder: e.g., Austin Transportation and Public Works
+    validations:
+      required: true
+      
+  - type: input
+    id: requestor
+    attributes:
+      label: Requestor
+      placeholder: Name of person requesting this project
+    validations:
+      required: true
+      
+  - type: input
+    id: executive-sponsor
+    attributes:
+      label: Executive Sponsor
+      placeholder: Name of executive sponsor
+    validations:
+      required: false
+      
+  - type: input
+    id: division-sponsor
+    attributes:
+      label: Division Sponsor
+      placeholder: Name of division sponsor
+    validations:
+      required: false
+      
+  - type: input
+    id: business-sponsor
+    attributes:
+      label: Business Sponsor
+      placeholder: Name of business sponsor
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## PROJECT OBJECTIVES
+        
+  - type: textarea
+    id: objectives
+    attributes:
+      label: Objectives
+      description: List the key objectives for this project (one per line with bullet points)
+      placeholder: |
+        - Objective 1
+        - Objective 2
+        - Objective 3
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## PROJECT DETAILS
+        
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies
+      description: External dependencies, teams, or resources needed
+      placeholder: List any dependencies...
+    validations:
+      required: false
+      
+  - type: textarea
+    id: complexities
+    attributes:
+      label: Complexities
+      description: Technical or organizational complexities to be aware of
+      placeholder: Describe any complexities...
+    validations:
+      required: false
+      
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks
+      description: Potential risks that could impact timeline or success
+      placeholder: Identify potential risks...
+    validations:
+      required: false
+      
+  - type: textarea
+    id: mitigation
+    attributes:
+      label: Mitigation
+      description: Strategies to address identified risks
+      placeholder: Mitigation strategies...
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## PROJECT SCOPE
+        
+  - type: textarea
+    id: in-scope
+    attributes:
+      label: In-Scope
+      description: What is included in this project (one item per line with bullet points)
+      placeholder: |
+        - Item 1
+        - Item 2
+    validations:
+      required: true
+      
+  - type: textarea
+    id: out-of-scope
+    attributes:
+      label: Out-of-Scope
+      description: What is explicitly not included (one item per line with bullet points)
+      placeholder: |
+        - Item 1
+        - Item 2
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## PROJECT RANKING
+        
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: How urgent is this project?
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: value
+    attributes:
+      label: Value
+      description: What is the business value?
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: complexity
+    attributes:
+      label: Complexity
+      description: How complex is the implementation?
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: risk
+    attributes:
+      label: Risk
+      description: What is the overall risk level?
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+      
+  - type: input
+    id: funding
+    attributes:
+      label: Funding
+      description: Funding source(s)
+      placeholder: e.g., General Fund, Grant, External Partner
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## STRATEGIC ALIGNMENT
+        
+  - type: checkboxes
+    id: strategic-alignment
+    attributes:
+      label: Which strategic areas does this project align with?
+      description: Select all that apply
+      options:
+        - label: People and Culture
+        - label: Innovative Technology
+        - label: Service Delivery
+        - label: Cybersecurity
+        - label: Governance & Accountability
+
+  - type: markdown
+    attributes:
+      value: |
+        ## MILESTONES
+        
+  - type: input
+    id: start-date
+    attributes:
+      label: Start Date
+      description: When will this project start?
+      placeholder: TBD or YYYY-MM-DD
+    validations:
+      required: false
+      
+  - type: input
+    id: initiating-planning
+    attributes:
+      label: Initiating & Planning Duration
+      placeholder: e.g., 1 week
+    validations:
+      required: false
+      
+  - type: input
+    id: development-reworks
+    attributes:
+      label: Development & Reworks Duration
+      placeholder: e.g., 3 weeks
+    validations:
+      required: false
+      
+  - type: input
+    id: user-training-testing
+    attributes:
+      label: User Training & Testing Duration
+      placeholder: e.g., 1 week
+    validations:
+      required: false
+      
+  - type: input
+    id: go-live-support
+    attributes:
+      label: Go-Live & Support Duration
+      placeholder: e.g., 1 week
+    validations:
+      required: false
+      
+  - type: input
+    id: estimated-length
+    attributes:
+      label: Estimated Project Length
+      description: Total estimated duration
+      placeholder: e.g., 6 weeks
+    validations:
+      required: false
