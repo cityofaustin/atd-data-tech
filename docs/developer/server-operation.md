@@ -6,13 +6,9 @@
 
 It's very important that the job server keeps from timing out.
 
-### [knack-proxy](https://github.com/cityofaustin/knack-proxy) is a flask app.
+### [knack-proxy](https://github.com/cityofaustin/knack-proxy) was a flask app, but has been taken down.
 
-This app takes 311 service requests from CTM ESB \(Enterprise Service Bus\). It acts as proxy for the Knack API since certificates don't work with ESB 🤷‍♂.
-
-⚠️ If it goes down it will break the 311 integration with the data tracker which our TMC \(Traffic Management Center\) relies on. The flask app has never had issues \(_knocks on wood_\) but sometimes the ESB to proxy integration goes down. CTM handles the reboot. In this case, the TMC will say that they aren't getting updated Service Requests in data tracker. Omar at CTM is the person to talk to if ESB is having errors.
-
-Data path: 311 SRs \(Motorola\) -&gt; Enterprise Service Bus \(CTM\) -&gt; knack-proxy \(ATD\) -&gt; Knack \(ATD instance\)
+Its functionality was no longer needed after Boomi replaced the Enterprise Service Bus (ESB). Boomi is able to communicate directly with Knack. The change-over occurred in January, 2026.
 
 ### [cctv-service](https://github.com/cityofaustin/atd-cctv-service/) is a sanic app.
 
@@ -28,43 +24,39 @@ If atd-data01 crashes, it would just need to be restarted. Insert bash command `
 
 ### Allocate Disk Space
 
-1. List volumes and usage:
+1.  List volumes and usage:
 
-   ```bash
-   $ df -h
-   ```
+    ```bash
+    $ df -h
+    ```
+2.  Check the free available space in the Volume group
 
-2. Check the free available space in the Volume group
+    ```bash
+    $ vgdisplay /dev/mapper/root_vg
+    ```
+3.  Extend the volume (here, adding 8GB)
 
-   ```bash
-   $ vgdisplay /dev/mapper/root_vg
-   ```
+    ```bash
+    $ lvextend -L +8G /dev/mapper/root_vg-var_lv
+    ```
+4.  Expand the volume:
 
-3. Extend the volume \(here, adding 8GB\)
-
-   ```bash
-   $ lvextend -L +8G /dev/mapper/root_vg-var_lv
-   ```
-
-4. Expand the volume:
-
-   ```bash
-   $ sudo xfs_growfs /dev/mapper/root_vg-var_lv
-   ```
-
+    ```bash
+    $ sudo xfs_growfs /dev/mapper/root_vg-var_lv
+    ```
 5. All done.
 
 ### Miscellaneous:
 
 run all shell scripts inside a folder
 
-```text
+```
 for shfile in *.sh; do sudo bash ./$shfile; done
 ```
 
 scp transfer files from local to remote directory:
 
-```text
+```
 scp /Users/ZWL/Documents/GitHub/transportation-data-publishing/transportation-data-publishing/config/secrets.py liangz@atdatmsscript:transportation-data-publishing/transportation-data-publishing/config/
 ```
 
@@ -72,7 +64,6 @@ scp /Users/ZWL/Documents/GitHub/transportation-data-publishing/transportation-da
 
 connect to instance
 
-```text
+```
 ssh -i "<rse_key_filename>"  ec2-user@<server_ip>
 ```
-
