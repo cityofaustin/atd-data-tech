@@ -1,0 +1,52 @@
+name: "Bug report"
+description: "Use this form to report reproducible bugs in apps or processes. Provide steps, expected/actual behavior, and severity so we can triage quickly."
+title: "Bug: {short_summary}"
+labels:
+  - "bug"
+body:
+  - type: input
+    id: short_summary
+    attributes:
+      label: "Short summary"
+      description: "One-line summary of the bug"
+      placeholder: "e.g. Save button fails when clicking after editing settings"
+      required: true
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: "Steps to reproduce"
+      description: "Step-by-step instructions to reproduce the issue"
+      placeholder: "1. Go to...\n2. Click...\n3. Observe..."
+      required: true
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: "Expected behavior"
+      description: "What you expected to happen"
+      required: true
+  - type: textarea
+    id: actual_behavior
+    attributes:
+      label: "Actual behavior"
+      description: "What actually happened"
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: "Severity"
+      description: "How urgent / impactful is this?"
+      options:
+        - "Low"
+        - "Medium"
+        - "High"
+        - "Critical"
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: "Additional context"
+      description: "Any logs, error messages, or links to screenshots"
+  - type: users
+    id: suggested_assignees
+    attributes:
+      label: "Suggested assignees (optional)"
+      description: "User(s) who should be assigned to triage"
