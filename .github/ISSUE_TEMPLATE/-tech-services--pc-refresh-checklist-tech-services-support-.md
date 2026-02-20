@@ -1,8 +1,8 @@
 ---
 name: "[Tech Services] PC Refresh Checklist Tech Services Support "
 about: This template is to help the Tech Services team with TPW PC refreshes
-title: "[Tech Services] TPW PC Refresh 2025 Checklist - [FIRSTNAME, LASTINITIAL]
-  -DeviceSerialNumber- -DeviceType-"
+title: "[Tech Services] TPW PC Refresh 2025 Checklist - [FIRSTNAME, LASTINITIAL] -DeviceSerialNumber-
+  -DeviceType-"
 labels: 'Service: Tech Services, Type: Operations, [Workgroup] :rotating_light: MISSING'
 assignees: ''
 
