@@ -2,7 +2,7 @@
 name: "[All-Purpose] Service Index"
 about: Essential information for DTS services
 title: 'Service: [Service Name in Title Case]'
-labels: '[Service]:rotating-light: MISSING, Service Index, [Team] :rotating-light: MISSING'
+labels: '[Service] :rotating-light: MISSING, Service Index, [Team] :rotating-light: MISSING'
 assignees: ''
 type: Service
 
