@@ -1,0 +1,103 @@
+name: "[All-Purpose] Service Index"
+description: Essential information for DTS services
+title: "Service: [Service Name in Title Case]"
+labels: ["[Service] :rotating_light: MISSING", "Service Index", "[Team] :rotating_light: MISSING"]
+type: issue
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Service Description
+        
+        Write a concise, jargon + acronym-free 1-2 sentences. This text appears on the "Services" page, so should be easy for any visitor, from a Council member to a prospective DTS intern, to understand.
+        
+        You may follow one of these loose formulas:
+        - This [service] [adds value] for [customer].
+        - This [platform] does [what] so [who] can [why].
+
+  - type: textarea
+    id: service_description
+    attributes:
+      label: Service Description
+      description: "Concise, jargon + acronym-free description (1-2 sentences)"
+      placeholder: "e.g., This service provides real-time traffic data so city planners can optimize transportation management."
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## How to Request This Service
+        
+        [Submit a DTS Service Request](https://atd.knack.com/dts#new-service-request/)
+
+  - type: markdown
+    attributes:
+      value: |
+        ## DTS Support
+
+  - type: textarea
+    id: documentation_link
+    attributes:
+      label: Documentation Link
+      description: "Link to documentation"
+      placeholder: "https://..."
+
+  - type: textarea
+    id: support_contact
+    attributes:
+      label: Support Contact
+      description: "Reach out to [power user first name + last name initial] to request an account, ask questions, or propose an enhancement"
+      placeholder: "Name and role of primary contact"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        To report a bug or obtain additional support, [submit a DTS Service Request](https://atd.knack.com/dts#new-service-request/).
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Technology Stack
+
+  - type: textarea
+    id: technology_description
+    attributes:
+      label: Technology Stack
+      description: "Brief description of the technology that powers the application (e.g., front-end framework, database technology, cloud services vendor). If SaaS, mention the vendor. If this product has a GitHub repository, link to it here."
+      placeholder: |
+        e.g., Built with React frontend, Node.js backend, PostgreSQL database, hosted on AWS.
+        
+        Repository: https://github.com/...
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Service Image/Thumbnail
+        
+        Add an image that represents this service. The first image will be used as the service's thumbnail on the website.
+        
+        See [Index Issue Specifications](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images) for instructions.
+
+  - type: textarea
+    id: image_url
+    attributes:
+      label: Image/Screenshot
+      description: "Paste the image URL or markdown code here"
+      placeholder: |
+        <img width="1382" height="921" alt="Image" src="https://..." />
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        ℹ️ **Remember to add a new "Service:" label to the repository**: https://github.com/cityofaustin/atd-data-tech/labels (Use hex code #3D3D3D)
+        
+        ---
+        
+        This Github issue represents a service provided by Austin Transportation and Public Works' [Data & Technology Services](https://austinmobility.io/) team.
