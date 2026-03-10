@@ -18,18 +18,21 @@ body:
       label: "Steps to reproduce"
       description: "Step-by-step instructions to reproduce the issue"
       placeholder: "1. Go to...\n2. Click...\n3. Observe..."
+    validations:
       required: true
   - type: textarea
     id: expected_behavior
     attributes:
       label: "Expected behavior"
       description: "What you expected to happen"
+    validations:
       required: true
   - type: textarea
     id: actual_behavior
     attributes:
       label: "Actual behavior"
       description: "What actually happened"
+    validations:
       required: true
   - type: dropdown
     id: severity
