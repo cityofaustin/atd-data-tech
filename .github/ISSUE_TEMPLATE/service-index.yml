@@ -2,7 +2,7 @@ name: "Form: Service Index"
 description: Essential information for DTS services
 title: "Service: [Service Name in Title Case]"
 labels: ["[Service] :rotating_light: MISSING", "Service Index", "[Team] :rotating_light: MISSING"]
-type: issue
+type: Service
 body:
   - type: markdown
     attributes:
