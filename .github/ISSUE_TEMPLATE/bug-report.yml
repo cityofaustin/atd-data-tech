@@ -1,8 +1,9 @@
-name: "Bug report"
+name: "Form: Bug Report"
 description: "Use this form to report reproducible bugs in apps or processes. Provide steps, expected/actual behavior, and severity so we can triage quickly."
 title: "Bug: {short_summary}"
 labels:
-  - "bug"
+  - "Type: Bug Report"
+type: Bug
 body:
   - type: input
     id: short_summary
