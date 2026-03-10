@@ -49,8 +49,3 @@ body:
     attributes:
       label: "Additional context"
       description: "Any logs, error messages, or links to screenshots"
-  - type: users
-    id: suggested_assignees
-    attributes:
-      label: "Suggested assignees (optional)"
-      description: "User(s) who should be assigned to triage"
