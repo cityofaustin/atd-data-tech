@@ -10,6 +10,7 @@ body:
       label: "Short summary"
       description: "One-line summary of the bug"
       placeholder: "e.g. Save button fails when clicking after editing settings"
+    validations:
       required: true
   - type: textarea
     id: steps_to_reproduce
