@@ -1,5 +1,5 @@
-name: "[All Purpose] DTS Issue"
-description: Everything a DTS issue should include
+name: "DTS Issue"
+description: Create a new issue meeting DTS standards.
 title: "Begin with a verb and summarize the work to be completed"
 labels:
   - "[Product] :bulb: OPTIONAL"
