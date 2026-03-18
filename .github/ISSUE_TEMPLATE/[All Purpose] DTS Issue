@@ -1,0 +1,22 @@
+name: "[All-Purpose] DTS Issue"
+description: Everything a DTS issue should include
+title: "Begin with a verb and summarize the work to be completed"
+labels:
+  - "[Product] :bulb: OPTIONAL"
+  - "[Project] :bulb: OPTIONAL"
+  - "[Team] :rotating_light: MISSING"
+  - "[Type] :rotating_light: MISSING"
+  - "[Workgroup] :rotating_light: MISSING"
+type: Task
+body:
+  - type: markdown
+    attributes:
+      value: |
+        See the [DTS issue standards](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#issues) for more information.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What needs to be done, and why?
+    validations:
+      required: true
