@@ -1,5 +1,5 @@
 name: "Form: Bug Report"
-description: "Use this form to report reproducible bugs in apps or processes."
+description: "Document reproducible bugs in apps or processes."
 title: "[Bug] "
 labels:
   - "Type: Bug Report"
