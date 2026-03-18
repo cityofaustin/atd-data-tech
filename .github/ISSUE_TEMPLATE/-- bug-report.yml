@@ -1,4 +1,4 @@
-name: "Form: Bug Report"
+name: "Bug Report"
 description: "Document reproducible bugs in apps or processes."
 title: "[Bug] "
 labels:
