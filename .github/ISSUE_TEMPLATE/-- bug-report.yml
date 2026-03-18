@@ -1,31 +1,25 @@
 name: "Form: Bug Report"
-description: "Use this form to report reproducible bugs in apps or processes. Provide steps, expected/actual behavior, and severity so we can triage quickly."
-title: "Bug: {short_summary}"
+description: "Use this form to report reproducible bugs in apps or processes."
+title: "[Bug] "
 labels:
   - "Type: Bug Report"
+  - "[Team] :rotating_light: MISSING"
+  - "[Workgroup] :rotating_light: MISSING"
 type: Task
 body:
   - type: textarea
     id: description
     attributes:
       label: "Description"
-      description: "Include steps to reproduce, expected vs. actual behavior, and browser/device when relevant."
       placeholder: "Include steps to reproduce, expected vs. actual behavior, and browser/device when relevant."
     validations:
-      required: true
       required: true
   - type: dropdown
     id: severity
     attributes:
       label: "Severity"
-      description: "How urgent / impactful is this?"
       options:
         - "Low"
         - "Medium"
         - "High"
-        - "Critical"
-  - type: textarea
-    id: additional_context
-    attributes:
-      label: "Additional context"
-      description: "Any logs, error messages, or links to screenshots"
+        - "Critical
