@@ -6,6 +6,10 @@ description: >-
 
 # Agile Project Management with GitHub + Zenhub
 
+{% hint style="warning" %}
+## We retired Zenhub  and migrated to [GitHub Projects](https://github.com/topics/projects). This page needs to be updated.&#x20;
+{% endhint %}
+
 ## Set up
 
 1. [Create a GitHub account](https://github.com/join) if you don't have one already.
