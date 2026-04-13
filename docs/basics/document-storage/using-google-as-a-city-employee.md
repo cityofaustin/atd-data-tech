@@ -15,9 +15,13 @@ Employees should not use personal Google accounts for City work since all City-r
 
 Remember, **never add a Gmail address to this account**! It's against City policy and creates a permissions headache for your supervisor.&#x20;
 
-## Permissions <a href="#file-storage" id="file-storage"></a>
+## Shared Access <a href="#file-storage" id="file-storage"></a>
 
-All your documents should be saved within a folder owned by a shared resource account, coaatdamd@austintexas.gov. This means we can all search and access each other's files, even if someone is out of the office or leaves the team.
+{% hint style="danger" %}
+All of our **Google documents must be stored in the** [**TPW DTS**](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7) **folder** owned by our shared resource account, coaatdamd@austintexas.gov. This allows everyone to find and view all files, even if the owner is out of office or leaves the team. It also ensures that are in compliance with the [Texas Public Information Act](https://www.texasattorneygeneral.gov/open-government/members-public/overview-public-information-act) and able to fulfill a Public Information Request if necessary.&#x20;
+
+Personal files, such as HR documentation, should be stored in SharePoint.&#x20;
+{% endhint %}
 
 ## Sensitive information <a href="#sensitive-information" id="sensitive-information"></a>
 
