@@ -24,7 +24,7 @@ All your passwords relating to work should be stored 1Password and _only_ in 1Pa
 * [ ] [Set up your email signature](https://docs.google.com/document/d/1OAoBll9rIl6XZq2uOShm5HCbHJboOt0SLP_wK6tjkEE/edit).
 * [ ] [Update your Slack profile](https://slack.com/help/articles/204092246-Edit-your-profile) with a photo and your title.
 * [ ] Post your [daily standup in Slack](https://atd-dts.gitbook.io/wiki/slack#daily-stand-up).
-* [ ] [Create a Google account for your austintexas.gov email address](../docs/basics/document-storage/using-google-as-a-city-employee.md) and verify that you have access to the [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7).&#x20;
+* [ ] [Create a Google account for your austintexas.gov email address](../docs/basics/document-storage/creating-a-google-account-as-a-city-employee.md) and verify that you have access to the [DTS Google Drive](https://drive.google.com/drive/u/0/folders/1fNmU-czryk5wJsn1gmb4WYUJJdut8Me7).&#x20;
 
 ## Week 1 🐥
 

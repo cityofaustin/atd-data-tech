@@ -10,9 +10,10 @@
 * [Working at DTS Basics](basics/timesheets.md)
 * [Network Access](basics/network-access.md)
 * [Document Storage](basics/document-storage/README.md)
-  * [Using Google as a City Employee](basics/document-storage/using-google-as-a-city-employee.md)
+  * [Creating a Google Account as a City Employee](basics/document-storage/creating-a-google-account-as-a-city-employee.md)
 * [Working Remotely from a Mac](basics/working-remotely-from-a-mac/README.md)
   * [Resetting Your Network Password from a Mac](basics/working-remotely-from-a-mac/resetting-your-network-password-from-a-mac.md)
+  * [Connecting to Network Drives on a Mac](basics/working-remotely-from-a-mac/connecting-to-network-drives-on-a-mac.md)
 * [Slack](basics/slack.md)
 
 ## Onboarding
