@@ -3,7 +3,7 @@ name: "[All-Purpose] Project Index"
 about: 'Essential information for all DTS projects. '
 title: 'Project: [Your Project Name in Title Case]'
 labels: 'Project Index, [Team] :rotating_light: MISSING, [Type] :rotating_light:
-  MISSING, [Workgroup] :rotating_light: MISSING', [Project] :rotating_light: MISSING'
+  MISSING, [Workgroup] :rotating_light: MISSING, [Project] :rotating_light: MISSING'
 assignees: ''
 
 ---
