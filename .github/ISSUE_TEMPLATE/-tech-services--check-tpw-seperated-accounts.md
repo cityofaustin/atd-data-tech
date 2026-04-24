@@ -8,7 +8,7 @@ labels: 'Service: Tech Services, Type: Operations, Workgroup: TPW'
 assignees: Matthew-M-TPW
 
 ---
-
+FirstName, Lastinitial (Separation date)
 check the excel sheet that HR sends if the separated employees accounts are disabled. And if a SERF has been submitted. When disabling the users account fill out the Description field with:
 
 Disabled Account-Reason for separation (Resigned, Terminated, or Retired).- your initials -TPW Amin 
