@@ -3,12 +3,12 @@ name: "[Tech Services] Check TPW Seperated accounts"
 about: This templete is for Tech Services to check is Seperated employees accounts
   are disabled
 title: "[Tech Services]Check for SERF and disable Separated account user's account
-  First Name and Last initial (Separation date)"
+  FirstName Lastinitial (Separationdate)"
 labels: 'Service: Tech Services, Type: Operations, Workgroup: TPW'
 assignees: Matthew-M-TPW
 
 ---
-FirstName, Lastinitial (Separation date)
+FirstName, Lastinitial <!--Lastname--> (Separationdate)
 check the excel sheet that HR sends if the separated employees accounts are disabled. And if a SERF has been submitted. When disabling the users account fill out the Description field with:
 
 Disabled Account-Reason for separation (Resigned, Terminated, or Retired).- your initials -TPW Amin 
