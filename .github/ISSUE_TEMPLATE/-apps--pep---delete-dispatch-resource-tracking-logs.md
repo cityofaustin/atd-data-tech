@@ -3,7 +3,7 @@ name: "[Apps] PEP - Delete Dispatch Resource Tracking Logs"
 about: Template to delete dispatch resource tracking logs from Parking Enterprise
   Portal
 title: "[PEP] Delete Dispatch Resource Tracking logs - Month YEAR "
-labels: 'Product: Parking Enterprise Portal, Service: Apps, Type: Data'
+labels: 'Product: Parking Enterprise Portal, Type: Data'
 assignees: ''
 
 ---

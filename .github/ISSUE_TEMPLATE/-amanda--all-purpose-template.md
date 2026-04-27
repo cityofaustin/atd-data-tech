@@ -2,7 +2,7 @@
 name: "[AMANDA] All Purpose Template"
 about: All purpose template for AMANDA Services
 title: AMANDA Issue Title
-labels: 'Product: AMANDA, Service: AMANDA'
+labels: 'Product: AMANDA'
 assignees: ''
 
 ---
