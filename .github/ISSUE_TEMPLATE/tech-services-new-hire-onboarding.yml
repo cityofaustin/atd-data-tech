@@ -8,13 +8,14 @@ body:
     attributes:
       value: |
         # New Hire Onboarding Checklist
-        Please complete this form to onboard a new employee. Reference the [New Hire Checklist document](https://cityofaustin.sharepoint.com/:w:/r/sites/tpwDTS/_layouts/15/Doc.aspx?sourcedoc=%7B81512810-B700-448C-8200-38B343CB257D%7D&file=New%20Hire.docx&action=default)
+        Please complete this form to onboard a new employee. Reference the [New Hire Checklist document](https://cityofaustin.sharepoint.com/:w:/r/sites/tpwDTS/_layouts/15/Doc.aspx?sourcedoc=%7B81[...]
 
-  - type: section
+  - type: markdown
     attributes:
-      label: "Onboarding Request"
+      value: |
+        ## Onboarding Request
 
-  - type: text
+  - type: input
     id: start_date
     attributes:
       label: "Effective Start Date"
@@ -35,7 +36,7 @@ body:
     validations:
       required: true
 
-  - type: text
+  - type: input
     id: title
     attributes:
       label: "Job Title"
@@ -43,7 +44,7 @@ body:
     validations:
       required: true
 
-  - type: text
+  - type: input
     id: employee_name
     attributes:
       label: "New Employee Name"
@@ -51,7 +52,7 @@ body:
     validations:
       required: true
 
-  - type: text
+  - type: input
     id: mirror_account
     attributes:
       label: "Account to Mirror"
@@ -60,7 +61,7 @@ body:
     validations:
       required: true
 
-  - type: text
+  - type: input
     id: supervisor
     attributes:
       label: "Supervisor"
@@ -68,7 +69,7 @@ body:
     validations:
       required: true
 
-  - type: text
+  - type: input
     id: division
     attributes:
       label: "Division"
@@ -76,7 +77,7 @@ body:
     validations:
       required: true
 
-  - type: text
+  - type: input
     id: work_location
     attributes:
       label: "Work Location"
@@ -84,9 +85,10 @@ body:
     validations:
       required: true
 
-  - type: section
+  - type: markdown
     attributes:
-      label: "Pre-Setup Checklist"
+      value: |
+        ## Pre-Setup Checklist
 
   - type: checkboxes
     id: pre_setup
@@ -96,9 +98,10 @@ body:
         - label: "Check if NERF was submitted"
         - label: "Set up password/Reset password (Ask Scott & Matt, or CTM help desk 512-974-HELP)"
 
-  - type: section
+  - type: markdown
     attributes:
-      label: "Hardware Checklist"
+      value: |
+        ## Hardware Checklist
 
   - type: dropdown
     id: computer_type
@@ -121,9 +124,10 @@ body:
         - label: "Mouse (hardwired)"
       description: "Note: DTS Tech Services does not supply headphones. Please talk to your supervisor and use the office supply contract."
 
-  - type: section
+  - type: markdown
     attributes:
-      label: "Software Checklist"
+      value: |
+        ## Software Checklist
 
   - type: checkboxes
     id: software
