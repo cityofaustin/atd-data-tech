@@ -1,0 +1,153 @@
+name: "[Tech Services] New Hire Onboarding Checklist"
+description: Help the Tech Services team with onboarding new TPW employees
+title: "[Tech Services] New Hire Onboarding - [START DATE: NAME, LOCATION]"
+labels: ["Team: Tech Services", "Type: Operations", "[Workgroup] :rotating_light: MISSING"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # New Hire Onboarding Checklist
+        Please complete this form to onboard a new employee. Reference the [New Hire Checklist document](https://cityofaustin.sharepoint.com/:w:/r/sites/tpwDTS/_layouts/15/Doc.aspx?sourcedoc=%7B81512810-B700-448C-8200-38B343CB257D%7D&file=New%20Hire.docx&action=default)
+
+  - type: section
+    attributes:
+      label: "Onboarding Request"
+
+  - type: text
+    id: start_date
+    attributes:
+      label: "Effective Start Date"
+      placeholder: "e.g., 2026-05-15"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: employee_type
+    attributes:
+      label: "Employee Type"
+      options:
+        - "Full-time"
+        - "Part-time"
+        - "Temporary"
+        - "Intern"
+        - "Contract"
+    validations:
+      required: true
+
+  - type: text
+    id: title
+    attributes:
+      label: "Job Title"
+      placeholder: "e.g., GIS Analyst"
+    validations:
+      required: true
+
+  - type: text
+    id: employee_name
+    attributes:
+      label: "New Employee Name"
+      placeholder: "First Name, Last Initial"
+    validations:
+      required: true
+
+  - type: text
+    id: mirror_account
+    attributes:
+      label: "Account to Mirror"
+      placeholder: "First Name, Last Initial"
+      description: "Whose account should the new employee's be based on?"
+    validations:
+      required: true
+
+  - type: text
+    id: supervisor
+    attributes:
+      label: "Supervisor"
+      placeholder: "First Name, Last Initial"
+    validations:
+      required: true
+
+  - type: text
+    id: division
+    attributes:
+      label: "Division"
+      placeholder: "e.g., Transportation, Planning"
+    validations:
+      required: true
+
+  - type: text
+    id: work_location
+    attributes:
+      label: "Work Location"
+      placeholder: "e.g., Downtown, Main Office"
+    validations:
+      required: true
+
+  - type: section
+    attributes:
+      label: "Pre-Setup Checklist"
+
+  - type: checkboxes
+    id: pre_setup
+    attributes:
+      label: "Complete these items"
+      options:
+        - label: "Check if NERF was submitted"
+        - label: "Set up password/Reset password (Ask Scott & Matt, or CTM help desk 512-974-HELP)"
+
+  - type: section
+    attributes:
+      label: "Hardware Checklist"
+
+  - type: dropdown
+    id: computer_type
+    attributes:
+      label: "Does the user need a GIS Modeling computer?"
+      options:
+        - "GIS Laptop w/ docking station + power supply"
+        - "Standard Laptop + power supply"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: peripherals
+    attributes:
+      label: "Request peripherals (if desk space does not come equipped)"
+      options:
+        - label: "Docking station"
+        - label: "Monitors"
+        - label: "Keyboard (hardwired)"
+        - label: "Mouse (hardwired)"
+      description: "Note: DTS Tech Services does not supply headphones. Please talk to your supervisor and use the office supply contract."
+
+  - type: section
+    attributes:
+      label: "Software Checklist"
+
+  - type: checkboxes
+    id: software
+    attributes:
+      label: "Software needed"
+      options:
+        - label: "Adobe Pro"
+        - label: "ArcGIS"
+        - label: "AutoCAD/AutoCAD 3D"
+        - label: "BlueBeam"
+        - label: "SketchUp"
+        - label: "MS Project"
+        - label: "MS Visio"
+
+  - type: textarea
+    id: business_justification
+    attributes:
+      label: "Business Justification"
+      description: "Provide justification for any software licenses requested above"
+      placeholder: "Explain why each software is needed for this role..."
+
+  - type: textarea
+    id: funding_info
+    attributes:
+      label: "Funding Information"
+      description: "Cost center, funding source, or other budget details"
+      placeholder: "Funding details..."
