@@ -5,6 +5,7 @@ title: "[Tech Services] New Hire Onboarding Checklist - [START DATE: FIRST NAME,
   INITIAL, LOCATION] "
 labels: 'Team: Tech Services, Type: Operations, [Workgroup] :rotating_light: MISSING'
 assignees: ''
+type: Task
 
 ---
 
