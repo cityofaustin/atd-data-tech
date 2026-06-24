@@ -52,7 +52,7 @@ Instructions:
 If there are multiple images, the first will be used as the thumbnail. -->
 
 ---
-This Github issue represents an Austin Transportation and Public Works' [Data & Technology Services](https://austinmobility.io/) team project. Project status is documented regularly in the comments below.
+This GitHub issue represents a [Data & Technology Services](https://austinmobility.io/) project for [Austin Transportation and Public Works](https://www.austintexas.gov/transportation-public-works). Project status is documented regularly in the comments below.
 
 <!-- 
 Don't forget to: 
