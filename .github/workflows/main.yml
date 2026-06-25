@@ -1,0 +1,139 @@
+name: Add Team Issues to Projects
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: read
+  issues: read
+
+jobs:
+  add-to-project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add issue to project based on DTS Team field
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issue = context.payload.issue;
+            
+            // Map DTS Team values to their corresponding project numbers
+            const teamToProjectMap = {
+              'Apps': 16,
+              'Data Science': 19,
+              'Dev': 25,
+              'ECM': 22,
+              'Geo': 6,
+              'Maximo': 18,
+              'Product': 23,
+              'Tech Services': 21
+            };
+            
+            // Query to check the issue's custom field value via GraphQL
+            const query = `
+              query {
+                repository(owner: "${context.repo.owner}", name: "${context.repo.repo}") {
+                  issue(number: ${issue.number}) {
+                    id
+                    customFields(first: 10) {
+                      nodes {
+                        ... on SingleSelectField {
+                          name
+                          value
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `;
+            
+            try {
+              const result = await github.graphql(query);
+              const issueData = result.repository.issue;
+              
+              // Check if the DTS Team custom field is set
+              const dtsTeamField = issueData.customFields.nodes.find(
+                field => field.name === 'DTS Team'
+              );
+              
+              if (!dtsTeamField || !dtsTeamField.value) {
+                console.log('ℹ Issue #' + issue.number + ' DTS Team field is not set');
+                return;
+              }
+              
+              const teamValue = dtsTeamField.value;
+              const projectNumber = teamToProjectMap[teamValue];
+              
+              if (!projectNumber) {
+                console.log('ℹ No project mapping found for DTS Team: ' + teamValue);
+                return;
+              }
+              
+              // Get the project ID
+              const projectQuery = `
+                query {
+                  organization(login: "${context.repo.owner}") {
+                    projectV2(number: ${projectNumber}) {
+                      id
+                    }
+                  }
+                }
+              `;
+              
+              const projectResult = await github.graphql(projectQuery);
+              const projectV2 = projectResult.organization.projectV2;
+              
+              if (!projectV2) {
+                console.error('✗ Project ' + projectNumber + ' not found in organization');
+                return;
+              }
+              
+              // Check if issue is already in the project
+              const checkProjectQuery = `
+                query {
+                  repository(owner: "${context.repo.owner}", name: "${context.repo.repo}") {
+                    issue(number: ${issue.number}) {
+                      projectsV2(first: 20) {
+                        nodes {
+                          number
+                        }
+                      }
+                    }
+                  }
+                }
+              `;
+              
+              const projectCheck = await github.graphql(checkProjectQuery);
+              const isInProject = projectCheck.repository.issue.projectsV2.nodes.some(
+                p => p.number === projectNumber
+              );
+              
+              if (!isInProject) {
+                // Add issue to project
+                const addMutation = `
+                  mutation {
+                    addProjectV2ItemById(input: {
+                      projectId: "${projectV2.id}"
+                      contentId: "${issueData.id}"
+                    }) {
+                      item {
+                        id
+                      }
+                    }
+                  }
+                `;
+                
+                const addResult = await github.graphql(addMutation);
+                if (addResult.addProjectV2ItemById?.item?.id) {
+                  console.log('✓ Issue #' + issue.number + ' added to ' + teamValue + ' project (' + projectNumber + ')');
+                }
+              } else {
+                console.log('ℹ Issue #' + issue.number + ' is already in ' + teamValue + ' project (' + projectNumber + ')');
+              }
+            } catch (error) {
+              console.error('Error:', error.message);
+              console.error('Details:', error);
+            }
