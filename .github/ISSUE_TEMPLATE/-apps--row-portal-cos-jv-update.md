@@ -9,14 +9,15 @@ assignees: ChrispinP
 
 **Confirm Data:**
 - [ ] Google Sheet located in the DTS Google Drive > ROW Portal > COS folder
-- [ ] Google Sheet updated by Finance
+- [ ] `ROW COS JVD All Data` Google Sheet updated by Finance
 - [ ] Check Data on each tab
 
 **Confirm Counts:**
 - [ ] AE (Austin Energy) Number of records to update: 
+- [ ] TPW (Transportation & Public Works) Number of records to update: 
+- [ ] AW (Austin Water) Number of records to update: 
+- [ ] WPD (Watershed Protection & Development) Number of records to update: 
 - [ ] ACC (Austin Convention Center) Number of records to update: 
-- [ ] ATPWD (Austin Transportation & Public Works) Number of records to update: 
-- [ ] AWU (Austin Water Utility) Number of records to update: 
 - [ ] CPO (Corridor Program Office) Number of records to update: 
 - [ ] PARD (Parks and Recreation Department) Number of records to update: 
 - [ ] WPD (Watershed Protection & Development) Number of records to update: 
