@@ -19,8 +19,7 @@ assignees: ChrispinP
 - [ ] WPD (Watershed Protection & Development) Number of records to update: 
 - [ ] ACC (Austin Convention Center) Number of records to update: 
 - [ ] CPO (Corridor Program Office) Number of records to update: 
-- [ ] PARD (Parks and Recreation Department) Number of records to update: 
-- [ ] WPD (Watershed Protection & Development) Number of records to update: 
+- [ ] PARD (Parks and Recreation Department) Number of records to update:  
 - [ ] Total Number of records being updated: 
 
 **Import Data:**
