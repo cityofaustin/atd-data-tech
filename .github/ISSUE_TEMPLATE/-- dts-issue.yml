@@ -5,7 +5,6 @@ labels:
   - "[Product] :bulb: OPTIONAL"
   - "[Project] :bulb: OPTIONAL"
   - "[Team] :rotating_light: MISSING"
-  - "[Type] :rotating_light: MISSING"
   - "[Workgroup] :rotating_light: MISSING"
 type: Task
 body:
