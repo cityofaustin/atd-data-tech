@@ -28,7 +28,7 @@ You need to be on the City of Austin's internal network to access resources such
 
 3\. When the installer opens, click "Continue," "Agree," and leave the defaults on for the installation type:&#x20;
 
-<figure><img src="../../.gitbook/assets/1.png" alt="" width="549"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt="" width="549"><figcaption></figcaption></figure>
 
 4\. When prompted, provide the password you use to log in to your computer, and the installation will begin. It will take a few minutes to run. &#x20;
 
@@ -64,11 +64,11 @@ You must access the G Drive from the City of Austin Network. If you don't have a
 
 1\. From the Finder menu, select **Go** > **Connect to Server.**&#x20;
 
-<img src="../../.gitbook/assets/6.png" alt="" width="472">
+<img src="../.gitbook/assets/6.png" alt="" width="472">
 
 2\. Enter `smb://coacd.org/dfs/ATD` in the **Server Address** field and click "Connect."&#x20;
 
-<img src="../../.gitbook/assets/7.png" alt="" width="449">
+<img src="../.gitbook/assets/7.png" alt="" width="449">
 
 3\. You will be prompted for your City of Austin Network Username and Password. Once submitted, a Finder window will open to the G Drive.&#x20;
 

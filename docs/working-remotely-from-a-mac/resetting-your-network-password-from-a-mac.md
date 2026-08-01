@@ -14,11 +14,11 @@ description: >-
    **Password:** your CoA Network password (same as Outlook)
 4. Click the Settings ⚙️ icon in the top right, then "Account Settings."
 
-<figure><img src="../../.gitbook/assets/21.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/21.png" alt="" width="375"><figcaption></figcaption></figure>
 
 5. Click "Change password."
 
-<figure><img src="../../.gitbook/assets/22.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/22.png" alt="" width="375"><figcaption></figcaption></figure>
 
 6. Fill out the Change Password form and click "OK."
 7. Once you change your password in Citrix, **immediately log out of AnyConnect.** It is possible to lock yourself out because you are logged into AnyConnect with the old password at that time. You can reach out to Scott Reedy to unlock you if that happens.

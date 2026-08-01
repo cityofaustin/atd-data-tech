@@ -8,7 +8,7 @@ The [Municipal Civil Service (MCS) ](https://www.austintexas.gov/department/muni
 
 [Official City of Austin holiday schedule](http://www.austintexas.gov/department/official-city-holidays)
 
-All Austin Transportation Department employees are required to work 8.5 hours/day. That includes a mandatory 30-minute lunch. You can take a longer lunch but can’t count it as work time. You can work through lunch but still need to put in 8.5 hours.
+All City of Austin employees are required to work 8.5 hours/day. That includes a mandatory 30-minute lunch. You can take a longer lunch but can’t count it as work time. You can work through lunch but still need to put in 8.5 hours.
 
 Your start time can range between 8am and 9:30am. We ask that you work the same schedule consistently and post your daily stand-up when you log on.
 
@@ -30,22 +30,8 @@ If you are a new regular employee, you, unfortunately, can’t use vacation or p
 
 Regardless of the leave you use, you must submit a leave request in advance through the eTimesheet system (see below).
 
-### Timesheets (Needs to be updated for UKG)
+### Timesheets
 
-{% hint style="info" %}
-You'll have to fill out a paper timesheet during your first two weeks. Your supervisor will help you get one from HR.&#x20;
-{% endhint %}
+Temp and regular employees track time in [UKG,](https://cityofaustin.prd.mykronos.com/wfd/home) the City's enterprise timekeeping platform. You must record your hours and submit leave requests according to standardized procedures. Docs [here](https://cityofaustin.sharepoint.com/sites/DigitalTimesheetsResources?e=1%3A1282a7867cdf491097f148277e2ad642).&#x20;
 
-\
-​[E-Timesheet Training (On-Network)](https://sites.google.com/site/pwuclass/etimekeeping)​
-
-* Part 1: [eTimekeeping](https://www4.austintexas.gov/eTimekeeping12b-01)​
-* Part 2: [Task Orders](https://www4.austintexas.gov/eTimekeeping12b-02)​
-* Part 3: [Leave Requests](https://www4.austintexas.gov/eTimekeeping12b-03)​
-* Part 4: [Overtime Requests](https://www4.austintexas.gov/eTimekeeping12b-04)​
-* Part 5: [Deadlines and Tests](https://www4.austintexas.gov/eTimekeeping12b-05)
-
-Your timesheet must be submitted in the [eTimesheet](https://pwdweb.austintexas.gov/timesheet/pwd.cfm) system every Thursday by 10am.&#x20;
-
-Learn how to submit your timesheet with the  [E-Timesheet Training Guide](http://coaspweb1/sites/PWD/PWU/SitePages/ATDLearn.aspx) (on-network) and  [timesheet code](https://cityofaustin.sharepoint.com/sites/ATD/Administration/SitePages/Earn%20Codes.aspx) reference.
-
+Contract employees are responsible for their timesheets, including obtaining signatures from  a DTS supervisor when submitting them to their staffing firm.&#x20;
