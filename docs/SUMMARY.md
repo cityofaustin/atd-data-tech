@@ -18,15 +18,14 @@
 
 ## Onboarding
 
-* [Team Lead Checklist for New DTS Team Members](onboarding/new-employee-checklist.md)
-* [Welcome to DTS](../onboarding/welcome-to-dts.md)
-
 ## Working at DTS
 
-## Off boarding <a href="#offboarding" id="offboarding"></a>
+***
 
-* [Your Last Day](offboarding/your-last-day.md)
-* [Offboarding Checklist](offboarding/off-boarding-checklist.md)
+* [Welcome to DTS](welcome-to-dts.md)
+* [Supervisor Onboarding & Offboarding Checklists](team-member-onboarding-offboarding.md)
+
+## Off boarding <a href="#offboarding" id="offboarding"></a>
 
 ## Product Ops
 

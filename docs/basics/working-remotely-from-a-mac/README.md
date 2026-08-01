@@ -64,11 +64,11 @@ You must access the G Drive from the City of Austin Network. If you don't have a
 
 1\. From the Finder menu, select **Go** > **Connect to Server.**&#x20;
 
-![](../../.gitbook/assets/6.png)
+<img src="../../.gitbook/assets/6.png" alt="" width="472">
 
 2\. Enter `smb://coacd.org/dfs/ATD` in the **Server Address** field and click "Connect."&#x20;
 
-![](../../.gitbook/assets/7.png)
+<img src="../../.gitbook/assets/7.png" alt="" width="449">
 
 3\. You will be prompted for your City of Austin Network Username and Password. Once submitted, a Finder window will open to the G Drive.&#x20;
 

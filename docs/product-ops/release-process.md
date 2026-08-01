@@ -6,9 +6,9 @@ This is the general process we use to release new code to one of our custom appl
 * The Dev Lead ensures that all issues are assigned, completed, and tested before the release
 * After a pull request is reviewed by several devs, the PM reviews and adds any new functionality to the QA test script &#x20;
 * The Dev Lead creates a single pull request that includes the scope of the release\
-  &#xNAN;_&#x45;xample:_ [_https://github.com/cityofaustin/atd-vz-data/pull/496_](https://github.com/cityofaustin/atd-vz-data/pull/496)
+  _&#x45;xample:_ [_https://github.com/cityofaustin/atd-vz-data/pull/496_](https://github.com/cityofaustin/atd-vz-data/pull/496)
 * The Dev Lead cleans up release notes\
-  &#xNAN;_&#x45;xample:_ [_https://github.com/cityofaustin/atd-vz-data/releases_](https://github.com/cityofaustin/atd-vz-data/releases/)
+  _&#x45;xample:_ [_https://github.com/cityofaustin/atd-vz-data/releases_](https://github.com/cityofaustin/atd-vz-data/releases/)
 * The release branch is deployed to Staging and the PM performs QA testing&#x20;
 * The PM notifies users of scheduled downtime
 * Release party 🎉
@@ -19,4 +19,4 @@ This is the general process we use to release new code to one of our custom appl
   * Dev Lead creates an issue for the next release
 
 Application-specific versions of this process are written as issues so they can be tracked collaboratively for each release. \
-&#xNAN;_&#x45;xample:_ [_https://github.com/cityofaustin/atd-data-tech/issues/16094_](https://github.com/cityofaustin/atd-data-tech/issues/16094)&#x20;
+_&#x45;xample:_ [_https://github.com/cityofaustin/atd-data-tech/issues/16094_](https://github.com/cityofaustin/atd-data-tech/issues/16094)&#x20;
