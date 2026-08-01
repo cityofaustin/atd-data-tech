@@ -40,8 +40,8 @@ Move the issue to the "Needs Scoping" Zenhub pipeline.&#x20;
 
 ## Builder Huddle
 
-* PM sets up meeting with potential builders, e.g. Dev for a Vision Zero Viewer project, Apps for a ROW Portal project. If we aren't sure which route we'll go or the solution will require both, add to the [Dev/Product Sync agenda](https://docs.google.com/document/d/1hWzg-qluRBrTetEGjg\_eHrR9qT4IqenaUgk6FR6APbU/edit) to discuss.&#x20;
-* Prepare a summary of request. Here's an [example done as a presentation deck](https://docs.google.com/presentation/d/1brqKe0IfavZ4K8Dp2jv1QBW\_Kfa7umDROOiQ2lHc67I/edit#slide=id.p) ([template](https://docs.google.com/presentation/d/1i9rcEEsEIWtHLJd\_e0foQpNX9bQkffj4zHkzRsguW60/edit?usp=sharing)).&#x20;
+* PM sets up meeting with potential builders, e.g. Dev for a Vision Zero Viewer project, Apps for a ROW Portal project. If we aren't sure which route we'll go or the solution will require both, add to the [Dev/Product Sync agenda](https://docs.google.com/document/d/1hWzg-qluRBrTetEGjg_eHrR9qT4IqenaUgk6FR6APbU/edit) to discuss.&#x20;
+* Prepare a summary of request. Here's an [example done as a presentation deck](https://docs.google.com/presentation/d/1brqKe0IfavZ4K8Dp2jv1QBW_Kfa7umDROOiQ2lHc67I/edit#slide=id.p) ([template](https://docs.google.com/presentation/d/1i9rcEEsEIWtHLJd_e0foQpNX9bQkffj4zHkzRsguW60/edit?usp=sharing)).&#x20;
 * At the meeting, discuss the recommended approach and fill out the "Effort" section of the [project evaluation in the DTS Portal](https://atd.knack.com/dts#project-evaluation/).&#x20;
 
 {% hint style="info" %}
@@ -52,7 +52,7 @@ Sometimes we realize that the request isn't actually project-sized during the in
 
 After assessing effort with the builders, it's time to assess value with the product team.&#x20;
 
-* Add to [DTS Product Sync agenda](https://docs.google.com/document/d/1SA3iEyfiBlnxgx2miYn5EncVeUrQyOtUfAk-93574z8/edit) for a "Refinement-week", i.e. the second Wednesday in a sprint. If feedback is needed sooner, or the project was initiated internally (like work on our technical infrastructure), bring it to [Dev + Product Sync](https://docs.google.com/document/d/1hWzg-qluRBrTetEGjg\_eHrR9qT4IqenaUgk6FR6APbU/edit) instead.&#x20;
+* Add to [DTS Product Sync agenda](https://docs.google.com/document/d/1SA3iEyfiBlnxgx2miYn5EncVeUrQyOtUfAk-93574z8/edit) for a "Refinement-week", i.e. the second Wednesday in a sprint. If feedback is needed sooner, or the project was initiated internally (like work on our technical infrastructure), bring it to [Dev + Product Sync](https://docs.google.com/document/d/1hWzg-qluRBrTetEGjg_eHrR9qT4IqenaUgk6FR6APbU/edit) instead.&#x20;
 * As a group, fill out the "Value" section of the [project evaluation in the DTS Portal](https://atd.knack.com/dts#project-evaluation/).&#x20;
 
 After the evaluation is complete, the Austinmobility.io script will pick them up and you will be able to see the project in relation to other projects in our backlog using the [prioritization matrix](https://austinmobility.io/projects?status=backlog\&view=chart).&#x20;
@@ -61,7 +61,7 @@ Move the index issue into the "Backlog" pipeline.&#x20;
 
 ## Prioritization
 
-### [Project Prioritization Process as of 5/24](https://docs.google.com/presentation/d/1znUcRuHDJfKOd4BWH\_FAr\_xU99BOY0YRa-pV8WI1EZ4/edit#slide=id.p)&#x20;
+### [Project Prioritization Process as of 5/24](https://docs.google.com/presentation/d/1znUcRuHDJfKOd4BWH_FAr_xU99BOY0YRa-pV8WI1EZ4/edit#slide=id.p)&#x20;
 
 Google presentation used for Product Ops onboarding and TPW Executive communications.
 
@@ -69,8 +69,8 @@ Google presentation used for Product Ops onboarding and TPW Executive communicat
 
 ### Working docs
 
-* [Project Prioritization workflow](https://miro.com/app/board/o9J\_l\_98Nc8=/?moveToWidget=3458764569449827838\&cot=14)
-* [DTS + OPM workflow](https://miro.com/app/board/o9J\_l\_98Nc8=/?moveToWidget=3458764589968626226\&cot=14)
+* [Project Prioritization workflow](https://miro.com/app/board/o9J_l_98Nc8=/?moveToWidget=3458764569449827838\&cot=14)
+* [DTS + OPM workflow](https://miro.com/app/board/o9J_l_98Nc8=/?moveToWidget=3458764589968626226\&cot=14)
 
 ## Activation
 
@@ -101,11 +101,11 @@ How long should this take to build; optional section w/ caveats for more complex
 
 * Convert the project index issue into an epic and assign future issues to the epic moving forward. Zenhub allows you to nest epics or assign issues to multiple epics, so feel free to use that functionality if you find it helpful.  &#x20;
 * Ensure that everyone who has stake in the project, from potentially impacted staff to interested executives, is aware the project is moving forward. Invite stakeholders to come to sprint reviews and/or participate in user research. Ask them who else should be included.&#x20;
-* Optionally, hold a [kick-off meeting](https://docs.google.com/presentation/d/10VOVnzf8Di\_IGhh0fInLdMvBgH4n-ysVegiN8LvsFOc/edit#slide=id.g653199e8f7\_0\_7) with your stakeholders.&#x20;
+* Optionally, hold a [kick-off meeting](https://docs.google.com/presentation/d/10VOVnzf8Di_IGhh0fInLdMvBgH4n-ysVegiN8LvsFOc/edit#slide=id.g653199e8f7_0_7) with your stakeholders.&#x20;
 
 ## Delivery
 
-* Perform requirements gathering with users. We often begin with [user interviews](https://www.nngroup.com/courses/user-interviews/) and store requirements either as [user stories](https://docs.google.com/spreadsheets/d/1Uu1IiwqQGpkgXDWfoQsMKEckT0ry9avlFJyLdLe\_DZA/edit#gid=179231394) for in-house applications or in a software comparison matrix for off-the-shelf solutions.&#x20;
+* Perform requirements gathering with users. We often begin with [user interviews](https://www.nngroup.com/courses/user-interviews/) and store requirements either as [user stories](https://docs.google.com/spreadsheets/d/1Uu1IiwqQGpkgXDWfoQsMKEckT0ry9avlFJyLdLe_DZA/edit#gid=179231394) for in-house applications or in a software comparison matrix for off-the-shelf solutions.&#x20;
 * Document bugs, feature requests, and enhancements as Github issues. You may want to encourage your users to contribute using the [DTS Service Request](https://atd.knack.com/dts#new-service-request/).&#x20;
 
 {% hint style="info" %}
@@ -115,9 +115,9 @@ When you click the "New Issue" button in the upper righthand corner of most page
 {% endhint %}
 
 * Work with the team lead—via Github comments or in a planning/refinement/sync meeting—to assign an [estimate](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#estimates) to each issue. Zenhub's [Planning Poker](https://www.zenhub.com/planning-poker) is also a fun way to estimate asynchronously. &#x20;
-* Bring complex issues to Backlog Refinement ([Apps](https://docs.google.com/document/d/1NENOLq5v9n77N\_sNbV\_iu2dzi9cU5dTfAex9ay7Q7N0/edit#heading=h.mlv4bpg8du2a) | [Dev](https://docs.google.com/document/d/1k6L33xi1zDWEtW3n3oh212DmDug2F8yHLaZ-XW20Dsg/edit#heading=h.7h18hmh8ypw)) to discuss with builders. Break them up into smaller issues as necessary, document the agreed-upon approach, and align on an [estimate](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#estimates).&#x20;
+* Bring complex issues to Backlog Refinement ([Apps](https://docs.google.com/document/d/1NENOLq5v9n77N_sNbV_iu2dzi9cU5dTfAex9ay7Q7N0/edit#heading=h.mlv4bpg8du2a) | [Dev](https://docs.google.com/document/d/1k6L33xi1zDWEtW3n3oh212DmDug2F8yHLaZ-XW20Dsg/edit#heading=h.7h18hmh8ypw)) to discuss with builders. Break them up into smaller issues as necessary, document the agreed-upon approach, and align on an [estimate](https://atd-dts.gitbook.io/wiki/product-ops/github-project-management#estimates).&#x20;
 * Prioritize work with stakeholders during Sprint Reviews.&#x20;
-* If practical, [release](release-process.md) versions of an application on a regular basis.&#x20;
+* If practical, [release](/broken/pages/-M7sk-ZL7BD1ehiqiV8r) versions of an application on a regular basis.&#x20;
 * Perform usability testing to surface improvements to the user experience. Since we don't have dedicated user researchers at DTS, we love [think-aloud usability testing](https://www.nngroup.com/articles/thinking-aloud-the-1-usability-tool/) for its simplicity and depth of insight. [Here are some think-aloud test plans](https://drive.google.com/drive/u/0/folders/1eQai0Hzsz7EVI9RUmPWdPq3rNX0FPc7T) we've done. It's handy to record sessions on Teams so that you can expand on your notes, embed screenshots/clips in issues, etc.&#x20;
 
 ## Completion&#x20;

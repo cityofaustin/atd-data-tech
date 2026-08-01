@@ -16,8 +16,6 @@
   * [Connecting to Network Drives on a Mac](basics/working-remotely-from-a-mac/connecting-to-network-drives-on-a-mac.md)
 * [Slack](basics/slack.md)
 
-## Onboarding
-
 ## Working at DTS
 
 ***
@@ -25,15 +23,12 @@
 * [Welcome to DTS](welcome-to-dts.md)
 * [Supervisor Onboarding & Offboarding Checklists](team-member-onboarding-offboarding.md)
 
-## Off boarding <a href="#offboarding" id="offboarding"></a>
-
 ## Product Ops
 
 * [Agile Project Management with GitHub + Zenhub](product-ops/github-project-management.md)
 * [Project Delivery Workflow](product-ops/project-delivery-workflow.md)
 * [Index Issue Specifications](product-ops/index-issue-specifications.md)
 * [DTS Website Management](product-ops/dts-website.md)
-* [Release Process](product-ops/release-process.md)
 * [Product Manager Assignments](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355)
 
 ## Developer
