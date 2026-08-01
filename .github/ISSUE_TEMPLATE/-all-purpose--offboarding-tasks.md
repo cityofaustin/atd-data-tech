@@ -1,5 +1,5 @@
 ---
-name: '[All-Purpose] Offboarding Tasks'
+name: "[All-Purpose] Offboarding Tasks"
 about: Checklist for all tasks a supervisor must complete to offboard a DTS team member
 title: 'Offboard [Team Member Name]'
 labels: 'Team: DTS Operations','Workgroup: DTS'
