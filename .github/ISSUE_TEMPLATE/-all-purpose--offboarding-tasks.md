@@ -27,20 +27,24 @@ assignees: ''
 - [ ] Vision Zero Editor @johnclary 
 - [ ] Moped @mddilley 
 - [ ] Knack Applications @KaroEngstrom
-     - [ ] Data Tracker 
+     - [ ] AMD Data Tracker 
+     - [ ] Bike Benefit Portal
+     - [ ] Community Services Portal
+     - [ ] Office of the Director 
      - [ ] TPW Forms 
      - [ ] DTS Portal 
      - [ ] Finance and Purchasing 
      - [ ] HR Portal 
-     - [ ] Parking Enterprise Portal 
-     - [ ] Residential Parking Permits Portal 
+     - [ ] Parking Enterprise Portal
+     - [ ] Right of Way Portal 
      - [ ] Signs and Markings Operations
      - [ ] Shared Mobility Reporting Tracker
-     - [ ] Smart Mobility Portal 
+     - [ ] Street and Bridge Operations
      - [ ] Street Banners Program Portal
-     - [ ] Transportation Development Services Portal 
-     - [ ] Vision Zero in Action 
-     - [ ] DTS Trivia Quiz
-     - [ ] Mobility Services Portal 
+     - [ ] Transportation Development Services Portal
+     - [ ] Traffic Register
+     - [ ] Urban Forestry
+     - [ ] Mobility Services Portal
+     - [ ] PTE Test Application
 - [ ] [DTS Knowledge Base triage information](https://app.gitbook.com/s/-M4LYhVrPWLmbRD1Xv0p) 
 - [x] Retrieve laptop and any checked-out equipment
