@@ -26,7 +26,7 @@ assignees: ''
 - [ ] Google Drive 
 - [ ] Vision Zero Editor @johnclary 
 - [ ] Moped @mddilley 
-- [ ] Knack Applications @KaroEngstrom
+- [ ] Knack Applications @KaroEngstrom - inactivate austintexas.gov and any other testing accounts
      - [ ] AMD Data Tracker 
      - [ ] Bike Benefit Portal
      - [ ] Community Services Portal
