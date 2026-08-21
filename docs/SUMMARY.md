@@ -23,7 +23,7 @@
 
 ## Product Ops
 
-* [Agile Project Management with GitHub + Zenhub](product-ops/github-project-management.md)
+* [Managing Services & Projects with GitHub](product-ops/github-project-management.md)
 * [Project Delivery Workflow](product-ops/project-delivery-workflow.md)
 * [Index Issue Specifications](product-ops/index-issue-specifications.md)
 * [DTS Website Management](product-ops/dts-website.md)
