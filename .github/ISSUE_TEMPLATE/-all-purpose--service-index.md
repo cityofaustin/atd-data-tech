@@ -34,6 +34,7 @@ A brief description of the technology that powers the application stack, e.g. fr
 
 <!-- Default image--> 
 ![City of Austin brand diagonal pinstripe pattern of the letter A](https://github.com/cityofaustin/atd-data-tech/blob/9c8734dbe8f3a3972a8875c882b19be858155aad/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png?raw=true)
+
 <!-- Don't forget to add a new "Service:" label here: https://github.com/cityofaustin/atd-data-tech/labels. Use the hex code #3D3D3D. -->
 
 ---
