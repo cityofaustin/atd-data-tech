@@ -113,9 +113,7 @@ Like labels, **estimates are required** because they are a critical component of
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 5.33.29 PM.png" alt=""><figcaption></figcaption></figure>
 
-Curious why we use Fibonacci numbers for our estimates? Check out this lengthy explanation
-
-.&#x20;
+Curious why we use [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_sequence) numbers for our estimates? Check out this [lengthy explanation](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points).&#x20;
 
 ## Assignees
 
