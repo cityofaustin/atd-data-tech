@@ -75,13 +75,14 @@ Accurate labeling is necessary for several reasons:&#x20;
 ### Required labels
 
 * [**Workgroup**](https://github.com/cityofaustin/atd-data-tech/labels?q=Workgroup%3A+) — the customer we're serving; `Workgroup: DTS` for internal work and `Workgroup: TPW` for department-wide work. **Every issue should have one, and only one,** `Workgroup:`  l**abel**.
-* [**Team**](https://github.com/cityofaustin/atd-data-tech/labels?q=Team%3A) — The DTS service team who will be doing the work. If there are two teams working on the same thing, copy the issue so there's one for each team.  **Every issue should have one, and only one,** `Service:`  l**abel**
-*   **Project** and/or **Product** labels, if applicable
+* [**Team**](https://github.com/cityofaustin/atd-data-tech/labels?q=Team%3A) — The DTS service team who will be doing the work. If there are two teams working on the same thing, copy the issue so there's one for each team.  **Every issue should have one, and only one,** `Service:`  l**abel.**
+*   At least one **Project**, **Product,** or **Service** label.&#x20;
 
-    * [**Projects**](https://github.com/cityofaustin/atd-data-tech/labels?q=Project%3A) refer to a substantial scope of related work that will reach a state of relative completion, such as the [AGOL Audit](https://github.com/cityofaustin/atd-data-tech/issues/253)&#x20;
-    * [**Products**](https://github.com/cityofaustin/atd-data-tech/labels?q=Product%3A+) are solutions that we continue to support over time, including all in-house applications, such as the Vision Zero Crash Data System
+    * [**Projects**](https://github.com/cityofaustin/atd-data-tech/labels?q=Project%3A) are time-boxed endeavors — whether [identifying a vendor solution](https://github.com/cityofaustin/atd-data-tech/issues/65), [building a major feature for an existing Product](https://github.com/cityofaustin/atd-data-tech/issues/533), [overhauling a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254), or [delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911). They accomplish a singular goal and have a defined completion date.
+    * [**Products**](https://austinmobility.io/services) are solutions that we continue to support over time, including all in-house applications, such as the [Finance and Purchasing Portal](https://austinmobility.io/products/2903) and the [Vision Zero Crash Data System](https://austinmobility.io/products/255).
+    * [**Services**](https://austinmobility.io/services) are ongoing consultations, training, or assistance to support the use of data and technology. Each DTS team offers multiple services, such as [Geodata Quality Control](https://austinmobility.io/services/28553) and [Software License Administration & Installation](https://austinmobility.io/services/27294).&#x20;
 
-    Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to AMD Data Tracker and the Finance and Inventory App, so it needed both **Product** and **Project** labels.&#x20;
+    Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to [AMD Data Tracker](https://austinmobility.io/products/2068), so it needed both **Product** and **Project** labels.&#x20;
 
 ### Optional labels
 
@@ -111,6 +112,10 @@ Like labels, **estimates are required** because they are a critical component of
 * [Velocity tracking](https://www.zenhub.com/blog/track-your-speed-of-work-with-agile-velocity-charts/) — i.e. predicting the likelihood we can complete a project by a given date
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 5.33.29 PM.png" alt=""><figcaption></figcaption></figure>
+
+Curious why we use Fibonacci numbers for our estimates? Check out this lengthy explanation
+
+.&#x20;
 
 ## Assignees
 
