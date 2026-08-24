@@ -131,6 +131,10 @@ Like labels, **estimates are required** because they are a critical component of
 
 _Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._&#x20;
 
+<figure><img src="../.gitbook/assets/DTS Product - Estimate Chart (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+Curious why we use&#x20;
+
 ## Assignees
 
 An issue should be assigned to the person/people who will tackle it. This enables team members to filter down to issues they are responsible for easily.
