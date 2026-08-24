@@ -82,7 +82,7 @@ You can apply labels by clicking the "Labels" heading in an issue's right-hand s
 
 Accurate labeling is necessary for several reasons:&#x20;
 
-* Labels allow us to view related issues across the Zenhub pipelines. For example, during Apps Team Sprint Planning, we filter down to  `Service: Apps` and during our periodic meetings with AMD we use the `Workgroup: AMD` label to look at all the work — across teams, of all sizes — that we're doing for them. &#x20;
+* Labels allow us to view related issues across the Zenhub pipelines. For example, during Apps Team Sprint Planning, we filter down to  `Team: Apps` and during our periodic meetings with AMD we use the `Workgroup: AMD` label to look at all the work — across teams, of all sizes — that we're doing for them. &#x20;
 * Labels are also used to populate [content on the DTS website](https://austinmobility.io/projects).&#x20;
 * Finally, labels are critical to the [service delivery data](https://data.austintexas.gov/Transportation-and-Mobility/Transportation-Public-Works-Data-Tech-Services-Iss/rzwg-fyv8/about_data) that we use to track, analyze, and improve our work.
 
