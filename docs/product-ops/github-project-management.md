@@ -127,11 +127,10 @@ Like labels, **estimates are required** because they are a critical component of
 * Stakeholder discussions when prioritizing features — being able to show stakeholders easily that we can accomplish, say, three small tasks, two medium, or one large
 * [Velocity tracking](https://www.zenhub.com/blog/track-your-speed-of-work-with-agile-velocity-charts/) — i.e. predicting the likelihood we can complete a project by a given date
 
-<figure><img src="../.gitbook/assets/Screenshot 2026-08-21 at 5.33.29 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DTS Product - Estimate Chart.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Curious why we use [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_sequence) numbers for our estimates? Check out this [lengthy explanation](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points).&#x20;
+_Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._&#x20;
 
 ## Assignees
 
 An issue should be assigned to the person/people who will tackle it. This enables team members to filter down to issues they are responsible for easily.
-
