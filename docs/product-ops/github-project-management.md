@@ -127,6 +127,8 @@ Like labels, **estimates are required** because they are a critical component of
 * Stakeholder discussions when prioritizing features — being able to show stakeholders easily that we can accomplish, say, three small tasks, two medium, or one large
 * [Velocity tracking](https://www.zenhub.com/blog/track-your-speed-of-work-with-agile-velocity-charts/) — i.e. predicting the likelihood we can complete a project by a given date
 
+<figure><img src="../.gitbook/assets/DTS Product  - Estimates (1).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/DTS Product - Estimate Chart.png" alt="" width="563"><figcaption></figcaption></figure>
 
 _Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._&#x20;
