@@ -1,6 +1,6 @@
 # Index Issue Specifications
 
-We use "index" Github issues to centralize information about each of our projects and products. It is critical that these issues follow a standard labeling scheme and content format so that [DTS' project data](https://data.austintexas.gov/Transportation-and-Mobility/ATD-Data-Tech-Services-Issues/rzwg-fyv8/) is accurate, team members work is coordinated and efficiently tracked, and we have an accessible, high-level view of the project/product on the [DTS Website](https://product.austinmobility.io).
+We use "index" Github issues to centralize information about each of our products, projects, and services. It is critical that these issues follow a standard labeling scheme and content format so that [DTS's service data](https://data.austintexas.gov/Transportation-and-Mobility/ATD-Data-Tech-Services-Issues/rzwg-fyv8/) is accurate, daily work is coordinated and easily tracked, and the [DTS Website](https://product.austinmobility.io) and [DTS Portfolio GitHub Project](https://github.com/orgs/cityofaustin/projects/27) provides a reliably overview of our work.&#x20;
 
 {% hint style="info" %}
 Create a new Project or Product Index by selecting the [appropriate issue template](https://github.com/cityofaustin/atd-data-tech/issues/new/choose) from the `atd-data-tech`Github repository.&#x20;
