@@ -1,6 +1,30 @@
 # Index Issue Specifications
 
-We use "index" Github issues to centralize information about each of our products, projects, and services. It is critical that these issues follow a standard labeling scheme and content format so that [DTS's service data](https://data.austintexas.gov/Transportation-and-Mobility/ATD-Data-Tech-Services-Issues/rzwg-fyv8/) is accurate, daily work is coordinated and easily tracked, and the [DTS Website](https://product.austinmobility.io) and [DTS Portfolio GitHub Project](https://github.com/orgs/cityofaustin/projects/27) provides a reliably overview of our work.&#x20;
+We use "index" GitHhub issues to centralize information about each of our products, projects, and services. These issues must follow a standard labeling scheme and content format so that [DTS's service data](https://data.austintexas.gov/Transportation-and-Mobility/ATD-Data-Tech-Services-Issues/rzwg-fyv8/) is accurate and daily work is coordinated. Furthermore, our key communication platforms, the [DTS Website](https://product.austinmobility.io) and [DTS Portfolio GitHub Project](https://github.com/orgs/cityofaustin/projects/27), can provide a reliably accessible and up-to-date overview of our work.&#x20;
+
+There are three index issue types—Services, Products, and Projects.
+
+## Services
+
+[Services](https://austinmobility.io/services) are...
+
+## **Products**
+
+[Products](https://austinmobility.io/products) are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Transportation and Public works as operations, technology, and business needs evolve. Examples include:
+
+* [Finance & Purchasing Portal](https://github.com/cityofaustin/atd-data-tech/issues/2903)
+* [TPW 311 CSR Dashboards](https://github.com/cityofaustin/atd-data-tech/issues/22605)
+* [Vision Zero Crash Data System](https://github.com/cityofaustin/atd-data-tech/issues/255)
+
+## Projects
+
+[Projects](https://austinmobility.io/projects) are time-boxed endeavors. They accomplish a singular goal and have a defined completion date. Examples include:
+
+* [Recommending an off-the-shelf externally-supported solution](https://github.com/cityofaustin/atd-data-tech/issues/65)
+* [Building a new feature in an existing DTS product](https://github.com/cityofaustin/atd-data-tech/issues/533)
+* [Refactoring one of our major datasets](https://github.com/cityofaustin/atd-data-tech/issues/254)
+* [Delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911)
+* [Delivering the first iteration (MVP) of a new DTS product](https://github.com/cityofaustin/atd-data-tech/issues/307)
 
 {% hint style="info" %}
 Create a new Project or Product Index by selecting the [appropriate issue template](https://github.com/cityofaustin/atd-data-tech/issues/new/choose) from the `atd-data-tech`Github repository.&#x20;

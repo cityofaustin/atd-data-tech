@@ -1,15 +1,5 @@
 # Project Delivery Workflow
 
-[**Products**](https://austinmobility.io/products) are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Austin Transportation as business needs evolve.&#x20;
-
-[**Projects**](https://austinmobility.io/projects) are time-boxed endeavors. They accomplish a singular goal and have a defined completion date. Examples include:
-
-* [Recommending an off-the-shelf externally-supported solution](https://github.com/cityofaustin/atd-data-tech/issues/65)
-* Delivering the first iteration (MVP) of a new DTS product
-* [Building a major feature for an existing DTS project](https://github.com/cityofaustin/atd-data-tech/issues/533)
-* [Refactoring a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254)
-* [Delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911)
-
 ## Project Initiation
 
 Oftentimes, our customers initiate a project by submitting a DTS service request that is notably large and/or important.&#x20;
@@ -47,6 +37,16 @@ Move the issue to the "Needs Scoping" Zenhub pipeline.&#x20;
 {% hint style="info" %}
 Sometimes we realize that the request isn't actually project-sized during the intake meeting or the builder huddle. No worries, we had a good opportunity to learn more about our customers' work. Might make sense to organize this work as an [epic](github-project-management.md#epics), once the time comes.&#x20;
 {% endhint %}
+
+## Evaluation
+
+### Effort
+
+Product Managers work with builders—the Apps, Dev, Data Science, or Geo teams—to assess the level of effort for a project.&#x20;
+
+### Value
+
+A project's predicted value is added to the [Product Sync agenda](https://docs.google.com/document/d/1SA3iEyfiBlnxgx2miYn5EncVeUrQyOtUfAk-93574z8/edit#heading=h.o10gj6a8so5p) so that the Product team can review it as a group and determine a score together.&#x20;
 
 ## Product Sync
 

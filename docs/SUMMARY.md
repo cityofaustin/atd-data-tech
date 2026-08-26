@@ -24,8 +24,8 @@
 ## Product Ops
 
 * [Managing Services & Projects with GitHub](product-ops/github-project-management.md)
-* [Project Delivery Workflow](product-ops/project-delivery-workflow.md)
 * [Index Issue Specifications](product-ops/index-issue-specifications.md)
+* [Project Delivery Workflow](product-ops/project-delivery-workflow.md)
 * [DTS Website Management](product-ops/dts-website.md)
 * [Product Manager Assignments](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355)
 
