@@ -21,14 +21,14 @@ Status is the way we track issues across various stages of completion. We use th
 
 * **New** - Awaiting triage by the Service Desk, Team Lead, or Product Manager
 * **Needs Scoping** - Potential projects or features that require clarification or exploration before presenting to builders for estimation and prioritizing
-* **Backlog** - Issues that are ready to be tackled by the team when the time comes&#x20;
-* **On Deck** - Slated for work in the current sprint. During Sprint Planning, we pull all issues that we intend to work on during the sprint into On Deck
+* **Backlog** - Ready to be tackled by the team when the time comes&#x20;
+* **On Deck** - Slated for work in the current sprint
+* **In Progress** - Actively underway
+* **Review/QA** - Proposed as complete - pending teammate or stakeholder sign-off
 * **Blocked** - Issues that cannot be completed — often waiting on ATS or user feedback
-* **In Progress** - Pretty much just what it sounds like 🙂 All issues in this pipeline need an assigned owner who is responsible for its completion.
-* **Ongoing** - Continually supported products and activities
-* **Review/QA** - Proposed as complete but awaiting approval  — code review and/or acceptance testing — before closure
-* **Closed** - No longer on our to-do list, for whatever reason.&#x20;
-* **Icebox** - Lack of evidence of overall value or applicability now, but potentially worthwhile in the future
+* **Closed** - Completed, closed as not planned, or closed as a duplicate
+* **Ongoing** - A continual service, product, or task - no projects, no epics
+* **Icebox** - Not under consideration at this time
 
 {% hint style="info" %}
 Closing an issue, by default, records it as something we completed. If it's closed for a different reason, you can click the caret on the "Close" button to note this:&#x20;
