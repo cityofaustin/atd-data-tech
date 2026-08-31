@@ -1,0 +1,52 @@
+name: Assign Project based on DTS Team issue field
+
+on:
+  issues:
+    types: [field_added, field_removed]
+
+jobs:
+  log-dts-team:
+    if: github.event.issue_field.name == 'DTS Team'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log DTS Team value
+        run: |
+          echo 'Action: ${{ github.event.action }}'
+          echo 'Value: ${{ github.event.issue_field_value.option.name }}'
+
+  add-to-team-project:
+    if: >-
+      github.event.issue_field.name == 'DTS Team' &&
+      github.event.action == 'field_added'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Look up project number for team
+        id: lookup
+        env:
+          TEAM: ${{ github.event.issue_field_value.option.name }}
+        run: |
+          declare -A DTS_TEAMS=(
+            ["Apps"]=16
+            ["Data Science"]=19
+            ["Dev"]=25
+            ["ECM"]=22
+            ["Geo"]=6
+            ["Maximo"]=18
+            ["Product"]=23
+            ["Tech Services"]=21
+            ["Operations"]=20
+          )
+          number="${DTS_TEAMS[$TEAM]}"
+          if [ -z "$number" ]; then
+            echo "No project mapped for team '$TEAM'; skipping."
+            echo "project-number=" >> "$GITHUB_OUTPUT"
+          else
+            echo "project-number=$number" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Add issue to team project
+        if: steps.lookup.outputs.project-number != ''
+        uses: actions/add-to-project@v1.0.2
+        with:
+          project-url: https://github.com/orgs/cityofaustin/projects/${{ steps.lookup.outputs.project-number }}
+          github-token: ${{ secrets.PROJECT_MANAGEMENT_PAT }}
