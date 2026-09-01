@@ -6,7 +6,9 @@ on:
 
 jobs:
   log-dts-team:
-    if: github.event.issue_field.name == 'DTS Team'
+    if: >-
+      github.event.issue_field.name == 'DTS Team' &&
+      github.event.issue.type.name == 'Task'
     runs-on: ubuntu-latest
     steps:
       - name: Log DTS Team value
@@ -17,7 +19,8 @@ jobs:
   add-to-team-project:
     if: >-
       github.event.issue_field.name == 'DTS Team' &&
-      github.event.action == 'field_added'
+      github.event.action == 'field_added' &&
+      github.event.issue.type.name == 'Task'
     runs-on: ubuntu-latest
     steps:
       - name: Look up project number for team
