@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: TPW Data & Technology Services Wiki
+  structure:
+    - type: space
+      key: space-1
+      title: TPW Data & Technology Services Wiki
+      path: wiki
+      default: true
+      content:
+        directory: ./docs
