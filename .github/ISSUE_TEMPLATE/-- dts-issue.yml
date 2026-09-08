@@ -4,6 +4,7 @@ title: "Begin with a verb and summarize the work to be completed"
 labels:
   - "[Product] :bulb: OPTIONAL"
   - "[Project] :bulb: OPTIONAL"
+  - "[Service] :bulb: OPTIONAL"
   - "[Team] :rotating_light: MISSING"
   - "[Workgroup] :rotating_light: MISSING"
 type: Task
