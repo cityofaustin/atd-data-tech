@@ -40,7 +40,7 @@ If the work wasn't executed, make sure to delete the estimate from the issue so 
 
 ## Issues
 
-Tracking our work in issues not only helps us stay organized, it gives us data on where we're spending our time. To create an issue, click the green "New issue" button in the upper right corner of the ["Issues" page](https://github.com/cityofaustin/atd-data-tech/issues), or bookmark a link to [this DTS issue form](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--%20dts-issue.yml).&#x20;
+Tracking our work in issues not only helps us stay organized, it gives us important data on where we're spending our time, how to prioritize work, . or bookmark a link to [this DTS issue form](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--%20dts-issue.yml).&#x20;
 
 ![Screenshot of the Issues page with the "New issue" button circled. ](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-new-issue.png?raw=true)
 
@@ -88,8 +88,8 @@ Accurate labeling is necessary for several reasons:&#x20;
 
 ### Required labels
 
-* [**Workgroup**](https://github.com/cityofaustin/atd-data-tech/labels?q=Workgroup%3A+) — the customer we're serving; `Workgroup: DTS` for internal work and `Workgroup: TPW` for department-wide work. **Every issue should have one, and only one,** `Workgroup:`  l**abel**.
-* [**Team**](https://github.com/cityofaustin/atd-data-tech/labels?q=Team%3A) — The DTS service team who will be doing the work. If there are two teams working on the same thing, copy the issue so there's one for each team. &#x20;
+* [**Workgroup**](https://github.com/cityofaustin/atd-data-tech/labels?q=Workgroup%3A+) - the customer we're serving; `Workgroup: DTS` for internal work and `Workgroup: TPW` for department-wide work. **Every issue should have one, and only one,** `Workgroup:`  l**abel**.
+* [**Team**](https://github.com/cityofaustin/atd-data-tech/labels?q=Team%3A) - the DTS service team who will be doing the work. If there are two teams working on the same thing, copy the issue so there's one for each team. &#x20;
   * Products, Services, and **Tasks should have one, and only one,** `Team:` **label**.
   * Projects and Epics may be assigned to multiple teams.&#x20;
 *   At least one **Project**, **Product,** or **Service** label.&#x20;
@@ -104,18 +104,19 @@ Accurate labeling is necessary for several reasons:&#x20;
 
 A DTS team or individual product manager may find these additional label categories helpful&#x20;
 
-* ​[**Type**](https://github.com/cityofaustin/atd-data-tech/labels?q=Type%3A) — The type of request or task
-* [**Impact**](https://github.com/cityofaustin/atd-data-tech/labels?q=Impact%3A+) — The effect of a bug, infrastructure failure, etc.
+* ​[**Type**](https://github.com/cityofaustin/atd-data-tech/labels?q=Type%3A) - The type of request or task
+* [**Workgroup**](https://github.com/cityofaustin/atd-data-tech/labels?q=Workgroup) - Specific teams within TPW divisions, e.g. Street & Bridge Operations has 5 workgroups—District Maintenance, Logistics, Pavement Operations, Infrastructure Operations, Utilities and Structures
+* [**Impact**](https://github.com/cityofaustin/atd-data-tech/labels?q=Impact%3A+) - The effect of a bug, infrastructure failure, etc.
   * `Impact: 1-Severe` — Severely impacts TPW service delivery&#x20;
   * `Impact: 2-Major` — Causes a major interruption of TPW service delivery
   * `Impact: 3-Minor` — Deteriorates TPW service delivery
   * `Impact: 4-None` — Does not affect TPW service delivery&#x20;
-* [**Need**](https://github.com/cityofaustin/atd-data-tech/labels?q=Need%3A) —  To designate priority of a potential feature or enhancement
+* [**Need**](https://github.com/cityofaustin/atd-data-tech/labels?q=Need%3A) - To designate priority of a potential feature or enhancement
   * `Impact: 1-Severe` — Severely impacts TPW service delivery
   * `Impact: 2-Major` — Causes a major interruption of TPW service delivery
   * `Impact: 3-Minor` — Deteriorates TPW service delivery
   * `Impact: 4-None` — Does not affect TPW service delivery
-* [**Provider**](https://github.com/cityofaustin/atd-data-tech/labels?q=Provider%3A) — The external team or vendor executing the issue&#x20;
+* [**Provider**](https://github.com/cityofaustin/atd-data-tech/labels?q=Provider%3A) - The external team or vendor executing the issue
 
 ## Estimates
 
@@ -127,15 +128,9 @@ Like labels, **estimates are required** because they are a critical component of
 * Stakeholder discussions when prioritizing features — being able to show stakeholders easily that we can accomplish, say, three small tasks, two medium, or one large
 * [Velocity tracking](https://www.zenhub.com/blog/track-your-speed-of-work-with-agile-velocity-charts/) — i.e. predicting the likelihood we can complete a project by a given date
 
-<figure><img src="../.gitbook/assets/DTS Product  - Estimates (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/DTS Product - Estimate Chart.png" alt="" width="563"><figcaption></figcaption></figure>
 
 _Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._&#x20;
-
-<figure><img src="../.gitbook/assets/DTS Product - Estimate Chart (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-Curious why we use&#x20;
 
 ## Assignees
 
