@@ -1,5 +1,1 @@
 .DS_Store
-*.csv
-dev/toolbox/*.csv
-dev/toolbox/*.ipynb
-dev/data_cleaning/.ipynb_checkpoints
