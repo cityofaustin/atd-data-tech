@@ -2,7 +2,7 @@ name: Assign Project based on DTS Team issue field
 
 on:
   issues:
-    types: [field_added, field_removed]
+    types: [field_added]
 
 jobs:
   log-dts-team:
@@ -19,7 +19,6 @@ jobs:
   add-to-team-project:
     if: >-
       github.event.issue_field.name == 'DTS Team' &&
-      github.event.action == 'field_added' &&
       github.event.issue.type.name == 'Task'
     runs-on: ubuntu-latest
     steps:
