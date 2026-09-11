@@ -8,7 +8,7 @@ jobs:
   log-dts-team:
     if: >-
       github.event.issue_field.name == 'DTS Team' &&
-      github.event.issue.type.name == 'Task'
+      contains(fromJSON('["Task","Product","Service"]'), github.event.issue.type.name)
     runs-on: ubuntu-latest
     steps:
       - name: Log DTS Team value
@@ -19,7 +19,7 @@ jobs:
   add-to-team-project:
     if: >-
       github.event.issue_field.name == 'DTS Team' &&
-      github.event.issue.type.name == 'Task'
+      contains(fromJSON('["Task","Product","Service"]'), github.event.issue.type.name)
     runs-on: ubuntu-latest
     steps:
       - name: Look up project number for team
