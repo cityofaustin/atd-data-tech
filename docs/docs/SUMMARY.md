@@ -29,16 +29,6 @@
 * [DTS Website Management](product-ops/dts-website.md)
 * [Product Manager Assignments](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355)
 
-## Developer
-
-* [Dockless-Mobility](developer/dockless-mobility.md)
-* [Docker](developer/docker.md)
-* [PostgREST](developer/postgrest/README.md)
-  * [Pypgrest (Python Client)](developer/postgrest/pypgrest.md)
-  * [Jobs-API](developer/postgrest/jobs-api.md)
-* [Python](developer/python.md)
-* [Server Operation](developer/server-operation.md)
-
 ***
 
 * [Product Manager Portfolios](product-manager-portfolios.md)
