@@ -1,5 +1,5 @@
 # .github/ISSUE_TEMPLATE/all-purpose-project-index.yml
-name: "Service Index"
+name: "Form: Project Index"
 description: "Essential information for all DTS projects. Feeds the DTS website and the DTS Portfolio."
 title: "Project: [Your Project Name in Title Case]"
 # Sets the org-level issue type. The DTS issue fields (DTS Status, DTS Teams,
