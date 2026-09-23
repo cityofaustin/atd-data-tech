@@ -1,286 +1,235 @@
-name: "Form: Project Index"
-description: High-level project summary for prioritization and communications
-title: "[Project]: "
-labels: ["Project Index"]
+# .github/ISSUE_TEMPLATE/all-purpose-project-index.yml
+name: "[All-Purpose] Project Index"
+description: "Essential information for all DTS projects. Feeds the DTS website and the DTS Portfolio."
+title: "Project: [Your Project Name in Title Case]"
+# Sets the org-level issue type. The DTS issue fields (DTS Status, DTS Teams,
+# TPW Divisions, DTS Start Date, DTS End Date, DTS Description) are pinned to
+# this type, so they appear in the issue sidebar as soon as it's created.
 type: Project
+# Adds every new issue to the DTS Portfolio project automatically.
+projects: ["cityofaustin/27"]
+labels: []
+assignees: []
+
 body:
+  # ---------------------------------------------------------------------------
+  # `markdown` blocks show in the form but are NOT submitted with the issue.
+  # Use them for instructions; use field `description`s for per-field guidance.
+  # ---------------------------------------------------------------------------
   - type: markdown
     attributes:
       value: |
-        ## PROJECT-AT-A-GLANCE
-        
-  - type: textarea
-    id: summary
-    attributes:
-      label: Summary
-      description: Brief overview of what this project will accomplish
-      placeholder: This project will address...
-    validations:
-      required: true
-      
-  - type: input
-    id: program-area
-    attributes:
-      label: Program Area
-      placeholder: e.g., Data & Technology Services
-    validations:
-      required: true
-      
-  - type: input
-    id: division
-    attributes:
-      label: Division
-      placeholder: e.g., Austin Transportation and Public Works
-    validations:
-      required: true
-      
-  - type: input
-    id: requestor
-    attributes:
-      label: Requestor
-      placeholder: Name of person requesting this project
-    validations:
-      required: true
-      
-  - type: input
-    id: executive-sponsor
-    attributes:
-      label: Executive Sponsor
-      placeholder: Name of executive sponsor
-    validations:
-      required: false
-      
-  - type: input
-    id: division-sponsor
-    attributes:
-      label: Division Sponsor
-      placeholder: Name of division sponsor
-    validations:
-      required: false
-      
-  - type: input
-    id: business-sponsor
-    attributes:
-      label: Business Sponsor
-      placeholder: Name of business sponsor
-    validations:
-      required: false
+        ## Project index issue
+        This issue is the single source of truth for a DTS project. It shows up on the [DTS website](https://austinmobility.io/) and in the DTS Portfolio, so the **Description**, **Image**, **DTS Teams**, **TPW Divisions**, **Start date**, and **End date** below are required.
 
-  - type: markdown
-    attributes:
-      value: |
-        ## PROJECT OBJECTIVES
-        
+        You probably won't have everything else until you scope the project—that's okay. Fill in what you know now and edit the issue as you learn more. Project status is documented in the comments.
+
+        > **Heads up:** descriptions will soon populate the website project tiles directly (instead of an excerpt of this issue), so write the description as if it's the only thing a reader will see.
+
   - type: textarea
-    id: objectives
+    id: description
     attributes:
-      label: Objectives
-      description: List the key objectives for this project (one per line with bullet points)
-      placeholder: |
-        - Objective 1
-        - Objective 2
-        - Objective 3
+      label: Description
+      description: |
+        **Begin with a verb** and summarize the project concisely, identifying the stakeholders/users as well as the intended outcome. Keep it jargon- and acronym-free—a TPW staff person, a Council member, or a prospective DTS intern should be able to understand it. **255 characters max**—this is copied verbatim into the `DTS Description` issue field.
+
+        Examples:
+        - *Add a warehouse inventory module to Signs & Markings Data Tracker to track inventory in real time, view turnover rates, and give the TPW Finance division visibility into these expenditures*
+        - *Use ArcGIS Hub to build Dash 2.0, a central point to find TPW's authoritative dashboards, maps, and apps all in one place*
+      placeholder: "Build/Implement/Evaluate/Migrate ... for ... so that ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: image
+    attributes:
+      label: Image
+      description: |
+        The first image in this issue is the project's thumbnail on the DTS website. The Austin checkered brand pattern is pre-filled as the default. To use your own, drag and drop an image that follows the [index issue image guidelines](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images) and **delete the default line** so yours is first. Good sources: the DTS docs image library, the TPW Flickr, or the DTS image stash folder.
+      # Pinned to a commit SHA so the image keeps resolving even if the file moves later.
+      value: |
+        ![Austin checkered brand pattern](https://raw.githubusercontent.com/cityofaustin/atd-data-tech/d8bbf33930190731d784d21ac2674b617c0f19ef/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png)
     validations:
       required: true
 
   - type: markdown
     attributes:
       value: |
-        ## PROJECT DETAILS
-        
-  - type: textarea
-    id: dependencies
-    attributes:
-      label: Dependencies
-      description: External dependencies, teams, or resources needed
-      placeholder: List any dependencies...
-    validations:
-      required: false
-      
-  - type: textarea
-    id: complexities
-    attributes:
-      label: Complexities
-      description: Technical or organizational complexities to be aware of
-      placeholder: Describe any complexities...
-    validations:
-      required: false
-      
-  - type: textarea
-    id: risks
-    attributes:
-      label: Risks
-      description: Potential risks that could impact timeline or success
-      placeholder: Identify potential risks...
-    validations:
-      required: false
-      
-  - type: textarea
-    id: mitigation
-    attributes:
-      label: Mitigation
-      description: Strategies to address identified risks
-      placeholder: Mitigation strategies...
-    validations:
-      required: false
+        ### DTS issue fields
+        **DTS Teams**, **TPW Divisions**, **DTS Start Date**, and **DTS End Date** are `cityofaustin` organization-wide issue fields pinned to the `Project` issue type. This form can't set them, so record your answers here, then copy them into the issue fields in the sidebar after you submit.
 
-  - type: markdown
-    attributes:
-      value: |
-        ## PROJECT SCOPE
-        
-  - type: textarea
-    id: in-scope
-    attributes:
-      label: In-Scope
-      description: What is included in this project (one item per line with bullet points)
-      placeholder: |
-        - Item 1
-        - Item 2
-    validations:
-      required: true
-      
-  - type: textarea
-    id: out-of-scope
-    attributes:
-      label: Out-of-Scope
-      description: What is explicitly not included (one item per line with bullet points)
-      placeholder: |
-        - Item 1
-        - Item 2
-    validations:
-      required: false
-
-  - type: markdown
-    attributes:
-      value: |
-        ## PROJECT RANKING
-        
   - type: dropdown
-    id: priority
+    id: dts-teams
     attributes:
-      label: Priority
-      description: How urgent is this project?
+      label: DTS Teams
+      description: "Every Builder team significantly involved in the project. Choose `Product` **only** if this is a *purely* Product project, like a software procurement. Values match the `DTS Teams` issue field."
+      multiple: true
+      # Option format is "<field value> (<hint>)". The project-index-issue-fields
+      # workflow strips the parenthetical and copies the value into the issue
+      # field, so keep the value exact and keep commas out of the hint.
       options:
-        - High
-        - Medium
-        - Low
+        - Apps (Application Solutions)
+        - Data Science (Data Science Solutions)
+        - Dev (Software Engineering)
+        - ECM (Enterprise Case Management)
+        - Geo (Geospatial Solutions)
+        - Maximo
+        - Product (Product Management)
+        - Tech Services (Technology Services)
+        - Operations (budgeting / team management / departmental reporting)
     validations:
       required: true
-      
-  - type: dropdown
-    id: value
-    attributes:
-      label: Value
-      description: What is the business value?
-      options:
-        - High
-        - Medium
-        - Low
-    validations:
-      required: true
-      
-  - type: dropdown
-    id: complexity
-    attributes:
-      label: Complexity
-      description: How complex is the implementation?
-      options:
-        - High
-        - Medium
-        - Low
-    validations:
-      required: true
-      
-  - type: dropdown
-    id: risk
-    attributes:
-      label: Risk
-      description: What is the overall risk level?
-      options:
-        - High
-        - Medium
-        - Low
-    validations:
-      required: true
-      
-  - type: input
-    id: funding
-    attributes:
-      label: Funding
-      description: Funding source(s)
-      placeholder: e.g., General Fund, Grant, External Partner
-    validations:
-      required: false
 
-  - type: markdown
+  - type: dropdown
+    id: tpw-divisions
     attributes:
-      value: |
-        ## STRATEGIC ALIGNMENT
-        
-  - type: checkboxes
-    id: strategic-alignment
-    attributes:
-      label: Which strategic areas does this project align with?
-      description: Select all that apply
+      label: TPW Divisions
+      description: "The divisions served by this project. Use `TPW` for work used department-wide, but **also** add the divisions that requested the project or will manage the result. Values match the `TPW Divisions` issue field."
+      multiple: true
+      # Same "<field value> (<hint>)" convention as DTS Teams above.
       options:
-        - label: People and Culture
-        - label: Innovative Technology
-        - label: Service Delivery
-        - label: Cybersecurity
-        - label: Governance & Accountability
+        - TPW (Transportation Public Works — department-wide)
+        - Admin (Administration)
+        - AMD (Arterial Management)
+        - ATSD (Active Transportation & Street Design)
+        - CCG (Construction Coordination Group)
+        - CSD (Community Services)
+        - DM (District Maintenance)
+        - DTS (Data & Technology Services)
+        - EM (Emergency Management)
+        - Equity
+        - Finance
+        - HR (Human Resources)
+        - LA (Legislative Affairs)
+        - LDE (Land Development Engineering)
+        - Logistics
+        - OCE (Office of the City Engineer)
+        - OPM (Office of Performance Management)
+        - OSE (Office of Special Events)
+        - PD (Project Delivery)
+        - PE (Parking Enterprise)
+        - PIO (Public Information Office)
+        - PO (Pavement Operations)
+        - ROW (Right-of-Way Management)
+        - SBO (Infrastructure Operations)
+        - SDD (Systems Development)
+        - SMD (Signs & Markings)
+        - SMP (Strategic Mobility Projects)
+        - SP (Strategic Projects)
+        - SUTD (Sidewalks & Urban Trails Division)
+        - TDS (Transportation Development Services)
+        - TED (Transportation Engineering)
+        - UF (Urban Forestry)
+        - US (Utilities & Structures)
+        - VZ (Vision Zero)
+    validations:
+      required: true
 
-  - type: markdown
-    attributes:
-      value: |
-        ## MILESTONES
-        
   - type: input
     id: start-date
     attributes:
-      label: Start Date
-      description: When will this project start?
-      placeholder: TBD or YYYY-MM-DD
+      label: DTS Start Date
+      description: Approximate date the project began (or will begin).
+      placeholder: YYYY-MM-DD
     validations:
-      required: false
-      
+      required: true
+
   - type: input
-    id: initiating-planning
+    id: end-date
     attributes:
-      label: Initiating & Planning Duration
-      placeholder: e.g., 1 week
+      label: DTS End Date
+      description: Expected completion date. Required, but always subject to change—update it as the picture gets clearer. Lingering subtasks aren't a reason to keep this issue open past completion.
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Project details
+        Optional, but the more you fill in now the less archaeology you'll do later. Leave a section blank if you don't know yet.
+
+  - type: textarea
+    id: background
+    attributes:
+      label: Background
+      description: Clarify the organizational/operational context of this work. You may also want to add references in the References section below.
     validations:
       required: false
-      
+
+  - type: textarea
+    id: desired-outcomes
+    attributes:
+      label: Desired Outcomes
+      description: "Beyond the deliverables themselves, what will be different when this work is complete? What metrics are we using to measure success?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: scope-deliverables
+    attributes:
+      label: Scope & Deliverables
+      description: "What platform? What's in scope, and (importantly!) what isn't? Are there constraints or potential roadblocks/challenges?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: timeframe-notes
+    attributes:
+      label: Timeframe notes
+      description: Caveats on the start/end dates above—phases, dependencies, or reasons the schedule is unpredictable.
+    validations:
+      required: false
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Helpful documents and links for easy reference. Delete any lines you don't need.
+      value: |
+        - Drive folder:
+        - Application login page:
+        - Miro board:
+        - GitHub Project view:
+    validations:
+      required: false
+
   - type: input
-    id: development-reworks
+    id: requested-by
     attributes:
-      label: Development & Reworks Duration
-      placeholder: e.g., 3 weeks
+      label: Requested by
+      placeholder: Name, division
     validations:
       required: false
-      
+
   - type: input
-    id: user-training-testing
+    id: executive-sponsor
     attributes:
-      label: User Training & Testing Duration
-      placeholder: e.g., 1 week
+      label: Executive sponsor
+      placeholder: Name, title
     validations:
       required: false
-      
-  - type: input
-    id: go-live-support
+
+  - type: textarea
+    id: footer
     attributes:
-      label: Go-Live & Support Duration
-      placeholder: e.g., 1 week
+      label: About this issue
+      description: Leave as-is. This boilerplate appears on every project index issue.
+      value: |
+        This GitHub issue represents a [Data & Technology Services](https://austinmobility.io/) project for [Austin Transportation and Public Works](https://www.austintexas.gov/transportation-public-works). Project status is documented regularly in the comments below.
     validations:
       required: false
-      
-  - type: input
-    id: estimated-length
+
+  - type: markdown
     attributes:
-      label: Estimated Project Length
-      description: Total estimated duration
-      placeholder: e.g., 6 weeks
-    validations:
-      required: false
+      value: |
+        ### After you submit
+        Issue fields, labels, and project membership can't be set by this form, so a few manual steps remain.
+
+  - type: checkboxes
+    id: after-submit
+    attributes:
+      label: Follow-up checklist
+      options:
+        - label: "Check the sidebar: the DTS issue fields are filled in automatically from the answers above, but a bad date or an over-long description gets skipped (see the Actions run). Set `DTS Status`."
+        - label: "Create a new `Project:` label at https://github.com/cityofaustin/atd-data-tech/labels (hex `#3D3D3D`) and apply it here"
