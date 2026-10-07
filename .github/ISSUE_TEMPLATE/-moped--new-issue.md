@@ -17,14 +17,16 @@ type: task
 
 <!-- Optional sections: delete any you don't need -->
 
-**Out of Scope**
-- 
 
 **Screenshots / Wireframes**
 <!-- Current behavior, mockups, or error messages -->
 
 **Related**
 <!-- Related, blocking, or follow-up issues and PRs (#1234), Slack threads, docs -->
+
+**Out of Scope**
+- 
+
 
 **Questions**
 - 
