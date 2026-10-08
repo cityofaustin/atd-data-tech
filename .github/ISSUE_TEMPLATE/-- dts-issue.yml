@@ -3,7 +3,7 @@ description: Create a new issue meeting DTS standards.
 title: "Begin with a verb and summarize the work to be completed"
 labels:
   - "[Product] :bulb: OPTIONAL"
-  - "[Project] or [Service] :rotating_light: REQUIRED"
+  - "[Project] or [Service] 🚨 REQUIRED"
 type: Task
 body:
   - type: markdown
