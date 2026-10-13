@@ -2,8 +2,8 @@ name: "DTS Issue"
 description: Create a new issue meeting DTS standards.
 title: "Begin with a verb and summarize the work to be completed"
 labels:
-  - "[Product] :bulb: if applicable"
   - "[Project] or [Service] :x: MISSING"
+  - "[Product] :bulb: if applicable"
 type: Task
 body:
   - type: markdown
