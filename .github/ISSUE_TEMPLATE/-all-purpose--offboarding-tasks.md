@@ -3,9 +3,12 @@ name: "[All-Purpose] Offboarding Tasks"
 about: Checklist for all tasks a supervisor must complete to offboard a DTS team member
 title: Offboard [Team Member Name]
 assignees: 'amenity,frankhereford,karoengstrom,johnclary,mateoclarke'
-type: Task
+type: Epic
 
 ---
+
+_If any of the following tasks are time-consuming (e.g. Knack apps, GitHub issue reassignment), convert them to subtasks of this Epic._
+
 
 **Enterprise**
 - [ ] Submit a [Separation Employee Request Form (SERF)](https://atx.servicenowservices.com/esc?id=sc_cat_item_guide&sys_id=72fb6289db9f73405b03f482ba961956) or, if the team member will remain at the City, a [Transfer Employee Request Form (TERF)](https://atx.servicenowservices.com/esc?id=sc_cat_item_guide&sys_id=b714eb12db7a3f0021ccef92ca961972&sysparm_category=2e9b37dc1b8016d03d9c404fe54bcba1). (supervisor)
