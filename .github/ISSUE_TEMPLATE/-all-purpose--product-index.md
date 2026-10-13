@@ -4,7 +4,7 @@ about: Central place to access all information for a product
 title: 'Product: [Product Name in Title Case]'
 labels: 
   - "[Product] :x: MISSING"
-type: Project
+type: Product
 ---
 
 <!-- Description:
