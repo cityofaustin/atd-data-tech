@@ -2,10 +2,9 @@
 name: "[All-Purpose] Product Index"
 about: Central place to access all information for a product
 title: 'Product: [Product Name in Title Case]'
-labels: 'Product Index, Project Index, [Team] :rotating_light: MISSING, [Type] :rotating_light:
-  MISSING, [Workgroup] :rotating_light: MISSING'
-assignees: ''
-
+labels: 
+  - "[Product] :x: MISSING"
+type: Project
 ---
 
 <!-- Description:
