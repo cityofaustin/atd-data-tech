@@ -7,7 +7,7 @@ type: Epic
 
 ---
 
-_If any of the following tasks are time-consuming (e.g. Knack apps, GitHub issue reassignment), convert them to subtasks of this Epic._
+_If any of the following tasks are time-consuming (e.g. Knack apps, GitHub issue reassignment), convert them to subtasks._
 
 
 **Enterprise**
