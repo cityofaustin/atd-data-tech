@@ -11,12 +11,11 @@ _If any of the following tasks are time-consuming (e.g. Knack apps, GitHub issue
 
 
 **Enterprise**
-- [ ] Submit a [Separation Employee Request Form (SERF)](https://atx.servicenowservices.com/esc?id=sc_cat_item_guide&sys_id=72fb6289db9f73405b03f482ba961956) or, if the team member will remain at the City, a [Transfer Employee Request Form (TERF)](https://atx.servicenowservices.com/esc?id=sc_cat_item_guide&sys_id=b714eb12db7a3f0021ccef92ca961972&sysparm_category=2e9b37dc1b8016d03d9c404fe54bcba1). (supervisor)
-The SERF covers the following:
-           - Network Email
-           - Enterprise licenses including Miro, 1Password, etc. 
-           - Badge & Building Access
-           - Absolute Secure Access (NetMotion)
+- [ ] (supervisor) submit a [Separation Employee Request Form (SERF)](https://atx.servicenowservices.com/esc?id=sc_cat_item_guide&sys_id=72fb6289db9f73405b03f482ba961956) or, if the team member will remain at the City, a [Transfer Employee Request Form (TERF)](https://atx.servicenowservices.com/esc?id=sc_cat_item_guide&sys_id=b714eb12db7a3f0021ccef92ca961972&sysparm_category=2e9b37dc1b8016d03d9c404fe54bcba1). The SERF/TERF covers the following:<br/>
+  - Network Email
+  - Enterprise licenses including Miro, 1Password, etc.<br/> 
+  - Badge & Building Access<br/>
+  - Absolute Secure Access (NetMotion)<br/>
 
 **DTS Admin**
 - [ ] Remove team member from [DTS Orientation Slides](https://docs.google.com/presentation/d/1ByRWXmjHut88cTiPVOTgkwTJ2V5_m1Y_0j46FP_kdYw/edit#slide=id.gfd25a7f266_1_382) @amenity
