@@ -27,6 +27,7 @@ The SERF covers the following:
 - [ ] [Transportation GitHub organization](https://github.com/orgs/cityofaustin/teams/transportation/members) (Amenity or Frank)
 - [ ] [Gitbook](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/settings/members) (Amenity, Andrew, Diana, Frank, or Tracy)
 - [ ] Google Drive (Amenity or Diana)
+- [ ] Slack (Amenity or Diana)
 - [ ] Vision Zero Editor @johnclary 
 - [ ] Moped @mateoclarke 
 - [ ] Knack Applications (inactivate austintexas.gov and any other testing accounts) @KaroEngstrom
@@ -50,4 +51,4 @@ The SERF covers the following:
      - [ ] Mobility Services Portal
      - [ ] PTE Test Application
 - [ ] [DTS Knowledge Base triage information](https://app.gitbook.com/s/-M4LYhVrPWLmbRD1Xv0p) (supervisor)
-- [x] Retrieve laptop and any checked-out equipment (supervisor or Tech Services)
+- [ ] Retrieve laptop and any checked-out equipment (supervisor or Tech Services)
