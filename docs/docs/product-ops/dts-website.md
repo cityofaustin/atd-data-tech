@@ -23,7 +23,7 @@ Issues appear on the [_Projects_](https://austinmobility.io/projects), [_Product
 
 Each project or product is rendered as a tile using content from the index issue:
 
-<figure><img src="../.gitbook/assets/DTS Website - Tiles Components.png" alt=""><figcaption><p>Various Github content is used for the project/product "tiles"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/DTS Website Tile Components.png" alt=""><figcaption><p>Various Github content is used for the project/product "tiles"</p></figcaption></figure>
 
 
 
