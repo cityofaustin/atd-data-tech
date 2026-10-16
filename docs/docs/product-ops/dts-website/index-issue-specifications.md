@@ -119,4 +119,4 @@ The image should be at least 1000px wide, with a 3:2 aspect ratio. [This tool](h
 
 Use [GitHub-flavored Markdown image syntax](https://github.com/user-attachments/assets/38429baa-ccff-4a21-91db-08375027e5f5) so that the image displays properly on the DTS website. [Here's a quick way](https://drive.google.com/drive/u/0/folders/1MeJUwX7OPLezTXASfyp7gXjOc8tYOiYy) to replace the default image with an uploaded file.
 
-<figure><img src="../.gitbook/assets/DTS Website - Product Tiles.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DTS Website - Product Tiles.png" alt=""><figcaption></figcaption></figure>

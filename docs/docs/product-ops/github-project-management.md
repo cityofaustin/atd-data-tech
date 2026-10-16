@@ -1,19 +1,10 @@
----
-description: >-
-  The Data and Technology Services teamuses GitHub Projects for agile project
-  management. This is an overview of our process.
----
+# DTS GitHub Issue Standards
 
-# Managing Services & Projects with GitHub
+Data & Technology Services tracks all of our work as GitHub issues in the [atd-data-tech](https://github.com/cityofaustin/atd-data-tech) repository. It's important that we adhere to these standards, as they are the foundation of our work coordination, project managment, and maintain service delivery data that enables us to improve our processes, prioritize resources, and [work in the open](https://data.austintexas.gov/Transportation-and-Mobility/Transportation-Public-Works-Data-Tech-Services-Iss/rzwg-fyv8/explore/query/SELECT%0A%20%20%60number%60%2C%0A%20%20%60state%60%2C%0A%20%20%60pipeline%60%2C%0A%20%20%60title%60%2C%0A%20%20%60workgroups%60%2C%0A%20%20%60body%60%2C%0A%20%20%60labels%60%2C%0A%20%20%60created_at%60%2C%0A%20%20%60updated_at%60%2C%0A%20%20%60url%60%2C%0A%20%20%60position%60%0AWHERE%0A%20%20caseless_one_of\(%60pipeline%60%2C%20%22In%20Progress%22%2C%20%22Needs%20Scoping%22\)%0A%20%20AND%20caseless_contains\(%60labels%60%2C%20%22project%20index%22\)%0AORDER%20BY%20%60position%60%20DESC%20NULL%20LAST/page/filter).  [Austinmobility.io](https://austinmobility.io/)  [DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27) updated.
 
-{% hint style="warning" %}
-## This page is in the process of being updated to reflect our migration from Zenhub to GitHub Projects.&#x20;
-{% endhint %}
+These are the standards themselves, see how we leverage them in practice in [Using GitHub Projects for Agile Work](using-github-projects-for-agile-work.md).
 
-## Set up
-
-1. [Create a GitHub account](https://github.com/join) if you don't have one already.
-2. Have someone on the DTS team add you to the [City of Austin](https://github.com/cityofaustin) organization and the [Transportation](https://github.com/orgs/cityofaustin/teams/transportation) team as a Maintainer.
+##
 
 ## Status
 
