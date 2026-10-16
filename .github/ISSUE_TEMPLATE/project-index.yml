@@ -24,8 +24,6 @@ body:
 
         You probably won't have everything else until you scope the project—that's okay. Fill in what you know now and edit the issue as you learn more. Project status is documented in the comments.
 
-        > **Heads up:** descriptions will soon populate the website project tiles directly (instead of an excerpt of this issue), so write the description as if it's the only thing a reader will see.
-
   - type: textarea
     id: description
     attributes:
