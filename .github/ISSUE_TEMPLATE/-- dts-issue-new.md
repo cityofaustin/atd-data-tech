@@ -1,5 +1,5 @@
 ---
-name: "DTS Issue"
+name: "DTS Issue New"
 about: Create a new issue meeting DTS standards.
 title: "Begin with a verb and summarize the work to be completed"
 labels:
