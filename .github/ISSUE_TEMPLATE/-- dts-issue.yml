@@ -13,7 +13,7 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: .
+      label: Description
       description: What needs to be done, and why?
     validations:
       required: true
