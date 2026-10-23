@@ -4,9 +4,15 @@ Data & Technology Services tracks all of our work as GitHub issues in the [atd-d
 
 These are the standards themselves, see how we leverage them in practice in [Using GitHub Projects for Agile Work](using-github-projects-for-agile-work.md).
 
-##
+## GitHub Issue Types
 
-## Status
+
+
+
+
+## GitHub Issue Fields
+
+## DTS Status
 
 Status is the way we track issues across various stages of completion. We use the following statuses:&#x20;
 

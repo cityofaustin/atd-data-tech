@@ -1,6 +1,10 @@
-# Index Issue Specifications
+# Managing Project, Product, and Service Indexes
 
-We use "index" issues to centralize information about each of our products, projects, and services in GitHub. Keeping index issues in a standardized format ensures that our two main communication platforms, the [DTS Website](https://product.austinmobility.io) and the [DTS Portfolio GitHub Project](https://github.com/orgs/cityofaustin/projects/27), provide an easily understandable view of our work that's both current and comprehensive.
+We use "index" issues to centralize information about each of our products, projects, and services in GitHub. Keeping index issues in a standardized format ensures that our two main communication platforms:&#x20;
+
+The DTS Website, [Austinmobility.io](https://austinmobility.io/) and the [DTS Portfolio GitHub Project](https://github.com/orgs/cityofaustin/projects/27), provide an easily understandable view of our work that's both current and comprehensive.
+
+<figure><img src="../.gitbook/assets/Austinmobility.io Products Projects Services Pages.png" alt=""><figcaption></figcaption></figure>
 
 There are three index issue types—Services, Products, and Projects.
 
@@ -127,4 +131,4 @@ The image should be at least 1000px wide, with a 3:2 aspect ratio. [This tool](h
 
 Use [GitHub-flavored Markdown image syntax](https://github.com/user-attachments/assets/38429baa-ccff-4a21-91db-08375027e5f5) so that the image displays properly on the DTS website. [Here's a quick way](https://drive.google.com/drive/u/0/folders/1MeJUwX7OPLezTXASfyp7gXjOc8tYOiYy) to replace the default image with an uploaded file.
 
-<figure><img src="../../.gitbook/assets/DTS Website - Product Tiles.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DTS Website - Product Tiles.png" alt=""><figcaption></figcaption></figure>

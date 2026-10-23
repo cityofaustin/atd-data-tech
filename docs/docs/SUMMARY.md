@@ -25,9 +25,9 @@
 
 * [DTS GitHub Issue Standards](product-ops/github-project-management.md)
 * [Using GitHub Projects for Agile Work](product-ops/using-github-projects-for-agile-work.md)
+* [Managing Project, Product, and Service Indexes](product-ops/index-issue-specifications.md)
+* [Managing the DTS Website](product-ops/dts-website.md)
 * [Project Delivery Workflow](product-ops/project-delivery-workflow.md)
-* [Managing the DTS Website](product-ops/dts-website/README.md)
-  * [Index Issue Specifications](product-ops/dts-website/index-issue-specifications.md)
 * [Product Manager Assignments](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355)
 
 ***
