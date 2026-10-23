@@ -82,7 +82,7 @@ body:
     attributes:
       label: Image
       description: |
-        The first image in this issue will be the project's thumbnail on the DTS website. The Austin checkered brand pattern is pre-filled as the default. Check out the [index issue image guidelines](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images) to get lots of extra credit with a custom image. ✨  
+        The first image in this issue will be the project's thumbnail on the DTS website. The Austin checkered brand pattern is pre-filled as the default. Check out the [index issue image guidelines](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images) to use a custom image.  
       # Pinned to a commit SHA so the image keeps resolving even if the file moves later.
       value: |
         ![Austin checkered brand pattern](https://raw.githubusercontent.com/cityofaustin/atd-data-tech/d8bbf33930190731d784d21ac2674b617c0f19ef/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png)
