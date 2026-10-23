@@ -102,8 +102,8 @@ body:
   - type: checkboxes
     id: after-submit
     attributes:
-      label: To do
-      description: Complete your index once the issue is created by following these quick steps and delete this section when you're done. 
+      label: To do (delete when done!)
+      description: Complete your index once the issue is created by following these quick steps.
       options:
         - label: Create a new `Project:` label [here](https://github.com/cityofaustin/atd-data-tech/labels) (hex `#3D3D3D`) and apply it to this issue. Tighten the wording and use abbreviations as needed.
         - label: Apply a `Product:` label if this is an enhancement to an existing DTS application.
