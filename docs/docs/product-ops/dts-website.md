@@ -15,10 +15,6 @@ Issues appear on the [_Projects_](https://austinmobility.io/projects), [_Product
 
 
 
-## Templates
-
-
-
 ## Tiles
 
 Each project or product is rendered as a tile using content from the index issue:

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Project Delivery Workflow
 
 ## Project Initiation

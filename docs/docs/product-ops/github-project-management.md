@@ -2,12 +2,6 @@
 
 Data & Technology Services tracks all of our work as GitHub issues in the [atd-data-tech](https://github.com/cityofaustin/atd-data-tech) repository. It's important that we adhere to these standards, as they are the foundation of our work coordination, project managment, and maintain service delivery data that enables us to improve our processes, prioritize resources, and [work in the open](https://data.austintexas.gov/Transportation-and-Mobility/Transportation-Public-Works-Data-Tech-Services-Iss/rzwg-fyv8/explore/query/SELECT%0A%20%20%60number%60%2C%0A%20%20%60state%60%2C%0A%20%20%60pipeline%60%2C%0A%20%20%60title%60%2C%0A%20%20%60workgroups%60%2C%0A%20%20%60body%60%2C%0A%20%20%60labels%60%2C%0A%20%20%60created_at%60%2C%0A%20%20%60updated_at%60%2C%0A%20%20%60url%60%2C%0A%20%20%60position%60%0AWHERE%0A%20%20caseless_one_of\(%60pipeline%60%2C%20%22In%20Progress%22%2C%20%22Needs%20Scoping%22\)%0A%20%20AND%20caseless_contains\(%60labels%60%2C%20%22project%20index%22\)%0AORDER%20BY%20%60position%60%20DESC%20NULL%20LAST/page/filter).  [Austinmobility.io](https://austinmobility.io/)  [DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27) updated.
 
-These are the standards themselves, see how we leverage them in practice in [Using GitHub Projects for Agile Work](using-github-projects-for-agile-work.md).
-
-## GitHub Issue Types
-
-
-
 
 
 ## GitHub Issue Fields
@@ -57,17 +51,7 @@ Issue titles should **begin with a verb**\* and **summarize the work to be compl
 
 ### Issue Types
 
-{% hint style="info" %}
-We are not currently using issue types and fields in a standardized way outside Product, Project, and Service indexes.&#x20;
-{% endhint %}
-
-| Type name                                                                              | Description                                                                                                 | Fields                                                                                      |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [Task](https://github.com/organizations/cityofaustin/settings/issue-types/390755)      | A specific piece of work                                                                                    | DTS Team, DTS Status, TPW Division, DTS Estimate                                            |
-| [Epic](https://github.com/organizations/cityofaustin/settings/issue-types/31590611)    | Large (but sub-Project or Service) body of work—like a feature, roll out, or grouped tasks within a service | TPW Division, DTS Status, Start date, End date, DTS Estimate, DTS Teams                     |
-| [Service](https://github.com/organizations/cityofaustin/settings/issue-types/31105742) | Ongoing consultation, training, or assistance to support the use of data and technology                     | DTS Status, DTS Team, TPW Division, DTS Description                                         |
-| [Product](https://github.com/organizations/cityofaustin/settings/issue-types/31431867) | Applications and digital systems we build in-house                                                          | DTS Status, DTS Team, TPW Division, DTS Description, DTS Solution Type, DTS Application URL |
-| [Project](https://github.com/organizations/cityofaustin/settings/issue-types/26551850) | Substantial endeavor requiring coordinated effort across multiple sprints and/or teams                      | DTS Status, TPW Division, Start date, End date, DTS Description, DTS Teams                  |
+<table><thead><tr><th width="116.60546875">Type name</th><th>Description</th><th>Fields</th></tr></thead><tbody><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/390755">Task</a></td><td>A specific piece of work</td><td>DTS Team, DTS Status, TPW Division, DTS Estimate</td></tr><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/31590611">Epic</a></td><td>Large (but sub-Project or Service) body of work—like a feature, roll out, or grouped tasks within a service</td><td>TPW Division, DTS Status, Start date, End date, DTS Estimate, DTS Teams</td></tr><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/31105742">Service</a></td><td>Ongoing consultation, training, or assistance to support the use of data and technology</td><td>DTS Status, DTS Team, TPW Division, DTS Description</td></tr><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/31431867">Product</a></td><td>Applications and digital systems we build in-house</td><td>DTS Status, DTS Team, TPW Division, DTS Description, DTS Solution Type, DTS Application URL</td></tr><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/26551850">Project</a></td><td>Substantial endeavor requiring coordinated effort across multiple sprints and/or teams</td><td>DTS Status, TPW Division, Start date, End date, DTS Description, DTS Teams</td></tr></tbody></table>
 
 ## Labels
 
@@ -96,24 +80,6 @@ Accurate labeling is necessary for several reasons:&#x20;
     * [**Services**](https://austinmobility.io/services) are ongoing consultations, training, or assistance to support the use of data and technology. Each DTS team offers multiple services, such as [Geodata Quality Control](https://austinmobility.io/services/28553) and [Software License Administration & Installation](https://austinmobility.io/services/27294).&#x20;
 
     Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to [AMD Data Tracker](https://austinmobility.io/products/2068), so it needed both **Product** and **Project** labels.&#x20;
-
-### Optional labels
-
-A DTS team or individual product manager may find these additional label categories helpful&#x20;
-
-* ​[**Type**](https://github.com/cityofaustin/atd-data-tech/labels?q=Type%3A) - The type of request or task
-* [**Workgroup**](https://github.com/cityofaustin/atd-data-tech/labels?q=Workgroup) - Specific teams within TPW divisions, e.g. Street & Bridge Operations has 5 workgroups—District Maintenance, Logistics, Pavement Operations, Infrastructure Operations, Utilities and Structures
-* [**Impact**](https://github.com/cityofaustin/atd-data-tech/labels?q=Impact%3A+) - The effect of a bug, infrastructure failure, etc.
-  * `Impact: 1-Severe` — Severely impacts TPW service delivery&#x20;
-  * `Impact: 2-Major` — Causes a major interruption of TPW service delivery
-  * `Impact: 3-Minor` — Deteriorates TPW service delivery
-  * `Impact: 4-None` — Does not affect TPW service delivery&#x20;
-* [**Need**](https://github.com/cityofaustin/atd-data-tech/labels?q=Need%3A) - To designate priority of a potential feature or enhancement
-  * `Impact: 1-Severe` — Severely impacts TPW service delivery
-  * `Impact: 2-Major` — Causes a major interruption of TPW service delivery
-  * `Impact: 3-Minor` — Deteriorates TPW service delivery
-  * `Impact: 4-None` — Does not affect TPW service delivery
-* [**Provider**](https://github.com/cityofaustin/atd-data-tech/labels?q=Provider%3A) - The external team or vendor executing the issue
 
 ## Estimates
 

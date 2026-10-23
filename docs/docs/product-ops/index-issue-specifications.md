@@ -8,21 +8,6 @@ The DTS Website, [Austinmobility.io](https://austinmobility.io/) and the [DTS Po
 
 There are three index issue types—Services, Products, and Projects.
 
-## Services
-
-[Services on Austinmobility.io](https://austinmobility.io/services) | [Services in the DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27/views/10) | [Service Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--service-index.md)
-
-Services are the ongoing consultation, training, and assistance we provide to improve the use of data and technology at Transportation Public Works. Every DTS Team has 1-5 services that represent the ongoing work they do outside formal DTS Projects.
-
-* [_Data Asset Management_](https://github.com/cityofaustin/atd-data-tech/issues/29727) _- Apps services_
-* [_Power BI Support_](https://github.com/cityofaustin/atd-data-tech/issues/27373) _- Data Science service_
-* [_Data Engineering & Integrations_](https://github.com/cityofaustin/atd-data-tech/issues/28674) _- Dev service_
-* [_AMANDA Support_](https://github.com/cityofaustin/atd-data-tech/issues/27595) _- Enterprise Case Management service_
-* [_Geodata Quality Control_](https://github.com/cityofaustin/atd-data-tech/issues/28553) _- Geo service_
-* [_Maximo Training & Documentation_](https://github.com/cityofaustin/atd-data-tech/issues/29482) _- Maximo service_
-* [_Product & Project Management_](https://github.com/cityofaustin/atd-data-tech/issues/30534) _- Product service_
-* [_Specialized Equipment Support_](https://github.com/cityofaustin/atd-data-tech/issues/27298) _- Tech Services service_
-
 ## Products
 
 [Products on Austinmobility.io](https://austinmobility.io/products) | [Products in the DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27/views/12) | [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--product-index.md)
@@ -35,7 +20,7 @@ Products are the solutions we build for our customers, including Knack apps, AMA
 
 ## Projects
 
-[Projects on Austinmobility.io](https://austinmobility.io/projects) | [Projects in the DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27/views/3) | [Project Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--project-index.md)
+[Projects on Austinmobility.io](https://austinmobility.io/projects) | [Projects in the DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27/views/3)
 
 Projects are time-boxed endeavors. They accomplish a singular goal and have a completion date. Examples include:
 
@@ -45,57 +30,24 @@ Projects are time-boxed endeavors. They accomplish a singular goal and have a co
 * [_Delivering a complex map_](https://github.com/cityofaustin/atd-data-tech/issues/1911)
 * [_Delivering the first iteration (MVP) of a new DTS product_](https://github.com/cityofaustin/atd-data-tech/issues/307)
 
-## Project Index
+To create a Project index, use the [Project Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--project-index.md).&#x20;
 
-All projects which have been scoped require a project index issue to be placed in the appropriate Zenhub pipeline. The issue title, description, and labels should follow the below guidelines.
+## Services
 
-### Title
+[Services on Austinmobility.io](https://austinmobility.io/services) | [Services in the DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27/views/10)
 
-The issue title should be prefixed with `Project:` . For example, `Project: Warehouse Inventory Management`.
+Services are the ongoing consultation, training, and assistance we provide to improve the use of data and technology at Transportation Public Works. Every DTS Team has 1-5 services that represent the ongoing work they do outside formal DTS Projects.
 
-### Labels
+* [_Data Asset Management_](https://github.com/cityofaustin/atd-data-tech/issues/29727) _- Apps services_
+* [_Power BI Support_](https://github.com/cityofaustin/atd-data-tech/issues/27373) _- Data Science service_
+* [_Data Engineering & Integrations_](https://github.com/cityofaustin/atd-data-tech/issues/28674) _- Dev service_
+* [_AMANDA Support_](https://github.com/cityofaustin/atd-data-tech/issues/27595) _- Enterprise Case Management service_
+* [_Geodata Quality Control_](https://github.com/cityofaustin/atd-data-tech/issues/28553) _- Geo service_
+* [_Maximo Training & Documentation_](https://github.com/cityofaustin/atd-data-tech/issues/29482) _- Maximo service_
+* [_Product & Project Management_](https://github.com/cityofaustin/atd-data-tech/issues/30534) _- Product service_
+* [_Specialized Equipment Support_](https://github.com/cityofaustin/atd-data-tech/issues/27298) _- Tech Services service_
 
-* `Project Index`
-* `Project: xzy` — A project-specific label that you will create, following our [project label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=project)
-* `Workgroup: xyz` — the project stakeholder workgroups
-
-### Assignees
-
-All DTS team members who contributed substantially to the project, including at least one product manager or team lead.
-
-### Description
-
-Follow the [**Project Index**](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Project+Index\&template=-all-purpose--project-index.md\&title=Project%3A+%5BYour+Project+Name+in+Title+Case%5D) issue template.
-
-### Image
-
-See [#index-issue-images](index-issue-specifications.md#index-issue-images "mention") below.
-
-## Product Index
-
-All products require a product index issue to be placed in the appropriate Zenhub pipeline. Once a product has been released, it should be placed in the **Ongoing** pipeline indefinitely until it is removed from service. The issue title, description, and labels should follow the below guidelines.
-
-### Title
-
-The issue title should be prefixed with `Product:` . For example, `Product: Data Tracker`
-
-### Labels
-
-* `Product Index`
-* `Product: xzy` — A product-specific label that you will create, following our [product label conventions](https://github.com/cityofaustin/atd-data-tech/labels?q=product)
-* `Workgroup: xyz` — the workgroup(s) of the product's primary users
-
-### Assignee
-
-The product manager.
-
-### Issue description
-
-Follow the [**Product Index**](https://github.com/cityofaustin/atd-data-tech/issues/new?assignees=\&labels=Product+Index\&template=-all-purpose--product-index.md\&title=Product%3A+%5BProduct+Name+in+Title+Case%5D) issue template.
-
-### Image
-
-See [#index-issue-images](index-issue-specifications.md#index-issue-images "mention") below.
+Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new Service Index. If the decision is made to define a new DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--service-index.md) to document it in an issue.&#x20;
 
 ## Index Issue Images
 
@@ -130,5 +82,3 @@ The image should be at least 1000px wide, with a 3:2 aspect ratio. [This tool](h
 ### Adding the image to the GitHub index issue
 
 Use [GitHub-flavored Markdown image syntax](https://github.com/user-attachments/assets/38429baa-ccff-4a21-91db-08375027e5f5) so that the image displays properly on the DTS website. [Here's a quick way](https://drive.google.com/drive/u/0/folders/1MeJUwX7OPLezTXASfyp7gXjOc8tYOiYy) to replace the default image with an uploaded file.
-
-<figure><img src="../.gitbook/assets/DTS Website - Product Tiles.png" alt=""><figcaption></figcaption></figure>
