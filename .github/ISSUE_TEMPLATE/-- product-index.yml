@@ -1,0 +1,105 @@
+name: "DTS Product Index"
+description: "Essential information for all DTS Products. Feeds the Austinmobility.io and the DTS Portfolio GitHub Product."
+title: "Product: [Your Product Name in Title Case]"
+type: Product
+Products: ["cityofaustin/27"]
+labels: []
+assignees: []
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: |
+        A concise product summary that identifies the users and purpose of the application using a non-sentence structure and no period. it should make sense to anyone—a TPW staff person, a Council member, or a prospective DTS intern. Pro-tip: Keep it under 255 characters so you can copy it into the `DTS Description` issue field.
+
+        Examples:
+        - Knack app that lets the Office of the City Engineer intake, track, and manage approved concrete and asphalt mixes for city construction, while also managing underpass cleanup work orders and contractor coordination
+        - Base map of Austin's complete multimodal transportation infrastructure; provides an authoritative base map to align data production, management, and analysis across the organization. 
+      placeholder: "What... for whom... so that ..."
+    validations:
+      required: true
+      
+  - type: textarea
+    id: background
+    attributes:
+      label: Login
+      description: The URL of the login page for this app. This will also go in the "Application URL" sidebar field.
+    validations:
+      required: true
+
+- type: textarea
+    id: code
+    attributes:
+      label: Code
+      description: If this product has a Github repository, link to it here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: technology
+    attributes:
+      label: Technology
+      description:  brief description of the technology that powers the application stack, e.g. front-end framework, database technology, cloud services vendor. If SAAS, mention the vendor. 
+    validations:
+      required: false
+
+ 
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Helpful documents and links for easy reference.
+      value: |
+        - Drive folder:
+        - Miro board:
+    validations:
+      required: false
+
+  - type: input
+    id: requested-by
+    attributes:
+      label: Requested by
+      placeholder: Name (first name and last name initial), division
+    validations:
+      required: false
+
+  - type: input
+    id: executive-sponsor
+    attributes:
+      label: Executive sponsor
+      placeholder: Name (first name and last name initial), title
+    validations:
+      required: false
+
+  - type: textarea
+    id: image
+    attributes:
+      label: Image
+      description: |
+        The first image in this issue will be the Product's thumbnail on the DTS website. The Austin checkered brand pattern is pre-filled as the default. Check out the [index issue image guidelines](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images) to use a custom image.  
+      # Pinned to a commit SHA so the image keeps resolving even if the file moves later.
+      value: |
+        ![Austin checkered brand pattern](https://raw.githubusercontent.com/cityofaustin/atd-data-tech/d8bbf33930190731d784d21ac2674b617c0f19ef/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png)
+    validations:
+      required: true
+      
+  - type: textarea
+    id: footer
+    attributes:
+      label: About this issue
+      description: Leave as-is. This boilerplate appears on every Product index issue.
+      value: |
+        This GitHub issue represents a [Data & Technology Services](https://austinmobility.io/) Product for [Austin Transportation and Public Works](https://www.austintexas.gov/transportation-public-works). Product status is documented regularly in the comments below.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: after-submit
+    attributes:
+      label: To do (delete when done!)
+      description: Complete your index once the issue is created by following these quick steps.
+      options:
+        - label: Create a new `Product:` label [here](https://github.com/cityofaustin/atd-data-tech/labels) (hex `#3D3D3D`) and apply it to this issue. Tighten the wording and use abbreviations as needed.
+        - label: Fill out **everything** in the "Fields" section of the sidebar. 
