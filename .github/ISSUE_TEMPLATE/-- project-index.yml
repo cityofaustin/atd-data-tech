@@ -1,6 +1,5 @@
-# .github/ISSUE_TEMPLATE/all-purpose-project-index.yml
-name: "Form: Project Index"
-description: "Essential information for all DTS projects. Feeds the DTS website and the DTS Portfolio GitHub Project."
+name: "Form: DTS Project Index"
+description: "Essential information for all DTS projects. Feeds the Austinmobility.io and the DTS Portfolio GitHub Project."
 title: "Project: [Your Project Name in Title Case]"
 type: Project
 projects: ["cityofaustin/27"]
@@ -8,10 +7,6 @@ labels: []
 assignees: []
 
 body:
-  # ---------------------------------------------------------------------------
-  # `markdown` blocks show in the form but are NOT submitted with the issue.
-  # Use them for instructions; use field `description`s for per-field guidance.
-  # ---------------------------------------------------------------------------
   - type: textarea
     id: description
     attributes:
