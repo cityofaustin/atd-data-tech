@@ -1,12 +1,8 @@
 # .github/ISSUE_TEMPLATE/all-purpose-project-index.yml
 name: "Form: Project Index"
-description: "Essential information for all DTS projects. Feeds the DTS website and the DTS Portfolio."
+description: "Essential information for all DTS projects. Feeds the DTS website and the DTS Portfolio GitHub Project."
 title: "Project: [Your Project Name in Title Case]"
-# Sets the org-level issue type. The DTS issue fields (DTS Status, DTS Teams,
-# TPW Divisions, DTS Start Date, DTS End Date, DTS Description) are pinned to
-# this type, so they appear in the issue sidebar as soon as it's created.
 type: Project
-# Adds every new issue to the DTS Portfolio project automatically.
 projects: ["cityofaustin/27"]
 labels: []
 assignees: []
@@ -16,16 +12,6 @@ body:
   # `markdown` blocks show in the form but are NOT submitted with the issue.
   # Use them for instructions; use field `description`s for per-field guidance.
   # ---------------------------------------------------------------------------
-  - type: markdown
-    attributes:
-      value: |
-        ## Project index issue
-        This issue is the single source of truth for a DTS project. It shows up on the [DTS website](https://austinmobility.io/) and in the DTS Portfolio, so the **Description**, **Image**, **DTS Teams**, **TPW Divisions**, **Start date**, and **End date** below are required.
-
-        You probably won't have everything else until you scope the project—that's okay. Fill in what you know now and edit the issue as you learn more. Project status is documented in the comments.
-
-        > **Heads up:** descriptions will soon populate the website project tiles directly (instead of an excerpt of this issue), so write the description as if it's the only thing a reader will see.
-
   - type: textarea
     id: description
     attributes:
@@ -35,10 +21,61 @@ body:
 
         Examples:
         - *Add a warehouse inventory module to Signs & Markings Data Tracker to track inventory in real time, view turnover rates, and give the TPW Finance division visibility into these expenditures*
-        - *Use ArcGIS Hub to build Dash 2.0, a central point to find TPW's authoritative dashboards, maps, and apps all in one place*
+        - *Use ArcGIS Hub to build Dash 2.0, a central point to find TPW's authoritative dashboards, maps, and datasets.*
       placeholder: "Build/Implement/Evaluate/Migrate ... for ... so that ..."
     validations:
       required: true
+      
+  - type: textarea
+    id: background
+    attributes:
+      label: Background
+      description: Clarify the organizational/operational context of this work.
+    validations:
+      required: false
+
+  - type: textarea
+    id: desired-outcomes
+    attributes:
+      label: Desired Outcomes
+      description: Beyond the deliverables themselves, what will be different when this work is complete? What metrics are we using to measure success?
+    validations:
+      required: false
+
+  - type: textarea
+    id: scope-deliverables
+    attributes:
+      label: Scope & Deliverables
+      description: What platform? What's in scope, and (importantly!) what isn't? Are there constraints or potential roadblocks/challenges?
+    validations:
+      required: false
+
+  - type: textarea
+    id: references
+    attributes:
+      label: References
+      description: Helpful documents and links for easy reference.
+      value: |
+        - Drive folder:
+        - Miro board:
+    validations:
+      required: false
+
+  - type: input
+    id: requested-by
+    attributes:
+      label: Requested by
+      placeholder: Name (first name and last name initial), division
+    validations:
+      required: false
+
+  - type: input
+    id: executive-sponsor
+    attributes:
+      label: Executive sponsor
+      placeholder: Name (first name and last name initial), title
+    validations:
+      required: false
 
   - type: textarea
     id: image
@@ -51,165 +88,7 @@ body:
         ![Austin checkered brand pattern](https://raw.githubusercontent.com/cityofaustin/atd-data-tech/d8bbf33930190731d784d21ac2674b617c0f19ef/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png)
     validations:
       required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        ### DTS issue fields
-        **DTS Teams**, **TPW Divisions**, **DTS Start Date**, and **DTS End Date** are `cityofaustin` organization-wide issue fields pinned to the `Project` issue type. This form can't set them, so record your answers here, then copy them into the issue fields in the sidebar after you submit.
-
-  - type: dropdown
-    id: dts-teams
-    attributes:
-      label: DTS Teams
-      description: "Every Builder team significantly involved in the project. Choose `Product` **only** if this is a *purely* Product project, like a software procurement. Values match the `DTS Teams` issue field."
-      multiple: true
-      # Option format is "<field value> (<hint>)". The project-index-issue-fields
-      # workflow strips the parenthetical and copies the value into the issue
-      # field, so keep the value exact and keep commas out of the hint.
-      options:
-        - Apps (Application Solutions)
-        - Data Science (Data Science Solutions)
-        - Dev (Software Engineering)
-        - ECM (Enterprise Case Management)
-        - Geo (Geospatial Solutions)
-        - Maximo
-        - Product (Product Management)
-        - Tech Services (Technology Services)
-        - Operations (budgeting / team management / departmental reporting)
-    validations:
-      required: true
-
-  - type: dropdown
-    id: tpw-divisions
-    attributes:
-      label: TPW Divisions
-      description: "The divisions served by this project. Use `TPW` for work used department-wide, but **also** add the divisions that requested the project or will manage the result. Values match the `TPW Divisions` issue field."
-      multiple: true
-      # Same "<field value> (<hint>)" convention as DTS Teams above.
-      options:
-        - TPW (Transportation Public Works — department-wide)
-        - Admin (Administration)
-        - AMD (Arterial Management)
-        - ATSD (Active Transportation & Street Design)
-        - CCG (Construction Coordination Group)
-        - CSD (Community Services)
-        - DM (District Maintenance)
-        - DTS (Data & Technology Services)
-        - EM (Emergency Management)
-        - Equity
-        - Finance
-        - HR (Human Resources)
-        - LA (Legislative Affairs)
-        - LDE (Land Development Engineering)
-        - Logistics
-        - OCE (Office of the City Engineer)
-        - OPM (Office of Performance Management)
-        - OSE (Office of Special Events)
-        - PD (Project Delivery)
-        - PE (Parking Enterprise)
-        - PIO (Public Information Office)
-        - PO (Pavement Operations)
-        - ROW (Right-of-Way Management)
-        - SBO (Infrastructure Operations)
-        - SDD (Systems Development)
-        - SMD (Signs & Markings)
-        - SMP (Strategic Mobility Projects)
-        - SP (Strategic Projects)
-        - SUTD (Sidewalks & Urban Trails Division)
-        - TDS (Transportation Development Services)
-        - TED (Transportation Engineering)
-        - UF (Urban Forestry)
-        - US (Utilities & Structures)
-        - VZ (Vision Zero)
-    validations:
-      required: true
-
-  - type: input
-    id: start-date
-    attributes:
-      label: DTS Start Date
-      description: Approximate date the project began (or will begin).
-      placeholder: YYYY-MM-DD
-    validations:
-      required: true
-
-  - type: input
-    id: end-date
-    attributes:
-      label: DTS End Date
-      description: Expected completion date. Required, but always subject to change—update it as the picture gets clearer. Lingering subtasks aren't a reason to keep this issue open past completion.
-      placeholder: YYYY-MM-DD
-    validations:
-      required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        ### Project details
-        Optional, but the more you fill in now the less archaeology you'll do later. Leave a section blank if you don't know yet.
-
-  - type: textarea
-    id: background
-    attributes:
-      label: Background
-      description: Clarify the organizational/operational context of this work. You may also want to add references in the References section below.
-    validations:
-      required: false
-
-  - type: textarea
-    id: desired-outcomes
-    attributes:
-      label: Desired Outcomes
-      description: "Beyond the deliverables themselves, what will be different when this work is complete? What metrics are we using to measure success?"
-    validations:
-      required: false
-
-  - type: textarea
-    id: scope-deliverables
-    attributes:
-      label: Scope & Deliverables
-      description: "What platform? What's in scope, and (importantly!) what isn't? Are there constraints or potential roadblocks/challenges?"
-    validations:
-      required: false
-
-  - type: textarea
-    id: timeframe-notes
-    attributes:
-      label: Timeframe notes
-      description: Caveats on the start/end dates above—phases, dependencies, or reasons the schedule is unpredictable.
-    validations:
-      required: false
-
-  - type: textarea
-    id: references
-    attributes:
-      label: References
-      description: Helpful documents and links for easy reference. Delete any lines you don't need.
-      value: |
-        - Drive folder:
-        - Application login page:
-        - Miro board:
-        - GitHub Project view:
-    validations:
-      required: false
-
-  - type: input
-    id: requested-by
-    attributes:
-      label: Requested by
-      placeholder: Name, division
-    validations:
-      required: false
-
-  - type: input
-    id: executive-sponsor
-    attributes:
-      label: Executive sponsor
-      placeholder: Name, title
-    validations:
-      required: false
-
+      
   - type: textarea
     id: footer
     attributes:
