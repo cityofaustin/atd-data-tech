@@ -97,6 +97,14 @@ See [#index-issue-images](index-issue-specifications.md#index-issue-images "ment
 
 All projects, products, and services should have at least one image so that missing thumbnails don't disrupt the website design. The index issue templates are pre-filled with the [Austin checkered brand pattern](https://raw.githubusercontent.com/cityofaustin/atd-data-tech/d8bbf33930190731d784d21ac2674b617c0f19ef/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png), but you get big bonus points for adding a custom image.
 
+{% hint style="info" %}
+If you didn't create your index issue with one of the templates above, you can use the following Markdown to insert the placeholder image:
+
+```
+![Austin checkered brand pattern](https://raw.githubusercontent.com/cityofaustin/atd-data-tech/d8bbf33930190731d784d21ac2674b617c0f19ef/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png)
+```
+{% endhint %}
+
 ### Choosing an image
 
 * A [**map**](https://austinmobility.io/projects/638) or other [**visualization**](https://austinmobility.io/projects/9876) of the data generated in the app
