@@ -17,7 +17,7 @@ body:
     attributes:
       label: Description
       description: |
-        **Begin with a verb** and summarize the project concisely, identifying the stakeholders/users as well as the intended outcome. Keep it jargon- and acronym-free—a TPW staff person, a Council member, or a prospective DTS intern should be able to understand it. **255 characters max**—this is copied verbatim into the `DTS Description` issue field.
+        **Begin with a verb** and summarize the project concisely, identifying the stakeholders/users as well as the intended outcome. Keep it jargon- and acronym-free—a TPW staff person, a Council member, or a prospective DTS intern should be able to understand it. Pro-tip: Keep it under 255 characters so you can copy it into the `DTS Description` issue field.
 
         Examples:
         - *Add a warehouse inventory module to Signs & Markings Data Tracker to track inventory in real time, view turnover rates, and give the TPW Finance division visibility into these expenditures*
@@ -46,7 +46,7 @@ body:
     id: scope-deliverables
     attributes:
       label: Scope & Deliverables
-      description: What platform? What's in scope, and (importantly!) what isn't? Are there constraints or potential roadblocks/challenges?
+      description: What platform? What's in scope, and (importantly!) what isn't? 
     validations:
       required: false
 
@@ -82,7 +82,7 @@ body:
     attributes:
       label: Image
       description: |
-        The first image in this issue is the project's thumbnail on the DTS website. The Austin checkered brand pattern is pre-filled as the default. To use your own, drag and drop an image that follows the [index issue image guidelines](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images) and **delete the default line** so yours is first. Good sources: the DTS docs image library, the TPW Flickr, or the DTS image stash folder.
+        The first image in this issue will be the project's thumbnail on the DTS website. The Austin checkered brand pattern is pre-filled as the default. Check out the [index issue image guidelines](https://atd-dts.gitbook.io/wiki/product-ops/index-issue-specifications#index-issue-images) to use a custom image.  
       # Pinned to a commit SHA so the image keeps resolving even if the file moves later.
       value: |
         ![Austin checkered brand pattern](https://raw.githubusercontent.com/cityofaustin/atd-data-tech/d8bbf33930190731d784d21ac2674b617c0f19ef/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png)
@@ -99,16 +99,12 @@ body:
     validations:
       required: false
 
-  - type: markdown
-    attributes:
-      value: |
-        ### After you submit
-        Issue fields, labels, and project membership can't be set by this form, so a few manual steps remain.
-
   - type: checkboxes
     id: after-submit
     attributes:
-      label: Follow-up checklist
+      label: To do:
+      description: Complete your index once the issue is created by following these quick steps and delete this section when you're done. 
       options:
-        - label: "Check the sidebar: the DTS issue fields are filled in automatically from the answers above, but a bad date or an over-long description gets skipped (see the Actions run). Set `DTS Status`."
-        - label: "Create a new `Project:` label at https://github.com/cityofaustin/atd-data-tech/labels (hex `#3D3D3D`) and apply it here"
+        - label: Create a new `Project:` label at https://github.com/cityofaustin/atd-data-tech/labels (hex `#3D3D3D`) and apply it here. Tighten the wording and use abbreviations as needed.
+        - label: Apply a `Product:` label if this is an enhancement to an existing DTS application.
+        - label: Fill out _everything_ in the "Fields" section of the sidebar. Remember, "End date" is just an estimate and can be adjusted as the timeline takes shape. 
