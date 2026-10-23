@@ -10,13 +10,15 @@ There are three index issue types—Services, Products, and Projects.
 
 ## Products
 
-[Products on Austinmobility.io](https://austinmobility.io/products) | [Products in the DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27/views/12) | [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--product-index.md)
+[Products on Austinmobility.io](https://austinmobility.io/products) | [Products in the DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27/views/12)
 
 Products are the solutions we build for our customers, including Knack apps, AMANDA apps, custom software, and data systems. We improve and extend our products over time so that they deliver continuous value to Transportation and Public works as operations, technology, and business needs evolve. Examples include:
 
 * [_Finance & Purchasing Portal_](https://github.com/cityofaustin/atd-data-tech/issues/2903)
 * [_TPW 311 CSR Dashboards_](https://github.com/cityofaustin/atd-data-tech/issues/22605)
 * [_Vision Zero Crash Data System_](https://github.com/cityofaustin/atd-data-tech/issues/255)
+
+To create a project index, use the [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--product-index.md).
 
 ## Projects
 
@@ -30,7 +32,7 @@ Projects are time-boxed endeavors. They accomplish a singular goal and have a co
 * [_Delivering a complex map_](https://github.com/cityofaustin/atd-data-tech/issues/1911)
 * [_Delivering the first iteration (MVP) of a new DTS product_](https://github.com/cityofaustin/atd-data-tech/issues/307)
 
-To create a Project index, use the [Project Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--project-index.md).&#x20;
+To create a project index, use the [Project Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--project-index.md).&#x20;
 
 ## Services
 
@@ -47,7 +49,7 @@ Services are the ongoing consultation, training, and assistance we provide to im
 * [_Product & Project Management_](https://github.com/cityofaustin/atd-data-tech/issues/30534) _- Product service_
 * [_Specialized Equipment Support_](https://github.com/cityofaustin/atd-data-tech/issues/27298) _- Tech Services service_
 
-Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new Service Index. If the decision is made to define a new DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--service-index.md) to document it in an issue.&#x20;
+Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new service index. If the decision is made to define a new DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--service-index.md) to document it in an issue.&#x20;
 
 ## Index Issue Images
 
