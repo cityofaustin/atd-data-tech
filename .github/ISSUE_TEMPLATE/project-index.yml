@@ -107,4 +107,4 @@ body:
       options:
         - label: Create a new `Project:` label [here](https://github.com/cityofaustin/atd-data-tech/labels) (hex `#3D3D3D`) and apply it to this issue. Tighten the wording and use abbreviations as needed.
         - label: Apply a `Product:` label if this is an enhancement to an existing DTS application.
-        - label: Fill out _everything_ in the "Fields" section of the sidebar. _Remember, "End date" is just an estimate and can be adjusted as the timeline takes shape!_ 
+        - label: Fill out **everything** in the "Fields" section of the sidebar. _Remember, "End date" is just an estimate and can be adjusted as the timeline takes shape!_ 
