@@ -1,0 +1,35 @@
+name: Sync issue DTS Status field with issue state
+
+on:
+  issues:
+    types: [closed, reopened]
+
+permissions:
+  issues: write
+
+jobs:
+  update-status-field:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set Status issue field
+        env:
+          GH_TOKEN: ${{ secrets.PROJECT_MANAGEMENT_PAT }}
+          REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          STATUS_FIELD_ID: 10226
+          ACTION: ${{ github.event.action }}
+        run: |
+          if [ "$ACTION" = "closed" ]; then
+            VALUE="Closed"
+          else
+            VALUE="New"
+          fi
+
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2026-03-10" \
+            "/repos/$REPO/issues/$ISSUE_NUMBER/issue-field-values" \
+            --input - <<EOF
+          {"issue_field_values":[{"field_id":$STATUS_FIELD_ID,"value":"$VALUE"}]}
+          EOF
