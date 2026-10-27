@@ -13,9 +13,6 @@ jobs:
     if: github.event.issue.state == 'open'
     runs-on: ubuntu-latest
     steps:
-      - name: Debug payload (remove once working)
-        run: echo '${{ toJSON(github.event) }}'
-
       - name: Close issue if DTS Status is closed
         env:
           GH_TOKEN: ${{ secrets.PROJECT_MANAGEMENT_PAT }}
