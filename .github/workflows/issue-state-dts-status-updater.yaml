@@ -1,0 +1,36 @@
+name: Update issue state when DTS status is Closed
+
+on:
+  issues:
+    types: [field_added]
+
+permissions:
+  issues: write
+
+jobs:
+  close-issue-if-completed:
+    # skip issues that are already closed
+    if: github.event.issue.state == 'open'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Debug payload (remove once working)
+        run: echo '${{ toJSON(github.event) }}'
+
+      - name: Close issue if DTS Status is closed
+        env:
+          GH_TOKEN: ${{ secrets.PROJECT_MANAGEMENT_PAT }}
+          REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          STATUS_FIELD_ID: 10226
+        run: |
+          # Check the current value, events can arrive out of order.
+          STATUS=$(gh api \
+            -H "X-GitHub-Api-Version: 2026-03-10" \
+            "/repos/$REPO/issues/$ISSUE_NUMBER/issue-field-values" \
+            --jq ".[] | select(.issue_field_id == $STATUS_FIELD_ID) | .single_select_option.name")
+
+          echo "Current Status: $STATUS"
+
+          if [ "$STATUS" = "Closed" ]; then
+            gh issue close "$ISSUE_NUMBER" --repo "$REPO" --reason completed
+          fi
