@@ -8,7 +8,7 @@ permissions:
   issues: write
 
 jobs:
-  update-status-field:
+  update-dts-status-field-from-issue-state:
     runs-on: ubuntu-latest
     steps:
       - name: Set Status issue field

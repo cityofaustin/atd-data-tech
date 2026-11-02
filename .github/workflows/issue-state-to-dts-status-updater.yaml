@@ -8,7 +8,7 @@ permissions:
   issues: write
 
 jobs:
-  close-issue-if-completed:
+  close-issue-if-dts-status-is-complete:
     # skip issues that are already closed
     if: github.event.issue.state == 'open'
     runs-on: ubuntu-latest
