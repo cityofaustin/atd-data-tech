@@ -10,6 +10,7 @@ permissions:
 jobs:
   update-dts-status-field-from-issue-state:
     runs-on: ubuntu-latest
+    timeout-minutes: 1
     steps:
       - name: Set Status issue field
         env:

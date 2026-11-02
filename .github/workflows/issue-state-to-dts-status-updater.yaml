@@ -12,6 +12,7 @@ jobs:
     # skip issues that are already closed
     if: github.event.issue.state == 'open'
     runs-on: ubuntu-latest
+    timeout-minutes: 1
     steps:
       - name: Close issue if DTS Status is closed
         env:
