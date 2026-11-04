@@ -7,6 +7,10 @@ on:
 permissions:
   issues: write
 
+concurrency:
+  group: ${{ github.event.issue.number }}
+  cancel-in-progress: true
+
 jobs:
   update-dts-status-field-from-issue-state:
     runs-on: ubuntu-latest
