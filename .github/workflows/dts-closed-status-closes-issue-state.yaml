@@ -1,4 +1,4 @@
-name: Update issue state when DTS status is Closed
+name: Close issue when DTS status is Closed
 
 on:
   issues:
