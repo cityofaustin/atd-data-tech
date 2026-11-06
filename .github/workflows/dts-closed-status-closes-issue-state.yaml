@@ -9,8 +9,12 @@ permissions:
 
 jobs:
   close-issue-if-dts-status-is-complete:
+    # only when issue field changed is DTS_Status
     # skip issues that are already closed and skip runs triggered by the service bot
-    if: github.event.issue.state == 'open' && github.actor != 'atdservicebot'
+    if: >-
+      github.event.issue.state == 'open' &&
+      github.actor != 'atdservicebot' &&
+      github.event.issue_field.name == 'DTS Status'
     runs-on: ubuntu-latest
     timeout-minutes: 3
     steps:
