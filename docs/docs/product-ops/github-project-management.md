@@ -100,7 +100,17 @@ If a Task or an Epic is part of a project, it needs that **`Project:` label**, a
 
 ### Optional Labels
 
-Impact
+[**Need:**](https://github.com/cityofaustin/atd-data-tech/labels?q=Need%3A) — priority of a potential feature or enhancement
 
-Need
+* 1-Must Have — No point in delivering a solution without this
+* 2-Should Have — May be painful to leave out, but the solution is still viable
+* 3-Could Have — Wanted, but affects fewer users or has less impact on business than other features
+* 4-Won't Have — Will not be delivered at this time
+
+[**Impact:**](https://github.com/cityofaustin/atd-data-tech/labels?q=Impact%3A+) — the effect of a bug or infrastructure failure
+
+* 1-Severe — Severely impacts TPW service delivery
+* 2-Major — Causes a major interruption of TPW service delivery
+* 3-Minor — Deteriorates TPW service delivery
+* 4-None — Does not affect TPW service delivery
 
