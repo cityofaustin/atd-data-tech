@@ -1,100 +1,106 @@
-# DTS GitHub Issue Standards
+# Tracking work with GitHub issues
 
-Data & Technology Services tracks all of our work as GitHub issues in the [atd-data-tech](https://github.com/cityofaustin/atd-data-tech) repository. It's important that we adhere to these standards, as they are the foundation of our work coordination, project managment, and maintain service delivery data that enables us to improve our processes, prioritize resources, and [work in the open](https://data.austintexas.gov/Transportation-and-Mobility/Transportation-Public-Works-Data-Tech-Services-Iss/rzwg-fyv8/explore/query/SELECT%0A%20%20%60number%60%2C%0A%20%20%60state%60%2C%0A%20%20%60pipeline%60%2C%0A%20%20%60title%60%2C%0A%20%20%60workgroups%60%2C%0A%20%20%60body%60%2C%0A%20%20%60labels%60%2C%0A%20%20%60created_at%60%2C%0A%20%20%60updated_at%60%2C%0A%20%20%60url%60%2C%0A%20%20%60position%60%0AWHERE%0A%20%20caseless_one_of\(%60pipeline%60%2C%20%22In%20Progress%22%2C%20%22Needs%20Scoping%22\)%0A%20%20AND%20caseless_contains\(%60labels%60%2C%20%22project%20index%22\)%0AORDER%20BY%20%60position%60%20DESC%20NULL%20LAST/page/filter).  [Austinmobility.io](https://austinmobility.io/)  [DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27) updated.
+Data & Technology Services tracks all of our work as GitHub issues in the [atd-data-tech](https://github.com/cityofaustin/atd-data-tech) repository. We rely on a standardized system of labels, issue types, and issue fields to plan sprints, report on service delivery, and keep [austinmobility.io](https://austinmobility.io) and the [DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27) up to date.
 
+## Creating an issue
 
+Bookmark these two forms—they set the issue type to Task and prompt for the fields below:
 
-## GitHub Issue Fields
+* [DTS issue](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--%20dts-issue.md) — for most work
+* [Bug report](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+bug-report.yml) — when something's broken
 
-## DTS Status
+Other templates (meetings, index issues) are available from New issue on the repository's Issues tab. Issues can't be created without a template.
 
-Status is the way we track issues across various stages of completion. We use the following statuses:&#x20;
+## Title
 
-* **New** - Awaiting triage by the Service Desk, Team Lead, or Product Manager
-* **Needs Scoping** - Potential projects or features that require clarification or exploration before presenting to builders for estimation and prioritizing
-* **Backlog** - Ready to be tackled by the team when the time comes&#x20;
-* **On Deck** - Slated for work in the current sprint
-* **In Progress** - Actively underway
-* **Review/QA** - Proposed as complete - pending teammate or stakeholder sign-off
-* **Blocked** - Issues that cannot be completed — often waiting on ATS or user feedback
-* **Closed** - Completed, closed as not planned, or closed as a duplicate
-* **Ongoing** - A continual service, product, or task - no projects, no epics
-* **Icebox** - Not under consideration at this time
+Issue titles should begin with a verb and summarize the work: Update, Implement, Add, Remove, Review, Discuss, Troubleshoot… You don't need to spell out application names or issue types in the title; the fields and labels cover that.
+
+| Use this                               | Not this                                                      |
+| -------------------------------------- | ------------------------------------------------------------- |
+| Add task order fields to "Funding" tab | AMD staff can't track all funding information                 |
+| Publish new CCTV camera thumbnails     | CCTV map issues                                               |
+| Replace VZE council district dataset   | Outdated council district AGOL resource in Vision Zero Editor |
+
+## Assignees
+
+The person or people who will do the work. Oftentimes, issues are temporarily assigned to product managers or team leads while they are scoped and prioritized.&#x20;
+
+## Type
+
+The majority of your issues will be tasks. The other types are maintained by product managers and team leads.
+
+| Type    | What it is                                                                                                                                                                                                                                              |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Task    | A specific piece of work. Can have sub-issues.                                                                                                                                                                                                          |
+| Epic    | A body of work bigger than a task but smaller than a project—a feature, an MVP roll-out, or a category of work within a service—that's worth showing on a roadmap.                                                                                      |
+| Project | A substantial, time-boxed endeavor that spans multiple sprints, significantly improves TPW operations, or achieves a notable strategic outcome.                                                                                                         |
+| Product | An application or digital system we build and support in-house, such as the [Finance & Purchasing Portal](https://austinmobility.io/products/2903) or the [Vision Zero Crash Data System](https://austinmobility.io/products/255).                      |
+| Service | Ongoing consultation, training, or assistance to support the use of data and technology, such as [Geodata Quality Control](https://austinmobility.io/services/28553) or [Power BI Support](https://github.com/cityofaustin/atd-data-tech/issues/27373). |
+
+## Fields
+
+Issue fields appear under Fields in the issue's right-hand sidebar, and the set you see depends on the issue type. These are the fields that matter for a Task; everything else is covered in the table further down.
+
+### DTS Status
+
+Where the issue is in its life. Update it as you go; this single field drives every team board.
+
+| Status        | Meaning                                                            |
+| ------------- | ------------------------------------------------------------------ |
+| New           | Awaiting triage by the Service Desk, team lead, or product manager |
+| Needs Scoping | Ready for scoping and prioritization                               |
+| Backlog       | Scoped and prioritized                                             |
+| On Deck       | Scheduled to begin this sprint                                     |
+| In Progress   | Actively underway                                                  |
+| Review/QA     | Proposed as complete—pending teammate or stakeholder sign-off      |
+| Blocked       | Cannot be worked on at this time                                   |
+| Ongoing       | A continual service, product, or task—no projects, no epics        |
+| Icebox        | Not under consideration at this time                               |
+| Closed        | Completed, or closed as not planned or duplicate                   |
 
 {% hint style="info" %}
-Closing an issue, by default, records it as something we completed. If it's closed for a different reason, you can click the caret on the "Close" button to note this:&#x20;
+Closing an issue, by default, records it as something we completed. If it's closed for a different reason, you can click the caret on the "Close" button to note this:
 
 <p align="center"><img src="../.gitbook/assets/Screenshot 2026-08-21 at 6.11.20 PM.png" alt="" data-size="original"><br></p>
 
-If the work wasn't executed, make sure to delete the estimate from the issue so that we can keep our service delivery metrics accurate.&#x20;
+If the work wasn't executed, make sure to delete the estimate from the issue so that we can keep our service delivery metrics accurate.
 {% endhint %}
 
-## Issues
+### DTS Team / DTS Teams
 
-Tracking our work in issues not only helps us stay organized, it gives us important data on where we're spending our time, how to prioritize work, . or bookmark a link to [this DTS issue form](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--%20dts-issue.yml).&#x20;
+The DTS team doing the work: Apps, Data Science, Dev, ECM, Geo, Maximo, Product, Tech Services, or Operations. Setting it adds the issue to that team's board automatically. A Task can only be assigned to a single team. If two teams are working on the same thing, copy the issue so each team has its own that they can size according to the amount of effort they put in.&#x20;
 
-![Screenshot of the Issues page with the "New issue" button circled. ](https://github.com/cityofaustin/atd-data-tech/raw/master/images/Create-new-issue.png?raw=true)
+### TPW Divisions
 
-You will see a list of our custom issue templates. These are handy for creating bug reports, meetings, etc. with boilerplate information and structure. If you prefer to start with a blank issue, scroll to the bottom of the template list and select "Blank issue."
+The primary division(s) served by this work. Use DTS for internal work and TPW for department-wide services and solutions. Every issue needs at least one division; add more only if the work truly serves several.&#x20;
 
-### Issue Titles
+### DTS Estimate
 
-Issue titles should **begin with a verb**\* and **summarize the work to be completed**. This convention improves data readability and helps keep our tasks action-oriented and unambiguous. Since you'll be using `Product:` and `Type:` labels, you don't need to spell out application names or issue types.&#x20;
+Estimates are how we track the level of effort of issues. Tasks should always have an estimate once pulled on deck or into progress, and estimates can be adjusted as needed. Check estimates for accuracy whenever you close an issue. Leave estimates blank for duplicates and other issues we decide not to undertake.
 
-\*Consider _Update, Implement, Add, Remove, Review, Discuss, Troubleshoot..._&#x20;
+Estimates are also useful for
 
-| Use this                                                                                                                  | Not this                                                      |
-| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Add task order fields to "Funding" tab                                                                                    | AMD staff can't track all funding information                 |
-| Publish new CCTV camera thumbnails                                                                                        | CCTV map issues                                               |
-| <p>Replace Vision Zero Editor council district dataset</p><p><em>— or</em> — <br>Replace VZE council district dataset</p> | Outdated council district AGOL resource in Vision Zero Editor |
-
-### Issue Types
-
-<table><thead><tr><th width="116.60546875">Type name</th><th>Description</th><th>Fields</th></tr></thead><tbody><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/390755">Task</a></td><td>A specific piece of work</td><td>DTS Team, DTS Status, TPW Division, DTS Estimate</td></tr><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/31590611">Epic</a></td><td>Large (but sub-Project or Service) body of work—like a feature, roll out, or grouped tasks within a service</td><td>TPW Division, DTS Status, Start date, End date, DTS Estimate, DTS Teams</td></tr><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/31105742">Service</a></td><td>Ongoing consultation, training, or assistance to support the use of data and technology</td><td>DTS Status, DTS Team, TPW Division, DTS Description</td></tr><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/31431867">Product</a></td><td>Applications and digital systems we build in-house</td><td>DTS Status, DTS Team, TPW Division, DTS Description, DTS Solution Type, DTS Application URL</td></tr><tr><td><a href="https://github.com/organizations/cityofaustin/settings/issue-types/26551850">Project</a></td><td>Substantial endeavor requiring coordinated effort across multiple sprints and/or teams</td><td>DTS Status, TPW Division, Start date, End date, DTS Description, DTS Teams</td></tr></tbody></table>
-
-## Labels
-
-You can apply labels by clicking the "Labels" heading in an issue's right-hand sidebar and beginning to type the label name.&#x20;
-
-<figure><img src="../.gitbook/assets/Labeling Github Issues.png" alt="Screenshot of Github label UI predictive typing: &#x22;SM&#x22; is typed and &#x22;Workgroup: SMD&#x22; is suggested in the drop down with the description &#x22;Signs and Markings Division&#x22;"><figcaption><p>Label descriptions help with acronyms, "Type:" definitions, etc. </p></figcaption></figure>
-
-### The importance of labels
-
-Accurate labeling is necessary for several reasons:&#x20;
-
-* Labels allow us to view related issues across the Zenhub pipelines. For example, during Apps Team Sprint Planning, we filter down to  `Team: Apps` and during our periodic meetings with AMD we use the `Workgroup: AMD` label to look at all the work — across teams, of all sizes — that we're doing for them. &#x20;
-* Labels are also used to populate [content on the DTS website](https://austinmobility.io/projects).&#x20;
-* Finally, labels are critical to the [service delivery data](https://data.austintexas.gov/Transportation-and-Mobility/Transportation-Public-Works-Data-Tech-Services-Iss/rzwg-fyv8/about_data) that we use to track, analyze, and improve our work.
-
-### Required labels
-
-* [**Workgroup**](https://github.com/cityofaustin/atd-data-tech/labels?q=Workgroup%3A+) - the customer we're serving; `Workgroup: DTS` for internal work and `Workgroup: TPW` for department-wide work. **Every issue should have one, and only one,** `Workgroup:`  l**abel**.
-* [**Team**](https://github.com/cityofaustin/atd-data-tech/labels?q=Team%3A) - the DTS service team who will be doing the work. If there are two teams working on the same thing, copy the issue so there's one for each team. &#x20;
-  * Products, Services, and **Tasks should have one, and only one,** `Team:` **label**.
-  * Projects and Epics may be assigned to multiple teams.&#x20;
-*   At least one **Project**, **Product,** or **Service** label.&#x20;
-
-    * [**Projects**](https://github.com/cityofaustin/atd-data-tech/labels?q=Project%3A) are time-boxed endeavors — whether [identifying a vendor solution](https://github.com/cityofaustin/atd-data-tech/issues/65), [building a major feature for an existing Product](https://github.com/cityofaustin/atd-data-tech/issues/533), [overhauling a dataset](https://github.com/cityofaustin/atd-data-tech/issues/254), or [delivering a complex map](https://github.com/cityofaustin/atd-data-tech/issues/1911). They accomplish a singular goal and have a defined completion date.
-    * [**Products**](https://austinmobility.io/services) are solutions that we continue to support over time, including all in-house applications, such as the [Finance and Purchasing Portal](https://austinmobility.io/products/2903) and the [Vision Zero Crash Data System](https://austinmobility.io/products/255).
-    * [**Services**](https://austinmobility.io/services) are ongoing consultations, training, or assistance to support the use of data and technology. Each DTS team offers multiple services, such as [Geodata Quality Control](https://austinmobility.io/services/28553) and [Software License Administration & Installation](https://austinmobility.io/services/27294).&#x20;
-
-    Often, a major feature or enhancement to an existing product will require enough resources and coordination that it qualifies as a project. [Warehouse Inventory](https://github.com/cityofaustin/atd-data-tech/issues/20), for example, was a major set of features and enhancements to [AMD Data Tracker](https://austinmobility.io/products/2068), so it needed both **Product** and **Project** labels.&#x20;
-
-## Estimates
-
-Estimates are how we track the level of effort of issues. Tasks should always have an estimate once pulled on deck or into progress, and estimates can be adjusted as needed. Check estimates for accuracy whenever you close an issue. Leave estimates blank for duplicates and other issues we decide not to undertake.&#x20;
-
-Like labels, **estimates are required** because they are a critical component of the [service delivery data](https://data.austintexas.gov/Transportation-and-Mobility/Transportation-Public-Works-Data-Tech-Services-Iss/rzwg-fyv8/about_data) we use to track, analyze, and improve our work. Estimates are also useful for
-
-* Sprint planning — to see when a person or team has too many issues (or too few!) issues assigned to themS
+* Sprint planning — to see when a person or team has too many issues (or too few!) issues assigned to them
 * Stakeholder discussions when prioritizing features — being able to show stakeholders easily that we can accomplish, say, three small tasks, two medium, or one large
 * [Velocity tracking](https://www.zenhub.com/blog/track-your-speed-of-work-with-agile-velocity-charts/) — i.e. predicting the likelihood we can complete a project by a given date
 
 <figure><img src="../.gitbook/assets/DTS Product - Estimate Chart.png" alt="" width="563"><figcaption></figcaption></figure>
 
-_Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._&#x20;
+_Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._
 
-## Assignees
+## Labels
 
-An issue should be assigned to the person/people who will tackle it. This enables team members to filter down to issues they are responsible for easily.
+### Required Labels
+
+**Every task needs a single `Service:` label.** You can pull up a list of your team's labels by typing an asterisk and then your team name, e.g. entering  `*apps` will pull up all the Apps Team `Service:` labels.
+
+<figure><img src="../.gitbook/assets/Predictive.png" alt=""><figcaption></figcaption></figure>
+
+If a Task or an Epic is part of a project, it needs that **`Project:` label**, and if the work is on a particular product, they need a **`Product:` label**.&#x20;
+
+### Optional Labels
+
+Impact
+
+Need
+

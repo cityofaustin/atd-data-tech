@@ -23,7 +23,7 @@
 
 ## Product Ops
 
-* [DTS GitHub Issue Standards](product-ops/github-project-management.md)
+* [Tracking work with GitHub issues](product-ops/github-project-management.md)
 * [Using GitHub Projects for Agile Work](product-ops/using-github-projects-for-agile-work.md)
 * [Managing Project, Product, and Service Indexes](product-ops/index-issue-specifications.md)
 * [DTS Issue Types](product-ops/index-issue-specifications-1.md)
