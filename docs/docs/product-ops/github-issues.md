@@ -1,6 +1,6 @@
 # Tracking work with GitHub issues
 
-Data & Technology Services tracks all of our work as GitHub issues in the [atd-data-tech](https://github.com/cityofaustin/atd-data-tech) repository. We rely on a standardized system of labels, issue types, and issue fields to plan sprints, report on service delivery, and keep [austinmobility.io](https://austinmobility.io) and the [DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27) up to date.
+Data & Technology Services tracks all of our work as GitHub issues in the [atd-data-tech](https://github.com/cityofaustin/atd-data-tech) repository. We rely on a standardized system of labels, issue types, and issue fields to plan sprints, report on service delivery, and keep [Austinmobility.io](https://austinmobility.io) and the [DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27) up to date.
 
 ## Creating an issue
 
@@ -9,7 +9,7 @@ Bookmark these two forms—they set the issue type to Task and prompt for the fi
 * [DTS issue](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--%20dts-issue.md) — for most work
 * [Bug report](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+bug-report.yml) — when something's broken
 
-Other templates (meetings, index issues) are available from New issue on the repository's Issues tab. Issues can't be created without a template.
+We disabled the ability to create issues without a template to improve our service delivery data quality. If you are interested in creating an issue template, reach out to Amenity.
 
 ## Title
 
@@ -84,7 +84,7 @@ Estimates are also useful for
 * Stakeholder discussions when prioritizing features — being able to show stakeholders easily that we can accomplish, say, three small tasks, two medium, or one large
 * [Velocity tracking](https://www.zenhub.com/blog/track-your-speed-of-work-with-agile-velocity-charts/) — i.e. predicting the likelihood we can complete a project by a given date
 
-<figure><img src="../.gitbook/assets/DTS Product - Estimate Chart.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Estimate.png" alt="" width="563"><figcaption></figcaption></figure>
 
 _Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._
 
@@ -96,21 +96,26 @@ _Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_seque
 
 <figure><img src="../.gitbook/assets/Predictive.png" alt=""><figcaption></figcaption></figure>
 
-If a Task or an Epic is part of a project, it needs that **`Project:` label**, and if the work is on a particular product, they need a **`Product:` label**.&#x20;
+If a Task or an Epic is part of a project, it needs that **`Project:` label**, and if the work is on a particular product, it needs a **`Product:` label**.&#x20;
 
 ### Optional Labels
 
-[**Need:**](https://github.com/cityofaustin/atd-data-tech/labels?q=Need%3A) — priority of a potential feature or enhancement
+**`Need:`** — priority of a potential feature or enhancement
 
 * 1-Must Have — No point in delivering a solution without this
 * 2-Should Have — May be painful to leave out, but the solution is still viable
 * 3-Could Have — Wanted, but affects fewer users or has less impact on business than other features
 * 4-Won't Have — Will not be delivered at this time
 
-[**Impact:**](https://github.com/cityofaustin/atd-data-tech/labels?q=Impact%3A+) — the effect of a bug or infrastructure failure
+**`Impact:`** — the effect of a bug or infrastructure failure
 
 * 1-Severe — Severely impacts TPW service delivery
 * 2-Major — Causes a major interruption of TPW service delivery
 * 3-Minor — Deteriorates TPW service delivery
 * 4-None — Does not affect TPW service delivery
 
+{% hint style="info" %}
+Before migrating to GitHub Projects, we required **`Type:`** labels. They were often skipped, other times single issues were oftwn assigned multiple types, and usage wasn't consistent across teams. Despite efforts to refine the list and enforce standards, **`Type:`** labels never gave us data good enough to use for reporting.&#x20;
+
+Now that we have [thoughtfully defined](https://github.com/cityofaustin/atd-data-tech/issues/26679) DTS "Services," that we incorporated [into our website](https://austinmobility.io/services) and executive communications, we dropped **`Type:`** labels from our standards in favor of **`Service:`** labels.&#x20;
+{% endhint %}
