@@ -15,11 +15,11 @@ Other templates (meetings, index issues) are available from New issue on the rep
 
 Issue titles should begin with a verb and summarize the work: Update, Implement, Add, Remove, Review, Discuss, Troubleshoot… You don't need to spell out application names or issue types in the title; the fields and labels cover that.
 
-| Use this                               | Not this                                                      |
-| -------------------------------------- | ------------------------------------------------------------- |
-| Add task order fields to "Funding" tab | AMD staff can't track all funding information                 |
-| Publish new CCTV camera thumbnails     | CCTV map issues                                               |
-| Replace VZE council district dataset   | Outdated council district AGOL resource in Vision Zero Editor |
+| <h4><mark style="color:$primary;"><strong>Use this</strong></mark></h4> | <h4><mark style="color:$primary;"><strong>Not this</strong></mark></h4> |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Add task order fields to "Funding" tab                                  | AMD staff can't track all funding information                           |
+| Publish new CCTV camera thumbnails                                      | CCTV map issues                                                         |
+| Replace VZE council district dataset                                    | Outdated council district AGOL resource in Vision Zero Editor           |
 
 ## Assignees
 
@@ -29,13 +29,13 @@ The person or people who will do the work. Oftentimes, issues are temporarily as
 
 The majority of your issues will be tasks. The other types are maintained by product managers and team leads.
 
-| Type    | What it is                                                                                                                                                                                                                                              |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Task    | A specific piece of work. Can have sub-issues.                                                                                                                                                                                                          |
-| Epic    | A body of work bigger than a task but smaller than a project—a feature, an MVP roll-out, or a category of work within a service—that's worth showing on a roadmap.                                                                                      |
-| Project | A substantial, time-boxed endeavor that spans multiple sprints, significantly improves TPW operations, or achieves a notable strategic outcome.                                                                                                         |
-| Product | An application or digital system we build and support in-house, such as the [Finance & Purchasing Portal](https://austinmobility.io/products/2903) or the [Vision Zero Crash Data System](https://austinmobility.io/products/255).                      |
-| Service | Ongoing consultation, training, or assistance to support the use of data and technology, such as [Geodata Quality Control](https://austinmobility.io/services/28553) or [Power BI Support](https://github.com/cityofaustin/atd-data-tech/issues/27373). |
+| <h4><mark style="color:$primary;"><strong>Type</strong></mark></h4> | <h4><mark style="color:$primary;"><strong>Description</strong></mark></h4>                                                                                                                                                                              |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Task                                                                | A specific piece of work. Can have sub-issues.                                                                                                                                                                                                          |
+| Epic                                                                | A body of work bigger than a task but smaller than a project—a feature, an MVP roll-out, or a category of work within a service—that's worth showing on a roadmap.                                                                                      |
+| Project                                                             | A substantial, time-boxed endeavor that spans multiple sprints, significantly improves TPW operations, or achieves a notable strategic outcome.                                                                                                         |
+| Product                                                             | An application or digital system we build and support in-house, such as the [Finance & Purchasing Portal](https://austinmobility.io/products/2903) or the [Vision Zero Crash Data System](https://austinmobility.io/products/255).                      |
+| Service                                                             | Ongoing consultation, training, or assistance to support the use of data and technology, such as [Geodata Quality Control](https://austinmobility.io/services/28553) or [Power BI Support](https://github.com/cityofaustin/atd-data-tech/issues/27373). |
 
 ## Fields
 
@@ -45,18 +45,18 @@ Issue fields appear under Fields in the issue's right-hand sidebar, and the set 
 
 Where the issue is in its life. Update it as you go; this single field drives every team board.
 
-| Status        | Meaning                                                            |
-| ------------- | ------------------------------------------------------------------ |
-| New           | Awaiting triage by the Service Desk, team lead, or product manager |
-| Needs Scoping | Ready for scoping and prioritization                               |
-| Backlog       | Scoped and prioritized                                             |
-| On Deck       | Scheduled to begin this sprint                                     |
-| In Progress   | Actively underway                                                  |
-| Review/QA     | Proposed as complete—pending teammate or stakeholder sign-off      |
-| Blocked       | Cannot be worked on at this time                                   |
-| Ongoing       | A continual service, product, or task—no projects, no epics        |
-| Icebox        | Not under consideration at this time                               |
-| Closed        | Completed, or closed as not planned or duplicate                   |
+| <h4><mark style="color:$primary;">Status</mark></h4> | <h4><mark style="color:$primary;">Definition</mark></h4>           |
+| ---------------------------------------------------- | ------------------------------------------------------------------ |
+| New                                                  | Awaiting triage by the Service Desk, team lead, or product manager |
+| Needs Scoping                                        | Ready for scoping and prioritization                               |
+| Backlog                                              | Scoped and prioritized                                             |
+| On Deck                                              | Scheduled to begin this sprint                                     |
+| In Progress                                          | Actively underway                                                  |
+| Review/QA                                            | Proposed as complete—pending teammate or stakeholder sign-off      |
+| Blocked                                              | Cannot be worked on at this time                                   |
+| Ongoing                                              | A continual service, product, or task—no projects, no epics        |
+| Icebox                                               | Not under consideration at this time                               |
+| Closed                                               | Completed, or closed as not planned or duplicate                   |
 
 {% hint style="info" %}
 Closing an issue, by default, records it as something we completed. If it's closed for a different reason, you can click the caret on the "Close" button to note this:
