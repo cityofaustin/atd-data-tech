@@ -1,0 +1,30 @@
+name: Close issue when DTS status is Closed
+
+on:
+  issues:
+    types: [field_added]
+
+permissions:
+  issues: write
+
+jobs:
+  close-issue-if-dts-status-is-closed:
+    # only when issue field changed is DTS_Status to Closed
+    # skip issues that are already closed and skip runs triggered by the service bot
+    if: >-
+      github.event.issue.state == 'open' &&
+      github.actor != 'atdservicebot' &&
+      github.event.issue_field.name == 'DTS Status' &&
+      github.event.issue_field_value.value_id == 77435882
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Close issue if DTS Status is closed
+        env:
+          GH_TOKEN: ${{ secrets.PROJECT_MANAGEMENT_PAT }}
+          REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          STATUS_FIELD_ID: 10226
+        run: |
+          # Close issue as completed
+          gh issue close "$ISSUE_NUMBER" --repo "$REPO" --reason completed
