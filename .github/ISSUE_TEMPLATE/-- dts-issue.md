@@ -6,6 +6,7 @@ labels:
   - "[Service] :x: MISSING"
   - "[Project] :bulb: if applicable"
   - "[Product] :bulb: if applicable"
+  - "Archived Product"
 assignees: ''
 type: task
 ---
