@@ -3,7 +3,7 @@ name: "[Tech Services] New Hire Onboarding Checklist - Tech Services Support"
 about: This template is to help the Tech Services team with onboarding new TPW employees
 title: "[Tech Services] New Hire Onboarding Checklist - [START DATE: FIRST NAME, LAST
   INITIAL, LOCATION] "
-labels: 'Team: Tech Services, Type: Operations, [Workgroup] :rotating_light: MISSING'
+labels: "Service: General IT Support & Troubleshooting"
 assignees: ''
 type: Task
 
