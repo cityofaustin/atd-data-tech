@@ -3,8 +3,7 @@ description: "Document reproducible bugs in apps or processes."
 title: "[Bug] "
 labels:
   - "Type: Bug Report"
-  - "[Team] :rotating_light: MISSING"
-  - "[Workgroup] :rotating_light: MISSING"
+  - "[Service] :x: MISSING"
 type: Task
 body:
   - type: textarea
