@@ -1,5 +1,5 @@
 ---
-name: "[All-Purpose] Service Index"
+name: "Service Index"
 about: Essential information for DTS services
 title: 'Service: [Service Name in Title Case]'
 labels: 'Service Index, [Service] :rotating_light: MISSING, [Team] :rotating_light:
