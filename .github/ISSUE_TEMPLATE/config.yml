@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
+  - name: TPW Data & Technology Services
+    url: https://atd-dts.gitbook.io/wiki/product-ops/github-issues
+    about: How we use GitHub projects and issues to track our work
+  - name: GitHub Community Support: Projects and Issues
     url: https://github.com/orgs/community/discussions
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+    about: Submit questions and feedback to GitHub staff and community.
