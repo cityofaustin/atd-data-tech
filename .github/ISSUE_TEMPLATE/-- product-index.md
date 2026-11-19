@@ -1,6 +1,6 @@
 ---
 name: "Product Index"
-about: Central place to access all information for a product
+about: Essential information for all DTS projects. Feeds Austinmobility.io and the DTS Portfolio GitHub Project.
 title: 'Product: [Product Name in Title Case]'
 labels: 
   - "[Product] :x: MISSING"
