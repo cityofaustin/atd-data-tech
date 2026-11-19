@@ -1,9 +1,9 @@
 ---
-name: "Product Index"
-about: Essential information for all DTS projects. Feeds Austinmobility.io and the DTS Portfolio GitHub Project.
-title: 'Product: [Product Name in Title Case]'
+name: Product Index
+about: Record essential information for a DTS project for publication on Austinmobility.io and the DTS Portfolio GitHub Project.
+title: Product: [Product Name in Title Case]
 labels: 
-  - "[Product] :x: MISSING"
+  - [Product] :x: MISSING
 type: Product
 ---
 
