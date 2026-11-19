@@ -1,6 +1,6 @@
 ---
 name: 'Product Index'
-about: 'Record essential information for a DTS project for publication on Austinmobility.io and the DTS Portfolio GitHub Project.'
+about: 'Record essential information for a DTS product for publication on Austinmobility.io and the DTS Portfolio GitHub Project.'
 title: 'Product: [Product Name in Title Case]'
 labels: 
   - '[Product] :x: MISSING'
