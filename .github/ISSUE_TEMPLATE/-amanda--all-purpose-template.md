@@ -2,8 +2,8 @@
 name: "[AMANDA] All Purpose Template"
 about: All purpose template for AMANDA Services
 title: AMANDA Issue Title
-labels: 'Product: AMANDA'
-assignees: ''
+labels: "Product: AMANDA", "Service: ECM Support"
+type: task
 
 ---
 
