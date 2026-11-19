@@ -1,6 +1,6 @@
 ---
 name: "Service Index"
-about: Essential information for DTS services
+about: 'Record essential information for a DTS service for publication on Austinmobility.io and the DTS Portfolio GitHub Project.'
 title: 'Service: [Service Name in Title Case]'
 labels: 'Service Index, [Service] :rotating_light: MISSING, [Team] :rotating_light:
   MISSING'
