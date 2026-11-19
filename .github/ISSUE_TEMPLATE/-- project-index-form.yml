@@ -1,4 +1,4 @@
-name: "DTS Project Index (form)"
+name: "Project Index (form)"
 description: "Essential information for all DTS projects. Feeds the Austinmobility.io and the DTS Portfolio GitHub Project."
 title: "Project: [Your Project Name in Title Case]"
 type: Project
