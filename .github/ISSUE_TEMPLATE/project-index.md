@@ -1,5 +1,5 @@
 ---
-name: "[All-Purpose] Project Index"
+name: "Project Index (markdown)"
 about: 'Essential information for all DTS projects. '
 title: 'Project: [Your Project Name in Title Case]'
 labels: 
