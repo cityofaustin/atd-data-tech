@@ -1,6 +1,6 @@
 ---
 name: "Project Index (markdown)"
-about: 'Essential information for all DTS projects. '
+about: 'Essential information for all DTS projects. Feeds Austinmobility.io and the DTS Portfolio GitHub Project.'
 title: 'Project: [Your Project Name in Title Case]'
 labels: 
   - "[Product] :bulb: OPTIONAL"
