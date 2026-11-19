@@ -1,5 +1,5 @@
 name: "Project Index (form)"
-description: "Essential information for all DTS projects. Feeds the Austinmobility.io and the DTS Portfolio GitHub Project."
+description: 'Record essential information for a DTS project for publication on Austinmobility.io and the DTS Portfolio GitHub Project.'
 title: "Project: [Your Project Name in Title Case]"
 type: Project
 projects: ["cityofaustin/27"]
