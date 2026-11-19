@@ -1,13 +1,10 @@
 ---
-name: "Project Index (markdown)"
-about: 'Essential information for all DTS projects. Feeds Austinmobility.io and the DTS Portfolio GitHub Project.'
+name: 'Project Index (markdown)'
+about: 'Record essential information for a DTS project for publication on Austinmobility.io and the DTS Portfolio GitHub Project.'
 title: 'Project: [Your Project Name in Title Case]'
 labels: 
-  - "[Product] :bulb: OPTIONAL"
-  - "[Project] :rotating_light: MISSING"
-  - "[Service] :bulb: OPTIONAL"
-  - "[Team] :rotating_light: MISSING"
-  - "[Workgroup] :rotating_light: MISSING"
+  - '[Project] :x: MISSING'
+  - '[Product] :bulb: if applicable'
 assignees: ''
 
 ---
