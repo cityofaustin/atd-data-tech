@@ -5,6 +5,7 @@ title: 'Project: [Your Project Name in Title Case]'
 labels: 
   - '[Project] :x: MISSING'
   - '[Product] :bulb: if applicable'
+type: project
 assignees: ''
 
 ---
