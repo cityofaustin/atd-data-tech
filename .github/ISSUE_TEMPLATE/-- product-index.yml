@@ -2,7 +2,7 @@ name: "DTS Product Index"
 description: "Essential information for all DTS Products. Feeds the Austinmobility.io and the DTS Portfolio GitHub Product."
 title: "Product: [Your Product Name in Title Case]"
 type: Product
-Products: ["cityofaustin/27"]
+Projects: ["cityofaustin/27"]
 labels: []
 assignees: []
 
