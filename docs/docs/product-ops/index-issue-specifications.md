@@ -1,6 +1,6 @@
 # Managing Project, Product, and Service Indexes
 
-We use "index" issues to centralize information about each of our products, projects, and services in GitHub. Keeping index issues in a standardized format ensures that our two main communication platforms:&#x20;
+We use "index" issues to centralize information about each of our products, projects, and services in GitHub. Keeping index issues in a standardized format ensures that our two main communication platforms:
 
 The DTS Website, [Austinmobility.io](https://austinmobility.io/) and the [DTS Portfolio GitHub Project](https://github.com/orgs/cityofaustin/projects/27), provide an easily understandable view of our work that's both current and comprehensive.
 
@@ -32,7 +32,7 @@ Projects are time-boxed endeavors. They accomplish a singular goal and have a co
 * [_Delivering a complex map_](https://github.com/cityofaustin/atd-data-tech/issues/1911)
 * [_Delivering the first iteration (MVP) of a new DTS product_](https://github.com/cityofaustin/atd-data-tech/issues/307)
 
-To create a project index, use the [Project Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--project-index.md).&#x20;
+To create a project index, use the [Project Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--project-index.md).
 
 ## Services
 
@@ -49,7 +49,7 @@ Services are the ongoing consultation, training, and assistance we provide to im
 * [_Product & Project Management_](https://github.com/cityofaustin/atd-data-tech/issues/30534) _- Product service_
 * [_Specialized Equipment Support_](https://github.com/cityofaustin/atd-data-tech/issues/27298) _- Tech Services service_
 
-Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new service index. If the decision is made to define a new DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--service-index.md) to document it in an issue.&#x20;
+Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new service index. If the decision is made to define a new DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--service-index.md) to document it in an issue.
 
 ## Index Issue Images
 
@@ -65,17 +65,17 @@ If you didn't create your index issue with one of the templates above, you can u
 
 ### Choosing an image
 
-* A [**map**](https://austinmobility.io/projects/638) or other [**visualization**](https://austinmobility.io/projects/9876) of the data generated in the app
-* **Photos** of the project/product's [end users at work](https://austinmobility.io/products/251) or the related [hardware](https://austinmobility.io/projects/1540)/[service](https://austinmobility.io/products/1192)\
+* A [map](https://austinmobility.io/projects/638) or other [visualization](https://austinmobility.io/projects/9876) of the data generated in the app
+* Photos of the project/product's [end users at work](https://austinmobility.io/products/251) or the related [hardware](https://austinmobility.io/projects/1540)/[service](https://austinmobility.io/products/1192)\
   _&#x54;he_ [_TPW Flickr feed_](https://www.flickr.com/photos/atxmobility/) _is a fantastic source for these. We also have a_ [_stash of nice photos_](https://drive.google.com/drive/u/0/folders/1po3dUHEQxyz2XzsEHizlkhG0E05a5Owq) _you can add to or use._
-*   A [**close-up screenshot**](https://austinmobility.io/projects/4611) of a unique part of the UI
+*   A [close-up screenshot](https://austinmobility.io/projects/4611) of a unique part of the UI
 
     _For mobile-focused apps, we have a_ [_template_](https://docs.google.com/presentation/d/11W8P7kb8mt3FNehyG-_UiNlv4gBn-uWT_WZTKyJc_kY/edit#slide=id.gf792707f70_0_0) _to show off_ [_the application on different devices_](https://austinmobility.io/products/145)_._
 
-Please avoid using
+**Please avoid using**
 
-* **Full-screen screenshots** or **large diagrams** as the _**first**_**&#x20;image** - these don't render well in tiles. [Include these later on in the issue](https://github.com/cityofaustin/atd-data-tech/issues/13684) if they are helpful way to communicate the work.
-* **Vendor logos** - these doesn't give any information about the platform or use case and promote commercial companies.
+* Full-screen screenshots or large diagrams as the _first_ image - these don't render well in tiles. [Include these later on in the issue](https://github.com/cityofaustin/atd-data-tech/issues/13684) if they are helpful way to communicate the work.
+* Vendor logos - these doesn't give any information about the platform or use case and promote commercial companies.
 
 ### Preparing the image
 
@@ -83,4 +83,9 @@ The image should be at least 1000px wide, with a 3:2 aspect ratio. [This tool](h
 
 ### Adding the image to the GitHub index issue
 
-Use [GitHub-flavored Markdown image syntax](https://github.com/user-attachments/assets/38429baa-ccff-4a21-91db-08375027e5f5) so that the image displays properly on the DTS website. [Here's a quick way](https://drive.google.com/drive/u/0/folders/1MeJUwX7OPLezTXASfyp7gXjOc8tYOiYy) to replace the default image with an uploaded file.
+Use [GitHub-flavored Markdown image syntax](https://github.com/user-attachments/assets/38429baa-ccff-4a21-91db-08375027e5f5) so that the image displays properly on the DTS website. Here's a quick way to replace the default image with an uploaded file:
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LzDGg7hKQ_fUjXnzGGx%2Fuploads%2F1ECDQDtshPrC4c4xbSKb%2FAdding%20images%20to%20GitHub%20index%20issues.mp4?alt=media&token=e450595d-ca0a-4b21-818a-60e9107da4cd" %}
+
+{% file src="../.gitbook/assets/Adding images to GitHub index issues.mp4" %}
+
