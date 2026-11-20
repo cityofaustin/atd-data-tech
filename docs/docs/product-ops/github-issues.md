@@ -41,7 +41,7 @@ The majority of your issues will be tasks. The other types are typically used by
 {% hint style="info" %}
 ### When do you use an _epic_ instead of a _task_ with subissues?
 
-Epics and parent tasks are both useful for bundling issues into hierarchies for organizational purposes. There are two difference
+Epics and parent tasks are both useful for bundling issues into hierarchies for organizational purposes. Use an epic when you want to record a start date and end date so that the collection of work is visible in a GitHub projects roadmap view.&#x20;
 {% endhint %}
 
 ## Fields
@@ -92,7 +92,7 @@ _Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_seque
 
 <figure><img src="../.gitbook/assets/Predictive.png" alt=""><figcaption></figcaption></figure>
 
-If a Task or an Epic is part of a project, it needs that **`Project:` label**, and if the work is on a particular product, it needs a **`Product:` label**.&#x20;
+**If a Task or an Epic is part of a project, it needs that `Project:` label, and if the work is on a particular product, it needs that `Product:` label.**&#x20;
 
 ### Optional Labels
 
