@@ -53,7 +53,7 @@ Issue fields appear under "Fields" in the issue's right-hand sidebar, and the se
 {% hint style="info" icon="face-confused" %}
 ### **Why does my issue have two&#x20;**_**DTS Team**_**&#x20;fields?**&#x20;
 
-Projects and epics can be assigned to multiple DTS teams, whereas tasks, products, and services are limited to single teams. If you convert an issue from project/epic to another issue type, or vice versa, after filling out the teams field, you'll see both `DTS Team` and `DTS Teams` fields. Delete the value for the field that no longer applies and refresh the page to resolve the redundant information.&#x20;
+Projects and epics can be assigned to multiple DTS teams, whereas tasks, products, and services are limited to a single team. If you convert an issue from project/epic to another issue type, or vice versa, after filling out the teams field, you'll see both `DTS Team` and `DTS Teams` fields. Delete the value for the field that no longer applies and refresh the page to resolve the redundant information.&#x20;
 
 &#x20;![](<../.gitbook/assets/Screenshot 2026-11-23 at 11.51.38 AM.png>)
 {% endhint %}
