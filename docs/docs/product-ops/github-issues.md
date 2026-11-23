@@ -4,11 +4,11 @@ Data & Technology Services tracks all of our work as GitHub issues in the [atd-d
 
 ## Creating an issue
 
-With [a few exceptions](github-issues.md#type), you should use the ["DTS Issue" template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-+dts-issue.md) to create issues. It's the first option in the list of templates you see after clicking the green "New Issue" button in the upper righthand corner of the [GitHub _Issues_ page](https://github.com/cityofaustin/atd-data-tech/issues).&#x20;
+With [a few exceptions](github-issues.md#type), you should always use the ["DTS Issue" template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-+dts-issue.md) to create issues. It's the first option in the list of templates you see after clicking the green "New Issue" button in the upper righthand corner of the [GitHub _Issues_ page](https://github.com/cityofaustin/atd-data-tech/issues).&#x20;
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-11-20 at 1.41.11 PM.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="success" icon="lightbulb-on" %}
 Many people find it handy add a bookmark [the direct link](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-%20dts-issue.md) to their browser bar so they can open new issues with one-click.&#x20;
 {% endhint %}
 
@@ -28,7 +28,7 @@ The person or people who will do the work. Oftentimes, issues are temporarily as
 
 ## Type
 
-The majority of your issues will be tasks. The other types are typically used by product managers and team leads.
+Unless you are a product manager or team lead, you'll stick to the task issue type. The remaining four issue types are used for website content, reporting, and project planning.&#x20;
 
 | <h4><mark style="color:$primary;"><strong>Type</strong></mark></h4> | <h4><mark style="color:$primary;"><strong>Description</strong></mark></h4>                                                                                                                                                                              |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,8 +38,8 @@ The majority of your issues will be tasks. The other types are typically used by
 | Product                                                             | An application or digital system we build and support in-house, such as the [Finance & Purchasing Portal](https://austinmobility.io/products/2903) or the [Vision Zero Crash Data System](https://austinmobility.io/products/255).                      |
 | Service                                                             | Ongoing consultation, training, or assistance to support the use of data and technology, such as [Geodata Quality Control](https://austinmobility.io/services/28553) or [Power BI Support](https://github.com/cityofaustin/atd-data-tech/issues/27373). |
 
-{% hint style="info" %}
-### When do you use an _epic_ instead of a _task_ with subissues?
+{% hint style="info" icon="face-thinking" %}
+### When do I use an _epic_ instead of a _task_ with subissues?
 
 Epics and parent tasks are both useful for bundling issues into hierarchies for organizational purposes. Use an epic when you want to record a start date and end date so that the collection of work is visible in a GitHub projects roadmap view. An epic can also be assigned to multiple DTS teams.&#x20;
 {% endhint %}
@@ -50,7 +50,9 @@ Issue fields appear under "Fields" in the issue's right-hand sidebar, and the se
 
 <table data-header-hidden data-search="false"><thead><tr><th width="217.93359375"></th><th width="100.39453125" align="center"></th><th width="100.42578125" align="center"></th><th width="100.0234375" align="center"></th><th width="100.25" align="center"></th><th width="99.9375" align="center"></th></tr></thead><tbody><tr><td></td><td align="center"><h4><mark style="color:$primary;"><strong>Task</strong></mark></h4></td><td align="center"><h4><mark style="color:$primary;"><strong>Epic</strong></mark></h4></td><td align="center"><h4><mark style="color:$primary;"><strong>Project</strong></mark></h4></td><td align="center"><h4><mark style="color:$primary;"><strong>Product</strong></mark></h4></td><td align="center"><h4><mark style="color:$primary;"><strong>Service</strong></mark></h4></td></tr><tr><td><h4><mark style="color:$primary;">DTS Status</mark></h4></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td></tr><tr><td><h4><mark style="color:$primary;">TPW Divisions</mark></h4></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td></tr><tr><td><h4><mark style="color:$primary;">DTS Estimate</mark></h4></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><br></td><td align="center"><br></td><td align="center"><br></td><td align="center"><br></td></tr><tr><td><h4><mark style="color:$primary;">DTS Team</mark></h4></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><br></td><td align="center"><br></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td></tr><tr><td><h4><mark style="color:$primary;">DTS Teams</mark></h4></td><td align="center"><br></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><br></td><td align="center"><br></td></tr><tr><td><h4><mark style="color:$primary;">DTS Description</mark></h4></td><td align="center"><br></td><td align="center"><br></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td></tr><tr><td><h4><mark style="color:$primary;">DTS Start Date</mark>  </h4></td><td align="center"><br></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><br></td><td align="center"><br></td></tr><tr><td><h4><mark style="color:$primary;">DTS End Date</mark>  </h4></td><td align="center"><br></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><br></td><td align="center"><br></td></tr><tr><td><h4><mark style="color:$primary;">DTS Application URL</mark></h4></td><td align="center"><br></td><td align="center"><br></td><td align="center"><br></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><br></td></tr><tr><td><h4><mark style="color:$primary;">DTS Solution Type</mark></h4></td><td align="center"><br></td><td align="center"><br></td><td align="center"><br></td><td align="center"><mark style="color:green;">●</mark></td><td align="center"><br></td></tr></tbody></table>
 
-{% hint style="info" %}
+{% hint style="info" icon="face-confused" %}
+### **Why does my issue have two&#x20;**_**DTS Team**_**&#x20;fields?**&#x20;
+
 Projects and epics can be assigned to multiple DTS teams, whereas tasks, products, and services are limited to single teams. If you convert an issue from project/epic to another issue type, or vice versa, after filling out the teams field, you'll see both `DTS Team` and `DTS Teams` fields. Delete the value for the field that no longer applies and refresh the page to resolve the redundant information.&#x20;
 
 &#x20;![](<../.gitbook/assets/Screenshot 2026-11-23 at 11.51.38 AM.png>)
@@ -64,7 +66,7 @@ Where the issue is in its life. Update it as you go; this single field drives ev
 
 <table data-header-hidden data-search="false"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><h4><mark style="color:$primary;">Status</mark></h4></td><td><h4><mark style="color:$primary;">Definition</mark></h4></td></tr><tr><td>New</td><td>Awaiting triage by the Service Desk, team lead, or product manager</td></tr><tr><td>Needs Scoping</td><td>Ready for scoping and prioritization</td></tr><tr><td>Backlog</td><td>Scoped and prioritized</td></tr><tr><td>On Deck</td><td>Scheduled to begin this sprint</td></tr><tr><td>In Progress</td><td>Actively underway</td></tr><tr><td>Review/QA</td><td>Proposed as complete—pending teammate or stakeholder sign-off</td></tr><tr><td>Blocked</td><td>Cannot be worked on at this time</td></tr><tr><td>Ongoing</td><td>A continual service, product, or task—no projects, no epics</td></tr><tr><td>Icebox</td><td>Not under consideration at this time</td></tr><tr><td>Closed</td><td>Completed, or closed as not planned or duplicate</td></tr></tbody></table>
 
-{% hint style="info" %}
+{% hint style="info" icon="circle-info" %}
 Closing an issue, by default, records it as something we completed. If it's closed for a different reason, you can click the caret on the "Close" button to note this:
 
 <p align="center"><img src="../.gitbook/assets/Screenshot 2026-08-21 at 6.11.20 PM.png" alt="" data-size="original"><br></p>
