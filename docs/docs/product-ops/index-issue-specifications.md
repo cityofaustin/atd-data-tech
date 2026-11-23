@@ -18,7 +18,7 @@ Products are the solutions we build for our customers, including Knack apps, AMA
 * [_TPW 311 CSR Dashboards_](https://github.com/cityofaustin/atd-data-tech/issues/22605)
 * [_Vision Zero Crash Data System_](https://github.com/cityofaustin/atd-data-tech/issues/255)
 
-To create a project index, use the [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--product-index.md).
+To create a project index, use the [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+product-index.md).
 
 ## Projects
 
@@ -32,7 +32,7 @@ Projects are time-boxed endeavors. They accomplish a singular goal and have a co
 * [_Delivering a complex map_](https://github.com/cityofaustin/atd-data-tech/issues/1911)
 * [_Delivering the first iteration (MVP) of a new DTS product_](https://github.com/cityofaustin/atd-data-tech/issues/307)
 
-To create a project index, use the [Project Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--project-index.md).
+To create a project index, use the Project Index template, available as [Markdown](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+project-index.md) or an [issue form](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+project-index-form.yml).&#x20;
 
 ## Services
 
@@ -49,13 +49,13 @@ Services are the ongoing consultation, training, and assistance we provide to im
 * [_Product & Project Management_](https://github.com/cityofaustin/atd-data-tech/issues/30534) _- Product service_
 * [_Specialized Equipment Support_](https://github.com/cityofaustin/atd-data-tech/issues/27298) _- Tech Services service_
 
-Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new service index. If the decision is made to define a new DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-all-purpose--service-index.md) to document it in an issue.
+Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new service index. If the decision is made to define a new DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+service-index.md) to document it in an issue.
 
 ## Index Issue Images
 
 All projects, products, and services should have at least one image so that missing thumbnails don't disrupt the website design. The index issue templates are pre-filled with the [Austin checkered brand pattern](https://raw.githubusercontent.com/cityofaustin/atd-data-tech/d8bbf33930190731d784d21ac2674b617c0f19ef/images/index%20images/Austin%20Checkered%20Brand%20Pattern.png), but you get big bonus points for adding a custom image.
 
-{% hint style="info" %}
+{% hint style="success" icon="lightbulb-on" %}
 If you didn't create your index issue with one of the templates above, you can use the following Markdown to insert the placeholder image:
 
 ```
