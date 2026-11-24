@@ -4,7 +4,7 @@ Data & Technology Services tracks all of our work as GitHub issues in the [atd-d
 
 ## Creating an issue
 
-With [a few exceptions](./#type), you should always use the ["DTS Issue" template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-+dts-issue.md) to create issues. It's the first option in the list of templates you see after clicking the green "New Issue" button in the upper righthand corner of the [GitHub _Issues_ page](https://github.com/cityofaustin/atd-data-tech/issues).&#x20;
+With a few exceptions, you should always use the ["DTS Issue" template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=-+dts-issue.md) to create issues. It's the first option in the list of templates you see after clicking the green "New Issue" button in the upper righthand corner of the [GitHub _Issues_ page](https://github.com/cityofaustin/atd-data-tech/issues).&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2026-11-20 at 1.41.11 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ Issue titles should begin with a verb and summarize the work: Update, Implement,
 | Publish new CCTV camera thumbnails     | CCTV map issues                                               |
 | Replace VZE council district dataset   | Outdated council district AGOL resource in Vision Zero Editor |
 
-## Assignees
+## Assignee
 
 The person or people who will do the work. Oftentimes, issues are temporarily assigned to product managers or team leads while they are scoped and prioritized.&#x20;
 
@@ -32,7 +32,7 @@ Unless you are a product manager or team lead, you'll stick to the `Task` issue 
 
 ## Fields&#x20;
 
-Fill each of them out on every issue. Issue fields are dependent on the issue type,
+Every task requires the following fields.&#x20;
 
 #### DTS Status
 
@@ -78,7 +78,9 @@ Estimates are also useful for
 
 _Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._
 
-## Task labels
+## Labels
+
+We use the following labels for tasks.&#x20;
 
 ### Service - _required_
 
