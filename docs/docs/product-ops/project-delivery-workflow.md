@@ -39,7 +39,7 @@ Move the issue to the "Needs Scoping" Zenhub pipeline.
 * At the meeting, discuss the recommended approach and fill out the "Effort" section of the [project evaluation in the DTS Portal](https://atd.knack.com/dts#project-evaluation/).
 
 {% hint style="info" %}
-Sometimes we realize that the request isn't actually project-sized during the intake meeting or the builder huddle. No worries, we had a good opportunity to learn more about our customers' work. Might make sense to organize this work as an [epic](github-issues.md#epics), once the time comes.
+Sometimes we realize that the request isn't actually project-sized during the intake meeting or the builder huddle. No worries, we had a good opportunity to learn more about our customers' work. Might make sense to organize this work as an [epic](github-issues/#epics), once the time comes.
 {% endhint %}
 
 ## Evaluation

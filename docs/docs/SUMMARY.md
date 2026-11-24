@@ -23,7 +23,8 @@
 
 ## Product Ops
 
-* [Tracking work with GitHub issues](product-ops/github-issues.md)
+* [Tracking work with GitHub issues](product-ops/github-issues/README.md)
+  * [Issue Types and Issue Fields](product-ops/github-issues/issue-types-and-issue-fields.md)
 * [Managing Project, Product, and Service Indexes](product-ops/index-issue-specifications.md)
 * [Managing the DTS Website](product-ops/dts-website.md)
 * [Product Manager Assignments](https://docs.google.com/spreadsheets/d/1BsOklJsJiIIqdlmtNtr9peL3URS7Hdu9RVj4D97701k/edit#gid=1907210355)

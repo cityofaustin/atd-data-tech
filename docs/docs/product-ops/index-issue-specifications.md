@@ -20,6 +20,16 @@ Products are the solutions we build for our customers, including Knack apps, AMA
 
 To create a project index, use the [Product Index template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+product-index.md).
 
+### Product index issue fields
+
+* **Description** - A concise product summary that identifies the users and purpose of the application using a non-sentence structure and no period. it should make sense to anyone—a TPW staff person, a Council member, or a prospective DTS intern. Text issue fields have a 255-character limit. Examples:
+  * _Knack app that lets the Office of the City Engineer intake, track, and manage approved concrete and asphalt mixes for city construction, while also managing underpass cleanup work orders and contractor coordination_
+  * _Base map of Austin's complete multimodal transportation infrastructure; provides an authoritative base map to align data production, management, and analysis across the organization_
+* **DTS Solution Type** - Knack, Power BI, ArcGIS Online Web App, Custom, or Other
+* **URL**- for application login
+* **DTS Team** - Builder (Apps, Data Science, Dev, Enterprise Case Management, Geo, Maximo, Tech Services) team primarily responsible for maintaining the application; Product or Operations if it's not maintained by builders
+* **TPW Divisions** - use `TPW` for apps used department-wide, but also add in the divisions that requested the product or currently manage it
+
 ## Projects
 
 [Projects on Austinmobility.io](https://austinmobility.io/projects) | [Projects in the DTS Portfolio](https://github.com/orgs/cityofaustin/projects/27/views/3)
@@ -33,6 +43,17 @@ Projects are time-boxed endeavors. They accomplish a singular goal and have a co
 * [_Delivering the first iteration (MVP) of a new DTS product_](https://github.com/cityofaustin/atd-data-tech/issues/307)
 
 To create a project index, use the Project Index template, available as [Markdown](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+project-index.md) or an [issue form](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+project-index-form.yml).&#x20;
+
+### Project index issues fields
+
+* **Description** - Begin with a verb and say what you'll do, for whom, and why. Examples:
+  * _Add a warehouse inventory module to Signs & Markings Data Tracker to track inventory in real time, view turnover rates, and give the TPW Finance division visibility into these expenditures_
+  * _Use ArcGIS Hub to build Dash 2.0, a central point to find TPW's authoritative dashboards, maps, and apps all in one place_
+* **DTS Teams** - Builder team(s) _significantly_ involved in the project. Don't use `Product` in addition to the builder teamon, reserve it for _purely_ product projects like software procurement
+* **TPW Divisions** - use `TPW` for apps used department-wide, but also add in the divisions that requested the product or currently managing it
+* **Start date** - approximate date when the project began— let us know if you find a better way to enter old dates than shuffling back through every month in their popup calendar widget! 🫠
+* **End date** - approximate date of project completion—required but always subject to change. 🪷 If the project has outstanding subtasks but they haven't been worked on for a long time, consider closing the issue and removing open subtasks from that parent issue.
+* **Fiscal year** - fiscal year(s) the project is underway
 
 ## Services
 
@@ -49,7 +70,9 @@ Services are the ongoing consultation, training, and assistance we provide to im
 * [_Product & Project Management_](https://github.com/cityofaustin/atd-data-tech/issues/30534) _- Product service_
 * [_Specialized Equipment Support_](https://github.com/cityofaustin/atd-data-tech/issues/27298) _- Tech Services service_
 
-Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new service index. If the decision is made to define a new DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+service-index.md) to document it in an issue.
+Our service listing has been carefully compiled by team leads and the Product Team, so there should be a group discussion before creating a new service index. If the decision is made to define a new&#x20;
+
+DTS service, use the [Service Index Template](https://github.com/cityofaustin/atd-data-tech/issues/new?template=--+service-index.md) to document it in an issue.
 
 ## Index Issue Images
 
