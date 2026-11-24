@@ -14,7 +14,7 @@ Many people find it handy add a bookmark [the direct link](https://github.com/ci
 
 ## Title
 
-Issue titles should begin with a verb and summarize the work: Update, Implement, Add, Remove, Review, Discuss, Troubleshoot… You don't need to spell out application names or issue types in the title; the fields and labels cover that.
+Issue titles for tasks should begin with a verb and summarize the work: Update, Implement, Add, Remove, Review, Discuss, Troubleshoot… You don't need to spell out application names or issue types in the title; the fields and labels cover that.
 
 | Use this                               | Not this                                                      |
 | -------------------------------------- | ------------------------------------------------------------- |
@@ -26,13 +26,19 @@ Issue titles should begin with a verb and summarize the work: Update, Implement,
 
 The person or people who will do the work. Oftentimes, issues are temporarily assigned to product managers or team leads while they are scoped and prioritized.&#x20;
 
+<figure><img src="../../.gitbook/assets/Screenshot 2026-11-24 at 11.38.25 AM.png" alt="" width="270"><figcaption></figcaption></figure>
+
 ## Type
 
 Unless you are a product manager or team lead, you'll stick to the `Task` issue type. [Our other issue types](https://app.gitbook.com/o/-LzDQOVGhTudbKRDGpUA/sites/site_gQ0uW/s/-LzDGg7hKQ_fUjXnzGGx/~/edit/~/changes/361/product-ops/github-issues/issue-types-and-issue-fields#issue-types) are used for website content, reporting, and project planning.&#x20;
 
+<figure><img src="../../.gitbook/assets/Screenshot 2026-11-24 at 10.52.38 AM.png" alt="" width="298"><figcaption></figcaption></figure>
+
 ## Fields&#x20;
 
-Every task requires the following fields.&#x20;
+Fill out all issue fields according to the instructions below.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-11-24 at 11.41.14 AM.png" alt="" width="254"><figcaption></figcaption></figure>
 
 #### DTS Status
 
@@ -57,7 +63,7 @@ The DTS team doing the work: Apps, Data Science, Dev, ECM, Geo, Maximo, Product,
 
 Projects and epics can be assigned to multiple DTS teams, whereas tasks, products, and services are limited to a single team. If you convert an issue from project/epic to another issue type, or vice versa, after filling out the teams field, you'll see both `DTS Team` and `DTS Teams` fields. Delete the value for the field that no longer applies and refresh the page to resolve the redundant information.&#x20;
 
-&#x20;![](<../../.gitbook/assets/Screenshot 2026-11-23 at 11.51.38 AM.png>)
+<p align="center"> <img src="../../.gitbook/assets/Screenshot 2026-11-23 at 11.51.38 AM.png" alt="" data-size="original"></p>
 {% endhint %}
 
 #### TPW Divisions
@@ -74,7 +80,7 @@ Estimates are also useful for
 * Stakeholder discussions when prioritizing features — easily show stakeholders that we can accomplish, in a coming sprint, e.g. five `1`-sized issues, a `2`-sized issue and a `3`-sized issue, _or_ a single `5`-sized issue
 * [Velocity tracking](https://www.zenhub.com/blog/track-your-speed-of-work-with-agile-velocity-charts/) — identifying the speed the team typically delivers work, useful to determine when a set of work will be completed
 
-<figure><img src="../../.gitbook/assets/Estimate.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Estimate.png" alt="" width="375"><figcaption></figcaption></figure>
 
 _Curious why we use_ [_Fibonacci_](https://en.wikipedia.org/wiki/Fibonacci_sequence) _numbers for our estimates? Check out this_ [_lengthy explanation_](https://www.agilebin.com/blog/10-reasons-to-use-fibonacci-sequence-for-story-points)_._
 
@@ -86,24 +92,15 @@ We use the following labels for tasks.&#x20;
 
 Tasks require a single `Service:` label. You can pull up a list of your team's labels by typing an asterisk and then your team name, e.g. entering  `*apps` will pull up all the Apps Team `Service:` labels.
 
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-LzDGg7hKQ_fUjXnzGGx%2Fuploads%2FgWI6CnWBmOQ0vH6IqGIj%2FNarrow%20Service%20Label%20by%20Team.mp4?alt=media&token=804faa03-9ee3-4316-88d1-3f6606267ea9" %}
+{% include "../../.gitbook/includes/untitled.md" %}
 
 ### Project and Product - _when applicable_
 
 If a task is part of a project, apply that `Project:` label, and if the work is on a particular product, it needs that `Product:` label.&#x20;
 
-### Optional labels
+### Impact or Need -  _optional_
 
-#### Need
-
-Use `Need:` to prioritize a potential feature or enhancement
-
-* 1-Must Have — No point in delivering a solution without this
-* 2-Should Have — May be painful to leave out, but the solution is still viable
-* 3-Could Have — Wanted, but affects fewer users or has less impact on business than other features
-* 4-Won't Have — Will not be delivered at this time
-
-#### Impact
+The `Need:` and `Impact:` labels may be useful for triage and prioritization.&#x20;
 
 Use `Impact:` to indicate the effect of a bug or infrastructure failure
 
@@ -112,6 +109,33 @@ Use `Impact:` to indicate the effect of a bug or infrastructure failure
 * 3-Minor — Deteriorates TPW service delivery
 * 4-None — Does not affect TPW service delivery
 
-#### Type
+Use `Need:` to prioritize a potential feature or enhancement
+
+* 1-Must Have — No point in delivering a solution without this
+* 2-Should Have — May be painful to leave out, but the solution is still viable
+* 3-Could Have — Wanted, but affects fewer users or has less impact on business than other features
+* 4-Won't Have — Will not be delivered at this time
+
+### Type
 
 For the most part, `Service:` labels replace the `Type:` labels we used for many years. Services are carefully defined and team-specific, which makes them easier to use consistently to maintain good quality service delivery data. There are a few cases, however, where teams use `Type:` labels to further narrow their data for analysis. For example, `Service: Technology Procurement` has `Type: Hardware` so that Tech Services can meet their reporting needs.
+
+## Projects
+
+[Each DTS team has a dedicated GitHub project](https://github.com/cityofaustin/atd-data-tech/projects) (GHP), and tasks are automatically associated to a project when the `DTS Team` field is filled out.&#x20;
+
+Issues can be added to other projects if it's useful. For example, an Apps Team project might have a few tasks assigned to the Geo Team and want to see track those in the Apps Team GHP since that's where they're doing their sprint planning. Issue fields will be synchronized across GHPs.&#x20;
+
+<div align="center"><figure><img src="../../.gitbook/assets/Screenshot 2026-11-24 at 12.18.51 PM.png" alt="" width="260"><figcaption><p>An issue can be added to multiple GHPs.</p></figcaption></figure></div>
+
+#### Project fields
+
+Teams can track information outside the organization-wide issue fields using GHP-specific project fields. These are visible when you expand the project's accordion in the sidebar.&#x20;
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-11-24 at 1.02.03 PM.png" alt="" width="261"><figcaption></figcaption></figure>
+
+{% hint style="info" icon="face-confused" %}
+### **Why is are there GHP&#x20;**_**Status**_**&#x20;fields in addition to the&#x20;**_**DTS Status**_**&#x20;issue field?**&#x20;
+
+Right?! We [aren't able to hide](https://github.com/orgs/community/discussions/189141#discussioncomment-17985459) the redundant `Status` field. You can leave the field empty, it has no impact anywhere.&#x20;
+{% endhint %}
